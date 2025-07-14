@@ -929,24 +929,24 @@
         {
             "name": "3️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "port": 2096,
-            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "server": "216.9.224.105",
+            "port": 24443,
+            "uuid": "9ce94d08-3a07-412c-9ad1-79e0d962abc7",
             "packet-encoding": "packetaddr",
-            "ip-version": "dual",
+            "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/N8U2Y4FHxytDhFjj",
+                "path": "/pityBg2AJ2yqLnyr",
                 "headers": {
-                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                    "Host": "pwg8js0-hdzw8bxikbbxwkpcc1o8fjme.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "c7jbYI-a9QVX7GkbE7UJCzgiNz8CkbI7.PagEs.Dev",
+            "servername": "Pwg8JS0-HDZW8BXIkbBXWkPcC1O8FJMe.paGES.DeV",
             "alpn": [
                 "http/1.1"
             ],
