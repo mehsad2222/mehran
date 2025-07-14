@@ -767,24 +767,24 @@
         {
             "name": "2️⃣6️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "port": 2087,
-            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "server": "62.3.12.76",
+            "port": 443,
+            "uuid": "5f6616d8-ae6f-42db-85fc-7d5c8e6a1ebc",
             "packet-encoding": "packetaddr",
-            "ip-version": "dual",
+            "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/RfUtEAuynAtxVKfP",
+                "path": "/tHzBxRRUOegz9gCi",
                 "headers": {
-                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                    "Host": "imbb7hth-yubrhfbslxe8zd1tyzf5r6v.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "C7jbYi-A9QvX7gkbE7UjCZGInz8cKbI7.PAgES.dev",
+            "servername": "ImbB7HTH-yUBRHfbslXe8ZD1tyzF5r6V.pAGeS.Dev",
             "alpn": [
                 "http/1.1"
             ],
