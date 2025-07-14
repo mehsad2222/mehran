@@ -1,1 +1,1239 @@
-a
+{
+    "mixed-port": 7890,
+    "ipv6": true,
+    "allow-lan": true,
+    "mode": "rule",
+    "log-level": "warning",
+    "disable-keep-alive": false,
+    "keep-alive-idle": 10,
+    "keep-alive-interval": 15,
+    "unified-delay": false,
+    "geo-auto-update": true,
+    "geo-update-interval": 168,
+    "external-controller": "127.0.0.1:9090",
+    "external-ui-url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
+    "external-ui": "ui",
+    "external-controller-cors": {
+        "allow-origins": [
+            "*"
+        ],
+        "allow-private-network": true
+    },
+    "profile": {
+        "store-selected": true,
+        "store-fake-ip": true
+    },
+    "dns": {
+        "enable": true,
+        "listen": "0.0.0.0:1053",
+        "ipv6": true,
+        "respect-rules": true,
+        "use-system-hosts": false,
+        "nameserver": [
+            "https://8.8.8.8/dns-query#✅ Selector"
+        ],
+        "proxy-server-nameserver": [
+            "8.8.8.8#DIRECT"
+        ],
+        "nameserver-policy": {
+            "raw.githubusercontent.com": "8.8.8.8#DIRECT",
+            "time.apple.com": "8.8.8.8#DIRECT",
+            "rule-set:ir": "8.8.8.8#DIRECT",
+            "rule-set:openai": "78.157.42.100#DIRECT"
+        },
+        "hosts": {
+            "rule-set:malware": "127.0.0.1",
+            "rule-set:phishing": "127.0.0.1",
+            "rule-set:cryptominers": "127.0.0.1"
+        }
+    },
+    "tun": {
+        "enable": true,
+        "stack": "mixed",
+        "auto-route": true,
+        "strict-route": true,
+        "auto-detect-interface": true,
+        "dns-hijack": [
+            "any:53",
+            "tcp://any:53"
+        ],
+        "mtu": 9000
+    },
+    "sniffer": {
+        "enable": true,
+        "force-dns-mapping": true,
+        "parse-pure-ip": true,
+        "override-destination": false,
+        "sniff": {
+            "HTTP": {
+                "ports": [
+                    80,
+                    8080,
+                    8880,
+                    2052,
+                    2082,
+                    2086,
+                    2095
+                ]
+            },
+            "TLS": {
+                "ports": [
+                    443,
+                    8443,
+                    2053,
+                    2083,
+                    2087,
+                    2096
+                ]
+            }
+        }
+    },
+    "proxies": [
+        {
+            "name": "💦 1 - VLESS - Domain - 443",
+            "type": "vless",
+            "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
+            "port": 443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/M2E4jkvRl0nzJo2e",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7Jbyi-a9QVx7GKBE7uJczGinz8cKBI7.pAGES.dEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 2 - VLESS - Domain - 443",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/07OquffU5V617AFd",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7JbYI-a9QVx7GkbE7uJcZgInz8CKBI7.pAGeS.dEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 3 - VLESS - IPv4 - 443",
+            "type": "vless",
+            "server": "172.66.47.70",
+            "port": 443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/jDQ0h2odIZkAPsJE",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7JBYi-A9QVx7gKBe7ujCzGiNZ8cKbi7.PAgEs.DeV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 4 - VLESS - IPv4 - 443",
+            "type": "vless",
+            "server": "172.66.44.186",
+            "port": 443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/psX9OIhP0YIVXrXv",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jBYI-A9QvX7gKBE7ujCZginz8ckbI7.pAgEs.dev",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 5 - VLESS - IPv6 - 443",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2cba",
+            "port": 443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/itBrlITvqDAOZR2F",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jByI-A9QVX7GkbE7ujczgiNZ8Ckbi7.pAGes.DEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 6 - VLESS - IPv6 - 443",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2f46",
+            "port": 443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/27bWZbGQOSh0e6XP",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7JByI-a9QvX7GKBe7ujczgInz8ckBi7.pAGES.dEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 7 - VLESS - Domain - 8443",
+            "type": "vless",
+            "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
+            "port": 8443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/1VwB3c9D2BpgoYwA",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7JbYi-a9qVX7GKBE7ujczGInz8CkBi7.pAGES.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 8 - VLESS - Domain - 8443",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 8443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/zCH9bu5IbBMwQvVV",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jbYI-a9QVx7Gkbe7UjczGiNz8ckBi7.PAGes.DEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 9 - VLESS - IPv4 - 8443",
+            "type": "vless",
+            "server": "172.66.47.70",
+            "port": 8443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/77tOuvX4vQ0MYtOu",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jbyI-A9qVX7gkBE7uJcZgInZ8cKbi7.PAges.dEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 10 - VLESS - IPv4 - 8443",
+            "type": "vless",
+            "server": "172.66.44.186",
+            "port": 8443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/J9JXcbKp6E9UAjph",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jByI-A9qVX7gkbe7ujCZGinz8CKbI7.pagES.DeV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 11 - VLESS - IPv6 - 8443",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2cba",
+            "port": 8443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/3tIwdwM0Uvmqsoll",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7JByi-A9qVx7gkbE7UJczgiNz8CKBi7.pageS.deV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 12 - VLESS - IPv6 - 8443",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2f46",
+            "port": 8443,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/z7RTLZkYKmD5O1JZ",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jbyi-a9qVx7GkBE7UjczGInZ8ckBI7.PAGeS.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 13 - VLESS - Domain - 2053",
+            "type": "vless",
+            "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
+            "port": 2053,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/TXWbLrWBqRh8w7Ib",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7JbYI-A9qvx7GkbE7ujCZgiNz8Ckbi7.PaGEs.Dev",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 14 - VLESS - Domain - 2053",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2053,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/MtSwltszeTqF9BRT",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jBYI-a9qVX7gKBE7ujczgINz8cKbi7.paGEs.DeV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 15 - VLESS - IPv4 - 2053",
+            "type": "vless",
+            "server": "172.66.47.70",
+            "port": 2053,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/wZiUm6F92LuRDjXc",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7JbYI-A9QvX7GkBe7UJCzgInZ8cKBI7.PAges.dEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 16 - VLESS - IPv4 - 2053",
+            "type": "vless",
+            "server": "172.66.44.186",
+            "port": 2053,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/ZlZxmAcAN4gXfDEa",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7JByI-A9qVX7gKbE7UjCzGINz8cKBi7.pAgeS.DEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 17 - VLESS - IPv6 - 2053",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2cba",
+            "port": 2053,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/JCajA4rA9p0HgHzv",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jByi-a9QVx7gkbe7uJczgInz8CKbI7.PaGEs.deV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 18 - VLESS - IPv6 - 2053",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2f46",
+            "port": 2053,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/4MOHH9ux8aIYNqya",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jbYI-a9qVX7gKBE7UJCzGiNz8cKbI7.pAgeS.dEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 19 - VLESS - Domain - 2083",
+            "type": "vless",
+            "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
+            "port": 2083,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/WB3ZgQqbdwN53RRw",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7JBYI-a9qVX7GKBE7ujCzGInZ8CKBi7.pageS.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 20 - VLESS - Domain - 2083",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2083,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k7pcDWsFi8qaxMaL",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jbYI-A9qVx7GKbE7UJcZginZ8CkBI7.pagEs.deV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 21 - VLESS - IPv4 - 2083",
+            "type": "vless",
+            "server": "172.66.47.70",
+            "port": 2083,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/Bly0739tZfWroTLG",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jByI-a9QVx7GkbE7uJcZGInZ8ckbI7.PAgES.deV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 22 - VLESS - IPv4 - 2083",
+            "type": "vless",
+            "server": "172.66.44.186",
+            "port": 2083,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/o6MhSVhNOVubk1F9",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jBYI-a9qVX7GKBE7UjCzGiNz8cKbI7.paGes.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 23 - VLESS - IPv6 - 2083",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2cba",
+            "port": 2083,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/TUflMMBBoChIRhPH",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jbyI-a9Qvx7GKBe7UjczgINZ8Ckbi7.PAgEs.deV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 24 - VLESS - IPv6 - 2083",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2f46",
+            "port": 2083,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/MFNBHs0jd4PPprcE",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7JByi-a9qvx7GkBE7uJczGinZ8cKBI7.pAges.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 25 - VLESS - Domain - 2087",
+            "type": "vless",
+            "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
+            "port": 2087,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/5X8eeOLJVtMxJACh",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7JBYI-a9QVx7GkbE7UjczGInZ8cKBI7.PaGES.DEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 26 - VLESS - Domain - 2087",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2087,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/RfUtEAuynAtxVKfP",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jbYi-A9QvX7gkbE7UjCZGInz8cKbI7.PAgES.dev",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 27 - VLESS - IPv4 - 2087",
+            "type": "vless",
+            "server": "172.66.47.70",
+            "port": 2087,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/lFxCN8tCXF8YU5BB",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7Jbyi-a9qvX7GKbE7UjcZgInZ8cKbI7.PAGEs.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 28 - VLESS - IPv4 - 2087",
+            "type": "vless",
+            "server": "172.66.44.186",
+            "port": 2087,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/mG0zshnXs5nzfVIV",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jbyi-a9QVX7GkbE7uJcZGInz8CkBi7.PAges.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 29 - VLESS - IPv6 - 2087",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2cba",
+            "port": 2087,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/aFEJihIefK8fzVZ1",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7JbyI-a9Qvx7gKbE7UJCzGinz8ckbi7.pagES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 30 - VLESS - IPv6 - 2087",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2f46",
+            "port": 2087,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/v1hd6BlHx4fzboMy",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7JBYi-A9qVX7gKbe7UJCZGInz8ckbi7.PAGes.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 31 - VLESS - Domain - 2096",
+            "type": "vless",
+            "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
+            "port": 2096,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/SqjgiD93GbrDo0jd",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jByI-a9QVx7gkbE7ujcZGinZ8CKBI7.paGEs.DEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 32 - VLESS - Domain - 2096",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2096,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/N8U2Y4FHxytDhFjj",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jbYI-a9QVX7GkbE7UJCzgiNz8CkbI7.PagEs.Dev",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 33 - VLESS - IPv4 - 2096",
+            "type": "vless",
+            "server": "172.66.47.70",
+            "port": 2096,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/X1byqKwFttuJV8Md",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7JbyI-A9qVx7GkBe7UJCzgiNz8CkbI7.PageS.Dev",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 34 - VLESS - IPv4 - 2096",
+            "type": "vless",
+            "server": "172.66.44.186",
+            "port": 2096,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/oe24qVsQgW4qMh0a",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jByi-A9qvx7GKBe7uJCzginZ8cKbi7.pAgES.dev",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 35 - VLESS - IPv6 - 2096",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2cba",
+            "port": 2096,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/2AvtV2ooG4uoQXJH",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "C7jBYI-A9qvx7gkbE7UJcZgINZ8CkbI7.PaGeS.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "💦 36 - VLESS - IPv6 - 2096",
+            "type": "vless",
+            "server": "2606:4700:310c::ac42:2f46",
+            "port": 2096,
+            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "packet-encoding": "packetaddr",
+            "ip-version": "dual",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/dmvZQ909PQplNt9G",
+                "headers": {
+                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "c7jbyI-a9Qvx7gkbE7UJCzGinZ8cKBi7.paGEs.dev",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        }
+    ],
+    "proxy-groups": [
+        {
+            "name": "✅ Selector",
+            "type": "select",
+            "proxies": [
+                "💦 Best Ping 💥",
+                "💦 0️⃣1️⃣",
+                "💦 0️⃣2️⃣",
+                "💦 0️⃣3️⃣",
+                "💦 0️⃣4️⃣",
+                "💦 0️⃣5️⃣",
+                "💦 0️⃣6️⃣",
+                "💦 0️⃣7️⃣",
+                "💦 0️⃣8️⃣",
+                "💦 9 - VLESS - IPv4 - 8443",
+                "💦 10 - VLESS - IPv4 - 8443",
+                "💦 11 - VLESS - IPv6 - 8443",
+                "💦 12 - VLESS - IPv6 - 8443",
+                "💦 13 - VLESS - Domain - 2053",
+                "💦 14 - VLESS - Domain - 2053",
+                "💦 15 - VLESS - IPv4 - 2053",
+                "💦 16 - VLESS - IPv4 - 2053",
+                "💦 17 - VLESS - IPv6 - 2053",
+                "💦 18 - VLESS - IPv6 - 2053",
+                "💦 19 - VLESS - Domain - 2083",
+                "💦 20 - VLESS - Domain - 2083",
+                "💦 21 - VLESS - IPv4 - 2083",
+                "💦 22 - VLESS - IPv4 - 2083",
+                "💦 23 - VLESS - IPv6 - 2083",
+                "💦 24 - VLESS - IPv6 - 2083",
+                "💦 25 - VLESS - Domain - 2087",
+                "💦 26 - VLESS - Domain - 2087",
+                "💦 27 - VLESS - IPv4 - 2087",
+                "💦 28 - VLESS - IPv4 - 2087",
+                "💦 29 - VLESS - IPv6 - 2087",
+                "💦 30 - VLESS - IPv6 - 2087",
+                "💦 31 - VLESS - Domain - 2096",
+                "💦 32 - VLESS - Domain - 2096",
+                "💦 33 - VLESS - IPv4 - 2096",
+                "💦 34 - VLESS - IPv4 - 2096",
+                "💦 35 - VLESS - IPv6 - 2096",
+                "💦 36 - VLESS - IPv6 - 2096"
+            ]
+        },
+        {
+            "name": "💦 Best Ping 💥",
+            "type": "url-test",
+            "url": "https://www.gstatic.com/generate_204",
+            "interval": 30,
+            "tolerance": 50,
+            "proxies": [
+                "💦 1 - VLESS - Domain - 443",
+                "💦 2 - VLESS - Domain - 443",
+                "💦 3 - VLESS - IPv4 - 443",
+                "💦 4 - VLESS - IPv4 - 443",
+                "💦 5 - VLESS - IPv6 - 443",
+                "💦 6 - VLESS - IPv6 - 443",
+                "💦 7 - VLESS - Domain - 8443",
+                "💦 8 - VLESS - Domain - 8443",
+                "💦 9 - VLESS - IPv4 - 8443",
+                "💦 10 - VLESS - IPv4 - 8443",
+                "💦 11 - VLESS - IPv6 - 8443",
+                "💦 12 - VLESS - IPv6 - 8443",
+                "💦 13 - VLESS - Domain - 2053",
+                "💦 14 - VLESS - Domain - 2053",
+                "💦 15 - VLESS - IPv4 - 2053",
+                "💦 16 - VLESS - IPv4 - 2053",
+                "💦 17 - VLESS - IPv6 - 2053",
+                "💦 18 - VLESS - IPv6 - 2053",
+                "💦 19 - VLESS - Domain - 2083",
+                "💦 20 - VLESS - Domain - 2083",
+                "💦 21 - VLESS - IPv4 - 2083",
+                "💦 22 - VLESS - IPv4 - 2083",
+                "💦 23 - VLESS - IPv6 - 2083",
+                "💦 24 - VLESS - IPv6 - 2083",
+                "💦 25 - VLESS - Domain - 2087",
+                "💦 26 - VLESS - Domain - 2087",
+                "💦 27 - VLESS - IPv4 - 2087",
+                "💦 28 - VLESS - IPv4 - 2087",
+                "💦 29 - VLESS - IPv6 - 2087",
+                "💦 30 - VLESS - IPv6 - 2087",
+                "💦 31 - VLESS - Domain - 2096",
+                "💦 32 - VLESS - Domain - 2096",
+                "💦 33 - VLESS - IPv4 - 2096",
+                "💦 34 - VLESS - IPv4 - 2096",
+                "💦 35 - VLESS - IPv6 - 2096",
+                "💦 36 - VLESS - IPv6 - 2096"
+            ]
+        }
+    ],
+    "rule-providers": {
+        "malware": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt",
+            "path": "./ruleset/malware.txt",
+            "interval": 86400
+        },
+        "malware-cidr": {
+            "type": "http",
+            "format": "text",
+            "behavior": "ipcidr",
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware-ip.txt",
+            "path": "./ruleset/malware-cidr.txt",
+            "interval": 86400
+        },
+        "phishing": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt",
+            "path": "./ruleset/phishing.txt",
+            "interval": 86400
+        },
+        "phishing-cidr": {
+            "type": "http",
+            "format": "text",
+            "behavior": "ipcidr",
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing-ip.txt",
+            "path": "./ruleset/phishing-cidr.txt",
+            "interval": 86400
+        },
+        "cryptominers": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt",
+            "path": "./ruleset/cryptominers.txt",
+            "interval": 86400
+        },
+        "ir": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt",
+            "path": "./ruleset/ir.txt",
+            "interval": 86400
+        },
+        "ir-cidr": {
+            "type": "http",
+            "format": "text",
+            "behavior": "ipcidr",
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt",
+            "path": "./ruleset/ir-cidr.txt",
+            "interval": 86400
+        },
+        "openai": {
+            "type": "http",
+            "format": "yaml",
+            "behavior": "domain",
+            "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml",
+            "path": "./ruleset/openai.yaml",
+            "interval": 86400
+        }
+    },
+    "rules": [
+        "NETWORK,udp,REJECT",
+        "RULE-SET,malware,REJECT",
+        "RULE-SET,phishing,REJECT",
+        "RULE-SET,cryptominers,REJECT",
+        "RULE-SET,malware-cidr,REJECT",
+        "RULE-SET,phishing-cidr,REJECT",
+        "RULE-SET,ir,DIRECT",
+        "RULE-SET,openai,DIRECT",
+        "RULE-SET,ir-cidr,DIRECT",
+        "MATCH,✅ Selector"
+    ],
+    "ntp": {
+        "enable": true,
+        "server": "time.cloudflare.com",
+        "port": 123,
+        "interval": 30
+    }
+}
