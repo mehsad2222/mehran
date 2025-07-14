@@ -90,7 +90,7 @@
     },
     "proxies": [
         {
-            "name": "0️⃣1️⃣",
+            "name": "0️⃣1️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
             "port": 443,
@@ -117,7 +117,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣2️⃣",
+            "name": "0️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 443,
@@ -144,7 +144,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣3️⃣",
+            "name": "0️⃣3️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.47.70",
             "port": 443,
@@ -171,7 +171,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣4️⃣",
+            "name": "0️⃣4️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.44.186",
             "port": 443,
@@ -198,7 +198,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣5️⃣",
+            "name": "0️⃣5️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2cba",
             "port": 443,
@@ -225,7 +225,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣6️⃣",
+            "name": "0️⃣6️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2f46",
             "port": 443,
@@ -252,7 +252,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣7️⃣",
+            "name": "0️⃣7️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
             "port": 8443,
@@ -279,7 +279,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣8️⃣",
+            "name": "0️⃣8️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 8443,
@@ -306,7 +306,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 9 - VLESS - IPv4 - 8443",
+            "name": "0️⃣9️⃣ Pishgaman-Technoligy",
             "type": "vless",
             "server": "172.66.47.70",
             "port": 8443,
