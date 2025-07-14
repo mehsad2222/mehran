@@ -414,7 +414,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 13 - VLESS - Domain - 2053",
+            "name": "1️⃣3️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
@@ -441,7 +441,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 14 - VLESS - Domain - 2053",
+            "name": "1️⃣4️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 2053,
@@ -468,7 +468,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 15 - VLESS - IPv4 - 2053",
+            "name": "1️⃣5️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.47.70",
             "port": 2053,
@@ -495,7 +495,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 16 - VLESS - IPv4 - 2053",
+            "name": "1️⃣6️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.44.186",
             "port": 2053,
@@ -522,7 +522,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 17 - VLESS - IPv6 - 2053",
+            "name": "1️⃣7️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2cba",
             "port": 2053,
@@ -549,7 +549,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 18 - VLESS - IPv6 - 2053",
+            "name": "1️⃣8️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2f46",
             "port": 2053,
@@ -576,7 +576,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 19 - VLESS - Domain - 2083",
+            "name": "1️⃣9️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
             "port": 2083,
@@ -603,7 +603,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 20 - VLESS - Domain - 2083",
+            "name": "2️⃣0️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 2083,
@@ -630,7 +630,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 21 - VLESS - IPv4 - 2083",
+            "name": "2️⃣1️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.47.70",
             "port": 2083,
@@ -657,7 +657,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 22 - VLESS - IPv4 - 2083",
+            "name": "2️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.44.186",
             "port": 2083,
@@ -684,7 +684,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 23 - VLESS - IPv6 - 2083",
+            "name": "2️⃣3️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2cba",
             "port": 2083,
@@ -711,7 +711,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 24 - VLESS - IPv6 - 2083",
+            "name": "2️⃣4️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2f46",
             "port": 2083,
@@ -738,7 +738,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 25 - VLESS - Domain - 2087",
+            "name": "2️⃣5️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
             "port": 2087,
@@ -765,7 +765,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 26 - VLESS - Domain - 2087",
+            "name": "2️⃣6️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 2087,
@@ -792,7 +792,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 27 - VLESS - IPv4 - 2087",
+            "name": "2️⃣7️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.47.70",
             "port": 2087,
@@ -819,7 +819,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 28 - VLESS - IPv4 - 2087",
+            "name": "2️⃣8️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.44.186",
             "port": 2087,
@@ -846,7 +846,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 29 - VLESS - IPv6 - 2087",
+            "name": "2️⃣9️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2cba",
             "port": 2087,
@@ -873,7 +873,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 30 - VLESS - IPv6 - 2087",
+            "name": "3️⃣0️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2f46",
             "port": 2087,
@@ -900,7 +900,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 31 - VLESS - Domain - 2096",
+            "name": "3️⃣1️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
             "port": 2096,
@@ -927,7 +927,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 32 - VLESS - Domain - 2096",
+            "name": "3️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 2096,
@@ -954,7 +954,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 33 - VLESS - IPv4 - 2096",
+            "name": "3️⃣3️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.47.70",
             "port": 2096,
@@ -981,7 +981,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 34 - VLESS - IPv4 - 2096",
+            "name": "3️⃣4️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.44.186",
             "port": 2096,
@@ -1008,7 +1008,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 35 - VLESS - IPv6 - 2096",
+            "name": "3️⃣5️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2cba",
             "port": 2096,
@@ -1035,7 +1035,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 36 - VLESS - IPv6 - 2096",
+            "name": "3️⃣6️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2f46",
             "port": 2096,
