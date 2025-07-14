@@ -90,7 +90,7 @@
     },
     "proxies": [
         {
-            "name": "💦 1 - VLESS - Domain - 443",
+            "name": "0️⃣1️⃣",
             "type": "vless",
             "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
             "port": 443,
@@ -117,7 +117,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 2 - VLESS - Domain - 443",
+            "name": "0️⃣2️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 443,
@@ -144,7 +144,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 3 - VLESS - IPv4 - 443",
+            "name": "0️⃣3️⃣",
             "type": "vless",
             "server": "172.66.47.70",
             "port": 443,
@@ -171,7 +171,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 4 - VLESS - IPv4 - 443",
+            "name": "0️⃣4️⃣",
             "type": "vless",
             "server": "172.66.44.186",
             "port": 443,
@@ -198,7 +198,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 5 - VLESS - IPv6 - 443",
+            "name": "0️⃣5️⃣",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2cba",
             "port": 443,
@@ -225,7 +225,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 6 - VLESS - IPv6 - 443",
+            "name": "0️⃣6️⃣",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2f46",
             "port": 443,
@@ -252,7 +252,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 7 - VLESS - Domain - 8443",
+            "name": "0️⃣7️⃣",
             "type": "vless",
             "server": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev",
             "port": 8443,
@@ -279,7 +279,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 8 - VLESS - Domain - 8443",
+            "name": "0️⃣8️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 8443,
