@@ -333,7 +333,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 10 - VLESS - IPv4 - 8443",
+            "name": "1️⃣0️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "172.66.44.186",
             "port": 8443,
@@ -360,7 +360,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "💦 11 - VLESS - IPv6 - 8443",
+            "name": "1️⃣1️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "2606:4700:310c::ac42:2cba",
             "port": 8443,
@@ -1122,8 +1122,8 @@
                 "0️⃣7️⃣ Pishgaman-Technology",
                 "0️⃣8️⃣ Pishgaman-Technology",
                 "0️⃣9️⃣ Pishgaman-Technology",
-                "💦 10 - VLESS - IPv4 - 8443",
-                "💦 11 - VLESS - IPv6 - 8443",
+                "1️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣ Pishgaman-Technology",
                 "💦 12 - VLESS - IPv6 - 8443",
                 "💦 13 - VLESS - Domain - 2053",
                 "💦 14 - VLESS - Domain - 2053",
