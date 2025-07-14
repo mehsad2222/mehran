@@ -120,7 +120,7 @@
             "name": "0️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "52-89l7zshx4nhzymmq-agjaxvdiw6pb.pages.dev",
-            "port": 443,
+            "port": 8443,
             "uuid": "b12644a7-f1c8-4e22-abb1-e76ef57e7ada",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
