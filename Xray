@@ -114,13 +114,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.speedtest.net",
+            "address": "31.129.48.139",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
                 "level": 8,
                 "security": "auto"
               }
@@ -138,7 +138,7 @@
             "http/1.1"
           ],
           "fingerprint": "randomized",
-          "serverName": "Z62SmgRzK7I0sQPQsz9bTjNeGNVaurU4.cekeK35884.WOrKerS.dEV",
+          "serverName": "vFb2XCWA6eQ1XcI9BhhG6PenaKlxpPfR.MokhAbERat2014.wORkers.dEv",
           "show": false
         },
         "wsSettings": {
