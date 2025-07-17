@@ -678,7 +678,7 @@
         },
         "wsSettings": {
           "headers": {
-            "Host": ""
+            "Host": "OwDlg5Q7nkBVcExO6AcqWKcMnu8iii9x.pAgES.dEv"
           },
           "path": "/xRRlwmzl42NChoSw?ed=2560"
         }
@@ -690,13 +690,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.speedtest.net",
-            "port": 2053,
+            "address": "31.129.48.139",
+            "port": 443,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "fd979462-e24c-4242-937f-0f0f566e12e8",
                 "level": 8,
                 "security": "auto"
               }
@@ -714,14 +714,14 @@
             "http/1.1"
           ],
           "fingerprint": "randomized",
-          "serverName": "Z62sMgrzk7I0sqPQsz9bTJNegNvaurU4.CekEk35884.WoRKErS.dEv",
+          "serverName": "Du9du-92OE64MqGs3iaiaZc4PsPgHsN1.pageS.dEV",
           "show": false
         },
         "wsSettings": {
           "headers": {
-            "Host": ""
+            "Host": "Du9du-92OE64MqGs3iaiaZc4PsPgHsN1.pageS.dEV"
           },
-          "path": "/PiKGQMD0ibsdp0EB?ed=2560"
+          "path": "/35tsSrkFyq25CGV5?ed=2560"
         }
       },
       "tag": "prox-16"
