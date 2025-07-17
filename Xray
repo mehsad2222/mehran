@@ -20,6 +20,7 @@
         "address": "8.8.8.8",
         "domains": [
           "full:z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev",
+          "full:bd0ewdr24xv50uzpldss3inugr1m2dk0.posihi2637.workers.dev",
           "full:www.speedtest.net"
         ],
         "skipFallback": true
