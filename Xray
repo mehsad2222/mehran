@@ -196,13 +196,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.131.149",
-            "port": 443,
+            "address": "216.9.224.105",
+            "port": 24443,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "9f107138-0e52-49e7-b776-13039a43baf8",
                 "level": 8,
                 "security": "auto"
               }
@@ -220,14 +220,14 @@
             "http/1.1"
           ],
           "fingerprint": "randomized",
-          "serverName": "Z62SmgrZK7i0sQpQsz9btJnEGNvaURu4.CekEk35884.WorKeRS.DEv",
+          "serverName": "rR04F-w2uq4WM-Z3l6DF1XKhEnB6XY0x.XOJabA6863.wORkerS.dev",
           "show": false
         },
         "wsSettings": {
           "headers": {
             "Host": ""
           },
-          "path": "/OnP1lFB0fS9vgrhK?ed=2560"
+          "path": "/sS72lOIHKzrlh1ap?ed=2560"
         }
       },
       "tag": "prox-4"
