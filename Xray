@@ -21,6 +21,7 @@
         "domains": [
           "full:z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev",
           "full:bd0ewdr24xv50uzpldss3inugr1m2dk0.posihi2637.workers.dev",
+          "full:vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
           "full:www.speedtest.net"
         ],
         "skipFallback": true
