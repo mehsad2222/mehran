@@ -1060,6 +1060,33 @@
             ],
             "client-fingerprint": "random",
             "skip-cert-verify": false
+        },
+        {
+            "name": "3️⃣7️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "82.97.249.34",
+            "port": 8443,
+            "uuid": "48421002-23d8-4f42-8efa-b6f232468dac",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/yMlgLzsekLjeRE2G",
+                "headers": {
+                    "Host": "1zoiczip8yyvsobp-f9dt7l6knztm4gd.kewific812.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "1ZOICZIP8yyVSobp-F9Dt7l6kNzTm4GD.kEwIFic812.WoRkERS.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
         }
     ],
     "proxy-groups": [
@@ -1103,7 +1130,8 @@
                 "3️⃣3️⃣ Pishgaman-Technology",
                 "3️⃣4️⃣ Pishgaman-Technology",
                 "3️⃣5️⃣ Pishgaman-Technology",
-                "3️⃣6️⃣ Pishgaman-Technology"
+                "3️⃣6️⃣ Pishgaman-Technology",
+                "3️⃣7️⃣ Pishgaman-Technology"
             ]
         },
         {
@@ -1148,7 +1176,8 @@
                 "3️⃣3️⃣ Pishgaman-Technology",
                 "3️⃣4️⃣ Pishgaman-Technology",
                 "3️⃣5️⃣ Pishgaman-Technology",
-                "3️⃣6️⃣ Pishgaman-Technology"
+                "3️⃣6️⃣ Pishgaman-Technology",
+                "3️⃣7️⃣ Pishgaman-Technology"
             ]
         }
     ],
