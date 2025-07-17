@@ -38,8 +38,7 @@
         "nameserver-policy": {
             "raw.githubusercontent.com": "8.8.8.8#DIRECT",
             "time.apple.com": "8.8.8.8#DIRECT",
-            "rule-set:ir": "8.8.8.8#DIRECT",
-            "rule-set:openai": "78.157.42.100#DIRECT"
+            "rule-set:ir": "8.8.8.8#DIRECT"
         },
         "hosts": {
             "rule-set:malware": "127.0.0.1",
