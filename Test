@@ -143,11 +143,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.4.28",
+            "address": "45.89.52.247",
             "port": 443,
             "users": [
               {
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "1faebaf4-2f98-4b30-b708-ad928152633f",
                 "encryption": "none",
                 "level": 8
               }
@@ -162,8 +162,8 @@
           "domainStrategy": "UseIPv4v6"
         },
         "wsSettings": {
-          "host": "z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev",
-          "path": "/LFHl11CC7jk3ouhU?ed=2560"
+          "host": "bD0EwDr24xv50uzPLdSS3InUGr1M2DK0.posihi2637.WoRKErs.dev",
+          "path": "/qjRZFPUS2uhLlDEw?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -171,7 +171,7 @@
           "alpn": [
             "http/1.1"
           ],
-          "serverName": "Z62smgRzK7i0sQPQSZ9btjNegnvAuRU4.CeKEK35884.WORkeRS.dEv"
+          "serverName": "bD0EwDr24xv50uzPLdSS3InUGr1M2DK0.posihi2637.WoRKErs.dev"
         }
       },
       "tag": "prox-3"
