@@ -361,7 +361,7 @@
         "vnext": [
           {
             "address": "z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev",
-            "port": 8443,
+            "port": 443,
             "users": [
               {
                 "encryption": "none",
@@ -402,7 +402,7 @@
         "vnext": [
           {
             "address": "www.speedtest.net",
-            "port": 8443,
+            "port": 443,
             "users": [
               {
                 "encryption": "none",
@@ -483,13 +483,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.131.149",
-            "port": 8443,
+            "address": "31.129.48.139",
+            "port": 443,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "71195557-b97a-4744-a7aa-e0c4a313bb60",
                 "level": 8,
                 "security": "auto"
               }
@@ -507,14 +507,14 @@
             "http/1.1"
           ],
           "fingerprint": "randomized",
-          "serverName": "Z62SMGRZK7I0SQpqsZ9bTjNEgnVAurU4.CEkEK35884.wOrkerS.dEV",
+          "serverName": "tJ25uulHtOXl77M5k8w4L26Ioyn3H22d.PageS.deV",
           "show": false
         },
         "wsSettings": {
           "headers": {
-            "Host": ""
+            "Host": "tJ25uulHtOXl77M5k8w4L26Ioyn3H22d.PageS.deV"
           },
-          "path": "/SwcZkDs9oY30GjFn?ed=2560"
+          "path": "/S6DCRrJ38CZAlwrG?ed=2560"
         }
       },
       "tag": "prox-11"
