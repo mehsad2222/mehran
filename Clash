@@ -1323,14 +1323,6 @@
             "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt",
             "path": "./ruleset/ir-cidr.txt",
             "interval": 86400
-        },
-        "openai": {
-            "type": "http",
-            "format": "yaml",
-            "behavior": "domain",
-            "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml",
-            "path": "./ruleset/openai.yaml",
-            "interval": 86400
         }
     },
     "rules": [
@@ -1341,7 +1333,6 @@
         "RULE-SET,malware-cidr,REJECT",
         "RULE-SET,phishing-cidr,REJECT",
         "RULE-SET,ir,DIRECT",
-        "RULE-SET,openai,DIRECT",
         "RULE-SET,ir-cidr,DIRECT",
         "MATCH,✅ Selector"
     ],
