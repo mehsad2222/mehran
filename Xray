@@ -649,13 +649,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev",
-            "port": 2053,
+            "address": "45.129.199.232",
+            "port": 443,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "ed976cb4-f6b9-4204-ac56-fec3b517f9ce",
                 "level": 8,
                 "security": "auto"
               }
@@ -673,14 +673,14 @@
             "http/1.1"
           ],
           "fingerprint": "randomized",
-          "serverName": "z62Smgrzk7i0sqpQsz9BtJnEgnVAuRU4.cEKEK35884.WOrKErs.Dev",
+          "serverName": "OwDlg5Q7nkBVcExO6AcqWKcMnu8iii9x.pAgES.dEv",
           "show": false
         },
         "wsSettings": {
           "headers": {
             "Host": ""
           },
-          "path": "/eOuGOzz72lIsO4BL?ed=2560"
+          "path": "/xRRlwmzl42NChoSw?ed=2560"
         }
       },
       "tag": "prox-15"
