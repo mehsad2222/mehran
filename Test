@@ -259,11 +259,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "[2606:4700:3033::6815:41c]",
-            "port": 443,
+            "address": "77.83.203.163",
+            "port": 8080,
             "users": [
               {
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "37b7fffb-7e37-45e0-b745-110503b10c95",
                 "encryption": "none",
                 "level": 8
               }
@@ -278,8 +278,8 @@
           "domainStrategy": "UseIPv4v6"
         },
         "wsSettings": {
-          "host": "z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev",
-          "path": "/MccgYuYpSEnBeERR?ed=2560"
+          "host": "9wt4FrsZbXzMnJI9WA-RiyeLby97vyG0.pIGOY79506.wORkeRS.deV",
+          "path": "/iroFIx65aR8QlPW5?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -287,7 +287,7 @@
           "alpn": [
             "http/1.1"
           ],
-          "serverName": "z62SmgRZk7i0sqPqsz9BTJNeGNVAuRU4.cEkeK35884.wORKERS.DeV"
+          "serverName": "9wt4FrsZbXzMnJI9WA-RiyeLby97vyG0.pIGOY79506.wORkeRS.deV"
         }
       },
       "tag": "prox-6"
