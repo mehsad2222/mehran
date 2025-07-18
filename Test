@@ -34,6 +34,7 @@
           "full:pWG8Js0-hdZW8BXIkBbXwkPCc1O8fJme.PAGEs.Dev",
           "full:Cx8QjQ72lL011WamIp9f4b-4W9h8YA09.PAges.deV",
           "full:rEwVI7446BK4vPnoy3SZ-s72oxBiSIWy.PaGes.Dev",
+"full:OwDlg5Q7nkBVcExO6AcqWKcMnu8iii9x.pAgES.dEv",
           "full:www.speedtest.net"
         ],
         "skipFallback": true
@@ -648,11 +649,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.speedtest.net",
-            "port": 2053,
+            "address": "45.129.199.232",
+            "port": 443,
             "users": [
               {
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "ed976cb4-f6b9-4204-ac56-fec3b517f9ce",
                 "encryption": "none",
                 "level": 8
               }
@@ -667,8 +668,8 @@
           "domainStrategy": "UseIPv4v6"
         },
         "wsSettings": {
-          "host": "z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev",
-          "path": "/0Y1GMNY1ZbkxnIBN?ed=2560"
+          "host": "OwDlg5Q7nkBVcExO6AcqWKcMnu8iii9x.pAgES.dEv",
+          "path": "/xRRlwmzl42NChoSw?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -676,7 +677,7 @@
           "alpn": [
             "http/1.1"
           ],
-          "serverName": "Z62SmGRzk7i0sqPqSz9bTJNegnvAuRU4.cEkek35884.WOrKERS.dEv"
+          "serverName": "OwDlg5Q7nkBVcExO6AcqWKcMnu8iii9x.pAgES.dEv"
         }
       },
       "tag": "prox-16"
