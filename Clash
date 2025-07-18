@@ -1227,7 +1227,7 @@
             "type": "vless",
             "server": "31.129.48.139",
             "port": 443,
-            "uuid": "1faebaf4-2f98-4b30-b708-ad928152633f",
+            "uuid": "41fe3d95-bea8-447d-8acd-68192692bbc4",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -1235,14 +1235,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/jWJncBx74LriRPdz",
+                "path": "/HonGLeYOAnd5iLDV",
                 "headers": {
-                    "Host": "bd0ewdr24xv50uzpldss3inugr1m2dk0.posihi2637.workers.dev"
+                    "Host": "w3gdzmuc1ng285n2a2nacggwfx0-31pb.neniwa9644.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "Bd0eWDR24xV50UZPLdSs3InuGR1M2dK0.poSihI2637.WORkErS.dEV",
+            "servername": "w3GdZMuc1ng285n2a2NAcGgWfX0-31PB.nEnIwa9644.woRkErs.Dev",
             "alpn": [
                 "http/1.1"
             ],
