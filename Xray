@@ -43,6 +43,7 @@
           "full:hdjnfkdbjx.cijemit620.workers.dev",
           "full:k4zkcvwqqo-qr5drfqvcj988yje35y8l.niraf98755.workers.dev",
           "full:7byroq2rpfay13bzxjn-bqim-39zuzz9.rirab87139.workers.dev",
+          "full:oy1rhzzbxrsf-7jqt5n0vgjyukk9ibac.pekafa9616.workers.dev",
           "full:www.speedtest.net"
         ],
         "skipFallback": true
@@ -999,11 +1000,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.131.149",
-            "port": 2083,
+            "address": "185.82.218.224",
+            "port": 443,
             "users": [
               {
-                "id": "fd289931-980d-4fbb-a7f3-a89f79301034",
+                "id": "48e181d1-5f7f-4e3a-a22f-5153e5eb0f7a",
                 "encryption": "none",
                 "level": 8
               }
@@ -1018,8 +1019,8 @@
           "domainStrategy": "UseIPv4v6"
         },
         "wsSettings": {
-          "host": "z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev",
-          "path": "/IRAnWzoZV0P8q3L1?ed=2560"
+          "host": "oy1rhzzbxrsf-7jqt5n0vgjyukk9ibac.pekafa9616.workers.dev",
+          "path": "/I9rTWBCgt6MBepe3?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -1027,7 +1028,7 @@
           "alpn": [
             "http/1.1"
           ],
-          "serverName": "Z62SMGRzK7i0SQpqsZ9BTjNEgnvaUru4.cEKeK35884.WORkERS.DeV"
+          "serverName": "OY1rhzZBxRsf-7JqT5N0VGjYUkK9ibac.pEkaFa9616.workeRS.dEv"
         }
       },
       "tag": "prox-25"
