@@ -172,7 +172,7 @@
         {
             "name": "0️⃣4️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "hdjri4749db26sb3.gakeme9055.workers.dev",
+            "server": "45.89.52.247",
             "port": 443,
             "uuid": "e021b98c-a642-4a73-9452-cb010b08aaed",
             "packet-encoding": "packetaddr",
@@ -182,14 +182,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/AzTMK7Y4liZxzre4",
+                "path": "/bYAuzwKtlzOjYyoa",
                 "headers": {
                     "Host": "hdjri4749db26sb3.gakeme9055.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "HDJRi4749DB26SB3.gAkEmE9055.woRKErs.dEV",
+            "servername": "hdJri4749db26Sb3.gAkEme9055.WoRkErS.dEv",
             "alpn": [
                 "http/1.1"
             ],
