@@ -334,7 +334,7 @@
         {
             "name": "1️⃣0️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "47jg0tz5z09hxrxtuhe0hvjy649ybilx.pages.dev",
+            "server": "82.148.30.224",
             "port": 443,
             "uuid": "c86cd4f2-8f37-4f0c-bf58-a8cdb77271ba",
             "packet-encoding": "packetaddr",
@@ -2332,9 +2332,9 @@
         {
             "name": "8️⃣4️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "38.180.15.197",
-            "port": 2053,
-            "uuid": "b677bfa0-0674-4d4a-9b7e-219fa3fc5d2f",
+            "server": "82.148.30.224",
+            "port": 443,
+            "uuid": "aaa5683d-5971-4022-bda1-cee37ad01259",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -2342,14 +2342,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/aHqyW9iFBledSM6j",
+                "path": "/i0yHyW3KkUDGrYPU",
                 "headers": {
-                    "Host": "j1jcertsviih2bw549i8z-x6lpi5banv.lemimi8126.workers.dev"
+                    "Host": "vw145vsl2hgsrg8kk2glg3g9lakkcpng.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "j1jCERtsviih2bw549i8Z-X6lPi5baNv.LemImi8126.wORkeRS.DeV",
+            "servername": "vW145vsl2hGsRg8KK2Glg3G9LaKkcPng.paGes.DEV",
             "alpn": [
                 "http/1.1"
             ],
