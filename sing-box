@@ -5,7 +5,7 @@
                 "output": "box.log",
                 "timestamp": true
            }
-    {
+         }, 
   "dns": {
     "servers": [],
     "rules": [],
