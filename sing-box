@@ -247,16 +247,16 @@
             "type": "vless",
             "server": "188.132.192.195",
             "server_port": 2053,
-            "uuid": "81792f99-104b-4060-a852-d07517e143aa",
+            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
+                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
                 },
-                "path": "/eOQKhKpvLul6mgyC",
+                "path": "/kNAMqe2OUBoGn5Qe",
                 "type": "ws"
             },
             "domain_resolver": {
