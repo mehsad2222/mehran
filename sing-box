@@ -1,25 +1,23 @@
 {
     "log": {
-                "disabled": false,
-                "level": "warn",
-                "output": "box.log",
-                "timestamp": true
-           }
-         }, 
-  "dns": {
-    "servers": [],
-    "rules": [],
-    "final": "",
-    "strategy": "",
-    "disable_cache": false,
-    "disable_expire": false,
-    "independent_cache": false,
-    "cache_capacity": 0,
-    "reverse_mapping": false,
-    "client_subnet": "",
-    "fakeip": {}
-  }
-},
+        "level": "warn",
+        "timestamp": true
+    },
+    "dns": {
+        "servers": [
+            {
+                "type": "https",
+                "server": "8.8.8.8",
+                "detour": "✅ Selector",
+                "tag": "dns-remote"
+            },
+            {
+                "type": "udp",
+                "server": "8.8.8.8",
+                "server_port": 53,
+                "tag": "dns-direct"
+            }
+        ],
         "rules": [
             {
                 "domain": [
@@ -34,6 +32,20 @@
             {
                 "clash_mode": "Global",
                 "server": "dns-remote"
+            },
+            {
+                "type": "logical",
+                "mode": "and",
+                "rules": [
+                    {
+                        "rule_set": "geosite-ir"
+                    },
+                    {
+                        "rule_set": "geoip-ir"
+                    }
+                ],
+                "action": "route",
+                "server": "dns-direct"
             },
             {
                 "rule_set": [
@@ -52,7 +64,8 @@
             "type": "tun",
             "tag": "tun-in",
             "address": [
-                "172.18.0.1/30"
+                "172.18.0.1/30",
+                "fdfe:dcba:9876::1/126"
             ],
             "mtu": 9000,
             "auto_route": true,
@@ -77,54 +90,80 @@
                 "💦 2 - VLESS - Domain : 80",
                 "💦 3 - VLESS - IPv4 : 80",
                 "💦 4 - VLESS - IPv4 : 80",
-                "💦 5 - VLESS - Domain : 8080",
-                "💦 6 - VLESS - Domain : 8080",
-                "💦 7 - VLESS - IPv4 : 8080",
-                "💦 8 - VLESS - IPv4 : 8080",
-                "💦 9 - VLESS - Domain : 8880",
-                "💦 10 - VLESS - Domain : 8880",
-                "💦 11 - VLESS - IPv4 : 8880",
-                "💦 12 - VLESS - IPv4 : 8880",
-                "💦 13 - VLESS - Domain : 2052",
-                "💦 14 - VLESS - Domain : 2052",
-                "💦 15 - VLESS - IPv4 : 2052",
-                "💦 16 - VLESS - IPv4 : 2052",
-                "💦 17 - VLESS - Domain : 2082",
-                "💦 18 - VLESS - Domain : 2082",
-                "💦 19 - VLESS - IPv4 : 2082",
-                "💦 20 - VLESS - IPv4 : 2082",
-                "💦 21 - VLESS - Domain : 2086",
-                "💦 22 - VLESS - Domain : 2086",
-                "💦 23 - VLESS - IPv4 : 2086",
-                "💦 24 - VLESS - IPv4 : 2086",
-                "💦 25 - VLESS - Domain : 2095",
-                "💦 26 - VLESS - Domain : 2095",
-                "💦 27 - VLESS - IPv4 : 2095",
-                "💦 28 - VLESS - IPv4 : 2095",
-                "💦 29 - VLESS - Domain : 443",
-                "💦 30 - VLESS - Domain : 443",
-                "💦 31 - VLESS - IPv4 : 443",
-                "💦 32 - VLESS - IPv4 : 443",
-                "💦 33 - VLESS - Domain : 8443",
-                "💦 34 - VLESS - Domain : 8443",
-                "💦 35 - VLESS - IPv4 : 8443",
-                "💦 36 - VLESS - IPv4 : 8443",
-                "💦 37 - VLESS - Domain : 2053",
-                "💦 38 - VLESS - Domain : 2053",
-                "💦 39 - VLESS - IPv4 : 2053",
-                "💦 40 - VLESS - IPv4 : 2053",
-                "💦 41 - VLESS - Domain : 2083",
-                "💦 42 - VLESS - Domain : 2083",
-                "💦 43 - VLESS - IPv4 : 2083",
-                "💦 44 - VLESS - IPv4 : 2083",
-                "💦 45 - VLESS - Domain : 2087",
-                "💦 46 - VLESS - Domain : 2087",
-                "💦 47 - VLESS - IPv4 : 2087",
-                "💦 48 - VLESS - IPv4 : 2087",
-                "💦 49 - VLESS - Domain : 2096",
-                "💦 50 - VLESS - Domain : 2096",
-                "💦 51 - VLESS - IPv4 : 2096",
-                "💦 52 - VLESS - IPv4 : 2096"
+                "💦 5 - VLESS - IPv6 : 80",
+                "💦 6 - VLESS - IPv6 : 80",
+                "💦 7 - VLESS - Domain : 8080",
+                "💦 8 - VLESS - Domain : 8080",
+                "💦 9 - VLESS - IPv4 : 8080",
+                "💦 10 - VLESS - IPv4 : 8080",
+                "💦 11 - VLESS - IPv6 : 8080",
+                "💦 12 - VLESS - IPv6 : 8080",
+                "💦 13 - VLESS - Domain : 8880",
+                "💦 14 - VLESS - Domain : 8880",
+                "💦 15 - VLESS - IPv4 : 8880",
+                "💦 16 - VLESS - IPv4 : 8880",
+                "💦 17 - VLESS - IPv6 : 8880",
+                "💦 18 - VLESS - IPv6 : 8880",
+                "💦 19 - VLESS - Domain : 2052",
+                "💦 20 - VLESS - Domain : 2052",
+                "💦 21 - VLESS - IPv4 : 2052",
+                "💦 22 - VLESS - IPv4 : 2052",
+                "💦 23 - VLESS - IPv6 : 2052",
+                "💦 24 - VLESS - IPv6 : 2052",
+                "💦 25 - VLESS - Domain : 2082",
+                "💦 26 - VLESS - Domain : 2082",
+                "💦 27 - VLESS - IPv4 : 2082",
+                "💦 28 - VLESS - IPv4 : 2082",
+                "💦 29 - VLESS - IPv6 : 2082",
+                "💦 30 - VLESS - IPv6 : 2082",
+                "💦 31 - VLESS - Domain : 2086",
+                "💦 32 - VLESS - Domain : 2086",
+                "💦 33 - VLESS - IPv4 : 2086",
+                "💦 34 - VLESS - IPv4 : 2086",
+                "💦 35 - VLESS - IPv6 : 2086",
+                "💦 36 - VLESS - IPv6 : 2086",
+                "💦 37 - VLESS - Domain : 2095",
+                "💦 38 - VLESS - Domain : 2095",
+                "💦 39 - VLESS - IPv4 : 2095",
+                "💦 40 - VLESS - IPv4 : 2095",
+                "💦 41 - VLESS - IPv6 : 2095",
+                "💦 42 - VLESS - IPv6 : 2095",
+                "💦 43 - VLESS - Domain : 443",
+                "💦 44 - VLESS - Domain : 443",
+                "💦 45 - VLESS - IPv4 : 443",
+                "💦 46 - VLESS - IPv4 : 443",
+                "💦 47 - VLESS - IPv6 : 443",
+                "💦 48 - VLESS - IPv6 : 443",
+                "💦 49 - VLESS - Domain : 8443",
+                "💦 50 - VLESS - Domain : 8443",
+                "💦 51 - VLESS - IPv4 : 8443",
+                "💦 52 - VLESS - IPv4 : 8443",
+                "💦 53 - VLESS - IPv6 : 8443",
+                "💦 54 - VLESS - IPv6 : 8443",
+                "💦 55 - VLESS - Domain : 2053",
+                "💦 56 - VLESS - Domain : 2053",
+                "💦 57 - VLESS - IPv4 : 2053",
+                "💦 58 - VLESS - IPv4 : 2053",
+                "💦 59 - VLESS - IPv6 : 2053",
+                "💦 60 - VLESS - IPv6 : 2053",
+                "💦 61 - VLESS - Domain : 2083",
+                "💦 62 - VLESS - Domain : 2083",
+                "💦 63 - VLESS - IPv4 : 2083",
+                "💦 64 - VLESS - IPv4 : 2083",
+                "💦 65 - VLESS - IPv6 : 2083",
+                "💦 66 - VLESS - IPv6 : 2083",
+                "💦 67 - VLESS - Domain : 2087",
+                "💦 68 - VLESS - Domain : 2087",
+                "💦 69 - VLESS - IPv4 : 2087",
+                "💦 70 - VLESS - IPv4 : 2087",
+                "💦 71 - VLESS - IPv6 : 2087",
+                "💦 72 - VLESS - IPv6 : 2087",
+                "💦 73 - VLESS - Domain : 2096",
+                "💦 74 - VLESS - Domain : 2096",
+                "💦 75 - VLESS - IPv4 : 2096",
+                "💦 76 - VLESS - IPv4 : 2096",
+                "💦 77 - VLESS - IPv6 : 2096",
+                "💦 78 - VLESS - IPv6 : 2096"
             ]
         },
         {
@@ -139,54 +178,80 @@
                 "💦 2 - VLESS - Domain : 80",
                 "💦 3 - VLESS - IPv4 : 80",
                 "💦 4 - VLESS - IPv4 : 80",
-                "💦 5 - VLESS - Domain : 8080",
-                "💦 6 - VLESS - Domain : 8080",
-                "💦 7 - VLESS - IPv4 : 8080",
-                "💦 8 - VLESS - IPv4 : 8080",
-                "💦 9 - VLESS - Domain : 8880",
-                "💦 10 - VLESS - Domain : 8880",
-                "💦 11 - VLESS - IPv4 : 8880",
-                "💦 12 - VLESS - IPv4 : 8880",
-                "💦 13 - VLESS - Domain : 2052",
-                "💦 14 - VLESS - Domain : 2052",
-                "💦 15 - VLESS - IPv4 : 2052",
-                "💦 16 - VLESS - IPv4 : 2052",
-                "💦 17 - VLESS - Domain : 2082",
-                "💦 18 - VLESS - Domain : 2082",
-                "💦 19 - VLESS - IPv4 : 2082",
-                "💦 20 - VLESS - IPv4 : 2082",
-                "💦 21 - VLESS - Domain : 2086",
-                "💦 22 - VLESS - Domain : 2086",
-                "💦 23 - VLESS - IPv4 : 2086",
-                "💦 24 - VLESS - IPv4 : 2086",
-                "💦 25 - VLESS - Domain : 2095",
-                "💦 26 - VLESS - Domain : 2095",
-                "💦 27 - VLESS - IPv4 : 2095",
-                "💦 28 - VLESS - IPv4 : 2095",
-                "💦 29 - VLESS - Domain : 443",
-                "💦 30 - VLESS - Domain : 443",
-                "💦 31 - VLESS - IPv4 : 443",
-                "💦 32 - VLESS - IPv4 : 443",
-                "💦 33 - VLESS - Domain : 8443",
-                "💦 34 - VLESS - Domain : 8443",
-                "💦 35 - VLESS - IPv4 : 8443",
-                "💦 36 - VLESS - IPv4 : 8443",
-                "💦 37 - VLESS - Domain : 2053",
-                "💦 38 - VLESS - Domain : 2053",
-                "💦 39 - VLESS - IPv4 : 2053",
-                "💦 40 - VLESS - IPv4 : 2053",
-                "💦 41 - VLESS - Domain : 2083",
-                "💦 42 - VLESS - Domain : 2083",
-                "💦 43 - VLESS - IPv4 : 2083",
-                "💦 44 - VLESS - IPv4 : 2083",
-                "💦 45 - VLESS - Domain : 2087",
-                "💦 46 - VLESS - Domain : 2087",
-                "💦 47 - VLESS - IPv4 : 2087",
-                "💦 48 - VLESS - IPv4 : 2087",
-                "💦 49 - VLESS - Domain : 2096",
-                "💦 50 - VLESS - Domain : 2096",
-                "💦 51 - VLESS - IPv4 : 2096",
-                "💦 52 - VLESS - IPv4 : 2096"
+                "💦 5 - VLESS - IPv6 : 80",
+                "💦 6 - VLESS - IPv6 : 80",
+                "💦 7 - VLESS - Domain : 8080",
+                "💦 8 - VLESS - Domain : 8080",
+                "💦 9 - VLESS - IPv4 : 8080",
+                "💦 10 - VLESS - IPv4 : 8080",
+                "💦 11 - VLESS - IPv6 : 8080",
+                "💦 12 - VLESS - IPv6 : 8080",
+                "💦 13 - VLESS - Domain : 8880",
+                "💦 14 - VLESS - Domain : 8880",
+                "💦 15 - VLESS - IPv4 : 8880",
+                "💦 16 - VLESS - IPv4 : 8880",
+                "💦 17 - VLESS - IPv6 : 8880",
+                "💦 18 - VLESS - IPv6 : 8880",
+                "💦 19 - VLESS - Domain : 2052",
+                "💦 20 - VLESS - Domain : 2052",
+                "💦 21 - VLESS - IPv4 : 2052",
+                "💦 22 - VLESS - IPv4 : 2052",
+                "💦 23 - VLESS - IPv6 : 2052",
+                "💦 24 - VLESS - IPv6 : 2052",
+                "💦 25 - VLESS - Domain : 2082",
+                "💦 26 - VLESS - Domain : 2082",
+                "💦 27 - VLESS - IPv4 : 2082",
+                "💦 28 - VLESS - IPv4 : 2082",
+                "💦 29 - VLESS - IPv6 : 2082",
+                "💦 30 - VLESS - IPv6 : 2082",
+                "💦 31 - VLESS - Domain : 2086",
+                "💦 32 - VLESS - Domain : 2086",
+                "💦 33 - VLESS - IPv4 : 2086",
+                "💦 34 - VLESS - IPv4 : 2086",
+                "💦 35 - VLESS - IPv6 : 2086",
+                "💦 36 - VLESS - IPv6 : 2086",
+                "💦 37 - VLESS - Domain : 2095",
+                "💦 38 - VLESS - Domain : 2095",
+                "💦 39 - VLESS - IPv4 : 2095",
+                "💦 40 - VLESS - IPv4 : 2095",
+                "💦 41 - VLESS - IPv6 : 2095",
+                "💦 42 - VLESS - IPv6 : 2095",
+                "💦 43 - VLESS - Domain : 443",
+                "💦 44 - VLESS - Domain : 443",
+                "💦 45 - VLESS - IPv4 : 443",
+                "💦 46 - VLESS - IPv4 : 443",
+                "💦 47 - VLESS - IPv6 : 443",
+                "💦 48 - VLESS - IPv6 : 443",
+                "💦 49 - VLESS - Domain : 8443",
+                "💦 50 - VLESS - Domain : 8443",
+                "💦 51 - VLESS - IPv4 : 8443",
+                "💦 52 - VLESS - IPv4 : 8443",
+                "💦 53 - VLESS - IPv6 : 8443",
+                "💦 54 - VLESS - IPv6 : 8443",
+                "💦 55 - VLESS - Domain : 2053",
+                "💦 56 - VLESS - Domain : 2053",
+                "💦 57 - VLESS - IPv4 : 2053",
+                "💦 58 - VLESS - IPv4 : 2053",
+                "💦 59 - VLESS - IPv6 : 2053",
+                "💦 60 - VLESS - IPv6 : 2053",
+                "💦 61 - VLESS - Domain : 2083",
+                "💦 62 - VLESS - Domain : 2083",
+                "💦 63 - VLESS - IPv4 : 2083",
+                "💦 64 - VLESS - IPv4 : 2083",
+                "💦 65 - VLESS - IPv6 : 2083",
+                "💦 66 - VLESS - IPv6 : 2083",
+                "💦 67 - VLESS - Domain : 2087",
+                "💦 68 - VLESS - Domain : 2087",
+                "💦 69 - VLESS - IPv4 : 2087",
+                "💦 70 - VLESS - IPv4 : 2087",
+                "💦 71 - VLESS - IPv6 : 2087",
+                "💦 72 - VLESS - IPv6 : 2087",
+                "💦 73 - VLESS - Domain : 2096",
+                "💦 74 - VLESS - Domain : 2096",
+                "💦 75 - VLESS - IPv4 : 2096",
+                "💦 76 - VLESS - IPv4 : 2096",
+                "💦 77 - VLESS - IPv6 : 2096",
+                "💦 78 - VLESS - IPv6 : 2096"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interval": "30s"
@@ -194,23 +259,23 @@
         {
             "tag": "💦 1 - VLESS - Domain : 80",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 80,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/9gmVlrGRQ8oLx4l3",
+                "path": "/oj5bUVogwPnNfjou",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -221,21 +286,21 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/WReqbE00IYEKBlrK",
+                "path": "/DogHIczcxqCZQ3ZT",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -244,23 +309,23 @@
         {
             "tag": "💦 3 - VLESS - IPv4 : 80",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 80,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/LoMQOJTbsaiDGR3S",
+                "path": "/2K3Svvc20p6CAf0m",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -269,648 +334,998 @@
         {
             "tag": "💦 4 - VLESS - IPv4 : 80",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 80,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/Gvl7u2dseM7EhLEz",
+                "path": "/CCl10yXeYmexQqQm",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 5 - VLESS - Domain : 8080",
+            "tag": "💦 5 - VLESS - IPv6 : 80",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 80,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/5MzUoIRX050nVZy4",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 6 - VLESS - IPv6 : 80",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 80,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/XSyfpX48IVJ9DA3p",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 7 - VLESS - Domain : 8080",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 8080,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/H9tBwQlaaVvqd2GQ",
+                "path": "/YDVi7Tq7jRtXM2ky",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 6 - VLESS - Domain : 8080",
+            "tag": "💦 8 - VLESS - Domain : 8080",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/dCAzncHoBHF334dW",
+                "path": "/NgqGTwT4vZsXI2N1",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 7 - VLESS - IPv4 : 8080",
+            "tag": "💦 9 - VLESS - IPv4 : 8080",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 8080,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/RuXoNLIjT037uwU9",
+                "path": "/11Fl9eBPuKE2s3gY",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 8 - VLESS - IPv4 : 8080",
+            "tag": "💦 10 - VLESS - IPv4 : 8080",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 8080,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/7702p2StC6DdhcwW",
+                "path": "/AUduZ7SXNaNEYVJC",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 9 - VLESS - Domain : 8880",
+            "tag": "💦 11 - VLESS - IPv6 : 8080",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 8080,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/MpCD1RoPgnLuqvdN",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 12 - VLESS - IPv6 : 8080",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 8080,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/p280UX0Ipp2QF2pW",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 13 - VLESS - Domain : 8880",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 8880,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/qNxpPY1ZtNAMsbJT",
+                "path": "/9VMxqZLEGAnQ06y0",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 10 - VLESS - Domain : 8880",
+            "tag": "💦 14 - VLESS - Domain : 8880",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/tPUGVjsxaxaLPwQo",
+                "path": "/KKZVpOGf0jfHokuB",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 11 - VLESS - IPv4 : 8880",
+            "tag": "💦 15 - VLESS - IPv4 : 8880",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 8880,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/5ZX79E5MIrzDVQYs",
+                "path": "/pjDFqdkmuGxhmb4i",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 12 - VLESS - IPv4 : 8880",
+            "tag": "💦 16 - VLESS - IPv4 : 8880",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 8880,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/8Bq6NTHQE2QOZ1tF",
+                "path": "/Cauo2RsHT3PRZgSs",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 13 - VLESS - Domain : 2052",
+            "tag": "💦 17 - VLESS - IPv6 : 8880",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 8880,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/2v77XL4zmuHGogiT",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 18 - VLESS - IPv6 : 8880",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 8880,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/x8uCeCEgJw8w7udU",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 19 - VLESS - Domain : 2052",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 2052,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/i6h3NhnSKkgvXqxj",
+                "path": "/nXi33f16hCIFiZEB",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 14 - VLESS - Domain : 2052",
+            "tag": "💦 20 - VLESS - Domain : 2052",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/k3JopQvmn6tLNEbf",
+                "path": "/jgobt4qL29xz4Pl0",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 15 - VLESS - IPv4 : 2052",
+            "tag": "💦 21 - VLESS - IPv4 : 2052",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 2052,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/Zv5PzgBxVrtQkadY",
+                "path": "/NOWFExmRdzgW9Xec",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 16 - VLESS - IPv4 : 2052",
+            "tag": "💦 22 - VLESS - IPv4 : 2052",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 2052,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/zf4rdUJptKopy5W6",
+                "path": "/l15cXEvzoNmzc10P",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 17 - VLESS - Domain : 2082",
+            "tag": "💦 23 - VLESS - IPv6 : 2052",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 2052,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/TDnsMMC5lkFztii1",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 24 - VLESS - IPv6 : 2052",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 2052,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/mtiCkWCkCwIYfzQ6",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 25 - VLESS - Domain : 2082",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 2082,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/jfGUWfdRAlmKu87R",
+                "path": "/LpJQgNmfhaDM9VMI",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 18 - VLESS - Domain : 2082",
+            "tag": "💦 26 - VLESS - Domain : 2082",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/IPAIbPXbeRlAVPXd",
+                "path": "/O94Ttj5yEpUOUFM2",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 19 - VLESS - IPv4 : 2082",
+            "tag": "💦 27 - VLESS - IPv4 : 2082",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 2082,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/AN8Y13Y3RiNGRGpo",
+                "path": "/2v77kvQAhabXnFtZ",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 20 - VLESS - IPv4 : 2082",
+            "tag": "💦 28 - VLESS - IPv4 : 2082",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 2082,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/QsEciKDfXST5ayqB",
+                "path": "/NOASHGfmTjYoTggI",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 21 - VLESS - Domain : 2086",
+            "tag": "💦 29 - VLESS - IPv6 : 2082",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 2082,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/cNXkidebrcEBPUCM",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 30 - VLESS - IPv6 : 2082",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 2082,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/wHDWOw5lNj7rtww8",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 31 - VLESS - Domain : 2086",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 2086,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/gX8eitijYaUWzg3K",
+                "path": "/1gEsujv05HEBaZKi",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 22 - VLESS - Domain : 2086",
+            "tag": "💦 32 - VLESS - Domain : 2086",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/ZdWHKxSnx9lpX60k",
+                "path": "/3bGOdYVOqrLwio5V",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 23 - VLESS - IPv4 : 2086",
+            "tag": "💦 33 - VLESS - IPv4 : 2086",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 2086,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/G6VoHAH7t3GVlvis",
+                "path": "/09aAYSq7WCdRBlPR",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 24 - VLESS - IPv4 : 2086",
+            "tag": "💦 34 - VLESS - IPv4 : 2086",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 2086,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/I6JOCiGEiMiXIJSk",
+                "path": "/Dyb7VdmOpQjxf2AJ",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 25 - VLESS - Domain : 2095",
+            "tag": "💦 35 - VLESS - IPv6 : 2086",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 2086,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/9WQjw1LC8O0iEemL",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 36 - VLESS - IPv6 : 2086",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 2086,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/CJyeElXWnglccXh1",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 37 - VLESS - Domain : 2095",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 2095,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/mxWGg6OUKNYupGKo",
+                "path": "/kHrt9HvzaeUKdlZy",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 26 - VLESS - Domain : 2095",
+            "tag": "💦 38 - VLESS - Domain : 2095",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/NvFhyf6vAhzgl2MF",
+                "path": "/OQXWzgnj925PsFpa",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 27 - VLESS - IPv4 : 2095",
+            "tag": "💦 39 - VLESS - IPv4 : 2095",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 2095,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/FzzPX4sv5iV7xwM1",
+                "path": "/FMZb9qUEo9iZJ7es",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 28 - VLESS - IPv4 : 2095",
+            "tag": "💦 40 - VLESS - IPv4 : 2095",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 2095,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/h1XEnwa1EYABXhFB",
+                "path": "/mxQe9G3KAjyZroqX",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
             "tcp_multi_path": true
         },
         {
-            "tag": "💦 29 - VLESS - Domain : 443",
+            "tag": "💦 41 - VLESS - IPv6 : 2095",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 2095,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/JRpMbQfpkGjZsibb",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 42 - VLESS - IPv6 : 2095",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 2095,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/hSfRjHihYoJd24Qm",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true
+        },
+        {
+            "tag": "💦 43 - VLESS - Domain : 443",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 443,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/e8LGKvOcFadYxLIc",
+                "path": "/uipfAoIpy7zHikzW",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -919,7 +1334,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cagsx5B7wqJ-8kxo8cW2luU22Lobdg07.RyTYmiSu.wOrKERs.Dev",
+                "server_name": "DAMP-BirD-4c7EHDjdKSHejBx.BODas18925.WorKeRS.dEv",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -928,25 +1343,25 @@
             }
         },
         {
-            "tag": "💦 30 - VLESS - Domain : 443",
+            "tag": "💦 44 - VLESS - Domain : 443",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/4kyyr8D57FSowHkH",
+                "path": "/EVAvrhABANJJzvTV",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -955,7 +1370,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CAGSx5b7WqJ-8kXo8CW2Luu22lOBdg07.RYtyMiSu.WOrkerS.DeV",
+                "server_name": "DamP-Bird-4C7eHDjDkSheJBx.bODAS18925.WOrkeRS.dev",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -964,25 +1379,25 @@
             }
         },
         {
-            "tag": "💦 31 - VLESS - IPv4 : 443",
+            "tag": "💦 45 - VLESS - IPv4 : 443",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 443,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/qsczDOMVE8bPH5hd",
+                "path": "/x3oesT2HDIaCAX3B",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -991,7 +1406,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CAGSX5b7WQJ-8Kxo8cW2LUu22lObdG07.rYtYMISU.WorkeRs.dEv",
+                "server_name": "dAmP-biRd-4C7EhdjdkshEjbx.boDAS18925.WoRkErS.DEV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1000,25 +1415,25 @@
             }
         },
         {
-            "tag": "💦 32 - VLESS - IPv4 : 443",
+            "tag": "💦 46 - VLESS - IPv4 : 443",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 443,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/RUqU3OS4Xnc2pADT",
+                "path": "/KcH9qbKTSEeR4eZi",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1027,7 +1442,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CAgsx5B7wQJ-8KXO8Cw2luU22lOBDg07.RyTymIsu.worKERs.DEv",
+                "server_name": "dAmP-BirD-4c7EHDjDKShejbX.boDaS18925.woRkERS.dEv",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1036,25 +1451,97 @@
             }
         },
         {
-            "tag": "💦 33 - VLESS - Domain : 8443",
+            "tag": "💦 47 - VLESS - IPv6 : 443",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 443,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/pdJ6jeWQ17V2qKJs",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "daMP-bIrd-4C7ehdjDkSheJbX.BoDAs18925.workErs.deV",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 48 - VLESS - IPv6 : 443",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 443,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/gUWCdAvQGq6PSw4D",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "DaMp-BiRd-4C7ehdjDKshEJBx.bODas18925.WORKERS.DEv",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 49 - VLESS - Domain : 8443",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 8443,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/FAanN2yXvo1MP2r7",
+                "path": "/5pTnbrgxg77gNiZo",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1063,7 +1550,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cAGSX5B7WQj-8KxO8cw2luU22LobDg07.RYTYMiSU.worKErs.DEV",
+                "server_name": "damp-BiRd-4C7ehdJDKSHEjbX.bODAS18925.woRkeRs.DEV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1072,25 +1559,25 @@
             }
         },
         {
-            "tag": "💦 34 - VLESS - Domain : 8443",
+            "tag": "💦 50 - VLESS - Domain : 8443",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/W8RNTMqHkNsY3nAp",
+                "path": "/EGn7s6cY7cLOOABz",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1099,7 +1586,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CaGsx5B7WqJ-8kxO8CW2luU22lobdg07.rytymiSu.WOrkeRS.deV",
+                "server_name": "DAmp-BIrd-4C7EHdJdKSHEjBx.bOdAs18925.wORkeRS.DeV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1108,25 +1595,25 @@
             }
         },
         {
-            "tag": "💦 35 - VLESS - IPv4 : 8443",
+            "tag": "💦 51 - VLESS - IPv4 : 8443",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 8443,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/anCZ04VdnEmqleB6",
+                "path": "/8V9xXgE4W2A2BMjt",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1135,7 +1622,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CAGSX5b7wQJ-8kXo8cw2lUu22LObdG07.RYtyMISu.WORkERS.DEV",
+                "server_name": "DAmp-bIrd-4c7EHdJDKSHejbX.bODas18925.WorKeRS.DEv",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1144,25 +1631,25 @@
             }
         },
         {
-            "tag": "💦 36 - VLESS - IPv4 : 8443",
+            "tag": "💦 52 - VLESS - IPv4 : 8443",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 8443,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/541nQrkkBsAUhtuW",
+                "path": "/T47TCSVyI9n8QQuH",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1171,7 +1658,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CaGSx5B7wQJ-8KXo8cW2luU22LoBdG07.rYTymIsu.wORkErS.DeV",
+                "server_name": "Damp-BIRd-4c7ehdJDKsHeJBx.boDAS18925.WoRKeRs.DeV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1180,25 +1667,25 @@
             }
         },
         {
-            "tag": "💦 37 - VLESS - Domain : 2053",
+            "tag": "💦 53 - VLESS - IPv6 : 8443",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
-            "server_port": 2053,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 8443,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/cddOVSdHLuMOkDp5",
+                "path": "/FceKjxWmmUZCheQw",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1207,7 +1694,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cAGsx5B7wQJ-8KXO8cw2LuU22LObdg07.RYTyMisu.WorKERs.Dev",
+                "server_name": "daMp-BIrD-4C7EHdjDKShEJbX.boDas18925.WorKers.dEv",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1216,25 +1703,97 @@
             }
         },
         {
-            "tag": "💦 38 - VLESS - Domain : 2053",
+            "tag": "💦 54 - VLESS - IPv6 : 8443",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 8443,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/ti1A9rBYIsfxfQyM",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "DAmp-bIrd-4c7EHdjdkSheJBX.bodas18925.wOrkers.DeV",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 55 - VLESS - Domain : 2053",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
+            "server_port": 2053,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/PlOIgOh4TLOjuKGC",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "dAMP-BIrD-4c7eHdjdkshEjBx.BOdAs18925.WORkeRs.dEv",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 56 - VLESS - Domain : 2053",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2053,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/K8BqibUFRRN1M8s9",
+                "path": "/RUzdN6EpM70cCFq5",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1243,7 +1802,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cAGSx5B7wQJ-8KxO8CW2LUU22lobdG07.rYtYMiSu.WoRKERS.Dev",
+                "server_name": "DamP-BIRD-4C7EHDJdKshejbx.bodAs18925.worKers.Dev",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1252,25 +1811,25 @@
             }
         },
         {
-            "tag": "💦 39 - VLESS - IPv4 : 2053",
+            "tag": "💦 57 - VLESS - IPv4 : 2053",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 2053,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/iUbBe8BILhUEckVE",
+                "path": "/WshwwKqQ8hZmvT9K",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1279,7 +1838,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cagSX5B7wQj-8kXo8cW2lUU22LOBDg07.RytYmISu.worKeRS.dEv",
+                "server_name": "dAMP-bIRd-4c7EHDJDKSheJbx.BOdaS18925.wOrKerS.DeV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1288,25 +1847,25 @@
             }
         },
         {
-            "tag": "💦 40 - VLESS - IPv4 : 2053",
+            "tag": "💦 58 - VLESS - IPv4 : 2053",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 2053,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/CfKvIEEBnthJPdI8",
+                "path": "/UWs7pAURPIp1uc6E",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1315,7 +1874,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CAGsx5B7wqJ-8KxO8CW2lUU22lObdG07.RyTymisU.WoRkeRs.deV",
+                "server_name": "DAMP-bird-4c7eHdJDkShejBx.BODas18925.wORkeRs.dEv",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1324,25 +1883,25 @@
             }
         },
         {
-            "tag": "💦 41 - VLESS - Domain : 2083",
+            "tag": "💦 59 - VLESS - IPv6 : 2053",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
-            "server_port": 2083,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 2053,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/RN3eZBkIHLnrM6hn",
+                "path": "/U0imz31dsepjn4WT",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1351,7 +1910,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "caGSX5B7WqJ-8kXo8CW2LUu22loBdg07.RytYMisu.wOrkerS.dEV",
+                "server_name": "DAmp-BIRd-4C7EHdJDkSheJbx.BoDaS18925.wORkeRs.dev",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1360,25 +1919,97 @@
             }
         },
         {
-            "tag": "💦 42 - VLESS - Domain : 2083",
+            "tag": "💦 60 - VLESS - IPv6 : 2053",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 2053,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/ktfxLlbCjQCUZOHT",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "DaMp-BIrD-4c7ehDjdkShejbX.BODas18925.workerS.DEv",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 61 - VLESS - Domain : 2083",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
+            "server_port": 2083,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/6bFReZixTLzKAXSN",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "DAmp-BiRd-4C7eHDJDKsHEjBX.BodAs18925.WORKERs.deV",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 62 - VLESS - Domain : 2083",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2083,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/jE09yaI1oCCAAN31",
+                "path": "/brEANsp9QUc6KrgU",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1387,7 +2018,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "caGsX5B7WQj-8KXo8Cw2LUU22loBDG07.RytYMISU.WORkerS.deV",
+                "server_name": "DAMp-biRd-4C7EhdjDKsHejBX.bODaS18925.wORkErS.deV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1396,25 +2027,25 @@
             }
         },
         {
-            "tag": "💦 43 - VLESS - IPv4 : 2083",
+            "tag": "💦 63 - VLESS - IPv4 : 2083",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 2083,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/dbicHp0SCEERJstb",
+                "path": "/nG1sddplKNIdjOoU",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1423,7 +2054,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cAgSX5b7WqJ-8kXO8cw2LUU22lobDg07.rYtyMisU.WOrkErs.DEv",
+                "server_name": "DAMP-BIrD-4C7eHdjdkSHeJBx.bOdAs18925.woRKers.dEV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1432,25 +2063,25 @@
             }
         },
         {
-            "tag": "💦 44 - VLESS - IPv4 : 2083",
+            "tag": "💦 64 - VLESS - IPv4 : 2083",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 2083,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/4i4oxAz7nzxFWhn7",
+                "path": "/PuN5ZsOfWfbp22gF",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1459,7 +2090,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cagSx5B7wQj-8KXO8cw2LUU22lObdG07.rYtymiSu.WoRKErS.dev",
+                "server_name": "DAmp-BiRD-4C7EhDjdkSHEJBX.BoDas18925.WOrKERs.deV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1468,25 +2099,97 @@
             }
         },
         {
-            "tag": "💦 45 - VLESS - Domain : 2087",
+            "tag": "💦 65 - VLESS - IPv6 : 2083",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 2083,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/ZD7yOV5LbsUiOs7w",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "DAMp-biRD-4C7eHdJdKsHEjBx.BODaS18925.WOrKerS.DEV",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 66 - VLESS - IPv6 : 2083",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 2083,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/pUHPdcgFoOyxaF6Q",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "DAmp-BiRD-4c7eHDjDksHeJbx.BodAs18925.woRkerS.dEV",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 67 - VLESS - Domain : 2087",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 2087,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/uRuVJifZcbgHiJkz",
+                "path": "/w0DmbI8DWaRy4TO0",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1495,7 +2198,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CAgsx5b7WqJ-8Kxo8cw2LUu22loBDg07.RytYmISU.WoRkeRS.dEv",
+                "server_name": "Damp-BiRd-4c7eHDJdkShEjBX.bODAs18925.WORkErS.DEv",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1504,25 +2207,25 @@
             }
         },
         {
-            "tag": "💦 46 - VLESS - Domain : 2087",
+            "tag": "💦 68 - VLESS - Domain : 2087",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2087,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/IFljOYGH9kzsNObD",
+                "path": "/kMxh4SWKKqGJmSbb",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1531,7 +2234,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CaGSX5B7wQj-8kxo8cW2lUU22lObDG07.RYTYmIsu.wORkeRs.deV",
+                "server_name": "dAmP-bIrD-4C7ehdjDkSHEjbX.bODas18925.wORkErS.deV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1540,25 +2243,25 @@
             }
         },
         {
-            "tag": "💦 47 - VLESS - IPv4 : 2087",
+            "tag": "💦 69 - VLESS - IPv4 : 2087",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 2087,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/Fsfo3Fvyw8fvNG0i",
+                "path": "/mnzOA8sJ3no5E7KC",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1567,7 +2270,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cagSx5B7WQJ-8KxO8cw2LuU22LOBdG07.RYTyMISu.wORkERs.DeV",
+                "server_name": "DAmp-Bird-4c7EHDJDKsheJBX.boDAs18925.WorkErS.DeV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1576,25 +2279,25 @@
             }
         },
         {
-            "tag": "💦 48 - VLESS - IPv4 : 2087",
+            "tag": "💦 70 - VLESS - IPv4 : 2087",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 2087,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/BNuSFxgCFO7BbNgN",
+                "path": "/lvHVqxiRtvyq4UFh",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1603,7 +2306,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CaGsx5b7wqJ-8kXO8cW2LUu22LObdg07.ryTyMiSU.WOrKeRS.dev",
+                "server_name": "DAmp-birD-4c7eHdjdKshEJBX.BOdas18925.wORkErs.Dev",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1612,25 +2315,97 @@
             }
         },
         {
-            "tag": "💦 49 - VLESS - Domain : 2096",
+            "tag": "💦 71 - VLESS - IPv6 : 2087",
             "type": "vless",
-            "server": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 2087,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/MyATCKOCpk49aK0U",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "Damp-Bird-4c7EhdJdkShEjbx.BoDAS18925.workErS.DEv",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 72 - VLESS - IPv6 : 2087",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 2087,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/YmjSBQlPJ72VlCWq",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "daMp-BiRd-4C7ehdJdKSHeJBx.BODas18925.WOrkErS.dEv",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 73 - VLESS - Domain : 2096",
+            "type": "vless",
+            "server": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev",
             "server_port": 2096,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/BfeG2D5vD9Tr8xmV",
+                "path": "/yr0crhpobGB4Siax",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1639,7 +2414,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "caGSX5b7Wqj-8kxo8cW2LuU22LOBDg07.rytymISU.WORKERs.dEv",
+                "server_name": "dAmp-biRD-4c7ehdjDKshejBx.BOdas18925.wOrkErs.dev",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1648,25 +2423,25 @@
             }
         },
         {
-            "tag": "💦 50 - VLESS - Domain : 2096",
+            "tag": "💦 74 - VLESS - Domain : 2096",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2096,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/XepkCFHEO2OiUJ35",
+                "path": "/pbtRlmnug9Ccj6pl",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1675,7 +2450,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CaGSX5B7WqJ-8kXo8cw2lUu22LOBdg07.rYtYmIsU.woRkERS.dev",
+                "server_name": "DaMp-BIRd-4c7EhdJDKShEJBX.bODAS18925.woRkErs.DeV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1684,25 +2459,25 @@
             }
         },
         {
-            "tag": "💦 51 - VLESS - IPv4 : 2096",
+            "tag": "💦 75 - VLESS - IPv4 : 2096",
             "type": "vless",
-            "server": "172.67.145.215",
+            "server": "172.67.142.62",
             "server_port": 2096,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/aWnAsd53P7ZnhYE3",
+                "path": "/k9QC19CXlP191fFv",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1711,7 +2486,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "cagSX5B7wQj-8KXO8cW2luU22LoBdG07.rYTYMIsU.wOrKERS.dev",
+                "server_name": "damP-BiRd-4C7EHdJDkshEJBx.BodAS18925.woRkERS.dEV",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1720,25 +2495,25 @@
             }
         },
         {
-            "tag": "💦 52 - VLESS - IPv4 : 2096",
+            "tag": "💦 76 - VLESS - IPv4 : 2096",
             "type": "vless",
-            "server": "104.21.28.104",
+            "server": "104.21.27.100",
             "server_port": 2096,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
                 },
-                "path": "/ZFm9hhzV0t5jTJ7g",
+                "path": "/1qqQ3WQ4GXwRC9DO",
                 "type": "ws"
             },
             "domain_resolver": {
                 "server": "dns-direct",
-                "strategy": "ipv4_only",
+                "strategy": "prefer_ipv4",
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
@@ -1747,7 +2522,79 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "CaGsx5B7wQj-8kxo8CW2luu22LObdg07.RYtymiSu.WOrKeRs.deV",
+                "server_name": "damP-bird-4c7EhdjdkSHEjbX.boDAS18925.wORkErs.dev",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 77 - VLESS - IPv6 : 2096",
+            "type": "vless",
+            "server": "[2606:4700:3037::ac43:8e3e]",
+            "server_port": 2096,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/HC6FHtOHARFYliX5",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "DAmP-Bird-4c7EhDjDKshEjbX.bODas18925.wORkeRS.dEV",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 78 - VLESS - IPv6 : 2096",
+            "type": "vless",
+            "server": "[2606:4700:3031::6815:1b64]",
+            "server_port": 2096,
+            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                },
+                "path": "/CRLxhs4VMibGFcHx",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "DAmP-BIrD-4c7ehdJdKsHEjBX.BODaS18925.wORKers.dev",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
@@ -1759,20 +2606,8 @@
     "route": {
         "rules": [
             {
-                "action": "sniff"
-            },
-            {
-                "action": "hijack-dns",
-                "mode": "or",
-                "rules": [
-                    {
-                        "port": 53
-                    },
-                    {
-                        "protocol": "dns"
-                    }
-                ],
-                "type": "logical"
+                "ip_cidr": "172.18.0.2",
+                "action": "hijack-dns"
             },
             {
                 "clash_mode": "Direct",
@@ -1781,6 +2616,13 @@
             {
                 "clash_mode": "Global",
                 "outbound": "✅ Selector"
+            },
+            {
+                "action": "sniff"
+            },
+            {
+                "protocol": "dns",
+                "action": "hijack-dns"
             },
             {
                 "network": "udp",
@@ -1800,6 +2642,20 @@
                     "geoip-phishing"
                 ],
                 "action": "reject"
+            },
+            {
+                "rule_set": [
+                    "geosite-ir"
+                ],
+                "action": "route",
+                "outbound": "direct"
+            },
+            {
+                "rule_set": [
+                    "geoip-ir"
+                ],
+                "action": "route",
+                "outbound": "direct"
             }
         ],
         "rule_set": [
@@ -1836,6 +2692,20 @@
                 "tag": "geosite-cryptominers",
                 "format": "binary",
                 "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geosite-ir",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geoip-ir",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs",
                 "download_detour": "direct"
             }
         ],
