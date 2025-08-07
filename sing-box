@@ -956,18 +956,18 @@
         {
             "tag": "💦 30 - VLESS - Domain : 443",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
+            "server": "188.132.192.195",
+            "server_port": 2053,
+            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
             "network": "tcp",
             "packet_encoding": "",
             "transport": {
                 "early_data_header_name": "Sec-WebSocket-Protocol",
                 "max_early_data": 2560,
                 "headers": {
-                    "Host": "damp-bird-4c7ehdjdkshejbx.bodas18925.workers.dev"
+                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
                 },
-                "path": "/lPcwXoaxjpOw2WZA",
+                "path": "/ImnuhoE37aXn2IZU",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -981,7 +981,7 @@
                 "alpn": "http/1.1",
                 "enabled": true,
                 "insecure": false,
-                "server_name": "daMP-BIrd-4c7ehdJdKShEJBX.BoDAs18925.WOrKERS.dEV",
+                "server_name": "CagsX5B7wqJ-8kxo8Cw2LuU22lobdg07.rytYmiSu.wORKers.Dev",
                 "record_fragment": false,
                 "utls": {
                     "enabled": true,
