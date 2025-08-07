@@ -128,7 +128,7 @@
                 "💦 27 - VLESS - IPv4 : 2095",
                 "💦 28 - VLESS - IPv4 : 2095",
                 "💦 29 - VLESS - Domain : 443",
-                "💦 30 - VLESS - Domain : 443",
+                "3️⃣0️⃣ Pishgaman-Technology",
                 "💦 31 - VLESS - IPv4 : 443",
                 "💦 32 - VLESS - IPv4 : 443",
                 "💦 33 - VLESS - Domain : 8443",
@@ -190,7 +190,7 @@
                 "💦 27 - VLESS - IPv4 : 2095",
                 "💦 28 - VLESS - IPv4 : 2095",
                 "💦 29 - VLESS - Domain : 443",
-                "💦 30 - VLESS - Domain : 443",
+                "3️⃣0️⃣ Pishgaman-Technology",
                 "💦 31 - VLESS - IPv4 : 443",
                 "💦 32 - VLESS - IPv4 : 443",
                 "💦 33 - VLESS - Domain : 8443",
@@ -954,7 +954,7 @@
             }
         },
         {
-            "tag": "💦 30 - VLESS - Domain : 443",
+            "tag": "3️⃣0️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "188.132.192.195",
             "server_port": 2053,
