@@ -1,6 +1,6 @@
 {
     "mixed-port": 7890,
-    "ipv6": false,
+    "ipv6": true,
     "allow-lan": true,
     "mode": "rule",
     "log-level": "warning",
@@ -26,7 +26,7 @@
     "dns": {
         "enable": true,
         "listen": "0.0.0.0:1053",
-        "ipv6": true,
+        "ipv6": false,
         "respect-rules": true,
         "use-system-hosts": false,
         "nameserver": [
