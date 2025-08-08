@@ -2760,6 +2760,573 @@
             ],
             "client-fingerprint": "random",
             "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣0️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣1️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣2️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣3️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣4️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣5️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣6️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣7️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣8️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣0️⃣9️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣0️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣1️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣2️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣3️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣4️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣5️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣6️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣7️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣8️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣1️⃣9️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣2️⃣0️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "193.124.22.168",
+            "port": 8443,
+            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/GN6LRXqGf9nHyRyC",
+                "headers": {
+                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
         }
     ],
     "proxy-groups": [
@@ -2866,7 +3433,29 @@
                 "9️⃣6️⃣ Pishgaman-Technology",
                 "9️⃣7️⃣ Pishgaman-Technology",
                 "9️⃣8️⃣ Pishgaman-Technology",
-                "9️⃣9️⃣ Pishgaman-Technology"
+                "9️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣1️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣2️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣3️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣4️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣5️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣6️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣7️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣8️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣1️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣2️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣3️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣4️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣5️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣6️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣7️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣8️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣2️⃣0️⃣ Pishgaman-Technology"
+
             ]
         },
         {
@@ -2974,7 +3563,28 @@
                 "9️⃣6️⃣ Pishgaman-Technology",
                 "9️⃣7️⃣ Pishgaman-Technology",
                 "9️⃣8️⃣ Pishgaman-Technology",
-                "9️⃣9️⃣ Pishgaman-Technology"
+                "9️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣1️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣2️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣3️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣4️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣5️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣6️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣7️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣8️⃣ Pishgaman-Technology",
+                "1️⃣0️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣1️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣2️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣3️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣4️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣5️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣6️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣7️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣8️⃣ Pishgaman-Technology",
+                "1️⃣1️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣2️⃣0️⃣ Pishgaman-Technology"
             ]
         }
     ],
