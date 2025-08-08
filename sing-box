@@ -350,8 +350,8 @@
         {
             "tag": "💦 1 - VLESS - Domain : 80",
             "type": "vless",
-            "server": "v19k9lw-2wd7n1fwc-07pc9zbniu374z.racotex836.workers.dev",
-            "server_port": 80,
+            "server": "103.231.75.238",
+            "server_port": 2053,
             "uuid": "614d5b4a-aa8c-4cd9-b340-ee7337b72a27",
             "network": "tcp",
             "packet_encoding": "",
