@@ -99,7 +99,7 @@
             "tag": "✅ Selector",
             "outbounds": [
                 "💦 Best Ping 💥",
-                "💦 1 - VLESS - Domain : 80",
+                "0️⃣1️⃣ Pishgaman-Technology",
                 "💦 2 - VLESS - Domain : 80",
                 "💦 3 - VLESS - IPv4 : 80",
                 "💦 4 - VLESS - IPv4 : 80",
@@ -226,7 +226,7 @@
             "type": "urltest",
             "tag": "💦 Best Ping 💥",
             "outbounds": [
-                "💦 1 - VLESS - Domain : 80",
+                "0️⃣1️⃣ Pishgaman-Technology",
                 "💦 2 - VLESS - Domain : 80",
                 "💦 3 - VLESS - IPv4 : 80",
                 "💦 4 - VLESS - IPv4 : 80",
@@ -348,7 +348,7 @@
             "interval": "30s"
         },
         {
-            "tag": "💦 1 - VLESS - Domain : 80",
+            "tag": "0️⃣1️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "139.162.133.162",
             "server_port": 24461,
@@ -361,7 +361,7 @@
                 "headers": {
                     "Host": "v19k9lw-2wd7n1fwc-07pc9zbniu374z.racotex836.workers.dev"
                 },
-                "path": "/diAlUqVJk9e1svVa",
+                "path": "/9AP25QbSzACb9sMl",
                 "type": "ws"
             },
             "domain_resolver": {
@@ -370,7 +370,18 @@
                 "rewrite_ttl": 60
             },
             "tcp_fast_open": true,
-            "tcp_multi_path": true
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "v19K9lw-2WD7n1FWC-07pC9zBNiu374Z.rACoTEX836.woRkerS.dEv",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
         },
         {
             "tag": "💦 2 - VLESS - Domain : 80",
