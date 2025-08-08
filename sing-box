@@ -100,7 +100,7 @@
             "outbounds": [
                 "💦 Best Ping 💥",
                 "0️⃣1️⃣ Pishgaman-Technology",
-                "💦 2 - VLESS - Domain : 80",
+                "0️⃣2️⃣ Pishgaman-Technology",
                 "💦 3 - VLESS - IPv4 : 80",
                 "💦 4 - VLESS - IPv4 : 80",
                 "💦 5 - VLESS - IPv4 : 80",
@@ -227,7 +227,7 @@
             "tag": "💦 Best Ping 💥",
             "outbounds": [
                 "0️⃣1️⃣ Pishgaman-Technology",
-                "💦 2 - VLESS - Domain : 80",
+                "0️⃣2️⃣ Pishgaman-Technology",
                 "💦 3 - VLESS - IPv4 : 80",
                 "💦 4 - VLESS - IPv4 : 80",
                 "💦 5 - VLESS - IPv4 : 80",
@@ -384,7 +384,43 @@
             }
         },
         {
-            "tag": "💦 2 - VLESS - Domain : 80",
+            "tag": "0️⃣2️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "103.231.75.238",
+            "server_port": 2053,
+            "uuid": "6e346e91-3460-4a39-b6be-8d20be5aee2c",
+            "network": "tcp",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "5ye0of4051nlpv2cfycwr0kpep99uwvc.mokhaberat2022.workers.dev"
+                },
+                "path": "/yQkDzJ3ekzIv6zAF",
+                "type": "ws"
+            },
+            "domain_resolver": {
+                "server": "dns-direct",
+                "strategy": "ipv4_only",
+                "rewrite_ttl": 60
+            },
+            "tcp_fast_open": true,
+            "tcp_multi_path": true,
+            "tls": {
+                "alpn": "http/1.1",
+                "enabled": true,
+                "insecure": false,
+                "server_name": "5yE0oF4051NlPV2cFyCWR0kpEP99uwvc.mokhAbeRAT2022.WOrKeRS.dEv",
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            }
+        },
+        {
+            "tag": "💦 3 - VLESS - IPv4 : 80",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -398,31 +434,6 @@
                     "Host": "v19k9lw-2wd7n1fwc-07pc9zbniu374z.racotex836.workers.dev"
                 },
                 "path": "/NziPWGUVCXf9AYFA",
-                "type": "ws"
-            },
-            "domain_resolver": {
-                "server": "dns-direct",
-                "strategy": "ipv4_only",
-                "rewrite_ttl": 60
-            },
-            "tcp_fast_open": true,
-            "tcp_multi_path": true
-        },
-        {
-            "tag": "💦 3 - VLESS - IPv4 : 80",
-            "type": "vless",
-            "server": "104.21.16.1",
-            "server_port": 80,
-            "uuid": "614d5b4a-aa8c-4cd9-b340-ee7337b72a27",
-            "network": "tcp",
-            "packet_encoding": "",
-            "transport": {
-                "early_data_header_name": "Sec-WebSocket-Protocol",
-                "max_early_data": 2560,
-                "headers": {
-                    "Host": "v19k9lw-2wd7n1fwc-07pc9zbniu374z.racotex836.workers.dev"
-                },
-                "path": "/vqiZ2DfkIy82WBZZ",
                 "type": "ws"
             },
             "domain_resolver": {
