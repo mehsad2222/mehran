@@ -95,7 +95,7 @@
             "port": 443,
             "uuid": "81792f99-104b-4060-a852-d07517e143aa",
             "packet-encoding": "packetaddr",
-            "ip-version": "dual",
+            "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
