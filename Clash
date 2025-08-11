@@ -2818,8 +2818,8 @@
         {
             "name": "1️⃣0️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "185.82.218.224",
-            "port": 443,
+            "server": "172.232.157.252",
+            "port": 8443,
             "uuid": "3aabc955-e55c-43df-b24e-62dac82ac998",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
