@@ -2901,7 +2901,7 @@
             "type": "vless",
             "server": "172.232.157.252",
             "port": 8443,
-            "uuid": "b2ddcae3-0d71-4753-b86e-cad823de6f24",
+            "uuid": "1be9c9b0-3f79-4f00-b140-f2ddb6cb69a8",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -2909,14 +2909,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/NiRnc6hU9bDYeW5f",
+                "path": "/cyBxupIqWQmg97XJ",
                 "headers": {
-                    "Host": "divine-morning-4014ghvvnv.racotex836.workers.dev"
+                    "Host": "hogxxynxqu26tjhqdh8t0tkjon0pjkrf.vicor13032.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "diviNe-morNiNG-4014gHVVNv.RAcOTEx836.worKErs.dEv",
+            "servername": "HoGxxYnXQU26tJHQDH8t0TKjoN0pJKrF.vIcor13032.WORKErS.Dev",
             "alpn": [
                 "http/1.1"
             ],
