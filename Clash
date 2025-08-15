@@ -4137,6 +4137,573 @@
             ],
             "client-fingerprint": "random",
             "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣1️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣2️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣3️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣4️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣5️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣6️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣7️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣8️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣5️⃣9️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣0️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣1️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣2️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣3️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣4️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣5️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣6️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣7️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣8️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣6️⃣9️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣7️⃣0️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
+        },
+        {
+            "name": "1️⃣7️⃣1️⃣ Pishgaman-Technology",
+            "type": "vless",
+            "server": "95.164.116.218",
+            "port": 2053,
+            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "packet-encoding": "packetaddr",
+            "ip-version": "ipv4",
+            "tls": true,
+            "network": "ws",
+            "tfo": true,
+            "mptcp": true,
+            "ws-opts": {
+                "path": "/k3QqRQ8HEFUNReOM",
+                "headers": {
+                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                },
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol"
+            },
+            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "alpn": [
+                "http/1.1"
+            ],
+            "client-fingerprint": "random",
+            "skip-cert-verify": false
         }
     ],
     "proxy-groups": [
@@ -4294,7 +4861,28 @@
                 "1️⃣4️⃣7️⃣ Pishgaman-Technology",
                 "1️⃣4️⃣8️⃣ Pishgaman-Technology",
                 "1️⃣4️⃣9️⃣ Pishgaman-Technology",
-                "1️⃣5️⃣0️⃣ Pishgaman-Technology"
+                "1️⃣5️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣1️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣2️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣3️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣4️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣5️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣6️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣7️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣8️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣1️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣2️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣3️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣4️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣5️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣6️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣7️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣8️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣7️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣7️⃣1️⃣ Pishgaman-Technology"
             ]
         },
         {
@@ -4453,7 +5041,28 @@
                 "1️⃣4️⃣7️⃣ Pishgaman-Technology",
                 "1️⃣4️⃣8️⃣ Pishgaman-Technology",
                 "1️⃣4️⃣9️⃣ Pishgaman-Technology",
-                "1️⃣5️⃣0️⃣ Pishgaman-Technology"
+                "1️⃣5️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣1️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣2️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣3️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣4️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣5️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣6️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣7️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣8️⃣ Pishgaman-Technology",
+                "1️⃣5️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣1️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣2️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣3️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣4️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣5️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣6️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣7️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣8️⃣ Pishgaman-Technology",
+                "1️⃣6️⃣9️⃣ Pishgaman-Technology",
+                "1️⃣7️⃣0️⃣ Pishgaman-Technology",
+                "1️⃣7️⃣1️⃣ Pishgaman-Technology"
             ]
         }
     ],
