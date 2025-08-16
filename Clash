@@ -5491,9 +5491,9 @@
         {
             "name": "2️⃣0️⃣1️⃣ 🌷🌷twitter🌷🌷",
             "type": "vless",
-            "server": "95.164.116.218",
-            "port": 2053,
-            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "server": "104.21.32.1",
+            "port": 443,
+            "uuid": "0d0f0fea-64be-46fb-bb98-f8d5f5740752",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5501,14 +5501,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/k3QqRQ8HEFUNReOM",
+                "path": "/WdPOXFOOp9uo9sPO/NDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx",
                 "headers": {
-                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                    "Host": "schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "servername": "scHqQn0YHRrS34QN3a2k4I6G9xap1tpH.pagES.Dev",
             "alpn": [
                 "http/1.1"
             ],
