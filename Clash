@@ -3925,9 +3925,9 @@
         {
             "name": "1️⃣4️⃣3️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "95.164.116.218",
-            "port": 2053,
-            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "server": "194.67.78.233",
+            "port": 999,
+            "uuid": "190185d4-26f7-45fb-9250-7935396456fe",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -3935,14 +3935,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/k3QqRQ8HEFUNReOM",
+                "path": "/gpWNzFy9hChkz6l8",
                 "headers": {
-                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                    "Host": "hh3-0kt9y6eluxg72nbiocwsqics5818.baxil57863.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "servername": "Hh3-0KT9Y6ELuXg72nbioCWsqiCS5818.BAxil57863.WORKERS.dev",
             "alpn": [
                 "http/1.1"
             ],
