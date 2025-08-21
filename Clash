@@ -2197,8 +2197,8 @@
         {
             "name": "7️⃣9️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "45.89.52.247",
-            "port": 443,
+            "server": "2.56.127.220",
+            "port": 2053,
             "uuid": "91481039-3c51-43e3-88e3-837ab4bacafd",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
