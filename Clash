@@ -5059,9 +5059,9 @@
         {
             "name": "1️⃣8️⃣5️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "95.164.116.218",
+            "server": "185.252.144.185",
             "port": 2053,
-            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "uuid": "b13f93b8-3e24-4204-a5c7-b069276924be",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5069,14 +5069,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/k3QqRQ8HEFUNReOM",
+                "path": "/GTpufUk6M70EE1HG",
                 "headers": {
-                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                    "Host": "vx38gps-fvg4j5j6k-n13pcdw6f3e8r4.vefomac359.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "servername": "vX38GPS-Fvg4j5j6K-N13pCdw6F3e8R4.vEfomaC359.wOrkERS.deV",
             "alpn": [
                 "http/1.1"
             ],
@@ -5086,9 +5086,9 @@
         {
             "name": "1️⃣8️⃣6️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "95.164.116.218",
+            "server": "185.252.144.185",
             "port": 2053,
-            "uuid": "3bcd3680-bf4b-4fbb-9095-b85656a778a1",
+            "uuid": "e17f4f1c-61fb-44bc-8873-1c388fe357f9",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5096,14 +5096,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/k3QqRQ8HEFUNReOM",
+                "path": "/0CDTtr2TxoLBFW9M",
                 "headers": {
-                    "Host": "v08zc798ivkk3apj0hgtq4pe84lfkmh9.pages.dev"
+                    "Host": "vnlfzoszj5dbnaqfh7km98yvptc24uul.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "v08ZC798iVkk3Apj0hgtq4PE84lfkmH9.PAgES.DEv",
+            "servername": "VnLFzoSzJ5dbNaQfh7Km98yVPtC24uuL.paGeS.DEV",
             "alpn": [
                 "http/1.1"
             ],
