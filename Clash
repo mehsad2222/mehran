@@ -5601,7 +5601,7 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "b1292d5f-77e8-4b87-80df-30c2315db819",
+            "uuid": "b8fc51fa-f319-4fd1-8ecd-d8d6fd3f3e91",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5609,14 +5609,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/qonfkjasmTRhoFPm/MjE2LjkuMjI0LjEwNToyNDQ0Mw==?mode=proxyip",
+                "path": "/fJK0CAPlKkTlPLQO/MjE2LjkuMjI0LjEwNToyNDQ0Mw==?mode=proxyip",
                 "headers": {
-                    "Host": "11objr3khro7hakfbay4qclwsfkuoq3w.yiyek94973.workers.dev"
+                    "Host": "bp-5pxt9hbfkfzeqqwq23qu6tn4-flop.ribem42521.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "11oBJR3KhRo7hAKfBaY4qcLwSfkUoq3W.YIyek94973.WOrKeRS.deV",
+            "servername": "bp-5pxt9hbfKfZEqqWq23Qu6tN4-Flop.rIbEM42521.WoRkeRS.DEv",
             "alpn": [
                 "http/1.1"
             ],
