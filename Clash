@@ -5765,7 +5765,7 @@
             "type": "select",
             "proxies": [
                 "💦 Best Ping 💥",
-                "❤️Majid-Ghasemi❤️",
+                "🌐 Test 🌐",
                 "0️⃣1️⃣ Pishgaman-Technology",
                 "0️⃣2️⃣ Pishgaman-Technology",
                 "0️⃣3️⃣ Pishgaman-Technology",
@@ -6188,16 +6188,21 @@
             ]
         },
         {
-            "name": "❤️Majid-Ghasemi❤️",
+            "name": "🌐 Test 🌐",
             "type": "url-test",
             "url": "https://www.gstatic.com/generate_204",
             "interval": 30,
             "tolerance": 50,
             "proxies": [
+                "2️⃣0️⃣1️⃣ Pishgaman-Technology",
                 "2️⃣0️⃣2️⃣ Pishgaman-Technology",
+                "2️⃣0️⃣3️⃣ Pishgaman-Technology",
                 "2️⃣0️⃣4️⃣ Pishgaman-Technology",
+                "2️⃣0️⃣5️⃣ Pishgaman-Technology",
                 "2️⃣0️⃣6️⃣ Pishgaman-Technology",
+                "2️⃣0️⃣7️⃣ Pishgaman-Technology",
                 "2️⃣0️⃣8️⃣ Pishgaman-Technology",
+                "2️⃣0️⃣9️⃣ Pishgaman-Technology",
                 "2️⃣1️⃣0️⃣ Pishgaman-Technology"
             ]
          }
