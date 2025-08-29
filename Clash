@@ -5653,8 +5653,8 @@
         {
             "name": "2️⃣0️⃣7️⃣ 🎖VIP🎖",
             "type": "vless",
-            "server": "172.67.146.15",
-            "port": 443,
+            "server": "216.9.224.105",
+            "port": 24443,
             "uuid": "1f173a1e-9112-47f5-b000-42b5ec15aac1",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -5680,8 +5680,8 @@
         {
             "name": "2️⃣0️⃣8️⃣ 🎖VIP🎖",
             "type": "vless",
-            "server": "172.66.44.80",
-            "port": 443,
+            "server": "216.9.224.105",
+            "port": 24443,
             "uuid": "643e60ae-e295-4c22-996a-3f4759463025",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -5707,8 +5707,8 @@
         {
             "name": "2️⃣0️⃣9️⃣ 🎖VIP🎖",
             "type": "vless",
-            "server": "104.21.16.1",
-            "port": 443,
+            "server": "216.9.224.105",
+            "port": 24443,
             "uuid": "70a20cbf-5857-4eea-b711-2343ddb5b0f1",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -5736,7 +5736,7 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "b1292d5f-77e8-4b87-80df-30c2315db819",
+            "uuid": "3e72b70b-d4a7-437e-b279-8e02932bf910",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5744,14 +5744,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/qonfkjasmTRhoFPm/MjE2LjkuMjI0LjEwNToyNDQ0Mw==?mode=proxyip",
+                "path": "/KTXBksCYGMwfWzcw?mode=proxyip",
                 "headers": {
-                    "Host": "11objr3khro7hakfbay4qclwsfkuoq3w.yiyek94973.workers.dev"
+                    "Host": "1pwza1a6cdpzj1xrpnxlmffx-ly9m9au.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "11oBJR3KhRo7hAKfBaY4qcLwSfkUoq3W.YIyek94973.WOrKeRS.deV",
+            "servername": "1pwzA1A6cdpZJ1XRPNXlmFfx-Ly9m9aU.pAGES.Dev",
             "alpn": [
                 "http/1.1"
             ],
