@@ -5653,9 +5653,9 @@
         {
             "name": "2️⃣0️⃣7️⃣ 🎖VIP🎖",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
-            "uuid": "b1292d5f-77e8-4b87-80df-30c2315db819",
+            "server": "172.67.146.15",
+            "port": 443,
+            "uuid": "1f173a1e-9112-47f5-b000-42b5ec15aac1",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5663,14 +5663,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/qonfkjasmTRhoFPm/MjE2LjkuMjI0LjEwNToyNDQ0Mw==?mode=proxyip",
+                "path": "/HUeQwDt5P6GuKBB5?mode=proxyip",
                 "headers": {
-                    "Host": "11objr3khro7hakfbay4qclwsfkuoq3w.yiyek94973.workers.dev"
+                    "Host": "d0pb5bhfs1w1ckrl1fpwgcqs0exsedx3.henira4858.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "11oBJR3KhRo7hAKfBaY4qcLwSfkUoq3W.YIyek94973.WOrKeRS.deV",
+            "servername": "d0Pb5bhfs1W1ckRl1fpwgCqS0eXseDX3.hEnira4858.WoRkERs.Dev",
             "alpn": [
                 "http/1.1"
             ],
