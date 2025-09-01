@@ -1198,9 +1198,9 @@
         {
             "name": "4️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "94.103.183.229",
-            "port": 2053,
-            "uuid": "fd289931-980d-4fbb-a7f3-a89f79301034",
+            "server": "172.66.47.136",
+            "port": 443,
+            "uuid": "5f7048d1-d7fc-451f-8dc1-1c210c92c65a",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -1208,18 +1208,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/FRBcDEsHgauWqfZQ",
+                "path": "/eyJqdW5rIjoiVUhoQUJpWlN5U3VyeEtmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSJdfQ==",
                 "headers": {
-                    "Host": "z62smgrzk7i0sqpqsz9btjnegnvauru4.cekek35884.workers.dev"
+                    "Host": "6351is5ta-hr8gu6fuu2b3ldg97sljfz.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "z62smgrZK7i0sQpqSz9bTJneGNvAuRU4.CeKek35884.WORkErS.DeV",
+            "servername": "6351IS5ta-hR8gU6Fuu2B3LdG97SLJFZ.pages.dEV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
