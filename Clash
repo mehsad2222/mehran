@@ -1073,18 +1073,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/2MVYNBCeb4XbWGyR",
+                "path": "/eyJqdW5rIjoiZkpZZ0dOS1BaVzlLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSJdfQ==",
                 "headers": {
                     "Host": "rr04f-w2uq4wm-z3l6df1xkhenb6xy0x.xojaba6863.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "Rr04F-W2Uq4Wm-z3L6dF1xKHeNB6xy0x.xOjaBA6863.wOrKers.DEV",
+            "servername": "rR04F-W2UQ4wM-Z3L6dF1XKHEnb6xY0x.xoJaBA6863.wORKeRs.dEV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
