@@ -5732,6 +5732,7 @@
             "skip-cert-verify": false
         },
         {
+            "name": "2️⃣1️⃣0️⃣ Pishgaman-Technology",
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
