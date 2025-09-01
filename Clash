@@ -5555,7 +5555,7 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "eyJqdW5rIjoib3UwNjA3ajdBa3UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoib3UwNjA3ajdBa3UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
                     "Host": "0hecs9kyfbxofj38nrdx3wv5h041jyq4.megot23202.workers.dev"
                 },
@@ -5582,7 +5582,7 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/vN9gmTzQsiU9ePe0/MjE2LjkuMjI0LjEwNToyNDQ0Mw==?mode=proxyip",
+                "path": "/eyJqdW5rIjoibE5aSW5DQnVoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ====?mode=proxyip",
                 "headers": {
                     "Host": "2v6mb1figvkw48jv9sut97c4q97s20le.pages.dev"
                 },
@@ -5609,7 +5609,7 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/fJK0CAPlKkTlPLQO/MjE2LjkuMjI0LjEwNToyNDQ0Mw==?mode=proxyip",
+                "path": "/eyJqdW5rIjoic3JMWXp1cEp0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
                     "Host": "bp-5pxt9hbfkfzeqqwq23qu6tn4-flop.ribem42521.workers.dev"
                 },
@@ -5636,7 +5636,7 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/v0ZLGjxMKvxcjkpt/MjE2LjkuMjI0LjEwNToyNDQ0Mw==?mode=proxyip",
+                "path": "/eyJqdW5rIjoiRHd1SUZxV0dCblVEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
                     "Host": "4rp4gzwig7kqv4xtjmyjpdvr0fe97cqf.pages.dev"
                 },
@@ -5663,7 +5663,7 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/HUeQwDt5P6GuKBB5?mode=proxyip",
+                "path": "/eyJqdW5rIjoiOVBOU1pHbnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
                     "Host": "d0pb5bhfs1w1ckrl1fpwgcqs0exsedx3.henira4858.workers.dev"
                 },
@@ -5690,7 +5690,7 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/Y5T9AGuE1mUQYbsf?mode=proxyip",
+                "path": "/eyJqdW5rIjoiVmc3bmFHM1lqUG9CbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
                     "Host": "joyhpu74pikn1wyoezwfel5nb2h32cy3.pages.dev"
                 },
