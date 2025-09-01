@@ -1090,8 +1090,8 @@
         {
             "name": "3️⃣8️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "95.164.116.218",
-            "port": 2053,
+            "server": "216.9.224.105",
+            "port": 24443,
             "uuid": "37b7fffb-7e37-45e0-b745-110503b10c95",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -1100,18 +1100,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/cDbdbxbigsi76Bfx",
+                "path": "/eyJqdW5rIjoiejlDOHNXMG4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19",
                 "headers": {
                     "Host": "9wt4frszbxzmnji9wa-riyelby97vyg0.pigoy79506.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "9wt4fRsZbXZMnji9wA-riYELbY97vYG0.pigOy79506.WorKeRs.Dev",
+            "servername": "9wT4FrSZBXzMNJi9WA-RiyeLBy97vYg0.pIGOy79506.wOrkErS.DEV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
