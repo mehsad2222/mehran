@@ -983,9 +983,9 @@
         {
             "name": "3️⃣4️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "5.101.180.145",
+            "server": "188.114.97.1",
             "port": 443,
-            "uuid": "5ea804b5-76c7-4d4a-9694-4e722bf07d58",
+            "uuid": "29a3d766-57f8-441f-8083-e663242fd0c2",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -993,18 +993,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/IAnWduSYGbyRMcge",
+                "path": "/eyJqdW5rIjoiM3JIN09SSnRXN0FkQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0=",
                 "headers": {
-                    "Host": "hjdkr749bdiw83jdjd.liyod77879.workers.dev"
+                    "Host": "d07x3vnoged6b4r9uyc8p5lu6thnl7bx.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "hJdkR749BdIW83jdJD.LiyoD77879.WORKers.DEV",
+            "servername": "D07x3vnoged6b4r9uyc8P5LU6Thnl7bx.paGEs.dev",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
