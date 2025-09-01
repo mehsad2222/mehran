@@ -5744,7 +5744,7 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidkZOaEtLRXE0OE1pV3NoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoic1NSWkRnMDBjeHZnayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjIxNi45LjIyNC4xMDU6MjQ0NDMiXX0=",
                 "headers": {
                     "Host": "1pwza1a6cdpzj1xrpnxlmffx-ly9m9au.pages.dev"
                 },
