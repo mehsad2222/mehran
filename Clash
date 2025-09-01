@@ -5582,7 +5582,7 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibE5aSW5DQnVoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ====?mode=proxyip",
+                "path": "/eyJqdW5rIjoiUXRJcEhIbnhrUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
                     "Host": "2v6mb1figvkw48jv9sut97c4q97s20le.pages.dev"
                 },
