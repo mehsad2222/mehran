@@ -91,8 +91,8 @@
         {
             "name": "0️⃣1️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "port": 2053,
+            "server": "216.9.224.105",
+            "port": 24443,
             "uuid": "81792f99-104b-4060-a852-d07517e143aa",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -118,8 +118,8 @@
         {
             "name": "0️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "port": 443,
+            "server": "216.9.224.105",
+            "port": 24443,
             "uuid": "b12644a7-f1c8-4e22-abb1-e76ef57e7ada",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
