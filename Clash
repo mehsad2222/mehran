@@ -91,8 +91,8 @@
         {
             "name": "0️⃣1️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "94.131.123.44",
-            "port": 443,
+            "server": "www.speedtest.net",
+            "port": 2053,
             "uuid": "81792f99-104b-4060-a852-d07517e143aa",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -118,7 +118,7 @@
         {
             "name": "0️⃣2️⃣ Pishgaman-Technology",
             "type": "vless",
-            "server": "94.131.123.44",
+            "server": "www.speedtest.net",
             "port": 443,
             "uuid": "b12644a7-f1c8-4e22-abb1-e76ef57e7ada",
             "packet-encoding": "packetaddr",
@@ -128,18 +128,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/fCLHt9EpKRrfNIbA",
+                "path": "/eyJqdW5rIjoidUNWaTVUY05PS2RzVnQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19",
                 "headers": {
                     "Host": "52-89l7zshx4nhzymmq-agjaxvdiw6pb.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "52-89l7ZshX4nHZYmmq-aGjAxvDiW6PB.pagEs.deV",
+            "servername": "52-89l7ZshX4nhzymMQ-AGJAxvdIW6pB.PAgeS.DeV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
