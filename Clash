@@ -5709,7 +5709,7 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "70a20cbf-5857-4eea-b711-2343ddb5b0f1",
+            "uuid": "62e8b6c7-1d9f-42bc-90e6-7871c14e8792",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5717,18 +5717,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRUpKemZqam92WTd4dm4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIyMTYuOS4yMjQuMTA1OjI0NDQzIl19",
+                "path": "/eyJqdW5rIjoiNUswTzJBTkZoVnkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "kelh1gpb-mc2dtfxx1c-sull56lknhes.yejab33178.workers.dev"
+                    "Host": "pi3uht3o9ic94qtsz16ttc3te2x79pr6.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "KELH1gPb-mc2dTFxX1c-sULL56LKNhES.yEjAB33178.wOrKERs.dEV",
+            "servername": "Pi3uhT3O9IC94QTSz16ttC3tE2x79pr6.pAges.DEv",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
