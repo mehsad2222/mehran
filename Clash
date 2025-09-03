@@ -5736,7 +5736,7 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "3e72b70b-d4a7-437e-b279-8e02932bf910",
+            "uuid": "3e0a96e5-c36c-495b-a8c8-7578a119de8c",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5744,18 +5744,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoic1NSWkRnMDBjeHZnayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjIxNi45LjIyNC4xMDU6MjQ0NDMiXX0=",
+                "path": "/eyJqdW5rIjoidDJjSTdPRDhtMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "1pwza1a6cdpzj1xrpnxlmffx-ly9m9au.pages.dev"
+                    "Host": "5vyxd3znz5ahgl08x98z2px0lwhwspa8.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "1PWzA1A6CDPzj1XrPNXLMffX-Ly9m9au.PaGeS.DeV",
+            "servername": "5vyXD3znZ5Ahgl08x98Z2pX0lwhWspa8.PAgES.DeV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         }
     ],
