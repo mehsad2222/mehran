@@ -101,14 +101,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiU1lTY215bU14IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSJdfQ==",
+                "path": "/eyJqdW5rIjoidmdtdXhFVG8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
                     "Host": "c7jbyi-a9qvx7gkbe7ujczginz8ckbi7.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "c7JByi-A9qvX7GKBe7UJczgInz8Ckbi7.PAgeS.dev",
+            "servername": "c7jbYI-A9qvx7GKbE7uJcZGINz8ckBI7.pAGES.DEV",
             "alpn": [
                 "http/1.1"
             ],
