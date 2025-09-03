@@ -5547,7 +5547,7 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "308511ed-d6c5-49aa-9709-8213bd2cd5c9",
+            "uuid": "e1df5e49-c003-4f10-b64b-b66fd5692e5f",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -5555,18 +5555,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWWNXWDJxZkE3ZUtESyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjIxNi45LjIyNC4xMDU6MjQ0NDMiXX0=",
+                "path": "/eyJqdW5rIjoiZ2dNTHY1UGFQb0VMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
-                    "Host": "0hecs9kyfbxofj38nrdx3wv5h041jyq4.megot23202.workers.dev"
+                    "Host": "7l3lqbro1k9cdme160r3dfx66rgv3nr8.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "0heCs9KYFbxofj38NRDX3wv5h041jyQ4.megot23202.WoRkErs.deV",
+            "servername": "7L3LqBrO1K9CDme160R3dFX66rgv3Nr8.PageS.deV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
