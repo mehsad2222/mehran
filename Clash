@@ -496,9 +496,9 @@
         {
             "name": "0️⃣1️⃣6️⃣ Mehran🌐",
             "type": "vless",
-            "server": "51.195.102.49",
-            "port": 2053,
-            "uuid": "280c31ff-b26a-4395-8bef-c650069863c6",
+            "server": "62.3.12.76",
+            "port": 443,
+            "uuid": "0593c1ec-2131-4e2a-acdf-adc5ede1fc48",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -506,18 +506,18 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/J7xZIxvIyFAai7iz",
+                "path": "/N3URgFYH80KOPoee",
                 "headers": {
-                    "Host": "cai-1tova7xxoj9t01w8y2nanmk4m3mx.ahmad-sheikhi2339.workers.dev"
+                    "Host": "n6jc1bwjl1b72w5d0c4oi31tnawr36kh.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "CAI-1ToVA7xXOj9T01W8y2nAnMk4m3mx.AhmAd-SHEIkHi2339.WORkers.dev",
+            "servername": "n6JC1bwJl1B72w5d0c4Oi31tnAWR36KH.pAgEs.DEV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
+            "client-fingerprint": "random",
             "skip-cert-verify": false
         },
         {
