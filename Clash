@@ -89,7 +89,7 @@
     },
     "proxies": [
         {
-            "name": "0️⃣1️⃣ Pishgaman-Technology",
+            "name": "0️⃣1️⃣ Mehran🌐",
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
@@ -116,7 +116,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣2️⃣ Pishgaman-Technology",
+            "name": "0️⃣2️⃣ Mehran🌐",
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
@@ -143,7 +143,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣3️⃣ Pishgaman-Technology",
+            "name": "0️⃣3️⃣ Mehran🌐",
             "type": "vless",
             "server": "94.131.123.44",
             "port": 443,
@@ -170,7 +170,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣4️⃣ Pishgaman-Technology",
+            "name": "0️⃣4️⃣ Mehran🌐",
             "type": "vless",
             "server": "62.3.12.76",
             "port": 443,
@@ -197,7 +197,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣5️⃣ Pishgaman-Technology",
+            "name": "0️⃣5️⃣ Mehran🌐",
             "type": "vless",
             "server": "62.3.12.76",
             "port": 443,
@@ -224,7 +224,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣6️⃣ Pishgaman-Technology",
+            "name": "0️⃣6️⃣ Mehran🌐",
             "type": "vless",
             "server": "172.67.193.122",
             "port": 443,
@@ -251,7 +251,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣7️⃣ Pishgaman-Technology",
+            "name": "0️⃣7️⃣ Mehran🌐",
             "type": "vless",
             "server": "62.3.12.76",
             "port": 443,
@@ -278,7 +278,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣8️⃣ Pishgaman-Technology",
+            "name": "0️⃣8️⃣ Mehran🌐",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 8443,
@@ -305,7 +305,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣9️⃣ Pishgaman-Technology",
+            "name": "0️⃣9️⃣ Mehran🌐",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 443,
@@ -332,7 +332,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣0️⃣ Pishgaman-Technology",
+            "name": "1️⃣0️⃣ Mehran🌐",
             "type": "vless",
             "server": "185.39.204.55",
             "port": 2053,
@@ -359,7 +359,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣1️⃣ Pishgaman-Technology",
+            "name": "1️⃣1️⃣ Mehran🌐",
             "type": "vless",
             "server": "194.67.204.158",
             "port": 8443,
@@ -386,7 +386,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣2️⃣ Pishgaman-Technology",
+            "name": "1️⃣2️⃣ Mehran🌐",
             "type": "vless",
             "server": "94.131.123.44",
             "port": 443,
@@ -413,7 +413,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣3️⃣ Pishgaman-Technology",
+            "name": "1️⃣3️⃣ Mehran🌐",
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
@@ -440,7 +440,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣4️⃣ Pishgaman-Technology",
+            "name": "1️⃣4️⃣ Mehran🌐",
             "type": "vless",
             "server": "159.223.236.56",
             "port": 443,
@@ -467,7 +467,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣5️⃣ Pishgaman-Technology",
+            "name": "1️⃣5️⃣ Mehran🌐",
             "type": "vless",
             "server": "185.36.143.166",
             "port": 443,
@@ -494,7 +494,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣6️⃣ Pishgaman-Technology",
+            "name": "1️⃣6️⃣ Mehran🌐",
             "type": "vless",
             "server": "45.89.52.247",
             "port": 443,
@@ -521,7 +521,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣7️⃣ Pishgaman-Technology",
+            "name": "1️⃣7️⃣ Mehran🌐",
             "type": "vless",
             "server": "91.215.153.85",
             "port": 443,
@@ -548,7 +548,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣8️⃣ Pishgaman-Technology",
+            "name": "1️⃣8️⃣ Mehran🌐",
             "type": "vless",
             "server": "2.56.127.220",
             "port": 2053,
@@ -575,7 +575,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣9️⃣ Pishgaman-Technology",
+            "name": "1️⃣9️⃣ Mehran🌐",
             "type": "vless",
             "server": "194.67.204.158",
             "port": 8443,
@@ -602,7 +602,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "2️⃣0️⃣ Pishgaman-Technology",
+            "name": "2️⃣0️⃣ Mehran🌐",
             "type": "vless",
             "server": "185.39.204.55",
             "port": 2053,
@@ -5766,26 +5766,26 @@
             "proxies": [
                 "💦 Best Ping 💥",
                 "🎖 VIP 🎖",
-                "0️⃣1️⃣ Pishgaman-Technology",
-                "0️⃣2️⃣ Pishgaman-Technology",
-                "0️⃣3️⃣ Pishgaman-Technology",
-                "0️⃣4️⃣ Pishgaman-Technology",
-                "0️⃣5️⃣ Pishgaman-Technology",
-                "0️⃣6️⃣ Pishgaman-Technology",
-                "0️⃣7️⃣ Pishgaman-Technology",
-                "0️⃣8️⃣ Pishgaman-Technology",
-                "0️⃣9️⃣ Pishgaman-Technology",
-                "1️⃣0️⃣ Pishgaman-Technology",
-                "1️⃣1️⃣ Pishgaman-Technology",
-                "1️⃣2️⃣ Pishgaman-Technology",
-                "1️⃣3️⃣ Pishgaman-Technology",
-                "1️⃣4️⃣ Pishgaman-Technology",
-                "1️⃣5️⃣ Pishgaman-Technology",
-                "1️⃣6️⃣ Pishgaman-Technology",
-                "1️⃣7️⃣ Pishgaman-Technology",
-                "1️⃣8️⃣ Pishgaman-Technology",
-                "1️⃣9️⃣ Pishgaman-Technology",
-                "2️⃣0️⃣ Pishgaman-Technology",
+                "0️⃣1️⃣ Mehran🌐",
+                "0️⃣2️⃣ Mehran🌐",
+                "0️⃣3️⃣ Mehran🌐",
+                "0️⃣4️⃣ Mehran🌐",
+                "0️⃣5️⃣ Mehran🌐",
+                "0️⃣6️⃣ Mehran🌐",
+                "0️⃣7️⃣ Mehran🌐",
+                "0️⃣8️⃣ Mehran🌐",
+                "0️⃣9️⃣ Mehran🌐",
+                "1️⃣0️⃣ Mehran🌐",
+                "1️⃣1️⃣ Mehran🌐",
+                "1️⃣2️⃣ Mehran🌐",
+                "1️⃣3️⃣ Mehran🌐",
+                "1️⃣4️⃣ Mehran🌐",
+                "1️⃣5️⃣ Mehran🌐",
+                "1️⃣6️⃣ Mehran🌐",
+                "1️⃣7️⃣ Mehran🌐",
+                "1️⃣8️⃣ Mehran🌐",
+                "1️⃣9️⃣ Mehran🌐",
+                "2️⃣0️⃣ Mehran🌐",
                 "2️⃣1️⃣ Pishgaman-Technology",
                 "2️⃣2️⃣ Pishgaman-Technology",
                 "2️⃣3️⃣ Pishgaman-Technology",
@@ -5985,26 +5985,26 @@
             "interval": 30,
             "tolerance": 50,
             "proxies": [
-                "0️⃣1️⃣ Pishgaman-Technology",
-                "0️⃣2️⃣ Pishgaman-Technology",
-                "0️⃣3️⃣ Pishgaman-Technology",
-                "0️⃣4️⃣ Pishgaman-Technology",
-                "0️⃣5️⃣ Pishgaman-Technology",
-                "0️⃣6️⃣ Pishgaman-Technology",
-                "0️⃣7️⃣ Pishgaman-Technology",
-                "0️⃣8️⃣ Pishgaman-Technology",
-                "0️⃣9️⃣ Pishgaman-Technology",
-                "1️⃣0️⃣ Pishgaman-Technology",
-                "1️⃣1️⃣ Pishgaman-Technology",
-                "1️⃣2️⃣ Pishgaman-Technology",
-                "1️⃣3️⃣ Pishgaman-Technology",
-                "1️⃣4️⃣ Pishgaman-Technology",
-                "1️⃣5️⃣ Pishgaman-Technology",
-                "1️⃣6️⃣ Pishgaman-Technology",
-                "1️⃣7️⃣ Pishgaman-Technology",
-                "1️⃣8️⃣ Pishgaman-Technology",
-                "1️⃣9️⃣ Pishgaman-Technology",
-                "2️⃣0️⃣ Pishgaman-Technology",
+                "0️⃣1️⃣ Mehran🌐",
+                "0️⃣2️⃣ Mehran🌐",
+                "0️⃣3️⃣ Mehran🌐",
+                "0️⃣4️⃣ Mehran🌐",
+                "0️⃣5️⃣ Mehran🌐",
+                "0️⃣6️⃣ Mehran🌐",
+                "0️⃣7️⃣ Mehran🌐",
+                "0️⃣8️⃣ Mehran🌐",
+                "0️⃣9️⃣ Mehran🌐",
+                "1️⃣0️⃣ Mehran🌐",
+                "1️⃣1️⃣ Mehran🌐",
+                "1️⃣2️⃣ Mehran🌐",
+                "1️⃣3️⃣ Mehran🌐",
+                "1️⃣4️⃣ Mehran🌐",
+                "1️⃣5️⃣ Mehran🌐",
+                "1️⃣6️⃣ Mehran🌐",
+                "1️⃣7️⃣ Mehran🌐",
+                "1️⃣8️⃣ Mehran🌐",
+                "1️⃣9️⃣ Mehran🌐",
+                "2️⃣0️⃣ Mehran🌐",
                 "2️⃣1️⃣ Pishgaman-Technology",
                 "2️⃣2️⃣ Pishgaman-Technology",
                 "2️⃣3️⃣ Pishgaman-Technology",
