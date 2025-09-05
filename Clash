@@ -874,9 +874,9 @@
         {
             "name": "0️⃣3️⃣0️⃣ Mehran🌐",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
-            "uuid": "fd979462-e24c-4242-937f-0f0f566e12e8",
+            "server": "51.195.102.49",
+            "port": 2053,
+            "uuid": "9c7f0a6a-994b-44e4-bb4a-80e64ef6dbc5",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -884,14 +884,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOE9pOFlPR3BEODdmOHciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19",
+                "path": "/wp-content/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==/?ed=2048",
                 "headers": {
-                    "Host": "du9du-92oe64mqgs3iaiazc4pspghsn1.pages.dev"
+                    "Host": "fhchcufdi64500644.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "du9dU-92oe64mQgS3IAiaZC4pspGHSn1.PagES.DEV",
+            "servername": "fhchcufdi64500644.pages.dev",
             "alpn": [
                 "http/1.1"
             ],
