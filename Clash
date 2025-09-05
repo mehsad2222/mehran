@@ -2955,7 +2955,7 @@
             "type": "vless",
             "server": "62.3.12.76",
             "port": 443,
-            "uuid": "505dc71e-194f-4e38-919b-ddaec3ef4a97",
+            "uuid": "487e050c-2474-43fc-9542-747bf1288a06",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -2963,9 +2963,9 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/GN6LRXqGf9nHyRyC",
+                "path": "/nB3kA2iTJsKfrvDh",
                 "headers": {
-                    "Host": "387ihczmi1w3xif514w7i09-wx42tfxy.bodohe9590.workers.dev"
+                    "Host": "hdjhdk.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
@@ -2997,7 +2997,7 @@
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "387ihCzmI1W3XIf514W7i09-wx42tfxY.BodoHe9590.WoRKers.dEV",
+            "servername": "HDjHDk.PAGES.DEV",
             "alpn": [
                 "http/1.1"
             ],
