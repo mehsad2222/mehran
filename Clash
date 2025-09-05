@@ -91,8 +91,8 @@
         {
             "name": "0️⃣0️⃣1️⃣ Mehran🌐",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
+            "server": "51.195.102.49",
+            "port": 2053,
             "uuid": "c9fc419b-0d2d-4bfd-b208-69d5199fb009",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
