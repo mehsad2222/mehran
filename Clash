@@ -2585,14 +2585,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/t7HboKY4dRG56lDR",
+                "path": "/FNn6rr0uQR7eEDec",
                 "headers": {
                     "Host": "1max9lle1vqu0xi2tdl2e32dc9e2q-pa.miwiwec186.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "1mAx9LLe1vQU0xi2TDL2e32DC9E2q-PA.MIWiwEc186.woRkERs.DEV",
+            "servername": "1max9LlE1vQU0Xi2tdL2E32Dc9e2Q-pa.mIWIWeC186.WoRKERs.DEV",
             "alpn": [
                 "http/1.1"
             ],
