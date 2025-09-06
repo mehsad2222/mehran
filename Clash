@@ -957,7 +957,7 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "71195557-b97a-4744-a7aa-e0c4a313bb60",
+            "uuid": "6aebf353-ca4d-4e0c-9442-91780da4cd27",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -965,14 +965,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicTBldlhTc0k5ZnR6TlQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19",
+                "path": "/?ed=2560",
                 "headers": {
-                    "Host": "tj25uulhtoxl77m5k8w4l26ioyn3h22d.pages.dev"
+                    "Host": "ggfjchxj65gihdkb00ppoollkk.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "TJ25uuLhToXl77M5k8w4L26IOYn3h22d.PAGes.DEv",
+            "servername": "ggfjchxj65gihdkb00ppoollkk.pages.dev",
             "alpn": [
                 "http/1.1"
             ],
