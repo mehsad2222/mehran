@@ -1119,7 +1119,7 @@
             "type": "vless",
             "server": "51.195.102.49",
             "port": 2053,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "d6a7990c-a216-4b79-b2b9-7ed8db6bab19",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
@@ -1127,14 +1127,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/De34wrXkRsix592d",
+                "path": "/?ed=2560",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "jdork970jonlmhdo83611ueo.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "vfB2xCwa6EQ1Xci9BhhG6PENaklxPPFR.mokhaBeRAt2014.wORkeRs.Dev",
+            "servername": "jdork970jonlmhdo83611ueo.pages.dev",
             "alpn": [
                 "http/1.1"
             ],
