@@ -1333,7 +1333,7 @@
         {
             "name": "0️⃣4️⃣7️⃣ Mehran🌐",
             "type": "vless",
-            "server": "45.129.199.232",
+            "server": "62.3.12.76",
             "port": 443,
             "uuid": "a0c397d6-1e7c-4a4e-adcb-81c20190e474",
             "packet-encoding": "packetaddr",
@@ -1343,14 +1343,14 @@
             "tfo": true,
             "mptcp": true,
             "ws-opts": {
-                "path": "/ZBcCu8nsNAomMhhv",
+                "path": "/4ltQ6nWW2FOLNY2l",
                 "headers": {
                     "Host": "rewvi7446bk4vpnoy3sz-s72oxbisiwy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "rEWVi7446bK4VpNoY3sz-S72oXBisIwy.PagES.Dev",
+            "servername": "ReWvI7446Bk4VPNOY3Sz-S72OxbISiwY.Pages.DEv",
             "alpn": [
                 "http/1.1"
             ],
