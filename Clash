@@ -1227,26 +1227,26 @@
             "type": "vless",
             "server": "62.3.12.76",
             "port": 443,
-            "uuid": "41fe3d95-bea8-447d-8acd-68192692bbc4",
+            "uuid": "7eb5b57c-f18b-4b21-8e0e-784e382aa159",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/HonGLeYOAnd5iLDV",
+                "path": "/eyJqdW5rIjoibDdtNGtPVzRpdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "w3gdzmuc1ng285n2a2nacggwfx0-31pb.neniwa9644.workers.dev"
+                    "Host": "h1ern8pjqt-6f1na5ehl4imna4eym794.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "w3GdZMuc1ng285n2a2NAcGgWfX0-31PB.nEnIwa9644.woRkErs.Dev",
+            "servername": "h1ErN8pjQT-6F1nA5ehl4iMNA4eYM794.pAGEs.deV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
