@@ -5570,30 +5570,30 @@
             "skip-cert-verify": false
         },
         {
-            "name": "2️⃣0️⃣4️⃣ Turkey🇹🇷",
+            "name": "2️⃣0️⃣4️⃣ Germany🇩🇪",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
-            "uuid": "3864270c-51aa-434c-b516-b9de9dc0d374",
+            "server": "51.68.162.33",
+            "port": 443,
+            "uuid": "de8621c4-7aa8-4e5d-869a-0616a0844dec",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibk14MU01NGcxZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjIxNi45LjIyNC4xMDU6MjQ0NDMiXX0=",
+                "path": "/eyJqdW5rIjoiaUl4RVNTUnMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1MS42OC4xNjIuMzM6NDQzIl19",
                 "headers": {
-                    "Host": "2v6mb1figvkw48jv9sut97c4q97s20le.pages.dev"
+                    "Host": "6prqgp86nepyuqcwq3qo4rl4rg9wxpb5.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "2V6mB1fIgvkW48JV9sut97C4q97S20Le.Pages.deV",
+            "servername": "6PRqgp86nePYUQCwQ3Qo4rL4Rg9wXPB5.pAGEs.dEv",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
@@ -5968,7 +5968,7 @@
                 "2️⃣0️⃣0️⃣ Mehran🌐",
                 "2️⃣0️⃣1️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣3️⃣ Turkey🇹🇷",
-                "2️⃣0️⃣4️⃣ Turkey🇹🇷",
+                "2️⃣0️⃣4️⃣ Germany🇩🇪",
                 "2️⃣0️⃣5️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣6️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣7️⃣ Turkey🇹🇷",
@@ -6196,7 +6196,7 @@
                 "2️⃣0️⃣1️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣2️⃣ Germany🇩🇪",
                 "2️⃣0️⃣3️⃣ Turkey🇹🇷",
-                "2️⃣0️⃣4️⃣ Turkey🇹🇷",
+                "2️⃣0️⃣4️⃣ Germany🇩🇪",
                 "2️⃣0️⃣5️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣6️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣7️⃣ Turkey🇹🇷",
