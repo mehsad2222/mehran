@@ -5491,24 +5491,24 @@
         {
             "name": "2️⃣0️⃣1️⃣ Turkey🇹🇷",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
-            "uuid": "df3eb101-7223-45ae-bf7f-575afe75b7c8",
+            "server": "62.3.12.76",
+            "port": 443,
+            "uuid": "2fec5464-661d-482d-b980-9bf69fb9f9e2",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRUwxZkxDd2RLRiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoic2VsY2FncHY3YmNINVV2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNjIuMy4xMi43Njo0NDMiXX0=",
                 "headers": {
-                    "Host": "os0ap5x9bx35gnaxx6d8zb19jt7b67r7.pages.dev"
+                    "Host": "axw97s4nvtfd07fa69xle5b5dmpdw9ds.mehrankdvdbdj.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "Os0ap5X9BX35gnAxx6D8zB19JT7B67r7.PaGes.dEv",
+            "servername": "AXw97S4nvtFD07FA69Xle5B5DmPDW9ds.MeHRAnkDVdbDj.WorkErs.dEv",
             "alpn": [
                 "http/1.1"
             ],
