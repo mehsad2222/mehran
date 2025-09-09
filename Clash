@@ -5516,26 +5516,26 @@
             "skip-cert-verify": false
         },
         {
-            "name": "2️⃣0️⃣2️⃣ Turkey🇹🇷",
+            "name": "2️⃣0️⃣2️⃣ Germany🇩🇪",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
-            "uuid": "70327dbc-2017-48ff-91a5-331ced92aa0a",
+            "server": "139.162.191.98",
+            "port": 2096,
+            "uuid": "5f4b9f5e-25dc-47b1-b83e-b4e1977523f8",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoic0lLcXZLUGxrZzdObGVoMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiWjRlc09mYjFyNVJKMzMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMzkuMTYyLjE5MS45ODoyMDk2Il19",
                 "headers": {
-                    "Host": "32uoxsqqh5ol7qiqdgficdedl8r5bgr1.pages.dev"
+                    "Host": "k-ahhw284a7k3najoirjhri-poriw6tc.mehran-0063838.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "32uOxsqQH5oL7QIqDGFIcdedL8r5Bgr1.pAges.DEv",
+            "servername": "k-AHHw284A7K3NAjoIrjhRi-pORIW6tC.mehraN-0063838.worKers.deV",
             "alpn": [
                 "http/1.1"
             ],
