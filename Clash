@@ -1034,26 +1034,25 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣3️⃣6️⃣ Mehran🌐",
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "51fee783-e264-44b0-b1b7-e0f48ea019cb",
+            "uuid": "c730a133-f6f8-47ac-8254-b265f56d37c6",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/?ed=2560",
+                "path": "/eyJqdW5rIjoiTW95cFhJWE1na0V5ZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "hdjbfjdu4746eibxkdv378bd.pages.dev"
+                    "Host": "na2jk31t6d256n94vk06j-obbonqihr9.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "hdjbfjdu4746eibxkdv378bd.pages.dev",
+            "servername": "na2jk31t6d256n94Vk06j-OBbOnqIhR9.paGEs.Dev",
             "alpn": [
                 "http/1.1"
             ],
