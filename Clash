@@ -281,7 +281,7 @@
             "name": "0️⃣0️⃣8️⃣ Mehran🌐",
             "type": "vless",
             "server": "www.speedtest.net",
-            "port": 8443,
+            "port": 2053,
             "uuid": "9c8586b0-bf15-4d51-9cfd-9725eeabb9bd",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
