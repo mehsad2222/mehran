@@ -903,22 +903,22 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "dbf0a9cf-bba9-4893-8872-805b17e2f6ed",
+            "uuid": "43ea2dab-e9b0-466e-9708-78ccef7040f7",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/?ed=2560",
+                "path": "/eyJqdW5rIjoidkx3QXVmZjIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "jdjdvri83jridh93bppdu2.pages.dev"
+                    "Host": "2x2071065cjhprtyn5p2k3svrkfux-5p.bayaj69391.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "jdjdvri83jridh93bppdu2.pages.dev",
+            "servername": "2x2071065cjHprtyN5P2k3SvrkFuX-5P.BayaJ69391.WOrKerS.dEV",
             "alpn": [
                 "http/1.1"
             ],
