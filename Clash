@@ -1034,6 +1034,7 @@
             "skip-cert-verify": false
         },
         {
+            "name": "0️⃣3️⃣6️⃣ Mehran🌐",
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
