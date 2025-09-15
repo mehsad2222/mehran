@@ -41,9 +41,9 @@
             "rule-set:ir": "8.8.8.8#DIRECT"
         },
         "hosts": {
-            "rule-set:malware": "127.0.0.1",
-            "rule-set:phishing": "127.0.0.1",
-            "rule-set:cryptominers": "127.0.0.1"
+            "rule-set:malware": "rcode://refused",
+            "rule-set:phishing": "rcode://refused",
+            "rule-set:cryptominers": "rcode://refused"
         }
     },
     "tun": {
@@ -91,24 +91,24 @@
         {
             "name": "0️⃣0️⃣1️⃣ Mehran🌐",
             "type": "vless",
-            "server": "51.195.102.49",
-            "port": 2053,
-            "uuid": "3d7843b1-0d75-4fa8-91a3-a878d13c4055",
+            "server": "216.9.224.105",
+            "port": 24443,
+            "uuid": "e7e50db3-6213-46c8-b460-b8ffabb1fd7a",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/?ed=2560",
+                "path": "/eyJqdW5rIjoiNm4zMVRsbGNKTXZkeEVrMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "hhdhjjf5565hfjl07bnbhb.pages.dev"
+                    "Host": "v20sne1en-2z21vjja-lrueuyqw484x8.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "hhdhjjf5565hfjl07bnbhb.pages.dev",
+            "servername": "v20sNE1eN-2z21vjJa-lRuEUYQW484X8.pageS.dEV",
             "alpn": [
                 "http/1.1"
             ],
