@@ -2010,22 +2010,22 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "1ebdee60-f145-4974-b9e9-68da29c1bbd6",
+            "uuid": "8c2bcea5-bfa7-4d23-be2e-90da8df55739",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWjJ6RFB4WUF3RkpiMGgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19",
+                "path": "/eyJqdW5rIjoiQkxETWtBRG5VYTgwYmsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "9kqda8ibtqdcnxgfj-d3ka30joydzh36.pages.dev"
+                    "Host": "5dxi15b2a2nobak60olw2j0ob-mfj0xa.sewixer664.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "9KQDA8ibtqDCNxGFJ-D3kA30jOyDZH36.PagES.DEV",
+            "servername": "5dxi15B2a2nOBaK60olw2J0oB-MfJ0xA.sEwiXeR664.wORkErS.dev",
             "alpn": [
                 "http/1.1"
             ],
