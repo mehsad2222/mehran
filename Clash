@@ -1929,26 +1929,26 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "280c31ff-b26a-4395-8bef-c650069863c6",
+            "uuid": "888d6819-c61d-4413-8ecf-d08d66b43442",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/Gvv6ftCwfT5094oG",
+                "path": "/eyJqdW5rIjoiZVplVkZNR3ZMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
-                    "Host": "cai-1tova7xxoj9t01w8y2nanmk4m3mx.ahmad-sheikhi2339.workers.dev"
+                    "Host": "dslmdg5rsd6a9qfgzhtjhiwd7o9hco7y.nibes27430.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "cai-1TOVA7xXOj9T01W8Y2Nanmk4M3mX.ahMad-sHEIKhi2339.WORkeRs.dEV",
+            "servername": "dsLmDg5Rsd6A9QfGZHtjHIwd7O9hco7y.NiBes27430.WORKeRs.Dev",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
