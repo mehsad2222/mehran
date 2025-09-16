@@ -1983,22 +1983,22 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "da86e9ce-e66e-4bb6-9e25-a89965b058fc",
+            "uuid": "082b1947-94bb-4686-be68-a9154f162381",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiODQzaEI1S2FOdjRHOWpzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSJdfQ==",
+                "path": "/eyJqdW5rIjoiZGo4cURMMXJQRWpDUWpkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
-                    "Host": "psyy76iiefp9zoe1h8t3nns-17tuoids.mihibiw544.workers.dev"
+                    "Host": "rboedan5yzplf5h4hvowd372gkmeo0qo.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "psYy76IIefP9zoe1H8T3NnS-17tUoiDS.MIhiBiW544.WoRKeRs.DeV",
+            "servername": "RboeDaN5YzPlf5h4HvowD372gkmeo0QO.pAGes.DEv",
             "alpn": [
                 "http/1.1"
             ],
