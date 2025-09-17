@@ -1954,8 +1954,8 @@
         {
             "name": "0️⃣7️⃣0️⃣ Mehran🌐",
             "type": "vless",
-            "server": "45.129.199.232",
-            "port": 443,
+            "server": "216.9.224.105",
+            "port": 24443,
             "uuid": "0562ac9c-45ed-4e56-96cd-9b9476773dc8",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
