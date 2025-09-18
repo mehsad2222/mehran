@@ -3898,8 +3898,8 @@
         {
             "name": "1️⃣4️⃣2️⃣ Mehran🌐",
             "type": "vless",
-            "server": "18.198.227.161",
-            "port": 443,
+            "server": "194.67.78.233",
+            "port": 999,
             "uuid": "18a4f3e5-1bde-40c6-8297-9c7b8e29e6fd",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
