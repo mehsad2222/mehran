@@ -2305,8 +2305,8 @@
         {
             "name": "0️⃣8️⃣3️⃣ Mehran🌐",
             "type": "vless",
-            "server": "2.56.127.220",
-            "port": 2053,
+            "server": "62.3.12.76",
+            "port": 443,
             "uuid": "e995a499-b22e-4d6b-87f7-689fea79360e",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -2467,8 +2467,8 @@
         {
             "name": "0️⃣8️⃣9️⃣ Mehran🌐",
             "type": "vless",
-            "server": "188.132.192.194",
-            "port": 8443,
+            "server": "62.3.12.76",
+            "port": 443,
             "uuid": "dd46345e-c391-4c99-90fa-5cd1dcab542b",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
