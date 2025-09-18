@@ -5705,26 +5705,26 @@
             "skip-cert-verify": false
         },
         {
-            "name": "2️⃣0️⃣9️⃣ Turkey🇹🇷",
+            "name": "2️⃣0️⃣9️⃣ ✨️VIP✨️",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
-            "uuid": "62e8b6c7-1d9f-42bc-90e6-7871c14e8792",
+            "server": "212.104.128.21",
+            "port": 443,
+            "uuid": "91ca4e6e-4b36-41aa-ae5f-0e016ecf3637",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNUswTzJBTkZoVnkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiUXlLRlgycjBBeGMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "pi3uht3o9ic94qtsz16ttc3te2x79pr6.pages.dev"
+                    "Host": "dxvgp2qxknq5sgrrb0exchhsp15qjpgi.niraf98755.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "Pi3uhT3O9IC94QTSz16ttC3tE2x79pr6.pAges.DEv",
+            "servername": "dxvgp2qxknQ5SgRRb0EXchhSp15qjpgI.NiRaF98755.WORKErs.dev",
             "alpn": [
                 "http/1.1"
             ],
@@ -5732,7 +5732,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "2️⃣1️⃣0️⃣ Mehran🌐",
+            "name": "2️⃣1️⃣0️⃣ ✨️VIP✨️",
             "type": "vless",
             "server": "204.153.16.77",
             "port": 443,
@@ -5974,8 +5974,8 @@
                 "2️⃣0️⃣6️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣7️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣8️⃣ Turkey🇹🇷",
-                "2️⃣0️⃣9️⃣ Turkey🇹🇷",
-                "2️⃣1️⃣0️⃣ Mehran🌐"
+                "2️⃣0️⃣9️⃣ ✨️VIP✨️",
+                "2️⃣1️⃣0️⃣ ✨️VIP✨️"
             ]
         },
         {
@@ -6202,8 +6202,8 @@
                 "2️⃣0️⃣6️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣7️⃣ Turkey🇹🇷",
                 "2️⃣0️⃣8️⃣ Turkey🇹🇷",
-                "2️⃣0️⃣9️⃣ Turkey🇹🇷",
-                "2️⃣1️⃣0️⃣ Mehran🌐"        
+                "2️⃣0️⃣9️⃣ ✨️VIP✨️",
+                "2️⃣1️⃣0️⃣ ✨️VIP✨️"        
             ]
          }
     ],
