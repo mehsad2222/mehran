@@ -2143,8 +2143,8 @@
         {
             "name": "0️⃣7️⃣7️⃣ Mehran🌐",
             "type": "vless",
-            "server": "2.56.127.220",
-            "port": 2053,
+            "server": "62.3.12.76",
+            "port": 443,
             "uuid": "33e2317f-08a3-486a-a07b-3b0963a1fb6c",
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
