@@ -3036,22 +3036,22 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "6e346e91-3460-4a39-b6be-8d20be5aee2c",
+            "uuid": "891e204d-f827-4cea-b370-3c94c3e3c915",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVHJDZTVqS242UFR4eEIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19",
+                "path": "/eyJqdW5rIjoiWGVLOURNbGxERG1VIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
-                    "Host": "5ye0of4051nlpv2cfycwr0kpep99uwvc.mokhaberat2022.workers.dev"
+                    "Host": "gfmsga5ytd1-ztwf2co1ltuvb1wedyug.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "5yE0OF4051nLpV2CFYcwr0KPep99UwvC.MOkhaBerAT2022.WorKerS.dEv",
+            "servername": "gfmSga5YTD1-zTwF2co1lTUvB1wEdyUg.paGES.DEV",
             "alpn": [
                 "http/1.1"
             ],
