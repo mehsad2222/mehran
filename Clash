@@ -128,14 +128,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUmxMMU1YcUpvQlN5OCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiNDJCZWhsREJmTENPZFkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
                     "Host": "be83u9i4vdwszx7c7tnl4t6jkwmof19m.yejab33178.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "be83u9I4vdwsZX7C7tnl4T6JKWmOF19m.YEjaB33178.wORkERs.dEV",
+            "servername": "Be83U9I4vdwSZX7C7tNL4t6JKWMof19M.YeJAB33178.WoRkers.dEV",
             "alpn": [
                 "http/1.1"
             ],
