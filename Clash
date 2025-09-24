@@ -101,14 +101,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNm4zMVRsbGNKTXZkeEVrMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiZXlmSnIxeUg0SUhLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
                     "Host": "v20sne1en-2z21vjja-lrueuyqw484x8.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "v20sNE1eN-2z21vjJa-lRuEUYQW484X8.pageS.dEV",
+            "servername": "V20SNE1en-2Z21vJjA-lRUeuYQW484x8.PAGES.deV",
             "alpn": [
                 "http/1.1"
             ],
