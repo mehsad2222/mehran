@@ -901,8 +901,8 @@
         {
             "name": "0️⃣3️⃣1️⃣ Mehran🌐",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
+            "server": "46.17.43.237",
+            "port": 54596,
             "uuid": "43ea2dab-e9b0-466e-9708-78ccef7040f7",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -911,14 +911,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidkx3QXVmZjIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiQkxOQUVYYXRPQVciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
                     "Host": "2x2071065cjhprtyn5p2k3svrkfux-5p.bayaj69391.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "2x2071065cjHprtyN5P2k3SvrkFuX-5P.BayaJ69391.WOrKerS.dEV",
+            "servername": "2x2071065cJHPrtYn5P2K3SvRkfUX-5P.baYaJ69391.WorkErS.DeV",
             "alpn": [
                 "http/1.1"
             ],
