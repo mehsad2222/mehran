@@ -631,28 +631,28 @@
         {
             "name": "0️⃣2️⃣1️⃣ Mehran🌐",
             "type": "vless",
-            "server": "188.132.192.195",
-            "port": 2053,
-            "uuid": "37deb403-4d72-4696-ac7d-f64bb4a87832",
+            "server": "77.223.86.158",
+            "port": 443,
+            "uuid": "8612ef12-41fa-4022-a68b-2750bc65a4aa",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/E6ZoMYDPDtP7V4PY",
+                "path": "/eyJqdW5rIjoiOUcwNllHRExOTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "amvdt2a4u-va2tanf9jabtjm7t29ygan.pages.dev"
+                    "Host": "fgvv5ur4zlpolgr7k9b4pe-76w3rve75.mamod77831.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "AmVdT2A4U-va2TANf9JAbTJm7T29YGan.pAGEs.dEv",
+            "servername": "fgVv5Ur4ZlpoLGr7k9b4Pe-76w3rVE75.MamoD77831.wOrkERs.dEV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
