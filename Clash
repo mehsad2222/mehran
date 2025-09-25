@@ -1117,28 +1117,28 @@
         {
             "name": "0️⃣3️⃣9️⃣ Mehran🌐",
             "type": "vless",
-            "server": "51.195.102.49",
-            "port": 2053,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "server": "46.17.43.237",
+            "port": 54596,
+            "uuid": "276491f0-bbd0-4f4d-a361-750850697ce7",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/AcaPH5S5AqXZJ54M",
+                "path": "/eyJqdW5rIjoieHk3bkhuaTUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "bvc7-lvaz9m4wdsl-mfzcfu536-dui4s.fagam35286.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "vFB2XCWA6eq1XCI9BhhG6PEnAKLxPpfR.mOkhABERAt2014.workERs.DEv",
+            "servername": "BvC7-Lvaz9m4wDSL-mfZCfu536-dUI4s.FagAM35286.WOrkers.dEv",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
