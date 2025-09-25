@@ -280,28 +280,28 @@
         {
             "name": "0️⃣0️⃣8️⃣ Mehran🌐",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "port": 2053,
-            "uuid": "9c8586b0-bf15-4d51-9cfd-9725eeabb9bd",
+            "server": "216.9.224.105",
+            "port": 24443,
+            "uuid": "668d042e-a88a-497a-bcb4-5a4758559735",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/TkmmVsXRpBUODeRB",
+                "path": "/eyJqdW5rIjoidVdIc0pUUGQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "0k704j-2nfqe1p6dhxasp9rx-p9wf3ww.pages.dev"
+                    "Host": "sxgfozpng34qtqvhu20u4jl6iwuolikh.dapon60917.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "0K704J-2nfQE1P6DHxasp9RX-p9WF3WW.pAgEs.Dev",
+            "servername": "sXGfOZpNg34QtQvhu20U4Jl6IWuoLIKH.daPoN60917.WOrKers.DEv",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
