@@ -1198,9 +1198,9 @@
         {
             "name": "0️⃣4️⃣2️⃣ Mehran🌐",
             "type": "vless",
-            "server": "45.135.135.131",
-            "port": 4433,
-            "uuid": "9ae089b9-2bbb-4138-9149-326cef2df621",
+            "server": "185.153.182.58",
+            "port": 2053,
+            "uuid": "1ed822b3-4a2b-47d9-9fac-552bd379c4a0",
             "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -1208,14 +1208,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWnNpSWM3ZEVlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoialZ0TG0xbmZrVXpYdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "gv2tndkjiay8mmlzg6h68mec5wm-d7j4.dagibaf358.workers.dev"
+                    "Host": "z11lsz2vkwqlobxj2e72qv7-u8luznr4.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "Gv2tndKjIay8MMlZG6H68mec5wM-d7j4.daGIbAf358.WorkErs.dEV",
+            "servername": "z11LsZ2VkwQLOBXj2e72qv7-U8luznR4.pAges.DEV",
             "alpn": [
                 "http/1.1"
             ],
