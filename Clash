@@ -1279,28 +1279,28 @@
         {
             "name": "0️⃣4️⃣5️⃣ Mehran🌐",
             "type": "vless",
-            "server": "51.195.102.49",
+            "server": "185.153.182.58",
             "port": 2053,
-            "uuid": "b0436c79-99be-416f-80a4-34e557ba7475",
+            "uuid": "c5d27711-de90-4e2a-9c05-da42e4cffca5",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/MZHXC5nXHqOnLVdr",
+                "path": "/eyJqdW5rIjoiRVdmeEVjRTBmc05xUkp5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
-                    "Host": "pjn3puye9p0lpftj0jtdcsrlr013efzq.j93ks5cupx1x.workers.dev"
+                    "Host": "mxrd2c8h1xz7vej29zol2mymq7torxhl.farono4194.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "PjN3PUyE9p0LpFTj0jtdcsRlr013EFZq.j93Ks5CUPX1x.WorKERS.dEV",
+            "servername": "Mxrd2C8H1XZ7VEJ29ZOl2MYMQ7tOrXhl.fAronO4194.wOrKers.dev",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
