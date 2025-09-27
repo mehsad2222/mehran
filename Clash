@@ -1414,9 +1414,9 @@
         {
             "name": "0️⃣5️⃣0️⃣ Mehran🌐",
             "type": "vless",
-            "server": "62.3.12.76",
-            "port": 443,
-            "uuid": "e38ab44d-e1e6-45e5-b457-29c90c0880e1",
+            "server": "185.153.182.58",
+            "port": 2053,
+            "uuid": "7856dc91-4d11-4bed-81e2-6320e610941b",
             "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -1424,14 +1424,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoia1Y3aDdwdnEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiVlgzb3JjREgxUmwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "1bfxz5nu7a5go092jrilvv3kw24wo5zd.newev77417.workers.dev"
+                    "Host": "fvglqggr2jzli1735pgm3uq2dz4pu0rc.newev77417.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "1bfXZ5nu7a5GO092jRiLVV3kw24wO5zD.NeweV77417.WorkeRs.DEv",
+            "servername": "fVGlqggR2JzLI1735pGm3uQ2DZ4pU0rc.NeWeV77417.WorKeRs.deV",
             "alpn": [
                 "http/1.1"
             ],
