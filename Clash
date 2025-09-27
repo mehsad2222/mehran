@@ -1306,28 +1306,28 @@
         {
             "name": "0️⃣4️⃣6️⃣ Mehran🌐",
             "type": "vless",
-            "server": "176.10.125.114",
-            "port": 443,
-            "uuid": "e0d76452-caf3-4544-b84d-faead08b0298",
+            "server": "185.153.182.58",
+            "port": 2053,
+            "uuid": "05cb394d-7b01-4d43-ba71-c45f77354fd4",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/6RQ3xs61jT3pU280",
+                "path": "/eyJqdW5rIjoicUJ3c1Y1a1N5blc4WnciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "hdjnfkdbjx.cijemit620.workers.dev"
+                    "Host": "r1al0gtjtgs000f8ymfdsuexn1n62x0f.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "HdJNFKdBjX.CiJEMit620.woRKERS.dEV",
+            "servername": "r1AL0GtJTgs000F8ymFDSuEXn1n62X0f.pAges.deV",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
