@@ -1441,28 +1441,28 @@
         {
             "name": "0️⃣5️⃣1️⃣ Mehran🌐",
             "type": "vless",
-            "server": "45.144.48.182",
-            "port": 8443,
-            "uuid": "48e181d1-5f7f-4e3a-a22f-5153e5eb0f7a",
+            "server": "104.21.9.73",
+            "port": 443,
+            "uuid": "92d4bf73-2040-4775-82fa-2c31a8da1c85",
+            "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/z7KeLU3akaf8Drve",
+                "path": "/eyJqdW5rIjoidXZ5YWxQdnl4ZmFtZkVMQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "oy1rhzzbxrsf-7jqt5n0vgjyukk9ibac.pekafa9616.workers.dev"
+                    "Host": "7l63vc1urus8151lw2775-bit712adhw.sosabel734.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "oy1RHZzbXRSF-7jQt5N0vgjyukK9ibac.PeKAFa9616.WorkERS.DEv",
+            "servername": "7l63vC1urus8151LW2775-bIT712adHW.SoSabel734.wOrKeRs.dev",
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "random",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false
         },
         {
