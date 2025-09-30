@@ -6,7 +6,7 @@
     "log-level": "warning",
     "disable-keep-alive": false,
     "keep-alive-idle": 10,
-    "keep-alive-interval": 25,
+    "keep-alive-interval": 30,
     "unified-delay": false,
     "geo-auto-update": true,
     "geo-update-interval": 168,
