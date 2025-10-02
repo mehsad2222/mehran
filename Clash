@@ -736,11 +736,11 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣2️⃣5️⃣ Mehran🌐",
+            "name": "0️⃣2️⃣5️⃣ Germany🇩🇪",
             "type": "vless",
-            "server": "194.67.78.233",
-            "port": 999,
-            "uuid": "a7f20f28-925a-4cda-b43a-2b477991a0f0",
+            "server": "5.61.32.232",
+            "port": 443,
+            "uuid": "8e810acc-43cb-47ce-8d12-9c4230de2e43",
             "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -748,14 +748,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVHh1Z3hVVEhlSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoibHFMRXJRMkNLSjdwUlRLZyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjUuNjEuMzIuMjMyOjQ0MyJdfQ==",
                 "headers": {
-                    "Host": "7xe9qxzkwdl6sk81xms7q8cu8z1drgag.febalih955.workers.dev"
+                    "Host": "pbe-wf46e3r11mhpagdod64nkye01m7r.loson63699.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "7XE9qxzKwdl6sk81xmS7Q8Cu8Z1DrGag.feBALiH955.worKerS.Dev",
+            "servername": "Pbe-Wf46E3R11MhPAGDod64nKYe01m7R.lOsON63699.WORkErs.Dev",
             "alpn": [
                 "http/1.1"
             ],
@@ -763,11 +763,11 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣2️⃣6️⃣ Mehran🌐",
+            "name": "0️⃣2️⃣6️⃣ Germany🇩🇪",
             "type": "vless",
-            "server": "194.67.78.233",
-            "port": 999,
-            "uuid": "e68f082c-f3d5-4343-a39d-335fe545a4b7",
+            "server": "5.61.32.232",
+            "port": 443,
+            "uuid": "7f2e1310-5626-4820-b17e-cf6043deb253",
             "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -775,14 +775,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNEcyVm5GbjBRUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiTExVTjBKTTZHQ0QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1LjYxLjMyLjIzMjo0NDMiXX0=",
                 "headers": {
-                    "Host": "rdcd3lurvapeh41fn5k-spkbix8beau3.pages.dev"
+                    "Host": "cveqaux0vphzex83hiws3vvgqq1ehb8b.bihola8446.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "rdcD3luRVAPeh41Fn5k-SpkbIx8Beau3.PageS.dev",
+            "servername": "cveQAUx0vPhZEX83hIWS3vvGQq1ehB8B.biHolA8446.workeRS.DEv",
             "alpn": [
                 "http/1.1"
             ],
@@ -5518,8 +5518,8 @@
                 "0️⃣2️⃣2️⃣ Germany🇩🇪",
                 "0️⃣2️⃣3️⃣ Germany🇩🇪",
                 "0️⃣2️⃣4️⃣ Germany🇩🇪",
-                "0️⃣2️⃣5️⃣ Mehran🌐",
-                "0️⃣2️⃣6️⃣ Mehran🌐",
+                "0️⃣2️⃣5️⃣ Germany🇩🇪",
+                "0️⃣2️⃣6️⃣ Germany🇩🇪",
                 "0️⃣2️⃣7️⃣ Mehran🌐",
                 "0️⃣2️⃣8️⃣ Mehran🌐",
                 "0️⃣2️⃣9️⃣ Mehran🌐",
@@ -5627,8 +5627,8 @@
                 "0️⃣2️⃣2️⃣ Germany🇩🇪",
                 "0️⃣2️⃣3️⃣ Germany🇩🇪",
                 "0️⃣2️⃣4️⃣ Germany🇩🇪",
-                "0️⃣2️⃣5️⃣ Mehran🌐",
-                "0️⃣2️⃣6️⃣ Mehran🌐",
+                "0️⃣2️⃣5️⃣ Germany🇩🇪",
+                "0️⃣2️⃣6️⃣ Germany🇩🇪",
                 "0️⃣2️⃣7️⃣ Mehran🌐",
                 "0️⃣2️⃣8️⃣ Mehran🌐",
                 "0️⃣2️⃣9️⃣ Mehran🌐",
