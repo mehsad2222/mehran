@@ -358,11 +358,11 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣1️⃣1️⃣ Mehran🌐",
+            "name": "0️⃣1️⃣1️⃣ Turkey🇹🇷",
             "type": "vless",
-            "server": "95.163.240.24",
-            "port": 8443,
-            "uuid": "2dcadc8e-b262-490c-b5c2-c830b1c5e062",
+            "server": "62.3.12.76",
+            "port": 443,
+            "uuid": "888d6819-c61d-4413-8ecf-d08d66b43442",
             "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -370,14 +370,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRlAzQUhEcnQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiNVVQOTRPU3QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI2Mi4zLjEyLjc2OjQ0MyJdfQ==",
                 "headers": {
-                    "Host": "3frq1jojdkacw0k839x9h8-g6oumpuln.noxefe8702.workers.dev"
+                    "Host": "dslmdg5rsd6a9qfgzhtjhiwd7o9hco7y.nibes27430.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "3frq1jOJdKACW0k839x9h8-g6ouMPUlN.NOXeFE8702.WorKErS.dEv",
+            "servername": "dslmdg5rSD6A9QfGZHtJhIwd7O9Hco7Y.NIbeS27430.WOrkErS.dEV",
             "alpn": [
                 "http/1.1"
             ],
