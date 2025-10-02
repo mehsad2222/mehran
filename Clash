@@ -335,7 +335,7 @@
             "type": "vless",
             "server": "216.9.224.105",
             "port": 24443,
-            "uuid": "f90fdf08-958d-4fce-b37f-b4bb57da43b8",
+            "uuid": "09c21801-9c56-48c9-95c9-e67f2d9ffa6f",
             "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -343,14 +343,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQXc5VzNBN2ZTa0kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiT3BnbHVLUGxjTHVDayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "0ycvo3k0kdcqnyvs902m4c-bx4lx2zq1.pages.dev"
+                    "Host": "j949hxsw5jmezkep34cepod55u0b62qq.dibebid368.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "0YcvO3K0KdcQNyvS902M4c-BX4LX2zQ1.pAGeS.DEV",
+            "servername": "J949HXSw5jmEZKEp34cEpod55U0b62qq.dIbeBiD368.WoRkerS.Dev",
             "alpn": [
                 "http/1.1"
             ],
