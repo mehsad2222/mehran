@@ -289,14 +289,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidVdIc0pUUGQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiQkRRcVY5b0kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
                     "Host": "sxgfozpng34qtqvhu20u4jl6iwuolikh.dapon60917.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "sXGfOZpNg34QtQvhu20U4Jl6IWuoLIKH.daPoN60917.WOrKers.DEv",
+            "servername": "SXgFozPNG34QTQVhU20U4jL6iWuOliKh.dapon60917.wOrKerS.DEv",
             "alpn": [
                 "http/1.1"
             ],
