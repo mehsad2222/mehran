@@ -440,11 +440,11 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣1️⃣4️⃣ Mehran🌐",
+            "name": "0️⃣1️⃣4️⃣ Turkey🇹🇷",
             "type": "vless",
-            "server": "95.163.240.24",
-            "port": 8443,
-            "uuid": "b0f22acc-fa64-4db1-999c-ba2f360178b3",
+            "server": "188.132.192.194",
+            "port": 2053,
+            "uuid": "37ba3ab8-10ae-4663-8ae4-53cd50bdbc5b",
             "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -452,14 +452,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQ2xSVWVFakNmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiZHVHWmkzYnVlcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE4OC4xMzIuMTkyLjE5NDoyMDUzIl19",
                 "headers": {
-                    "Host": "oow47a-x7rrm4s175a0-am6up0s3vqve.rirab87139.workers.dev"
+                    "Host": "t7s-gb2x8aovrbymlvujjq3jejbdzeci.wewono9965.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "OOw47a-X7rRM4s175A0-aM6uP0S3VQve.rIRAB87139.wORkERs.Dev",
+            "servername": "t7S-GB2x8aovrbYMlVUJjq3JEJBDZeCi.wEWono9965.WOrKErS.Dev",
             "alpn": [
                 "http/1.1"
             ],
@@ -5508,7 +5508,7 @@
                 "0️⃣1️⃣1️⃣ Turkey🇹🇷",
                 "0️⃣1️⃣2️⃣ Turkey🇹🇷",
                 "0️⃣1️⃣3️⃣ Turkey🇹🇷",
-                "0️⃣1️⃣4️⃣ Mehran🌐",
+                "0️⃣1️⃣4️⃣ Turkey🇹🇷",
                 "0️⃣1️⃣5️⃣ Mehran🌐",
                 "0️⃣1️⃣6️⃣ Mehran🌐",
                 "0️⃣1️⃣7️⃣ Mehran🌐",
@@ -5617,7 +5617,7 @@
                 "0️⃣1️⃣1️⃣ Turkey🇹🇷",
                 "0️⃣1️⃣2️⃣ Turkey🇹🇷",
                 "0️⃣1️⃣3️⃣ Turkey🇹🇷",
-                "0️⃣1️⃣4️⃣ Mehran🌐",
+                "0️⃣1️⃣4️⃣ Turkey🇹🇷",
                 "0️⃣1️⃣5️⃣ Mehran🌐",
                 "0️⃣1️⃣6️⃣ Mehran🌐",
                 "0️⃣1️⃣7️⃣ Mehran🌐",
