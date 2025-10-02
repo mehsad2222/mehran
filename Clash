@@ -277,10 +277,10 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣0️⃣8️⃣ Mehran🌐",
+            "name": "0️⃣0️⃣8️⃣ Russia🇷🇺",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
+            "server": "77.73.69.96",
+            "port": 8443,
             "uuid": "668d042e-a88a-497a-bcb4-5a4758559735",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -289,14 +289,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQkRRcVY5b0kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiaVR1Tll5ZXBDWSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjc3LjczLjY5Ljk2Ojg0NDMiXX0=",
                 "headers": {
                     "Host": "sxgfozpng34qtqvhu20u4jl6iwuolikh.dapon60917.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "SXgFozPNG34QTQVhU20U4jL6iWuOliKh.dapon60917.wOrKerS.DEv",
+            "servername": "SXgfoZpNg34QTQVHU20U4Jl6IwuOLikh.DapoN60917.workerS.Dev",
             "alpn": [
                 "http/1.1"
             ],
@@ -5501,7 +5501,7 @@
                 "0️⃣0️⃣5️⃣ Russia🇷🇺",
                 "0️⃣0️⃣6️⃣ Russia🇷🇺",
                 "0️⃣0️⃣7️⃣ Russia🇷🇺",
-                "0️⃣0️⃣8️⃣ Mehran🌐",
+                "0️⃣0️⃣8️⃣ Russia🇷🇺",
                 "0️⃣0️⃣9️⃣ Mehran🌐",
                 "0️⃣1️⃣0️⃣ Mehran🌐",
                 "0️⃣1️⃣1️⃣ Mehran🌐",
@@ -5610,7 +5610,7 @@
                 "0️⃣0️⃣5️⃣ Russia🇷🇺",
                 "0️⃣0️⃣6️⃣ Russia🇷🇺",
                 "0️⃣0️⃣7️⃣ Russia🇷🇺",
-                "0️⃣0️⃣8️⃣ Mehran🌐",
+                "0️⃣0️⃣8️⃣ Russia🇷🇺",
                 "0️⃣0️⃣9️⃣ Mehran🌐",
                 "0️⃣1️⃣0️⃣ Mehran🌐",
                 "0️⃣1️⃣1️⃣ Mehran🌐",
