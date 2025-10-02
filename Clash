@@ -235,14 +235,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiM2lBdjl2NWsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoibEpsekV5VVRxZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
                     "Host": "3gcr7dxym3tvwus6jppx1tidypn84n2l.topin83752.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "3gcR7dxYm3tVwUS6jppx1TIdypn84n2l.tOpin83752.wOrKERs.deV",
+            "servername": "3GCr7DXyM3TvWuS6JPPx1TiDYpN84N2l.TOpin83752.woRkERs.DeV",
             "alpn": [
                 "http/1.1"
             ],
