@@ -250,11 +250,11 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣0️⃣7️⃣ Mehran🌐",
+            "name": "0️⃣0️⃣7️⃣ Russia🇷🇺",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
-            "uuid": "4c780032-ca9c-4601-a4ae-3e94284ed841",
+            "server": "77.73.69.96",
+            "port": 8443,
+            "uuid": "e166a807-f809-4df9-a1e5-a9c8fe08be62",
             "udp": false,
             "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
@@ -262,14 +262,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYlNKeHJOYzV4MmpUNGwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiR0lVVE56SGoxa2FtVzBuIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuNzMuNjkuOTY6ODQ0MyJdfQ==",
                 "headers": {
-                    "Host": "8z0qeizrol8tuv5bml4h4yd5wmllogm6.pages.dev"
+                    "Host": "ehooshh7cp61-s8nu2si1qff1p9s-j4m.mefidej310.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "8z0QEIzRoL8TUv5BML4h4yd5wmLLOGM6.PagEs.Dev",
+            "servername": "EHoOShH7cp61-s8nU2sI1QFF1p9s-J4M.MEfidEJ310.woRKErs.Dev",
             "alpn": [
                 "http/1.1"
             ],
@@ -5500,7 +5500,7 @@
                 "0️⃣0️⃣4️⃣ Russia🇷🇺",
                 "0️⃣0️⃣5️⃣ Russia🇷🇺",
                 "0️⃣0️⃣6️⃣ Russia🇷🇺",
-                "0️⃣0️⃣7️⃣ Mehran🌐",
+                "0️⃣0️⃣7️⃣ Russia🇷🇺",
                 "0️⃣0️⃣8️⃣ Mehran🌐",
                 "0️⃣0️⃣9️⃣ Mehran🌐",
                 "0️⃣1️⃣0️⃣ Mehran🌐",
@@ -5609,7 +5609,7 @@
                 "0️⃣0️⃣4️⃣ Russia🇷🇺",
                 "0️⃣0️⃣5️⃣ Russia🇷🇺",
                 "0️⃣0️⃣6️⃣ Russia🇷🇺",
-                "0️⃣0️⃣7️⃣ Mehran🌐",
+                "0️⃣0️⃣7️⃣ Russia🇷🇺",
                 "0️⃣0️⃣8️⃣ Mehran🌐",
                 "0️⃣0️⃣9️⃣ Mehran🌐",
                 "0️⃣1️⃣0️⃣ Mehran🌐",
