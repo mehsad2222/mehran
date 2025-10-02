@@ -765,8 +765,8 @@
         {
             "name": "0️⃣2️⃣6️⃣ Germany🇩🇪",
             "type": "vless",
-            "server": "5.61.32.232",
-            "port": 443,
+            "server": "164.92.132.226",
+            "port": 8443,
             "uuid": "7f2e1310-5626-4820-b17e-cf6043deb253",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -775,14 +775,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTExVTjBKTTZHQ0QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1LjYxLjMyLjIzMjo0NDMiXX0=",
+                "path": "/eyJqdW5rIjoic3hJT3JmcmpsZVZIMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE2NC45Mi4xMzIuMjI2Ojg0NDMiXX0=",
                 "headers": {
                     "Host": "cveqaux0vphzex83hiws3vvgqq1ehb8b.bihola8446.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "cveQAUx0vPhZEX83hIWS3vvGQq1ehB8B.biHolA8446.workeRS.DEv",
+            "servername": "cVEQAuX0VpHzex83hIWS3vvGQQ1EHb8B.BIhOla8446.WoRkERS.dev",
             "alpn": [
                 "http/1.1"
             ],
