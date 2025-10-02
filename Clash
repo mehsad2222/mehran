@@ -738,8 +738,8 @@
         {
             "name": "0️⃣2️⃣5️⃣ Germany🇩🇪",
             "type": "vless",
-            "server": "5.61.32.232",
-            "port": 443,
+            "server": "164.92.132.226",
+            "port": 8443,
             "uuid": "8e810acc-43cb-47ce-8d12-9c4230de2e43",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -748,14 +748,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibHFMRXJRMkNLSjdwUlRLZyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjUuNjEuMzIuMjMyOjQ0MyJdfQ==",
+                "path": "/eyJqdW5rIjoiZ3VFT0V5V0xFNEIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNjQuOTIuMTMyLjIyNjo4NDQzIl19",
                 "headers": {
                     "Host": "pbe-wf46e3r11mhpagdod64nkye01m7r.loson63699.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "Pbe-Wf46E3R11MhPAGDod64nKYe01m7R.lOsON63699.WORkErs.Dev",
+            "servername": "PBE-wF46E3r11MHpaGdOd64NkYe01M7R.LOSOn63699.WorkERS.dEV",
             "alpn": [
                 "http/1.1"
             ],
