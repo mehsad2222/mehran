@@ -88,10 +88,10 @@
     },
     "proxies": [
         {
-            "name": "0️⃣0️⃣1️⃣ Mehran🌐",
+            "name": "0️⃣0️⃣1️⃣ Russia🇷🇺",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
+            "server": "109.120.189.103",
+            "port": 1488,
             "uuid": "232b84e6-3b74-4aa5-98d7-d88c91659ca3",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -100,14 +100,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWEFiS3JEd1IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoieUJLR1A4aExlemp2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTA5LjEyMC4xODkuMTAzOjE0ODgiXX0=",
                 "headers": {
                     "Host": "gedsy6g34iyrry4qrxyf8hje2j2trkfn.pivafaw735.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "gedSY6g34IYrrY4QrXyf8hjE2j2trkFN.pIvafaw735.WoRkErs.Dev",
+            "servername": "GeDSY6G34iYRRY4qRXyf8HJE2J2Trkfn.piVaFaW735.WORkeRs.dev",
             "alpn": [
                 "http/1.1"
             ],
@@ -5764,7 +5764,7 @@
             "type": "select",
             "proxies": [
                 "💦 Best Ping 💥",
-                "0️⃣0️⃣1️⃣ Mehran🌐",
+                "0️⃣0️⃣1️⃣ Russia🇷🇺",
                 "0️⃣0️⃣2️⃣ Mehran🌐",
                 "0️⃣0️⃣3️⃣ Mehran🌐",
                 "0️⃣0️⃣4️⃣ Mehran🌐",
@@ -5873,7 +5873,7 @@
             "interval": 30,
             "tolerance": 50,
             "proxies": [
-                "0️⃣0️⃣1️⃣ Mehran🌐",
+                "0️⃣0️⃣1️⃣ Russia🇷🇺",
                 "0️⃣0️⃣2️⃣ Mehran🌐",
                 "0️⃣0️⃣3️⃣ Mehran🌐",
                 "0️⃣0️⃣4️⃣ Mehran🌐",
