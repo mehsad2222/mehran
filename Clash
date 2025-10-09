@@ -37,7 +37,8 @@
         ],
         "nameserver-policy": {
             "raw.githubusercontent.com": "8.8.8.8#DIRECT",
-            "time.cloudflare.com": "8.8.8.8#DIRECT"
+            "time.cloudflare.com": "8.8.8.8#DIRECT",
+            "rule-set:ir": "8.8.8.8#DIRECT"
         },
         "hosts": {
             "rule-set:malware": "rcode://refused",
