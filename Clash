@@ -424,14 +424,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOUF3WHJVcnYxSkw0VjIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI2Mi4zLjEyLjc2OjQ0MyJdfQ==",
+                "path": "/eyJqdW5rIjoiaVN6eDkxSTVjUGciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
                     "Host": "takseke-0g4sbtxonevlejt5zu13xj3e.miwiwec186.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "tAKsEKe-0g4sbTXOneVlEJt5ZU13xj3E.miwIWEC186.wOrkErS.deV",
+            "servername": "tAKsEke-0g4SBTXONEVLEJT5Zu13xj3e.MIWiweC186.wORkERs.DEv",
             "alpn": [
                 "http/1.1"
             ],
@@ -441,8 +441,8 @@
         {
             "name": "0️⃣1️⃣4️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "188.132.192.194",
-            "port": 2053,
+            "server": "62.3.12.76",
+            "port": 443,
             "uuid": "37ba3ab8-10ae-4663-8ae4-53cd50bdbc5b",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -451,14 +451,14 @@
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZHVHWmkzYnVlcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE4OC4xMzIuMTkyLjE5NDoyMDUzIl19",
+                "path": "/eyJqdW5rIjoidGV6RTFpeU5SQTdhV2FJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
                     "Host": "t7s-gb2x8aovrbymlvujjq3jejbdzeci.wewono9965.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "t7S-GB2x8aovrbYMlVUJjq3JEJBDZeCi.wEWono9965.WOrKErS.Dev",
+            "servername": "t7s-gB2X8AoVrBymLVUJJQ3JEjBdzeci.weWONO9965.workErS.dEV",
             "alpn": [
                 "http/1.1"
             ],
