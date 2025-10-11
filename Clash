@@ -2737,24 +2737,24 @@
         {
             "name": "0️⃣9️⃣9️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "62.3.12.76",
+            "server": "172.67.180.119",
             "port": 443,
-            "uuid": "ad1ed6ce-b8a7-4b16-8106-c8f6d098cd11",
+            "uuid": "ee084ad6-0fe0-4f45-9d40-0b09fef88fc2",
             "udp": false,
-            "packet-encoding": "packetaddr",
+            "packet-encoding": "",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOHIzMDVvU0t3V2EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiVW9NcjZ2R1NESiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "vtxr6zzmsnnsmnlryjwkp492trf9pcy3.pages.dev"
+                    "Host": "nydizhsci6pfwaornvw4na43e0e38aqp.silad15078.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "vTXR6ZZmSNnSMnLRyjWkP492TRF9PCy3.PagEs.DEV",
+            "servername": "nyDizhSCI6PFwaOrNVw4NA43E0E38aQp.SilaD15078.woRKERs.Dev",
             "alpn": [
                 "http/1.1"
             ],
