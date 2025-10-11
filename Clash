@@ -2900,7 +2900,6 @@
         {
             "name": "💦 Best Ping 💥",
             "type": "url-test",
-            "lazy": true,
             "url": "https://www.gstatic.com/generate_204",
             "interval": 120,
             "tolerance": 100,
