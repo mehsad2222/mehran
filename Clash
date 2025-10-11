@@ -2901,7 +2901,7 @@
             "name": "💦 Best Ping 💥",
             "type": "url-test",
             "url": "https://www.gstatic.com/generate_204",
-            "interval": 60,
+            "interval": 90,
             "tolerance": 50,
             "proxies": [
                 "0️⃣0️⃣1️⃣ 💯Mehran💯",
