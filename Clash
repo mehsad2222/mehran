@@ -2764,24 +2764,24 @@
         {
             "name": "1️⃣0️⃣0️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "216.9.224.105",
-            "port": 24443,
-            "uuid": "8ceb74ba-ca94-403e-bf31-b69182084bb6",
-            "packet-encoding": "packetaddr",
+            "server": "172.67.178.134",
+            "port": 443,
+            "uuid": "e86b793d-7fb2-4dfd-91fc-482f822c7224",
+            "udp": false,
+            "packet-encoding": "",
             "ip-version": "ipv4",
             "tls": true,
             "network": "ws",
             "tfo": true,
-            "mptcp": true,
             "ws-opts": {
-                "path": "/x7MLBLcoyKOjuiIO",
+                "path": "/eyJqdW5rIjoiZFUyUTlaZk9JcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
-                    "Host": "8i0zu0a8gpa3zirhm7ih97ac3iyu3wxr.pages.dev"
+                    "Host": "g6ck6t7qu2a27vtct5wz-ub00ux8jt3u.nogovo5374.workers.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "8i0Zu0a8gPA3ZiRhm7iH97Ac3Iyu3wXR.PAges.DEv",
+            "servername": "g6ck6t7qu2A27vtcT5wZ-UB00Ux8JT3u.NOgovO5374.WORKers.dev",
             "alpn": [
                 "http/1.1"
             ],
