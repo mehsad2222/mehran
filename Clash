@@ -7,6 +7,7 @@
     "disable-keep-alive": false,
     "keep-alive-idle": 10,
     "keep-alive-interval": 15,
+    "tcp-concurrent": true,
     "unified-delay": false,
     "geo-auto-update": true,
     "geo-update-interval": 168,
@@ -44,7 +45,14 @@
             "rule-set:malware": "rcode://refused",
             "rule-set:phishing": "rcode://refused",
             "rule-set:cryptominers": "rcode://refused"
-        }
+        },
+        "enhanced-mode": "fake-ip",
+        "fake-ip-range": "198.18.0.1/16",
+        "fake-ip-filter": [
+            "*",
+            "+.lan",
+            "+.local"
+        ]
     },
     "tun": {
         "enable": true,
