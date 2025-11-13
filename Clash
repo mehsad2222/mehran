@@ -3023,64 +3023,74 @@
             "type": "http",
             "format": "text",
             "behavior": "domain",
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt",
             "path": "./ruleset/malware.txt",
-            "interval": 86400
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt"
         },
         "malware-cidr": {
             "type": "http",
             "format": "text",
             "behavior": "ipcidr",
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware-ip.txt",
             "path": "./ruleset/malware-cidr.txt",
-            "interval": 86400
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware-ip.txt"
         },
         "phishing": {
             "type": "http",
             "format": "text",
             "behavior": "domain",
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt",
             "path": "./ruleset/phishing.txt",
-            "interval": 86400
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt"
         },
         "phishing-cidr": {
             "type": "http",
             "format": "text",
             "behavior": "ipcidr",
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing-ip.txt",
             "path": "./ruleset/phishing-cidr.txt",
-            "interval": 86400
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing-ip.txt"
         },
         "cryptominers": {
             "type": "http",
             "format": "text",
             "behavior": "domain",
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt",
             "path": "./ruleset/cryptominers.txt",
-            "interval": 86400
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt"
+        },
+        "category-ads-all": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "path": "./ruleset/category-ads-all.txt",
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/category-ads-all.txt"
         },
         "ir": {
             "type": "http",
             "format": "text",
             "behavior": "domain",
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt",
             "path": "./ruleset/ir.txt",
-            "interval": 86400
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt"
         },
         "ir-cidr": {
             "type": "http",
             "format": "text",
             "behavior": "ipcidr",
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt",
             "path": "./ruleset/ir-cidr.txt",
-            "interval": 86400
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt"
         }
     },
     "rules": [
+        "GEOIP,lan,DIRECT,no-resolve",
         "NETWORK,udp,REJECT",
         "RULE-SET,malware,REJECT",
         "RULE-SET,phishing,REJECT",
         "RULE-SET,cryptominers,REJECT",
+        "RULE-SET,category-ads-all,REJECT",
         "RULE-SET,malware-cidr,REJECT",
         "RULE-SET,phishing-cidr,REJECT",
         "RULE-SET,ir,DIRECT",
