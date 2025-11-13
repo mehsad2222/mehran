@@ -49,7 +49,6 @@
             "rule-set:ir": "8.8.8.8#DIRECT"
         },
         "enhanced-mode": "redir-host"
-        ]
     },
     "tun": {
         "enable": true,
