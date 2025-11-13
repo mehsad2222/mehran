@@ -1,55 +1,58 @@
 {
     "mixed-port": 7890,
     "ipv6": true,
-    "allow-lan": true,
-    "mode": "rule",
+    "allow-lan": false,
+    "unified-delay": false,
     "log-level": "warning",
+    "mode": "rule",
     "disable-keep-alive": false,
     "keep-alive-idle": 10,
     "keep-alive-interval": 15,
     "tcp-concurrent": true,
-    "unified-delay": false,
     "geo-auto-update": true,
     "geo-update-interval": 168,
     "external-controller": "127.0.0.1:9090",
-    "external-ui-url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
-    "external-ui": "ui",
     "external-controller-cors": {
         "allow-origins": [
             "*"
         ],
         "allow-private-network": true
     },
+    "external-ui": "ui",
+    "external-ui-url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
     "profile": {
         "store-selected": true,
         "store-fake-ip": true
     },
     "dns": {
         "enable": true,
-        "listen": "0.0.0.0:1053",
-        "ipv6": false,
         "respect-rules": true,
         "use-system-hosts": false,
+        "listen": "127.0.0.1:1053",
+        "ipv6": false,
+        "hosts": {
+            "rule-set:malware": "rcode://refused",
+            "rule-set:phishing": "rcode://refused",
+            "rule-set:cryptominers": "rcode://refused",
+            "rule-set:category-ads-all": "rcode://refused"
+        },
         "nameserver": [
             "https://8.8.8.8/dns-query#✅ Selector"
         ],
         "proxy-server-nameserver": [
             "8.8.8.8#DIRECT"
         ],
+        "direct-nameserver": [
+            "8.8.8.8#DIRECT"
+        ],
+        "direct-nameserver-follow-policy": true,
         "nameserver-policy": {
-            "raw.githubusercontent.com": "8.8.8.8#DIRECT",
-            "time.cloudflare.com": "8.8.8.8#DIRECT",
             "rule-set:ir": "8.8.8.8#DIRECT"
-        },
-        "hosts": {
-            "rule-set:malware": "rcode://refused",
-            "rule-set:phishing": "rcode://refused",
-            "rule-set:cryptominers": "rcode://refused"
         },
         "enhanced-mode": "fake-ip",
         "fake-ip-range": "198.18.0.1/16",
+        "fake-ip-filter-mode": "blacklist",
         "fake-ip-filter": [
-            "*",
             "+.lan",
             "+.local"
         ]
