@@ -29,7 +29,7 @@
         "respect-rules": true,
         "use-system-hosts": false,
         "listen": "127.0.0.1:1053",
-        "ipv6": true,
+        "ipv6": false,
         "hosts": {
             "rule-set:malware": "rcode://refused",
             "rule-set:phishing": "rcode://refused",
