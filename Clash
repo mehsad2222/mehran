@@ -184,7 +184,7 @@
             "uuid": "4c55807a-d254-43a2-9b29-52bd20a83731",
             "packet-encoding": "",
             "tls": true,
-            "servername": "s1iP0l1P-a73T4Ny90o1N-oL0gl03fb6.mAtoYe7040.woRKErS.deV",
+            "servername": "S1iP0L1p-A73t4NY90O1n-OL0GL03fB6.MAtOyE7040.WorKeRS.DEV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -192,7 +192,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR0FQZGtMYnciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1MS4yNTAuMTUuMTc3Ojg0NDMiXX0=",
+                "path": "/eyJqdW5rIjoiR0VRbjJMRUJIRWsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
