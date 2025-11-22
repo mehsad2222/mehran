@@ -122,29 +122,29 @@
         {
             "name": "0️⃣0️⃣2️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "188.132.192.195",
-            "port": 2053,
-            "uuid": "58218b50-74b5-41a3-9038-0eacf351c52d",
-            "udp": false,
-            "packet-encoding": "packetaddr",
+            "server": "104.21.57.135",
+            "port": 443,
             "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "58218b50-74b5-41a3-9038-0eacf351c52d",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiaGFJeXBVREFmUDR0WUwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "headers": {
-                    "Host": "be83u9i4vdwszx7c7tnl4t6jkwmof19m.yejab33178.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "bE83u9i4VDWsZX7C7tnL4T6JKWmOf19M.YEJAb33178.worKERs.dEV",
+            "servername": "BE83u9i4vdWSZX7C7Tnl4t6jkWMOF19M.YeJaB33178.woRkErS.Dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiNGhyS0NPcFJ6dFciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIzOC4xODAuMTA1LjEyNDo0NDMiLCI4My4yMTcuOS4yMTY6ODQ0MyIsIjE4NS4yMzQuNjYuOTE6NDQzIiwiMTg1LjM5LjIwNC41NToyMDUzIiwiMTg4LjEzMi4xOTIuMTk0Ojg0NDMiLCIxOTUuMTYuNzQuMjQwOjgxIl19",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "be83u9i4vdwszx7c7tnl4t6jkwmof19m.yejab33178.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣0️⃣3️⃣ 💯Mehran💯",
