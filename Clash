@@ -95,7 +95,7 @@
         {
             "name": "0️⃣0️⃣1️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "38.180.105.124",
+            "server": "188.114.96.6",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -103,7 +103,7 @@
             "uuid": "232b84e6-3b74-4aa5-98d7-d88c91659ca3",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Gedsy6G34IYRRy4qRxYF8hje2J2TRkFn.PiVAfAw735.worKers.Dev",
+            "servername": "geDsy6g34IYrRy4qRXYf8hJe2J2tRKfN.PIVafaW735.wOrKERs.dEV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -111,7 +111,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicDNEbHVDSlhnTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjM4LjE4MC4xMDUuMTI0OjQ0MyIsIjgzLjIxNy45LjIxNjo4NDQzIiwiMTg1LjIzNC42Ni45MTo0NDMiLCIxODUuMzkuMjA0LjU1OjIwNTMiLCIxODguMTMyLjE5Mi4xOTQ6ODQ0MyIsIjE5NS4xNi43NC4yNDA6ODEiXX0=",
+                "path": "/eyJqdW5rIjoiVkhEOUJJeFB2U2NsWFRRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNTEuMjUwLjE1LjE3Nzo4NDQzIl19",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
