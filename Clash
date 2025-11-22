@@ -95,8 +95,8 @@
         {
             "name": "0️⃣0️⃣1️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "188.114.96.6",
-            "port": 443,
+            "server": "51.250.15.177",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -122,15 +122,15 @@
         {
             "name": "0️⃣0️⃣2️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "38.180.105.124",
-            "port": 443,
+            "server": "51.250.15.177",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
             "uuid": "58218b50-74b5-41a3-9038-0eacf351c52d",
             "packet-encoding": "",
             "tls": true,
-            "servername": "BE83u9i4vdWSZX7C7Tnl4t6jkWMOF19M.YeJaB33178.woRkErS.Dev",
+            "servername": "Be83u9I4vdWszX7c7TnL4T6JkWMOf19m.YeJAb33178.workeRs.dEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -138,7 +138,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNGhyS0NPcFJ6dFciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIzOC4xODAuMTA1LjEyNDo0NDMiLCI4My4yMTcuOS4yMTY6ODQ0MyIsIjE4NS4yMzQuNjYuOTE6NDQzIiwiMTg1LjM5LjIwNC41NToyMDUzIiwiMTg4LjEzMi4xOTIuMTk0Ojg0NDMiLCIxOTUuMTYuNzQuMjQwOjgxIl19",
+                "path": "/eyJqdW5rIjoiVURqU2ltbTNUSDJWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNTEuMjUwLjE1LjE3Nzo4NDQzIl19",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
