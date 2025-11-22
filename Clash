@@ -157,7 +157,7 @@
             "uuid": "db1502d5-d67c-4659-9a84-7845c22a7c59",
             "packet-encoding": "",
             "tls": true,
-            "servername": "wf25f34M4K98pb1ltz8x5JU75A4f1AE6.pogoKaP347.WORkERS.Dev",
+            "servername": "WF25F34m4k98pB1LTZ8x5JU75A4f1Ae6.poGOKap347.woRKERs.dEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -165,7 +165,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRGxKcVpURE1rIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNTEuMjUwLjE1LjE3Nzo4NDQzIl19",
+                "path": "/eyJqdW5rIjoibTFwZTB2aHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
