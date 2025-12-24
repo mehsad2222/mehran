@@ -446,8 +446,8 @@
         {
             "name": "0️⃣1️⃣4️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "38.180.105.201",
-            "port": 443,
+            "server": "78.40.117.49",
+            "port": 2053,
             "uuid": "37ba3ab8-10ae-4663-8ae4-53cd50bdbc5b",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -473,8 +473,8 @@
         {
             "name": "0️⃣1️⃣5️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "38.180.105.201",
-            "port": 443,
+            "server": "78.40.117.49",
+            "port": 2053,
             "uuid": "0e18d33c-48d3-449b-aa45-085886e60592",
             "udp": false,
             "packet-encoding": "packetaddr",
