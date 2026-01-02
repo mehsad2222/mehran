@@ -940,27 +940,27 @@
             "type": "vless",
             "server": "195.16.74.240",
             "port": 81,
-            "uuid": "feda464d-70fd-429e-82cf-53e6eb341eeb",
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
             "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
+            "uuid": "feda464d-70fd-429e-82cf-53e6eb341eeb",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiZ2J2eVlnZlk2MEtjYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "y7jqecagysbtt15b1leyj1sv2dgaeru1.henira4858.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "y7jQEcaGYSBTt15B1Leyj1SV2dgaEru1.HeNira4858.worKerS.dEv",
+            "servername": "Y7JqEcAGYsBtT15b1LeyJ1sV2DgaerU1.henirA4858.WORKeRS.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiemQ5dDE5SXNJNTcwbHNSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "y7jqecagysbtt15b1leyj1sv2dgaeru1.henira4858.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣3️⃣3️⃣ 🔵Hamrah🔵",
