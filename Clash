@@ -452,34 +452,34 @@
         {
             "name": "0️⃣1️⃣4️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "78.40.117.49",
-            "port": 2053,
-            "uuid": "37ba3ab8-10ae-4663-8ae4-53cd50bdbc5b",
-            "udp": false,
-            "packet-encoding": "packetaddr",
+            "server": "95.179.140.212",
+            "port": 443,
             "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "37ba3ab8-10ae-4663-8ae4-53cd50bdbc5b",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoidGV6RTFpeU5SQTdhV2FJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "headers": {
-                    "Host": "t7s-gb2x8aovrbymlvujjq3jejbdzeci.wewono9965.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "t7s-gB2X8AoVrBymLVUJJQ3JEjBdzeci.weWONO9965.workErS.dEV",
+            "servername": "t7s-Gb2X8aOVrbYmlvujjq3jejBdZeci.WeWOno9965.woRKerS.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibjRiODNoZUQ3dEZ6bzlsYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "t7s-gb2x8aovrbymlvujjq3jejbdzeci.wewono9965.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣1️⃣5️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "89.35.131.5",
+            "server": "95.179.140.212",
             "port": 2053,
             "uuid": "0e18d33c-48d3-449b-aa45-085886e60592",
             "udp": false,
