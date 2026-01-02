@@ -292,27 +292,27 @@
             "type": "vless",
             "server": "185.219.134.25",
             "port": 31564,
-            "uuid": "668d042e-a88a-497a-bcb4-5a4758559735",
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
             "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
+            "uuid": "668d042e-a88a-497a-bcb4-5a4758559735",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiek5PT3VodXhZVHMxZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "sxgfozpng34qtqvhu20u4jl6iwuolikh.dapon60917.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "sxgFozpNG34QTQVHU20u4Jl6IwUolikh.dApON60917.WORkErs.deV",
+            "servername": "sxGFoZPng34QtqVhu20U4jl6IwUoLiKH.DApON60917.woRkerS.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoidXJrVzVQMzR3YSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "sxgfozpng34qtqvhu20u4jl6iwuolikh.dapon60917.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣0️⃣9️⃣ 💯Mehran💯",
