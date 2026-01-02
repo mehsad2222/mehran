@@ -1179,61 +1179,61 @@
             }
         },
         {
-            "name": "0️⃣4️⃣1️⃣ 💯Mehran💯",
+            "name": "0️⃣4️⃣1️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "185.247.118.7",
+            "server": "95.179.140.212",
             "port": 443,
-            "uuid": "59d0c10e-63ac-454e-819d-b3b499c87564",
-            "udp": false,
-            "packet-encoding": "packetaddr",
             "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
             "tfo": true,
+            "udp": false,
+            "uuid": "59d0c10e-63ac-454e-819d-b3b499c87564",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "jC5F5PnKnTpMhH-P0Nzt7IDViPxIUOmZ.YarafO9166.wOrkeRS.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiME5OcVlYT3oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoibXNsbTA0Y1QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "jc5f5pnkntpmhh-p0nzt7idvipxiuomz.yarafo9166.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "Jc5f5pNKntpmHh-P0NzT7IDVIpxIuomZ.yArafO9166.woRKerS.dev",
+                }
+            }
+        },
+        {
+            "name": "0️⃣4️⃣2️⃣ 🛜Wifi🛜",
+            "type": "vless",
+            "server": "95.179.140.212",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "5cd3e1ff-f486-4556-80fb-5001586d4efb",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "DSffEou-CUapsHaVtFIt9edA5iSV1Q96.CohiKi5157.WoRKerS.Dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
-        },
-        {
-            "name": "0️⃣4️⃣2️⃣ 💯Mehran💯",
-            "type": "vless",
-            "server": "185.247.118.7",
-            "port": 443,
-            "uuid": "5cd3e1ff-f486-4556-80fb-5001586d4efb",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
             "network": "ws",
-            "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoieVZSdVlSNnAxdFpUcSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiMmdqRDBkZ0tSUUZCT3FHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "dsffeou-cuapshavtfit9eda5isv1q96.cohiki5157.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "DsFfEou-CUaPSHavTFIT9EdA5isV1q96.COHIKI5157.WOrKeRs.dEv",
-            "alpn": [
-                "http/1.1"
-            ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+                }
+            }
         },
         {
-            "name": "0️⃣4️⃣3️⃣ 💯Mehran💯",
+            "name": "0️⃣4️⃣3️⃣ 🛜Wifi🛜",
             "type": "vless",
             "server": "185.247.118.7",
             "port": 443,
@@ -1260,7 +1260,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣4️⃣4️⃣ 💯Mehran💯",
+            "name": "0️⃣4️⃣4️⃣ 🛜Wifi🛜",
             "type": "vless",
             "server": "185.247.118.7",
             "port": 443,
@@ -1287,7 +1287,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣4️⃣5️⃣ 💯Mehran💯",
+            "name": "0️⃣4️⃣5️⃣ 🛜Wifi🛜",
             "type": "vless",
             "server": "185.247.118.7",
             "port": 443,
@@ -1314,7 +1314,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣4️⃣6️⃣ 💯Mehran💯",
+            "name": "0️⃣4️⃣6️⃣ 🛜Wifi🛜",
             "type": "vless",
             "server": "185.254.97.252",
             "port": 1013,
@@ -1341,7 +1341,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣4️⃣7️⃣ 💯Mehran💯",
+            "name": "0️⃣4️⃣7️⃣ 🛜Wifi🛜",
             "type": "vless",
             "server": "185.254.97.252",
             "port": 1013,
@@ -1368,7 +1368,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣4️⃣8️⃣ 💯Mehran💯",
+            "name": "0️⃣4️⃣8️⃣ 🛜Wifi🛜",
             "type": "vless",
             "server": "185.254.97.252",
             "port": 1013,
@@ -1395,7 +1395,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣4️⃣9️⃣ 💯Mehran💯",
+            "name": "0️⃣4️⃣9️⃣ 🛜Wifi🛜",
             "type": "vless",
             "server": "185.254.97.252",
             "port": 1013,
@@ -1422,7 +1422,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣5️⃣0️⃣ 💯Mehran💯",
+            "name": "0️⃣5️⃣0️⃣ 🛜Wifi🛜",
             "type": "vless",
             "server": "185.254.97.252",
             "port": 1013,
@@ -2845,16 +2845,16 @@
                 "0️⃣3️⃣8️⃣ 🔵Hamrah🔵",
                 "0️⃣3️⃣9️⃣ 🔵Hamrah🔵",
                 "0️⃣4️⃣0️⃣ 🔵Hamrah🔵",
-                "0️⃣4️⃣1️⃣ 💯Mehran💯",
-                "0️⃣4️⃣2️⃣ 💯Mehran💯",
-                "0️⃣4️⃣3️⃣ 💯Mehran💯",
-                "0️⃣4️⃣4️⃣ 💯Mehran💯",
-                "0️⃣4️⃣5️⃣ 💯Mehran💯",
-                "0️⃣4️⃣6️⃣ 💯Mehran💯",
-                "0️⃣4️⃣7️⃣ 💯Mehran💯",
-                "0️⃣4️⃣8️⃣ 💯Mehran💯",
-                "0️⃣4️⃣9️⃣ 💯Mehran💯",
-                "0️⃣5️⃣0️⃣ 💯Mehran💯",
+                "0️⃣4️⃣1️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣2️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣3️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣4️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣5️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣6️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣7️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣8️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣9️⃣ 🛜Wifi🛜",
+                "0️⃣5️⃣0️⃣ 🛜Wifi🛜",
                 "0️⃣5️⃣1️⃣ 💯Mehran💯",
                 "0️⃣5️⃣2️⃣ 💯Mehran💯",
                 "0️⃣5️⃣3️⃣ 💯Mehran💯",
@@ -2951,16 +2951,16 @@
                 "0️⃣3️⃣8️⃣ 🔵Hamrah🔵",
                 "0️⃣3️⃣9️⃣ 🔵Hamrah🔵",
                 "0️⃣4️⃣0️⃣ 🔵Hamrah🔵",
-                "0️⃣4️⃣1️⃣ 💯Mehran💯",
-                "0️⃣4️⃣2️⃣ 💯Mehran💯",
-                "0️⃣4️⃣3️⃣ 💯Mehran💯",
-                "0️⃣4️⃣4️⃣ 💯Mehran💯",
-                "0️⃣4️⃣5️⃣ 💯Mehran💯",
-                "0️⃣4️⃣6️⃣ 💯Mehran💯",
-                "0️⃣4️⃣7️⃣ 💯Mehran💯",
-                "0️⃣4️⃣8️⃣ 💯Mehran💯",
-                "0️⃣4️⃣9️⃣ 💯Mehran💯",
-                "0️⃣5️⃣0️⃣ 💯Mehran💯",
+                "0️⃣4️⃣1️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣2️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣3️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣4️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣5️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣6️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣7️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣8️⃣ 🛜Wifi🛜",
+                "0️⃣4️⃣9️⃣ 🛜Wifi🛜",
+                "0️⃣5️⃣0️⃣ 🛜Wifi🛜",
                 "0️⃣5️⃣1️⃣ 💯Mehran💯",
                 "0️⃣5️⃣2️⃣ 💯Mehran💯",
                 "0️⃣5️⃣3️⃣ 💯Mehran💯",
