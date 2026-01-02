@@ -1048,135 +1048,135 @@
             "type": "vless",
             "server": "104.239.87.213",
             "port": 2053,
-            "uuid": "ee983463-033b-4f56-bd2a-ca303b21529d",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
+            "ip-version": "ipv4-prefer",
             "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoieVZuU2xlSXVuNGRrNXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "headers": {
-                    "Host": "0c3e8weoe-jic52fbfhtbp8wirdj5cwh.niraf98755.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "0c3e8wEoe-JIC52FbfhTbP8WIRDj5CWH.niraf98755.wORKERs.DEv",
+            "udp": false,
+            "uuid": "ee983463-033b-4f56-bd2a-ca303b21529d",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "0c3e8weoe-JiC52FBFhTBp8wIRdj5cWH.nIRaf98755.woRKErs.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoicGtDRjZzN3h2R2J4SCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "0c3e8weoe-jic52fbfhtbp8wirdj5cwh.niraf98755.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣3️⃣7️⃣ 🔵Hamrah🔵",
             "type": "vless",
             "server": "104.239.87.213",
             "port": 2053,
-            "uuid": "2d6617a3-597b-49a5-9188-9340de35cc0e",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
+            "ip-version": "ipv4-prefer",
             "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiTlBMdm5SaEw3MUQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "headers": {
-                    "Host": "c2vnjx5zayu7zdw4jrqldrukhwgm39gz.gonoko7231.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "C2vnJx5zAYu7Zdw4jRqldrUKhwGM39GZ.GOnOkO7231.wORkers.dEV",
+            "udp": false,
+            "uuid": "2d6617a3-597b-49a5-9188-9340de35cc0e",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "c2vnJx5zAYu7zdw4JrqlDRUKHwGM39Gz.GoNOkO7231.wORKErS.DEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiV1ZNYzFscmVxc3VCYW0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "c2vnjx5zayu7zdw4jrqldrukhwgm39gz.gonoko7231.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣3️⃣8️⃣ 💯Mehran💯",
             "type": "vless",
             "server": "104.239.87.213",
             "port": 2053,
-            "uuid": "d3329bbb-a100-447a-a6c9-85f352e0bb60",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
+            "ip-version": "ipv4-prefer",
             "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoic0Z3R2wyY3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "headers": {
-                    "Host": "cn98nxtx8pnuh7tyhpz4h6iuamk1l041.sodeme6605.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "CN98NxtX8PNUh7TYhPZ4H6iUAMk1l041.sOdEme6605.WOrKErs.dEv",
+            "udp": false,
+            "uuid": "d3329bbb-a100-447a-a6c9-85f352e0bb60",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "cN98NxTX8pnUh7TYhPz4H6iUAMk1l041.SodEMe6605.wOrkeRs.dEV",
+            "client-fingerprint": "random",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiYjZMRlBuNFUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "cn98nxtx8pnuh7tyhpz4h6iuamk1l041.sodeme6605.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣3️⃣9️⃣ 🔵Hamrah🔵",
             "type": "vless",
             "server": "104.239.87.213",
             "port": 2053,
-            "uuid": "276491f0-bbd0-4f4d-a361-750850697ce7",
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
             "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
+            "uuid": "276491f0-bbd0-4f4d-a361-750850697ce7",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiS2NuV0NlMHlBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "headers": {
-                    "Host": "bvc7-lvaz9m4wdsl-mfzcfu536-dui4s.fagam35286.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "bvc7-lVAz9M4wDsl-mfZcfU536-dUi4S.fagam35286.wOrKErS.DeV",
+            "servername": "bVc7-lvAz9M4WDsL-MfZcFU536-dUi4s.fAgAM35286.woRKErs.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZk5CdGptbVo0QXRwWmhrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "bvc7-lvaz9m4wdsl-mfzcfu536-dui4s.fagam35286.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣4️⃣0️⃣ 🔵Hamrah🔵",
             "type": "vless",
             "server": "104.239.87.213",
             "port": 2053,
-            "uuid": "fb500d82-d5ec-424c-b50f-c306b6545d63",
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
             "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
+            "uuid": "fb500d82-d5ec-424c-b50f-c306b6545d63",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiYmpJSGxZQnozUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "u63b0s4anbusoxy350p71rtzm1b7qf2s.fimivi1813.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "U63b0s4aNbUSOXY350p71Rtzm1B7QF2S.fIMIvi1813.WORKerS.dEV",
+            "servername": "U63b0s4anBuSOXY350P71rTZm1b7qF2S.fiMIVi1813.WOrkeRS.DEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiWHV3dVVqY2VEMWVRMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "u63b0s4anbusoxy350p71rtzm1b7qf2s.fimivi1813.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣4️⃣1️⃣ 💯Mehran💯",
