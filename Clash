@@ -104,13 +104,13 @@
             "server": "188.132.192.190",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": false,
+            "tfo": true,
             "udp": false,
             "uuid": "232b84e6-3b74-4aa5-98d7-d88c91659ca3",
             "packet-encoding": "",
             "tls": true,
             "servername": "gedSy6g34iyRRY4QrXYf8HjE2j2trKFn.PiVAfaW735.workErs.dev",
-            "client-fingerprint": "chrome",
+            "client-fingerprint": "random",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
