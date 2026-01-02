@@ -103,7 +103,7 @@
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
-            "ip-version": "ipv4",
+            "ip-version": "ipv4-prefer",
             "tfo": true,
             "udp": false,
             "uuid": "232b84e6-3b74-4aa5-98d7-d88c91659ca3",
@@ -130,7 +130,7 @@
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
-            "ip-version": "ipv4",
+            "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
             "uuid": "58218b50-74b5-41a3-9038-0eacf351c52d",
@@ -157,7 +157,7 @@
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
-            "ip-version": "ipv4",
+            "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
             "uuid": "db1502d5-d67c-4659-9a84-7845c22a7c59",
@@ -184,7 +184,7 @@
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
-            "ip-version": "ipv4",
+            "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
             "uuid": "4c55807a-d254-43a2-9b29-52bd20a83731",
@@ -211,7 +211,7 @@
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
-            "ip-version": "ipv4",
+            "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
             "uuid": "bda4a5dc-9efc-450a-a4db-5f35a38e6891",
@@ -425,29 +425,29 @@
         {
             "name": "0️⃣1️⃣3️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "78.40.117.49",
-            "port": 2053,
-            "uuid": "c60a9d7b-617c-40b5-b0e4-20a9691a9ce1",
-            "udp": false,
-            "packet-encoding": "packetaddr",
+            "server": "95.179.140.212",
+            "port": 443,
             "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "c60a9d7b-617c-40b5-b0e4-20a9691a9ce1",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiaVN6eDkxSTVjUGciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "headers": {
-                    "Host": "takseke-0g4sbtxonevlejt5zu13xj3e.miwiwec186.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "tAKsEke-0g4SBTXONEVLEJT5Zu13xj3e.MIWiweC186.wORkERs.DEv",
+            "servername": "TAksekE-0G4SBtXoNevLEjT5Zu13xJ3e.mIWIWEc186.woRkErS.DEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibmdGdG5lbHQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "takseke-0g4sbtxonevlejt5zu13xj3e.miwiwec186.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣1️⃣4️⃣ 🛜Wifi🛜",
