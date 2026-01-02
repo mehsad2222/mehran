@@ -506,29 +506,29 @@
         {
             "name": "0️⃣1️⃣6️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "89.35.131.5",
-            "port": 443,
-            "uuid": "fc0f7c9b-8bf8-433f-9a1c-0cfba8ab5e8c",
-            "udp": false,
-            "packet-encoding": "packetaddr",
+            "server": "172.232.157.252",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
             "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiVHgzeFJubEpxWXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "headers": {
-                    "Host": "xq8q87bpth59pw35axuaq725k7fqmlzm.fafapon192.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "xq8Q87BptH59Pw35aXUaq725k7fqmlZM.fAfAPON192.WoRKers.DEV",
+            "udp": false,
+            "uuid": "fc0f7c9b-8bf8-433f-9a1c-0cfba8ab5e8c",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "xQ8Q87BPTH59Pw35aXuAq725K7fQMlzm.FaFAPon192.WoRKErS.DEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibEFtT3lvQ2R5bHFHYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "xq8q87bpth59pw35axuaq725k7fqmlzm.fafapon192.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣1️⃣7️⃣ 🛜Wifi🛜",
