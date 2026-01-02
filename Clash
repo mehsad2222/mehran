@@ -265,27 +265,27 @@
             "type": "vless",
             "server": "185.219.134.25",
             "port": 31564,
-            "uuid": "e166a807-f809-4df9-a1e5-a9c8fe08be62",
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
             "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
+            "uuid": "e166a807-f809-4df9-a1e5-a9c8fe08be62",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiNHcxb0YyaklFY3Y5TlhTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "headers": {
-                    "Host": "ehooshh7cp61-s8nu2si1qff1p9s-j4m.mefidej310.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "EHOOsHH7cp61-s8NU2Si1QfF1P9s-j4m.MEfIDeJ310.woRKERS.dEv",
+            "servername": "ehoOshh7cp61-S8NU2si1QFF1p9s-J4M.MefiDEj310.WOrkers.dEv",
+            "client-fingerprint": "random",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiaWNOa01VVnI1c2pOZ28iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "ehooshh7cp61-s8nu2si1qff1p9s-j4m.mefidej310.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣0️⃣8️⃣ 💯Mehran💯",
