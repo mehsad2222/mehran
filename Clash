@@ -635,7 +635,7 @@
         {
             "name": "0️⃣2️⃣1️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
+            "server": "185.39.204.55",
             "port": 2053,
             "uuid": "72406521-4987-4644-a323-189919766115",
             "udp": false,
@@ -662,7 +662,7 @@
         {
             "name": "0️⃣2️⃣2️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
+            "server": "185.39.204.55",
             "port": 2053,
             "uuid": "64bef9b2-afa8-446b-bfa0-cd0c1d29ab19",
             "udp": false,
@@ -689,7 +689,7 @@
         {
             "name": "0️⃣2️⃣3️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
+            "server": "185.39.204.55",
             "port": 2053,
             "uuid": "43f0c588-ea0c-40a9-8516-2838c9eed649",
             "udp": false,
@@ -716,7 +716,7 @@
         {
             "name": "0️⃣2️⃣4️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
+            "server": "185.39.204.55",
             "port": 2053,
             "uuid": "d37730c7-8d0f-4bfa-ba82-8cf370202eee",
             "udp": false,
@@ -743,7 +743,7 @@
         {
             "name": "0️⃣2️⃣5️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
+            "server": "185.39.204.55",
             "port": 2053,
             "uuid": "8e810acc-43cb-47ce-8d12-9c4230de2e43",
             "udp": false,
@@ -770,8 +770,8 @@
         {
             "name": "0️⃣2️⃣6️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
-            "port": 2053,
+            "server": "62.133.63.149",
+            "port": 2083,
             "uuid": "7f2e1310-5626-4820-b17e-cf6043deb253",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -797,8 +797,8 @@
         {
             "name": "0️⃣2️⃣7️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
-            "port": 2053,
+            "server": "62.133.63.149",
+            "port": 2083,
             "uuid": "94bee3ed-5f5c-4481-842a-2362496d64db",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -824,8 +824,8 @@
         {
             "name": "0️⃣2️⃣8️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
-            "port": 2053,
+            "server": "62.133.63.149",
+            "port": 2083,
             "uuid": "3e7aa798-a2c5-473b-88ed-f8936930cdff",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -851,8 +851,8 @@
         {
             "name": "0️⃣2️⃣9️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
-            "port": 2053,
+            "server": "62.133.63.149",
+            "port": 2083,
             "uuid": "60b1bde9-ff12-4bba-8890-a556afc6ef3d",
             "udp": false,
             "packet-encoding": "packetaddr",
@@ -878,8 +878,8 @@
         {
             "name": "0️⃣3️⃣0️⃣ 💯Mehran💯",
             "type": "vless",
-            "server": "92.38.152.30",
-            "port": 2053,
+            "server": "62.133.63.149",
+            "port": 2083,
             "uuid": "e2d9e6b6-fdb9-429e-9061-e146beb21945",
             "udp": false,
             "packet-encoding": "packetaddr",
