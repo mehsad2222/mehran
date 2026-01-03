@@ -1449,274 +1449,274 @@
             }
         },
         {
-            "name": "0️⃣5️⃣1️⃣ 💯Mehran💯",
+            "name": "0️⃣5️⃣1️⃣ 🟡Irancell🟡",
             "type": "vless",
             "server": "185.254.97.252",
             "port": 1013,
-            "uuid": "92d4bf73-2040-4775-82fa-2c31a8da1c85",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
+            "ip-version": "ipv4-prefer",
             "tfo": true,
+            "udp": false,
+            "uuid": "92d4bf73-2040-4775-82fa-2c31a8da1c85",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "7l63Vc1uRUs8151Lw2775-Bit712adhw.sOsABEL734.WORKERs.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVDU4eXJRNkQ3VlJxVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiUHRZbkhHWG80IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "7l63vc1urus8151lw2775-bit712adhw.sosabel734.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "7L63Vc1uRuS8151LW2775-bIt712aDHw.soSaBEl734.wOrkErs.dEv",
+                }
+            }
+        },
+        {
+            "name": "0️⃣5️⃣2️⃣ 🟡Irancell🟡",
+            "type": "vless",
+            "server": "185.254.97.252",
+            "port": 1013,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "eaf94d35-de49-49c4-823c-599c5db1c0b2",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "K8ww3RghaVvF8BfGr6Hs4KM51PeDCgz2.sihicAx619.wORKErs.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
-        },
-        {
-            "name": "0️⃣5️⃣2️⃣ 💯Mehran💯",
-            "type": "vless",
-            "server": "57.129.16.72",
-            "port": 2053,
-            "uuid": "eaf94d35-de49-49c4-823c-599c5db1c0b2",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
             "network": "ws",
-            "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMlpmVGRrRVZ2TkpNdHciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiWjlQZkNMbnkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "k8ww3rghavvf8bfgr6hs4km51pedcgz2.sihicax619.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "K8ww3rgHaVVf8bfGR6HS4kM51PEDCgz2.sIHicaX619.wOrKERs.DEV",
+                }
+            }
+        },
+        {
+            "name": "0️⃣5️⃣3️⃣ 🟡Irancell🟡",
+            "type": "vless",
+            "server": "185.254.97.252",
+            "port": 1013,
+            "ip-version": "ipv4-prefer",
+            "tfo": true,
+            "udp": false,
+            "uuid": "ae646cea-8083-4719-bb3a-bbc07a66b88d",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "POZXwGlz8BU5uAhvo-YEZ-Sc5XYmduxn.J93ks5Cupx1X.WORkerS.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
-        },
-        {
-            "name": "0️⃣5️⃣3️⃣ 💯Mehran💯",
-            "type": "vless",
-            "server": "57.129.16.72",
-            "port": 2053,
-            "uuid": "ae646cea-8083-4719-bb3a-bbc07a66b88d",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
             "network": "ws",
-            "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoib2xQTjJqU0JFaHEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiaUk5U2JjaWduWiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "pozxwglz8bu5uahvo-yez-sc5xymduxn.j93ks5cupx1x.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "poZXwGlZ8bu5uAHvO-Yez-SC5xymduxn.J93Ks5cUpx1x.WorKers.DeV",
+                }
+            }
+        },
+        {
+            "name": "0️⃣5️⃣4️⃣ 🟡Irancell🟡",
+            "type": "vless",
+            "server": "185.254.97.252",
+            "port": 1013,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "1daeac18-4dac-4ac3-a543-a7b111943626",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "kU696Yf8U24PWRIBk2G2j2Nx9hj6WtZD.kIGofo1198.WORKErs.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
-        },
-        {
-            "name": "0️⃣5️⃣4️⃣ 💯Mehran💯",
-            "type": "vless",
-            "server": "57.129.16.72",
-            "port": 2053,
-            "uuid": "1daeac18-4dac-4ac3-a543-a7b111943626",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
             "network": "ws",
-            "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibUtvYUprSjZSZzZwdzB0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiU0RHOGJjOUprVVp3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "ku696yf8u24pwribk2g2j2nx9hj6wtzd.kigofo1198.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "KU696Yf8U24PWRIBK2G2j2nX9hJ6WTZd.kIgOFO1198.wOrkerS.dEv",
+                }
+            }
+        },
+        {
+            "name": "0️⃣5️⃣5️⃣ 🟡Irancell🟡",
+            "type": "vless",
+            "server": "185.254.97.252",
+            "port": 1013,
+            "ip-version": "ipv4-prefer",
+            "tfo": true,
+            "udp": false,
+            "uuid": "f244062b-5450-44e5-bfe7-0cd8441fa588",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Y2HILlMflZG2Rtlbb1Bvpm9U-yki63tv.CIJEmit620.WoRkERs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
-        },
-        {
-            "name": "0️⃣5️⃣5️⃣ 💯Mehran💯",
-            "type": "vless",
-            "server": "57.129.16.72",
-            "port": 2053,
-            "uuid": "f244062b-5450-44e5-bfe7-0cd8441fa588",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
             "network": "ws",
-            "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWHNPb1dMS1VSaWZVZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiWWJHUnJMbzBMT1Z3cHFsMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "y2hillmflzg2rtlbb1bvpm9u-yki63tv.cijemit620.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "y2hiLlMFlZG2Rtlbb1BvpM9U-Yki63tv.CIJeMit620.WoRkERs.dEV",
-            "alpn": [
-                "http/1.1"
-            ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+                }
+            }
         },
         {
-            "name": "0️⃣5️⃣6️⃣ 💯Mehran💯",
+            "name": "0️⃣5️⃣6️⃣ 🟡Irancell🟡",
             "type": "vless",
             "server": "5.61.39.183",
             "port": 443,
-            "uuid": "00753719-ed52-4b46-bb13-40b18d34c921",
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
             "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
+            "uuid": "00753719-ed52-4b46-bb13-40b18d34c921",
+            "packet-encoding": "",
             "tls": true,
+            "servername": "vr18Z07b39RvVq0VBs0FewmCactwY71x.JiVof98029.wOrkers.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
             "network": "ws",
-            "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYkJ1a1Y1aWg4Z2wxdDdQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoibThLTVBiQllkdVBGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "vr18z07b39rvvq0vbs0fewmcactwy71x.jivof98029.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "VR18z07B39rvvq0VbS0feWmCaCTWY71x.jiVoF98029.woRKErs.DEv",
-            "alpn": [
-                "http/1.1"
-            ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+                }
+            }
         },
         {
-            "name": "0️⃣5️⃣7️⃣ 💯Mehran💯",
+            "name": "0️⃣5️⃣7️⃣ 🟡Irancell🟡",
             "type": "vless",
             "server": "5.61.39.183",
             "port": 443,
-            "uuid": "aa18b70a-e0ed-4199-b4f2-4fc7fb246e00",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
+            "ip-version": "ipv4-prefer",
             "tfo": true,
+            "udp": false,
+            "uuid": "aa18b70a-e0ed-4199-b4f2-4fc7fb246e00",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Y79EmT2atOO6IbejfjD143rqjZ87RH24.LiwEXA8765.WoRkERs.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUGJEZkVOM1o5Q1hNWGlwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiSHRnSFVtdHVYWWJlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "y79emt2atoo6ibejfjd143rqjz87rh24.liwexa8765.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "y79eMt2aTOo6IBEJfjD143RqJZ87Rh24.Liwexa8765.WoRkErS.dEv",
-            "alpn": [
-                "http/1.1"
-            ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+                }
+            }
         },
         {
-            "name": "0️⃣5️⃣8️⃣ 💯Mehran💯",
+            "name": "0️⃣5️⃣8️⃣ 🟡Irancell🟡",
             "type": "vless",
             "server": "5.61.39.183",
             "port": 443,
-            "uuid": "cd282cfa-e674-458d-99c2-c3ce8fcc9707",
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
             "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
+            "uuid": "cd282cfa-e674-458d-99c2-c3ce8fcc9707",
+            "packet-encoding": "",
             "tls": true,
+            "servername": "e9OWoH0A8la5Mn2bh5As7n7euz2hs4It.fOBesE3187.workeRS.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
             "network": "ws",
-            "tfo": true,
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZ0U0MVg5R2tuUWhlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiazFaZXR4VVR6ekV0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "e9owoh0a8la5mn2bh5as7n7euz2hs4it.fobese3187.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "E9OWOh0a8La5MN2BH5as7n7eUz2hs4it.fOBeSe3187.WORKErs.Dev",
-            "alpn": [
-                "http/1.1"
-            ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+                }
+            }
         },
         {
-            "name": "0️⃣5️⃣9️⃣ 💯Mehran💯",
+            "name": "0️⃣5️⃣9️⃣ 🟡Irancell🟡",
             "type": "vless",
             "server": "5.61.39.183",
             "port": 443,
-            "uuid": "f888b471-ba76-4332-9a2c-05cdf1acca89",
-            "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
+            "ip-version": "ipv4-prefer",
             "tfo": true,
+            "udp": false,
+            "uuid": "f888b471-ba76-4332-9a2c-05cdf1acca89",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "qZ4EGYJbF9Rvu2yQohY7SKykoil363WH.VipeVaN574.wOrKERs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMUFtd1VXcnZoVUcxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiV0J2bjJTOEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "qz4egyjbf9rvu2yqohy7skykoil363wh.vipevan574.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "qz4EgyJbf9Rvu2YQOHy7skykOIL363wh.vipeVAn574.WOrkeRs.dev",
-            "alpn": [
-                "http/1.1"
-            ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+                }
+            }
         },
         {
-            "name": "0️⃣6️⃣0️⃣ 💯Mehran💯",
+            "name": "0️⃣6️⃣0️⃣ 🟡Irancell🟡",
             "type": "vless",
             "server": "5.61.39.183",
             "port": 443,
-            "uuid": "7e64d44f-3f1a-45a0-a748-532a87770fd9",
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
             "udp": false,
-            "packet-encoding": "packetaddr",
-            "ip-version": "ipv4",
+            "uuid": "7e64d44f-3f1a-45a0-a748-532a87770fd9",
+            "packet-encoding": "",
             "tls": true,
-            "network": "ws",
-            "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoid3dJS0xKSVIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "headers": {
-                    "Host": "ylaf5q3g9s6f5lez1hwn1r4-y3d8gkxs.mehrankdvdbdj.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "YLaf5Q3G9s6F5leZ1Hwn1r4-y3D8GkXs.mehrANKDvDbDJ.woRKERs.DeV",
+            "servername": "yLaf5Q3g9S6f5leZ1hwn1r4-y3D8GKXS.mEhrANKdVdbDj.WOrkERs.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiN1Y4T3ozc2lqQ3ptIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "ylaf5q3g9s6f5lez1hwn1r4-y3d8gkxs.mehrankdvdbdj.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣6️⃣1️⃣ 💯Mehran💯",
@@ -2855,16 +2855,16 @@
                 "0️⃣4️⃣8️⃣ 🛜Wifi🛜",
                 "0️⃣4️⃣9️⃣ 🛜Wifi🛜",
                 "0️⃣5️⃣0️⃣ 🛜Wifi🛜",
-                "0️⃣5️⃣1️⃣ 💯Mehran💯",
-                "0️⃣5️⃣2️⃣ 💯Mehran💯",
-                "0️⃣5️⃣3️⃣ 💯Mehran💯",
-                "0️⃣5️⃣4️⃣ 💯Mehran💯",
-                "0️⃣5️⃣5️⃣ 💯Mehran💯",
-                "0️⃣5️⃣6️⃣ 💯Mehran💯",
-                "0️⃣5️⃣7️⃣ 💯Mehran💯",
-                "0️⃣5️⃣8️⃣ 💯Mehran💯",
-                "0️⃣5️⃣9️⃣ 💯Mehran💯",
-                "0️⃣6️⃣0️⃣ 💯Mehran💯",
+                "0️⃣5️⃣1️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣2️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣3️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣4️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣5️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣6️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣7️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣8️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣9️⃣ 🟡Irancell🟡",
+                "0️⃣6️⃣0️⃣ 🟡Irancell🟡",
                 "0️⃣6️⃣1️⃣ 💯Mehran💯",
                 "0️⃣6️⃣2️⃣ 💯Mehran💯",
                 "0️⃣6️⃣3️⃣ 💯Mehran💯",
@@ -2961,16 +2961,16 @@
                 "0️⃣4️⃣8️⃣ 🛜Wifi🛜",
                 "0️⃣4️⃣9️⃣ 🛜Wifi🛜",
                 "0️⃣5️⃣0️⃣ 🛜Wifi🛜",
-                "0️⃣5️⃣1️⃣ 💯Mehran💯",
-                "0️⃣5️⃣2️⃣ 💯Mehran💯",
-                "0️⃣5️⃣3️⃣ 💯Mehran💯",
-                "0️⃣5️⃣4️⃣ 💯Mehran💯",
-                "0️⃣5️⃣5️⃣ 💯Mehran💯",
-                "0️⃣5️⃣6️⃣ 💯Mehran💯",
-                "0️⃣5️⃣7️⃣ 💯Mehran💯",
-                "0️⃣5️⃣8️⃣ 💯Mehran💯",
-                "0️⃣5️⃣9️⃣ 💯Mehran💯",
-                "0️⃣6️⃣0️⃣ 💯Mehran💯",
+                "0️⃣5️⃣1️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣2️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣3️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣4️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣5️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣6️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣7️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣8️⃣ 🟡Irancell🟡",
+                "0️⃣5️⃣9️⃣ 🟡Irancell🟡",
+                "0️⃣6️⃣0️⃣ 🟡Irancell🟡",
                 "0️⃣6️⃣1️⃣ 💯Mehran💯",
                 "0️⃣6️⃣2️⃣ 💯Mehran💯",
                 "0️⃣6️⃣3️⃣ 💯Mehran💯",
