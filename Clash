@@ -425,7 +425,7 @@
         {
             "name": "0️⃣1️⃣3️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "95.179.140.212",
+            "server": "212.104.128.56",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -452,7 +452,7 @@
         {
             "name": "0️⃣1️⃣4️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "95.179.140.212",
+            "server": "212.104.128.56",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
