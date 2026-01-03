@@ -425,23 +425,16 @@
         {
             "name": "0️⃣1️⃣3️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "212.104.128.56",
-            "port": 443,
+            "server": "188.114.97.0",
+            "port": 8880,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
             "uuid": "c60a9d7b-617c-40b5-b0e4-20a9691a9ce1",
             "packet-encoding": "",
-            "tls": true,
-            "servername": "TAksekE-0G4SBtXoNevLEjT5Zu13xJ3e.mIWIWEc186.woRkErS.DEV",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibmdGdG5lbHQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiYmx5OWxFQ3RzUGR2cmsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
