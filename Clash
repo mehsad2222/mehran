@@ -425,8 +425,9 @@
         {
             "name": "0️⃣1️⃣3️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "server": "188.114.97.0",
-            "port": 8880,
+            "type": "vless",
+            "server": "takseke-0g4sbtxonevlejt5zu13xj3e.miwiwec186.workers.dev",
+            "port": 2052,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -434,7 +435,7 @@
             "packet-encoding": "",
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYmx5OWxFQ3RzUGR2cmsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiR0hCdzVvYUFJWGJhaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
