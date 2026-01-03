@@ -425,7 +425,6 @@
         {
             "name": "0️⃣1️⃣3️⃣ 🛜Wifi🛜",
             "type": "vless",
-            "type": "vless",
             "server": "takseke-0g4sbtxonevlejt5zu13xj3e.miwiwec186.workers.dev",
             "port": 2052,
             "ip-version": "ipv4",
