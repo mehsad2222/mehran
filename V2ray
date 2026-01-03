@@ -124,7 +124,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "9aabba13-97a7-47aa-b425-bf51e5d24f58",
                 "level": 8
               }
@@ -167,7 +166,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "355a68e4-5a3a-4319-b404-49717b0781b4",
                 "level": 8
               }
@@ -210,7 +208,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "e060db64-8d80-42b2-b814-a2de5946d2b1",
                 "level": 8
               }
@@ -253,7 +250,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "ab3b101e-6163-4e54-8f03-23cf1feb0c83",
                 "level": 8
               }
@@ -296,7 +292,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "7fabb41f-959b-4da3-b095-b83103c152ee",
                 "level": 8
               }
@@ -339,7 +334,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "4acff527-2b09-4f5e-a04d-2cd73fe31c4a",
                 "level": 8
               }
@@ -382,7 +376,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "8c79868f-48e1-420f-a99f-9a1ef3e127e2",
                 "level": 8
               }
@@ -420,12 +413,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "51.195.43.174",
-            "port": 8443,
+            "address": "88.218.76.170",
+            "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "a217c3c3-e824-43a5-a0ba-17016d0303fc",
                 "level": 8
               }
@@ -468,7 +460,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "122a32b3-c2a2-4af2-9a9e-42a61ce3505b",
                 "level": 8
               }
@@ -511,7 +502,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "e3dc448b-09bd-430f-89c8-37933cb4bec3",
                 "level": 8
               }
@@ -554,7 +544,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "f020218c-e599-4999-812b-9e6edca6a7b0",
                 "level": 8
               }
@@ -597,7 +586,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "9b70bef4-5890-4039-bd12-47c14031c385",
                 "level": 8
               }
@@ -640,7 +628,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "33e733fb-e9d7-4fcb-9e06-b994a3c86b96",
                 "level": 8
               }
@@ -678,12 +665,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "38.180.105.201",
+            "address": "89.35.131.5",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "4baebf13-5146-475c-b567-2e1e0a6863be",
                 "level": 8
               }
@@ -721,12 +707,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "38.180.105.201",
+            "address": "89.35.131.5",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "08fd9358-a5ab-4574-8186-fc1c6c25c2db",
                 "level": 8
               }
@@ -764,12 +749,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "38.180.105.201",
+            "address": "45.133.118.153",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "6ea8b9da-0fab-4c9c-b3bb-7dfb0ac9e298",
                 "level": 8
               }
@@ -807,12 +791,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "38.180.105.201",
+            "address": "45.133.118.153",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "801faeb8-a3f4-4ae3-b69d-7abfe9e52d80",
                 "level": 8
               }
@@ -855,7 +838,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "25960215-c66b-4919-bc17-83c7c25b5441",
                 "level": 8
               }
@@ -893,12 +875,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "139.162.133.162",
-            "port": 24461,
+            "address": "95.179.140.212",
+            "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "4f019dff-4e9b-4cd4-9e77-fd112594edde",
                 "level": 8
               }
@@ -936,12 +917,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "51.195.119.77",
-            "port": 2053,
+            "address": "83.217.9.110",
+            "port": 24443,
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "674da007-7960-4e47-a31f-1d32ecb4df02",
                 "level": 8
               }
@@ -984,7 +964,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "0b4ef05f-3e52-4b6c-b432-cca782485008",
                 "level": 8
               }
@@ -1027,7 +1006,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "53d547ea-4028-4485-b9d7-0175bf867fc9",
                 "level": 8
               }
@@ -1070,7 +1048,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "b24ef029-a2ba-44c2-a169-0da9e7be3860",
                 "level": 8
               }
@@ -1113,7 +1090,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "5c896fc1-2cf5-40d6-a5a2-d4dc2d479537",
                 "level": 8
               }
@@ -1153,7 +1129,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "0e11490e-e2f2-4a7e-85c8-fb0aa1fa0c68",
                 "level": 8
               }
@@ -1196,7 +1171,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "a2c316a9-32b6-41db-bdad-c213a6cda0b9",
                 "level": 8
               }
@@ -1239,7 +1213,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "55ecec93-07c5-42ae-9872-43a2aa2de073",
                 "level": 8
               }
@@ -1282,7 +1255,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "ffa2be74-da1a-4bc3-ab0e-febdcf1b1da6",
                 "level": 8
               }
@@ -1325,7 +1297,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "437a895d-551a-41dc-b4f2-5262c936d2c6",
                 "level": 8
               }
@@ -1368,7 +1339,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "4f4beb9b-6d07-4c52-81d6-af19ad5f79e6",
                 "level": 8
               }
@@ -1411,7 +1381,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "235226ad-e607-4182-bc23-93bb70ca734e",
                 "level": 8
               }
@@ -1444,7 +1413,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "f80c90fe-bf13-40b5-bad4-cfb7b8b4a782",
                 "level": 8
               }
@@ -1477,7 +1445,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "6a51718e-c60c-4e9a-97d7-bef03c9e854b",
                 "level": 8
               }
@@ -1510,7 +1477,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "6a008f28-ab2a-4f14-8fb0-11d17219eac8",
                 "level": 8
               }
@@ -1543,7 +1509,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "87bf9eac-897d-436f-86c1-d635aa5f531e",
                 "level": 8
               }
@@ -1576,7 +1541,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "66f2f63b-5cf4-4654-a2e0-ea6e260d6198",
                 "level": 8
               }
@@ -1609,7 +1573,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "4dff6512-9d0d-46bf-86a9-f4c158d77ce7",
                 "level": 8
               }
@@ -1642,7 +1605,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "6a008f28-ab2a-4f14-8fb0-11d17219eac8",
                 "level": 8
               }
@@ -1670,12 +1632,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "51.195.43.174",
-            "port": 8443,
+            "address": "83.217.9.110",
+            "port": 24443,
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "27b3eac8-4a5f-470a-9f2f-090620351f2f",
                 "level": 8
               }
@@ -1703,6 +1664,300 @@
         }
       },
       "tag": "proxy-39"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "83.217.9.110",
+            "port": 24443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "96f625e6-eab5-4dce-b107-0dbfa1ab90eb",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "random",
+          "serverName": "blue-brook-bdda.yaliho7071.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "blue-brook-bdda.yaliho7071.workers.dev"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-40"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "83.217.9.110",
+            "port": 24443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "1b76a468-2fe7-460d-815a-4be44887b254",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "random",
+          "serverName": "lively-paper-2dfc.vicor13032.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "lively-paper-2dfc.vicor13032.workers.dev"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-41"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "83.217.9.110",
+            "port": 24443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "dad6d827-6aa0-4c57-8d1c-7d670668c7bd",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "random",
+          "serverName": "red-resonance-06e8.mokhaberat2002.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "red-resonance-06e8.mokhaberat2002.workers.dev"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-42"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "83.217.9.110",
+            "port": 24443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "ac151e91-b28f-4082-8ab4-dd89431e19f7",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "billowing-wood-b554.mokhaberat2005.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "billowing-wood-b554.mokhaberat2005.workers.dev"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-43"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "188.132.192.195",
+            "port": 2053,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "20e43de7-72eb-465d-bb59-345daacbe1e1",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "random",
+          "serverName": "falling-poetry-9ae7.mokhaberat2338.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "falling-poetry-9ae7.mokhaberat2338.workers.dev"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-44"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "83.217.9.110",
+            "port": 24443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "7d8bc083-2703-4710-bc13-cf596badfcea",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "dark-rain-5fc8.8x6buo6gy0zj.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "dark-rain-5fc8.8x6buo6gy0zj.workers.dev"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-45"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "83.217.9.110",
+            "port": 24443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "bdc1c30d-7961-4d5f-aff1-48b76d94eeb5",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "random",
+          "serverName": "kforbcnodlsn494.sajogo9887.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "kforbcnodlsn494.sajogo9887.workers.dev"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-46"
     },
     {
       "protocol": "freedom",
