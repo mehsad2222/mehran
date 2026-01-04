@@ -2515,44 +2515,17 @@
             }
         },
         {
-            "name": "0️⃣9️⃣1️⃣ 🇺🇲USA",
+            "name": "0️⃣9️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "154.154.245.83",
+            "server": "188.114.96.10",
             "port": 443,
-            "ip-version": "ipv4-prefer",
-            "tfo": true,
-            "udp": false,
-            "uuid": "47499d91-a4ec-4157-ba56-fcdb97f64d32",
-            "packet-encoding": "",
-            "tls": true,
-            "servername": "PzwsHJzwSUZ8b7LZAdiFjDq3IBw04-72.TaVOHOC374.woRkERS.DEv",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
-            "network": "ws",
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoibmVZRmluVnRDd3ZkbnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNTYuMTU0LjI0NS44Mzo0NDMiLCIxNTkuNjUuMTYyLjkwOjQ0MyIsIjQzLjEzMC4xMDUuMTY2OjY1MDAyIiwiMTkzLjMyLjE3Ny43OTo0NDMiLCI0Ni4xNy4xMDcuMTgzOjQ0MyJdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
-                "headers": {
-                    "Host": "pzwshjzwsuz8b7lzadifjdq3ibw04-72.tavohoc374.workers.dev"
-                }
-            }
-        },
-        {
-            "name": "0️⃣9️⃣2️⃣ 🇸🇮Russia",
-             "type": "vless",
-            "server": "94.242.53.158",
-            "port": 2053,
             "ip-version": "ipv4-prefer",
             "tfo": true,
             "udp": false,
             "uuid": "2c2bdba1-3faa-4149-a5c6-666720ee4159",
             "packet-encoding": "",
             "tls": true,
-            "servername": "95xyj6-ebGaF823opUy2Y3DLa2kPOhhu.GEKeVO1906.WoRKers.dev",
+            "servername": "95xyj6-EbgAF823oPuY2y3dLA2kpOhHu.gEkEvO1906.WorKeRS.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2560,7 +2533,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibGpkaXZ3TFdlanZOdjZtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTQuMjQyLjUzLjE1ODoyMDUzIiwiNzcuNzMuNjkuOTY6ODQ0MyIsIjUxLjI1MC4xNS4xNzc6ODQ0MyIsIjg5LjExMC44OS4yMjk6MjA1MyJdfQ==",
+                "path": "/eyJqdW5rIjoicnNhdjRIRVJkOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
@@ -2569,7 +2542,34 @@
             }
         },
         {
-            "name": "0️⃣9️⃣3️⃣ 💯Mehran💯",
+            "name": "0️⃣9️⃣2️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "188.114.96.0",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
+            "tfo": true,
+            "udp": false,
+            "uuid": "47499d91-a4ec-4157-ba56-fcdb97f64d32",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "PzwshjZwsUZ8b7LzaDifjDq3ibw04-72.tAvOHoC374.wORKeRs.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiT0V5N1NmZnJMdVh6Q0MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "pzwshjzwsuz8b7lzadifjdq3ibw04-72.tavohoc374.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣9️⃣3️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
@@ -2596,7 +2596,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣9️⃣4️⃣ 💯Mehran💯",
+            "name": "0️⃣9️⃣4️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
@@ -2623,7 +2623,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣9️⃣5️⃣ 💯Mehran💯",
+            "name": "0️⃣9️⃣5️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
@@ -2650,7 +2650,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣9️⃣6️⃣ 💯Mehran💯",
+            "name": "0️⃣9️⃣6️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
@@ -2677,7 +2677,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣9️⃣7️⃣ 💯Mehran💯",
+            "name": "0️⃣9️⃣7️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
@@ -2704,7 +2704,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣9️⃣8️⃣ 💯Mehran💯",
+            "name": "0️⃣9️⃣8️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
@@ -2731,7 +2731,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "0️⃣9️⃣9️⃣ 💯Mehran💯",
+            "name": "0️⃣9️⃣9️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
@@ -2758,7 +2758,7 @@
             "skip-cert-verify": false
         },
         {
-            "name": "1️⃣0️⃣0️⃣ 💯Mehran💯",
+            "name": "1️⃣0️⃣0️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.132.192.190",
             "port": 2053,
@@ -2881,16 +2881,16 @@
                 "0️⃣8️⃣8️⃣ 〽️ehran",
                 "0️⃣8️⃣9️⃣ 〽️ehran",
                 "0️⃣9️⃣0️⃣ 〽️ehran",
-                "0️⃣9️⃣1️⃣ 🇺🇲USA",
-                "0️⃣9️⃣2️⃣ 🇸🇮Russia",
-                "0️⃣9️⃣3️⃣ 💯Mehran💯",
-                "0️⃣9️⃣4️⃣ 💯Mehran💯",
-                "0️⃣9️⃣5️⃣ 💯Mehran💯",
-                "0️⃣9️⃣6️⃣ 💯Mehran💯",
-                "0️⃣9️⃣7️⃣ 💯Mehran💯",
-                "0️⃣9️⃣8️⃣ 💯Mehran💯",
-                "0️⃣9️⃣9️⃣ 💯Mehran💯",
-                "1️⃣0️⃣0️⃣ 💯Mehran💯"
+                "0️⃣9️⃣1️⃣ 〽️ehran",
+                "0️⃣9️⃣2️⃣ 〽️ehran",
+                "0️⃣9️⃣3️⃣ 〽️ehran",
+                "0️⃣9️⃣4️⃣ 〽️ehran",
+                "0️⃣9️⃣5️⃣ 〽️ehran",
+                "0️⃣9️⃣6️⃣ 〽️ehran",
+                "0️⃣9️⃣7️⃣ 〽️ehran",
+                "0️⃣9️⃣8️⃣ 〽️ehran",
+                "0️⃣9️⃣9️⃣ 〽️ehran",
+                "1️⃣0️⃣0️⃣ 〽️ehran"
             ]
         },
         {
@@ -2987,16 +2987,16 @@
                 "0️⃣8️⃣8️⃣ 〽️ehran",
                 "0️⃣8️⃣9️⃣ 〽️ehran",
                 "0️⃣9️⃣0️⃣ 〽️ehran",
-                "0️⃣9️⃣1️⃣ 🇺🇲USA",
-                "0️⃣9️⃣2️⃣ 🇸🇮Russia",
-                "0️⃣9️⃣3️⃣ 💯Mehran💯",
-                "0️⃣9️⃣4️⃣ 💯Mehran💯",
-                "0️⃣9️⃣5️⃣ 💯Mehran💯",
-                "0️⃣9️⃣6️⃣ 💯Mehran💯",
-                "0️⃣9️⃣7️⃣ 💯Mehran💯",
-                "0️⃣9️⃣8️⃣ 💯Mehran💯",
-                "0️⃣9️⃣9️⃣ 💯Mehran💯",
-                "1️⃣0️⃣0️⃣ 💯Mehran💯"        
+                "0️⃣9️⃣1️⃣ 〽️ehran",
+                "0️⃣9️⃣2️⃣ 〽️ehran",
+                "0️⃣9️⃣3️⃣ 〽️ehran",
+                "0️⃣9️⃣4️⃣ 〽️ehran",
+                "0️⃣9️⃣5️⃣ 〽️ehran",
+                "0️⃣9️⃣6️⃣ 〽️ehran",
+                "0️⃣9️⃣7️⃣ 〽️ehran",
+                "0️⃣9️⃣8️⃣ 〽️ehran",
+                "0️⃣9️⃣9️⃣ 〽️ehran",
+                "1️⃣0️⃣0️⃣ 〽️ehran"        
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interval": 30,
