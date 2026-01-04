@@ -2515,31 +2515,31 @@
             }
         },
         {
-            "name": "0️⃣9️⃣1️⃣ 💯Mehran💯",
+            "name": "0️⃣9️⃣1️⃣ 🇺🇲USA",
             "type": "vless",
-            "server": "188.132.192.190",
-            "port": 2053,
-            "uuid": "47499d91-a4ec-4157-ba56-fcdb97f64d32",
-            "udp": false,
-            "packet-encoding": "",
-            "ip-version": "ipv4",
-            "tls": true,
-            "network": "ws",
+            "server": "154.154.245.83",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
             "tfo": true,
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiNnp3WTlyR3JZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "pzwshjzwsuz8b7lzadifjdq3ibw04-72.tavohoc374.workers.dev"
-                },
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol"
-            },
-            "servername": "pZWshjzWsUz8B7lzADifJdq3iBw04-72.tavohoC374.wORKErs.DeV",
+            "udp": false,
+            "uuid": "47499d91-a4ec-4157-ba56-fcdb97f64d32",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "PzwsHJzwSUZ8b7LZAdiFjDq3IBw04-72.TaVOHOC374.woRkERS.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibmVZRmluVnRDd3ZkbnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNTYuMTU0LjI0NS44Mzo0NDMiLCIxNTkuNjUuMTYyLjkwOjQ0MyIsIjQzLjEzMC4xMDUuMTY2OjY1MDAyIiwiMTkzLjMyLjE3Ny43OTo0NDMiLCI0Ni4xNy4xMDcuMTgzOjQ0MyJdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "pzwshjzwsuz8b7lzadifjdq3ibw04-72.tavohoc374.workers.dev"
+                }
+            }
         },
         {
             "name": "0️⃣9️⃣2️⃣ 💯Mehran💯",
