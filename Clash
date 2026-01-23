@@ -371,9 +371,9 @@
         {
             "name": "0️⃣1️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "83.217.9.110",
+            "server": "144.24.195.115",
             "port": 24443,
-            "ip-version": "ipv4",
+            "ip-version": "ipv4-prefer",
             "tfo": true,
             "udp": false,
             "uuid": "888d6819-c61d-4413-8ecf-d08d66b43442",
