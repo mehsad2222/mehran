@@ -101,7 +101,7 @@
         {
             "name": "0️⃣0️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.132.192.194",
+            "server": "185.242.106.162",
             "port": 2053,
             "ip-version": "ipv4-prefer",
             "tfo": true,
@@ -128,7 +128,7 @@
         {
             "name": "0️⃣0️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.132.192.194",
+            "server": "185.242.106.162",
             "port": 2053,
             "ip-version": "ipv4-prefer",
             "tfo": false,
