@@ -374,7 +374,7 @@
             "server": "185.242.107.80",
             "port": 443,
             "ip-version": "ipv4-prefer",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
             "uuid": "888d6819-c61d-4413-8ecf-d08d66b43442",
             "packet-encoding": "",
