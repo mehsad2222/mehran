@@ -36,7 +36,7 @@
             "rule-set:cryptominers": "rcode://refused"
         },
         "nameserver": [
-            "https://8.8.8.8/dns-query#âœ… Selector"
+            "https://8.8.8.8/dns-query#✅ Selector"
         ],
         "proxy-server-nameserver": [
             "8.8.8.8#DIRECT"
@@ -2209,10 +2209,10 @@
     ],
     "proxy-groups": [
         {
-            "name": "âœ… Selector",
+            "name": "✅ Selector",
             "type": "select",
             "proxies": [
-                "ðŸ’¦ Best Ping ðŸš€",
+                "💦 Best Ping 🚀",
                 "ðŸ’¦ 1 - VLESS - Domain : 80",
                 "ðŸ’¦ 2 - VLESS - Domain : 80",
                 "ðŸ’¦ 3 - VLESS - IPv4 : 80",
@@ -2307,7 +2307,7 @@
             ]
         },
         {
-            "name": "ðŸ’¦ Best Ping ðŸš€",
+            "name": "💦 Best Ping 🚀",
             "type": "url-test",
             "proxies": [
                 "ðŸ’¦ 1 - VLESS - Domain : 80",
@@ -2475,7 +2475,7 @@
         "RULE-SET,phishing-cidr,REJECT",
         "RULE-SET,ir,DIRECT",
         "RULE-SET,ir-cidr,DIRECT",
-        "MATCH,âœ… Selector"
+        "MATCH,✅ Selector"
     ],
     "ntp": {
         "enable": true,
