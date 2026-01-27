@@ -1,0 +1,2486 @@
+{
+    "mixed-port": 7890,
+    "ipv6": true,
+    "allow-lan": false,
+    "unified-delay": false,
+    "log-level": "warning",
+    "mode": "rule",
+    "disable-keep-alive": false,
+    "keep-alive-idle": 10,
+    "keep-alive-interval": 15,
+    "tcp-concurrent": true,
+    "geo-auto-update": true,
+    "geo-update-interval": 168,
+    "external-controller": "127.0.0.1:9090",
+    "external-controller-cors": {
+        "allow-origins": [
+            "*"
+        ],
+        "allow-private-network": true
+    },
+    "external-ui": "ui",
+    "external-ui-url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
+    "profile": {
+        "store-selected": true,
+        "store-fake-ip": true
+    },
+    "dns": {
+        "enable": true,
+        "respect-rules": true,
+        "use-system-hosts": false,
+        "listen": "127.0.0.1:1053",
+        "ipv6": true,
+        "hosts": {
+            "rule-set:malware": "rcode://refused",
+            "rule-set:phishing": "rcode://refused",
+            "rule-set:cryptominers": "rcode://refused"
+        },
+        "nameserver": [
+            "https://8.8.8.8/dns-query#✅ Selector"
+        ],
+        "proxy-server-nameserver": [
+            "8.8.8.8#DIRECT"
+        ],
+        "direct-nameserver": [
+            "8.8.8.8#DIRECT"
+        ],
+        "direct-nameserver-follow-policy": true,
+        "nameserver-policy": {
+            "rule-set:ir": "8.8.8.8#DIRECT"
+        },
+        "enhanced-mode": "redir-host"
+    },
+    "tun": {
+        "enable": true,
+        "stack": "mixed",
+        "auto-route": true,
+        "strict-route": true,
+        "auto-detect-interface": true,
+        "dns-hijack": [
+            "any:53",
+            "tcp://any:53"
+        ],
+        "mtu": 9000
+    },
+    "sniffer": {
+        "enable": true,
+        "force-dns-mapping": true,
+        "parse-pure-ip": true,
+        "override-destination": true,
+        "sniff": {
+            "TLS": {
+                "ports": [
+                    443,
+                    8443,
+                    2053,
+                    2083,
+                    2087,
+                    2096
+                ]
+            },
+            "HTTP": {
+                "ports": [
+                    80,
+                    8080,
+                    8880,
+                    2052,
+                    2082,
+                    2086,
+                    2095
+                ]
+            }
+        }
+    },
+    "proxies": [
+        {
+            "name": "💦 1 - VLESS - Domain : 80",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 80,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiV0FwbjhwV0h5aFExTzJ1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 2 - VLESS - Domain : 80",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 80,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiVkhFS3I1SXZLR0duNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 3 - VLESS - IPv4 : 80",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 80,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZXRMczZiY285V1YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 4 - VLESS - IPv4 : 80",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 80,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZWxXNWxrbzVKWklNOVdBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 5 - VLESS - IPv6 : 80",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 80,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZVB6a3E4ekpuUUpWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 6 - VLESS - IPv6 : 80",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 80,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiMlF2Sk9YaHBGSVlJNE41SiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 7 - VLESS - Clean IP : 80",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 80,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiWXBsb050YjAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 8 - VLESS - Domain : 8080",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 8080,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoid2xESGxqNjZZRVg4dCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 9 - VLESS - Domain : 8080",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 8080,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiUWV1a0dzeG5oIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 10 - VLESS - IPv4 : 8080",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 8080,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoidENLRFNaS2pSQkh2SSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 11 - VLESS - IPv4 : 8080",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 8080,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiMXlneGVFeDhCV04zU1hwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 12 - VLESS - IPv6 : 8080",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 8080,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibHgzM2tmbUNVREsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 13 - VLESS - IPv6 : 8080",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 8080,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoicHhXQWpjbVJ0Uk84IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 14 - VLESS - Clean IP : 8080",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 8080,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiYUltaTVEZEdzWTdFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 15 - VLESS - Domain : 8880",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 8880,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiR1UyZk9KMkV2SCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 16 - VLESS - Domain : 8880",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 8880,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiY3lYN0VCMmNTOUVsWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 17 - VLESS - IPv4 : 8880",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 8880,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoidVhDN21XMHdnV0lhemU1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 18 - VLESS - IPv4 : 8880",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 8880,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiUWxGTjg1bW9BOHZ1ckxVWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 19 - VLESS - IPv6 : 8880",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 8880,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoib2ZRYmRzaVZiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 20 - VLESS - IPv6 : 8880",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 8880,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiNkJEWll3QkpwYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 21 - VLESS - Clean IP : 8880",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 8880,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZ1htRWtaTHEzVXNFQzQxSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 22 - VLESS - Domain : 2052",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 2052,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZUEyZEUxS3pVQWc2VyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 23 - VLESS - Domain : 2052",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2052,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiR252eWN4R3J2WXN0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 24 - VLESS - IPv4 : 2052",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 2052,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibU1scm5EZ2pqYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 25 - VLESS - IPv4 : 2052",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 2052,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiU0JCYlNGdjUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 26 - VLESS - IPv6 : 2052",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 2052,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibFMyaGZnRUtxMTNmVjROTCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 27 - VLESS - IPv6 : 2052",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 2052,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiUWRzTVBHQzFGVEVPdDMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 28 - VLESS - Clean IP : 2052",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 2052,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiWkhNaXdkejNVNFZtdEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 29 - VLESS - Domain : 2082",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 2082,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoicGpZc3BIUFVWZ3U2Q0FseCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 30 - VLESS - Domain : 2082",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2082,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZFprMThQOFlQYXpWQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 31 - VLESS - IPv4 : 2082",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 2082,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiaFhLOXpBdUdvVEdjZTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 32 - VLESS - IPv4 : 2082",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 2082,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoieUV6WnhOeHFQNGMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 33 - VLESS - IPv6 : 2082",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 2082,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoicXB4ZlJ5bFdKN0VsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 34 - VLESS - IPv6 : 2082",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 2082,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZHNzd2lyYWNZYWtqQjdEeiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 35 - VLESS - Clean IP : 2082",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 2082,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiUnNaNVpiTWpnZU0zWiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 36 - VLESS - Domain : 2086",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 2086,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibFlvejVpdjIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 37 - VLESS - Domain : 2086",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2086,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiTmNTZzlRRjgwOGFSTTAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 38 - VLESS - IPv4 : 2086",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 2086,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiUWRrRnR6Y3Bld09tNlEzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 39 - VLESS - IPv4 : 2086",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 2086,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiQkRvVE5mcW11Z3hOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 40 - VLESS - IPv6 : 2086",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 2086,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiY3JJTFFGWXpTOUxaeGR6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 41 - VLESS - IPv6 : 2086",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 2086,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiWVByOWhIM2g5OEdKV1ZRbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 42 - VLESS - Clean IP : 2086",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 2086,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiYmZFdm0wSmcyZmVlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 43 - VLESS - Domain : 2095",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 2095,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiRnpmRVRWRW0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 44 - VLESS - Domain : 2095",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2095,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiYUo1WTYwald0enkyVm0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 45 - VLESS - IPv4 : 2095",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 2095,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiMDlyYVJicjMweGtPZGxLUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 46 - VLESS - IPv4 : 2095",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 2095,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiN2llTDNFazlrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 47 - VLESS - IPv6 : 2095",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 2095,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiVXZpS3hKUTRUS0dLeTdCRiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 48 - VLESS - IPv6 : 2095",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 2095,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiY1VUMmpGWFdnciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 49 - VLESS - Clean IP : 2095",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 2095,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiWDg1bFFtNDdKYzJLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 50 - VLESS - Domain : 443",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Vfb2XCwA6eQ1XCi9BhHG6PEnAklXpPfR.MOkhaBERAT2014.wOrkErs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiMjEzaERHVkVndzIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 51 - VLESS - Domain : 443",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfb2xcWA6Eq1xcI9BHHg6pEnaKlXPpFR.MoKHAbeRat2014.WORkErS.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiWm84b01rT1Fpb0NHUXNDYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 52 - VLESS - IPv4 : 443",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VFB2XCwa6eq1xCI9BhHg6peNAklXPPFr.mOkhaBeRaT2014.worKErs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiRGRSUkpuQk0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 53 - VLESS - IPv4 : 443",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfB2xCwA6eQ1xCI9BhHg6penaklxPPfr.mOKhABerAt2014.wORkers.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiMGpQUWo2a1A4cDciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 54 - VLESS - IPv6 : 443",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2Xcwa6EQ1xCI9bhHg6penAKlXPPFR.MokHabEraT2014.WoRkeRS.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZlVHU09mb2NEaUxJaUZnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 55 - VLESS - IPv6 : 443",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfb2xCwA6eq1XCi9BHHg6PenaKLxppFr.mokHABerAt2014.WoRkERS.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiTnpyQnJEaXhxcDZNYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 56 - VLESS - Clean IP : 443",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VFb2xCWA6EQ1XCI9BHhg6PENaklxppfR.moKhABERAt2014.woRKerS.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiaXdqN1JhcTYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 57 - VLESS - Domain : 8443",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 8443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vFb2xcwA6EQ1xCI9bhhG6pENAKlXPPFr.mOkHaBERAT2014.WoRKeRs.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiOWtaNEZ5ZmpDSzR4MGFNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 58 - VLESS - Domain : 8443",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 8443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vFb2XCWA6EQ1xCI9bhHg6penaklxPPFr.MokHABERAT2014.WORkERS.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoia0tnMzdubzdTT24iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 59 - VLESS - IPv4 : 8443",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 8443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XcWa6eQ1xcI9BhHg6PenaKlxPPfR.moKHaBErAt2014.WOrKERS.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiN0hIaThHZ0NYdlhjdHRzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 60 - VLESS - IPv4 : 8443",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 8443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vFB2xCWa6Eq1XCI9BHHg6PENAKLxPPfr.moKHabeRaT2014.WoRKeRs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiRXVVVXc1UG02WjRwVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 61 - VLESS - IPv6 : 8443",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 8443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XCWA6Eq1xCi9bHhG6PEnaKlxPPfr.MOkhaberaT2014.WORkers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiamEyZlluS0Y4WlRIYnJOTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 62 - VLESS - IPv6 : 8443",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 8443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vFB2xcwA6eQ1XcI9BHhG6PenAklXpPFr.MokhABERAt2014.wOrkeRS.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiNG5LOXBZZGo0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 63 - VLESS - Clean IP : 8443",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 8443,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vFb2XCwA6EQ1XCi9BHHg6PENAklXPPFr.MoKHAbeRAT2014.WORKers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoidVZXcFpObzBocVBuRDVDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 64 - VLESS - Domain : 2053",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 2053,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VFB2XcWA6Eq1xCI9BhhG6penakLxppfr.mokHABErAT2014.workErS.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiYVI1QWR0c0YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 65 - VLESS - Domain : 2053",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2053,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfB2XcwA6Eq1Xci9BHhG6PeNAKLxPpFR.MoKHABEraT2014.workErs.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiaHU2OVpNaFpkMFJ6cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 66 - VLESS - IPv4 : 2053",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 2053,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfb2XCWA6Eq1xCI9bhhg6peNAKLXPpfr.MoKhaBEraT2014.WORKErs.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoib2taOHE2MDhFc3c2RjIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 67 - VLESS - IPv4 : 2053",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 2053,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2xCwa6Eq1xci9bHHg6PEnaklXppFR.MoKHabERAt2014.workErS.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiQ1I2MTZXeVgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 68 - VLESS - IPv6 : 2053",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 2053,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XCwa6Eq1XcI9BHHg6PeNAKLxpPFR.mokhaBErAt2014.WORKERS.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiS2t2Y0VKc1BxZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 69 - VLESS - IPv6 : 2053",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 2053,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2xcWA6eQ1Xci9bhHg6peNaKLxpPfR.MOkHABerAt2014.WORkerS.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoid3lzajBmdGNBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 70 - VLESS - Clean IP : 2053",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 2053,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Vfb2Xcwa6Eq1XcI9BHHG6PEnAKLxpPFr.mOKHABERaT2014.WorKErS.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiM0I4ZUtiUXIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 71 - VLESS - Domain : 2083",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 2083,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfb2xcWA6Eq1XCI9BhHg6pEnAkLxppfr.mOKHaBerAT2014.WORkERs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoia0ZySXowSU1GTnkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 72 - VLESS - Domain : 2083",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2083,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfB2xcWa6Eq1xCi9bhHg6PeNAKlXppFr.mOkhaberAt2014.wORkERs.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoick5ZbktKTlhIWUlzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 73 - VLESS - IPv4 : 2083",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 2083,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VFB2XcWa6Eq1XCi9BHHG6pENAKlxPpFR.MOKHAbeRAt2014.worKERS.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiVjdwaDNXVHhSWXAwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 74 - VLESS - IPv4 : 2083",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 2083,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XcwA6eQ1xci9bHhG6PeNaklXppfr.mOkhABeRat2014.WOrKeRs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiWTlGelROSUVZWllTNm0wIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 75 - VLESS - IPv6 : 2083",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 2083,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XcWA6eQ1XCi9BHHg6penakLxPPfr.MoKhabERaT2014.WoRkeRs.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZVJha1pWTlhxUEZtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 76 - VLESS - IPv6 : 2083",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 2083,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XCwa6eq1XCI9BHhg6PENAKlxpPFr.mOKHAbeRAt2014.wORkers.DEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiNEpxVzZyTjBvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 77 - VLESS - Clean IP : 2083",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 2083,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfB2XCwA6eq1xCi9BHHG6pEnaKLxpPFR.MOKHaBeRAT2014.WORKeRS.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoicUJIYm05aVd0cVBrdFVnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 78 - VLESS - Domain : 2087",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 2087,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfb2xcWa6eq1Xci9BHHg6PenAklXpPfr.MOKhabErat2014.wOrkErS.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiR1FTUUF5aW0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 79 - VLESS - Domain : 2087",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2087,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Vfb2xcwa6EQ1Xci9Bhhg6PeNAKlxPpfr.MokhAbErat2014.WoRkeRS.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZm5yWTlaRVAxTkNZWUMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 80 - VLESS - IPv4 : 2087",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 2087,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XCwa6EQ1XCI9BHhG6PENaKlxpPFr.mOkhaBerat2014.workERs.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiRVVoUGM2YzUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 81 - VLESS - IPv4 : 2087",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 2087,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfB2xCWa6Eq1xCi9bhHg6PeNAKlxPpFR.mokhABEraT2014.wORkeRs.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoibGJLVzZjTzNKaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 82 - VLESS - IPv6 : 2087",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 2087,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfB2XcwA6eQ1xcI9bhhG6penAKlxPPfr.mokHaBerAt2014.WorKeRs.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoidkZFMUdxTWVMUVEwVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 83 - VLESS - IPv6 : 2087",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 2087,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VFb2xcWa6Eq1xCi9bHhg6PenaKlxPpFr.mOKhABeRAT2014.woRKeRs.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiN284VjN1c3Y3YyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 84 - VLESS - Clean IP : 2087",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 2087,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XCWa6eQ1XcI9BHHG6peNAklXPPfR.moKhabERaT2014.wOrKERs.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiSlVQVmlNOTdETW5oTHVJNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 85 - VLESS - Domain : 2096",
+            "type": "vless",
+            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
+            "port": 2096,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Vfb2xcWa6eq1Xci9Bhhg6PEnakLxppfR.mokhaBeRat2014.WORkErS.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiR2pRU1lXMG15QThJb3Z4SyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 86 - VLESS - Domain : 2096",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 2096,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VfB2XCWA6eQ1Xci9Bhhg6pENAkLxPpFR.mokhABERAT2014.wORkERs.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiRlhhWWRhVm9GOFQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 87 - VLESS - IPv4 : 2096",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "port": 2096,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfB2xcwa6EQ1Xci9BhhG6pEnaklxppfr.MOKHAberaT2014.wOrkERs.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiT3NBcG5LbGFLN3BFR2N4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 88 - VLESS - IPv4 : 2096",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "port": 2096,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vfB2xCWA6eq1xcI9BHHG6penaKlxppfr.mOkHABEraT2014.worKers.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiV0xNS1F6YThWOFJiUzNTNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 89 - VLESS - IPv6 : 2096",
+            "type": "vless",
+            "server": "2a06:98c1:3120::3",
+            "port": 2096,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "VFb2xCwa6eQ1xcI9BHHG6pEnaKLXPPfr.mOKhaBErAt2014.wORkERs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZWhoakY3bVdDVXoxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 90 - VLESS - IPv6 : 2096",
+            "type": "vless",
+            "server": "2a06:98c1:3121::3",
+            "port": 2096,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vFb2xcWa6EQ1Xci9BhHG6PEnAKlXPpfR.MOKHaBErAt2014.worKErS.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoidlBWUkUwQ2ZPVDY3bUFDNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "💦 91 - VLESS - Clean IP : 2096",
+            "type": "vless",
+            "server": "31.129.48.139",
+            "port": 2096,
+            "ip-version": "ipv4-prefer",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "vFb2xCWA6Eq1XCI9bHhG6pEnAklxpPfr.mOKhaBERAT2014.wOrkERS.Dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiNnZrUG5uWlJWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                }
+            }
+        }
+    ],
+    "proxy-groups": [
+        {
+            "name": "✅ Selector",
+            "type": "select",
+            "proxies": [
+                "💦 Best Ping 🚀",
+                "💦 1 - VLESS - Domain : 80",
+                "💦 2 - VLESS - Domain : 80",
+                "💦 3 - VLESS - IPv4 : 80",
+                "💦 4 - VLESS - IPv4 : 80",
+                "💦 5 - VLESS - IPv6 : 80",
+                "💦 6 - VLESS - IPv6 : 80",
+                "💦 7 - VLESS - Clean IP : 80",
+                "💦 8 - VLESS - Domain : 8080",
+                "💦 9 - VLESS - Domain : 8080",
+                "💦 10 - VLESS - IPv4 : 8080",
+                "💦 11 - VLESS - IPv4 : 8080",
+                "💦 12 - VLESS - IPv6 : 8080",
+                "💦 13 - VLESS - IPv6 : 8080",
+                "💦 14 - VLESS - Clean IP : 8080",
+                "💦 15 - VLESS - Domain : 8880",
+                "💦 16 - VLESS - Domain : 8880",
+                "💦 17 - VLESS - IPv4 : 8880",
+                "💦 18 - VLESS - IPv4 : 8880",
+                "💦 19 - VLESS - IPv6 : 8880",
+                "💦 20 - VLESS - IPv6 : 8880",
+                "💦 21 - VLESS - Clean IP : 8880",
+                "💦 22 - VLESS - Domain : 2052",
+                "💦 23 - VLESS - Domain : 2052",
+                "💦 24 - VLESS - IPv4 : 2052",
+                "💦 25 - VLESS - IPv4 : 2052",
+                "💦 26 - VLESS - IPv6 : 2052",
+                "💦 27 - VLESS - IPv6 : 2052",
+                "💦 28 - VLESS - Clean IP : 2052",
+                "💦 29 - VLESS - Domain : 2082",
+                "💦 30 - VLESS - Domain : 2082",
+                "💦 31 - VLESS - IPv4 : 2082",
+                "💦 32 - VLESS - IPv4 : 2082",
+                "💦 33 - VLESS - IPv6 : 2082",
+                "💦 34 - VLESS - IPv6 : 2082",
+                "💦 35 - VLESS - Clean IP : 2082",
+                "💦 36 - VLESS - Domain : 2086",
+                "💦 37 - VLESS - Domain : 2086",
+                "💦 38 - VLESS - IPv4 : 2086",
+                "💦 39 - VLESS - IPv4 : 2086",
+                "💦 40 - VLESS - IPv6 : 2086",
+                "💦 41 - VLESS - IPv6 : 2086",
+                "💦 42 - VLESS - Clean IP : 2086",
+                "💦 43 - VLESS - Domain : 2095",
+                "💦 44 - VLESS - Domain : 2095",
+                "💦 45 - VLESS - IPv4 : 2095",
+                "💦 46 - VLESS - IPv4 : 2095",
+                "💦 47 - VLESS - IPv6 : 2095",
+                "💦 48 - VLESS - IPv6 : 2095",
+                "💦 49 - VLESS - Clean IP : 2095",
+                "💦 50 - VLESS - Domain : 443",
+                "💦 51 - VLESS - Domain : 443",
+                "💦 52 - VLESS - IPv4 : 443",
+                "💦 53 - VLESS - IPv4 : 443",
+                "💦 54 - VLESS - IPv6 : 443",
+                "💦 55 - VLESS - IPv6 : 443",
+                "💦 56 - VLESS - Clean IP : 443",
+                "💦 57 - VLESS - Domain : 8443",
+                "💦 58 - VLESS - Domain : 8443",
+                "💦 59 - VLESS - IPv4 : 8443",
+                "💦 60 - VLESS - IPv4 : 8443",
+                "💦 61 - VLESS - IPv6 : 8443",
+                "💦 62 - VLESS - IPv6 : 8443",
+                "💦 63 - VLESS - Clean IP : 8443",
+                "💦 64 - VLESS - Domain : 2053",
+                "💦 65 - VLESS - Domain : 2053",
+                "💦 66 - VLESS - IPv4 : 2053",
+                "💦 67 - VLESS - IPv4 : 2053",
+                "💦 68 - VLESS - IPv6 : 2053",
+                "💦 69 - VLESS - IPv6 : 2053",
+                "💦 70 - VLESS - Clean IP : 2053",
+                "💦 71 - VLESS - Domain : 2083",
+                "💦 72 - VLESS - Domain : 2083",
+                "💦 73 - VLESS - IPv4 : 2083",
+                "💦 74 - VLESS - IPv4 : 2083",
+                "💦 75 - VLESS - IPv6 : 2083",
+                "💦 76 - VLESS - IPv6 : 2083",
+                "💦 77 - VLESS - Clean IP : 2083",
+                "💦 78 - VLESS - Domain : 2087",
+                "💦 79 - VLESS - Domain : 2087",
+                "💦 80 - VLESS - IPv4 : 2087",
+                "💦 81 - VLESS - IPv4 : 2087",
+                "💦 82 - VLESS - IPv6 : 2087",
+                "💦 83 - VLESS - IPv6 : 2087",
+                "💦 84 - VLESS - Clean IP : 2087",
+                "💦 85 - VLESS - Domain : 2096",
+                "💦 86 - VLESS - Domain : 2096",
+                "💦 87 - VLESS - IPv4 : 2096",
+                "💦 88 - VLESS - IPv4 : 2096",
+                "💦 89 - VLESS - IPv6 : 2096",
+                "💦 90 - VLESS - IPv6 : 2096",
+                "💦 91 - VLESS - Clean IP : 2096"
+            ]
+        },
+        {
+            "name": "💦 Best Ping 🚀",
+            "type": "url-test",
+            "proxies": [
+                "💦 1 - VLESS - Domain : 80",
+                "💦 2 - VLESS - Domain : 80",
+                "💦 3 - VLESS - IPv4 : 80",
+                "💦 4 - VLESS - IPv4 : 80",
+                "💦 5 - VLESS - IPv6 : 80",
+                "💦 6 - VLESS - IPv6 : 80",
+                "💦 7 - VLESS - Clean IP : 80",
+                "💦 8 - VLESS - Domain : 8080",
+                "💦 9 - VLESS - Domain : 8080",
+                "💦 10 - VLESS - IPv4 : 8080",
+                "💦 11 - VLESS - IPv4 : 8080",
+                "💦 12 - VLESS - IPv6 : 8080",
+                "💦 13 - VLESS - IPv6 : 8080",
+                "💦 14 - VLESS - Clean IP : 8080",
+                "💦 15 - VLESS - Domain : 8880",
+                "💦 16 - VLESS - Domain : 8880",
+                "💦 17 - VLESS - IPv4 : 8880",
+                "💦 18 - VLESS - IPv4 : 8880",
+                "💦 19 - VLESS - IPv6 : 8880",
+                "💦 20 - VLESS - IPv6 : 8880",
+                "💦 21 - VLESS - Clean IP : 8880",
+                "💦 22 - VLESS - Domain : 2052",
+                "💦 23 - VLESS - Domain : 2052",
+                "💦 24 - VLESS - IPv4 : 2052",
+                "💦 25 - VLESS - IPv4 : 2052",
+                "💦 26 - VLESS - IPv6 : 2052",
+                "💦 27 - VLESS - IPv6 : 2052",
+                "💦 28 - VLESS - Clean IP : 2052",
+                "💦 29 - VLESS - Domain : 2082",
+                "💦 30 - VLESS - Domain : 2082",
+                "💦 31 - VLESS - IPv4 : 2082",
+                "💦 32 - VLESS - IPv4 : 2082",
+                "💦 33 - VLESS - IPv6 : 2082",
+                "💦 34 - VLESS - IPv6 : 2082",
+                "💦 35 - VLESS - Clean IP : 2082",
+                "💦 36 - VLESS - Domain : 2086",
+                "💦 37 - VLESS - Domain : 2086",
+                "💦 38 - VLESS - IPv4 : 2086",
+                "💦 39 - VLESS - IPv4 : 2086",
+                "💦 40 - VLESS - IPv6 : 2086",
+                "💦 41 - VLESS - IPv6 : 2086",
+                "💦 42 - VLESS - Clean IP : 2086",
+                "💦 43 - VLESS - Domain : 2095",
+                "💦 44 - VLESS - Domain : 2095",
+                "💦 45 - VLESS - IPv4 : 2095",
+                "💦 46 - VLESS - IPv4 : 2095",
+                "💦 47 - VLESS - IPv6 : 2095",
+                "💦 48 - VLESS - IPv6 : 2095",
+                "💦 49 - VLESS - Clean IP : 2095",
+                "💦 50 - VLESS - Domain : 443",
+                "💦 51 - VLESS - Domain : 443",
+                "💦 52 - VLESS - IPv4 : 443",
+                "💦 53 - VLESS - IPv4 : 443",
+                "💦 54 - VLESS - IPv6 : 443",
+                "💦 55 - VLESS - IPv6 : 443",
+                "💦 56 - VLESS - Clean IP : 443",
+                "💦 57 - VLESS - Domain : 8443",
+                "💦 58 - VLESS - Domain : 8443",
+                "💦 59 - VLESS - IPv4 : 8443",
+                "💦 60 - VLESS - IPv4 : 8443",
+                "💦 61 - VLESS - IPv6 : 8443",
+                "💦 62 - VLESS - IPv6 : 8443",
+                "💦 63 - VLESS - Clean IP : 8443",
+                "💦 64 - VLESS - Domain : 2053",
+                "💦 65 - VLESS - Domain : 2053",
+                "💦 66 - VLESS - IPv4 : 2053",
+                "💦 67 - VLESS - IPv4 : 2053",
+                "💦 68 - VLESS - IPv6 : 2053",
+                "💦 69 - VLESS - IPv6 : 2053",
+                "💦 70 - VLESS - Clean IP : 2053",
+                "💦 71 - VLESS - Domain : 2083",
+                "💦 72 - VLESS - Domain : 2083",
+                "💦 73 - VLESS - IPv4 : 2083",
+                "💦 74 - VLESS - IPv4 : 2083",
+                "💦 75 - VLESS - IPv6 : 2083",
+                "💦 76 - VLESS - IPv6 : 2083",
+                "💦 77 - VLESS - Clean IP : 2083",
+                "💦 78 - VLESS - Domain : 2087",
+                "💦 79 - VLESS - Domain : 2087",
+                "💦 80 - VLESS - IPv4 : 2087",
+                "💦 81 - VLESS - IPv4 : 2087",
+                "💦 82 - VLESS - IPv6 : 2087",
+                "💦 83 - VLESS - IPv6 : 2087",
+                "💦 84 - VLESS - Clean IP : 2087",
+                "💦 85 - VLESS - Domain : 2096",
+                "💦 86 - VLESS - Domain : 2096",
+                "💦 87 - VLESS - IPv4 : 2096",
+                "💦 88 - VLESS - IPv4 : 2096",
+                "💦 89 - VLESS - IPv6 : 2096",
+                "💦 90 - VLESS - IPv6 : 2096",
+                "💦 91 - VLESS - Clean IP : 2096"
+            ],
+            "url": "https://www.gstatic.com/generate_204",
+            "interval": 30,
+            "tolerance": 50
+        }
+    ],
+    "rule-providers": {
+        "malware": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "path": "./ruleset/malware.txt",
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt"
+        },
+        "malware-cidr": {
+            "type": "http",
+            "format": "text",
+            "behavior": "ipcidr",
+            "path": "./ruleset/malware-cidr.txt",
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware-ip.txt"
+        },
+        "phishing": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "path": "./ruleset/phishing.txt",
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt"
+        },
+        "phishing-cidr": {
+            "type": "http",
+            "format": "text",
+            "behavior": "ipcidr",
+            "path": "./ruleset/phishing-cidr.txt",
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing-ip.txt"
+        },
+        "cryptominers": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "path": "./ruleset/cryptominers.txt",
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt"
+        },
+        "ir": {
+            "type": "http",
+            "format": "text",
+            "behavior": "domain",
+            "path": "./ruleset/ir.txt",
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt"
+        },
+        "ir-cidr": {
+            "type": "http",
+            "format": "text",
+            "behavior": "ipcidr",
+            "path": "./ruleset/ir-cidr.txt",
+            "interval": 86400,
+            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt"
+        }
+    },
+    "rules": [
+        "GEOIP,lan,DIRECT,no-resolve",
+        "NETWORK,udp,REJECT",
+        "RULE-SET,malware,REJECT",
+        "RULE-SET,phishing,REJECT",
+        "RULE-SET,cryptominers,REJECT",
+        "RULE-SET,malware-cidr,REJECT",
+        "RULE-SET,phishing-cidr,REJECT",
+        "RULE-SET,ir,DIRECT",
+        "RULE-SET,ir-cidr,DIRECT",
+        "MATCH,✅ Selector"
+    ],
+    "ntp": {
+        "enable": true,
+        "server": "time.cloudflare.com",
+        "port": 123,
+        "interval": 30
+    }
+}
