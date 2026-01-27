@@ -93,7 +93,7 @@
     },
     "proxies": [
         {
-            "name": "💦 50 - VLESS - Domain : 443",
+            "name": "0️⃣1️⃣ 〽️ehran",
             "type": "vless",
             "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
             "port": 443,
@@ -120,7 +120,7 @@
             }
         },
         {
-            "name": "💦 51 - VLESS - Domain : 443",
+            "name": "0️⃣2️⃣ 〽️ehran",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 443,
@@ -147,7 +147,7 @@
             }
         },
         {
-            "name": "💦 52 - VLESS - IPv4 : 443",
+            "name": "0️⃣3️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.114.96.3",
             "port": 443,
@@ -174,7 +174,7 @@
             }
         },
         {
-            "name": "💦 53 - VLESS - IPv4 : 443",
+            "name": "0️⃣4️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.114.97.3",
             "port": 443,
@@ -201,7 +201,7 @@
             }
         },
         {
-            "name": "💦 54 - VLESS - IPv6 : 443",
+            "name": "0️⃣5️⃣ 〽️ehran",
             "type": "vless",
             "server": "2a06:98c1:3120::3",
             "port": 443,
@@ -228,7 +228,7 @@
             }
         },
         {
-            "name": "💦 55 - VLESS - IPv6 : 443",
+            "name": "0️⃣6️⃣ 〽️ehran",
             "type": "vless",
             "server": "2a06:98c1:3121::3",
             "port": 443,
@@ -255,7 +255,7 @@
             }
         },
         {
-            "name": "💦 56 - VLESS - Clean IP : 443",
+            "name": "0️⃣7️⃣ 〽️ehran",
             "type": "vless",
             "server": "31.129.48.139",
             "port": 443,
@@ -282,7 +282,7 @@
             }
         },
         {
-            "name": "💦 57 - VLESS - Domain : 8443",
+            "name": "0️⃣8️⃣ 〽️ehran",
             "type": "vless",
             "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
             "port": 8443,
@@ -309,7 +309,7 @@
             }
         },
         {
-            "name": "💦 58 - VLESS - Domain : 8443",
+            "name": "0️⃣9️⃣ 〽️ehran",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 8443,
@@ -336,7 +336,7 @@
             }
         },
         {
-            "name": "💦 59 - VLESS - IPv4 : 8443",
+            "name": "1️⃣0️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.114.96.3",
             "port": 8443,
@@ -363,7 +363,7 @@
             }
         },
         {
-            "name": "💦 60 - VLESS - IPv4 : 8443",
+            "name": "1️⃣1️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.114.97.3",
             "port": 8443,
@@ -390,7 +390,7 @@
             }
         },
         {
-            "name": "💦 61 - VLESS - IPv6 : 8443",
+            "name": "1️⃣2️⃣ 〽️ehran",
             "type": "vless",
             "server": "2a06:98c1:3120::3",
             "port": 8443,
@@ -417,7 +417,7 @@
             }
         },
         {
-            "name": "💦 62 - VLESS - IPv6 : 8443",
+            "name": "1️⃣3️⃣ 〽️ehran",
             "type": "vless",
             "server": "2a06:98c1:3121::3",
             "port": 8443,
@@ -444,7 +444,7 @@
             }
         },
         {
-            "name": "💦 63 - VLESS - Clean IP : 8443",
+            "name": "1️⃣4️⃣ 〽️ehran",
             "type": "vless",
             "server": "31.129.48.139",
             "port": 8443,
@@ -471,7 +471,7 @@
             }
         },
         {
-            "name": "💦 64 - VLESS - Domain : 2053",
+            "name": "1️⃣5️⃣ 〽️ehran",
             "type": "vless",
             "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
             "port": 2053,
@@ -498,7 +498,7 @@
             }
         },
         {
-            "name": "💦 65 - VLESS - Domain : 2053",
+            "name": "1️⃣6️⃣ 〽️ehran",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 2053,
@@ -525,7 +525,7 @@
             }
         },
         {
-            "name": "💦 66 - VLESS - IPv4 : 2053",
+            "name": "1️⃣7️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.114.96.3",
             "port": 2053,
@@ -552,7 +552,7 @@
             }
         },
         {
-            "name": "💦 67 - VLESS - IPv4 : 2053",
+            "name": "1️⃣8️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.114.97.3",
             "port": 2053,
@@ -579,7 +579,7 @@
             }
         },
         {
-            "name": "💦 68 - VLESS - IPv6 : 2053",
+            "name": "1️⃣9️⃣ 〽️ehran",
             "type": "vless",
             "server": "2a06:98c1:3120::3",
             "port": 2053,
@@ -606,7 +606,7 @@
             }
         },
         {
-            "name": "💦 69 - VLESS - IPv6 : 2053",
+            "name": "2️⃣0️⃣ 〽️ehran",
             "type": "vless",
             "server": "2a06:98c1:3121::3",
             "port": 2053,
@@ -633,7 +633,7 @@
             }
         },
         {
-            "name": "💦 70 - VLESS - Clean IP : 2053",
+            "name": "2️⃣1️⃣ 〽️ehran",
             "type": "vless",
             "server": "31.129.48.139",
             "port": 2053,
@@ -660,7 +660,7 @@
             }
         },
         {
-            "name": "💦 71 - VLESS - Domain : 2083",
+            "name": "2️⃣2️⃣ 〽️ehran",
             "type": "vless",
             "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
             "port": 2083,
@@ -687,7 +687,7 @@
             }
         },
         {
-            "name": "💦 72 - VLESS - Domain : 2083",
+            "name": "2️⃣3️⃣ 〽️ehran",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 2083,
@@ -714,7 +714,7 @@
             }
         },
         {
-            "name": "💦 73 - VLESS - IPv4 : 2083",
+            "name": "2️⃣4️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.114.96.3",
             "port": 2083,
@@ -741,7 +741,7 @@
             }
         },
         {
-            "name": "💦 74 - VLESS - IPv4 : 2083",
+            "name": "2️⃣5️⃣ 〽️ehran",
             "type": "vless",
             "server": "188.114.97.3",
             "port": 2083,
@@ -768,7 +768,7 @@
             }
         },
         {
-            "name": "💦 75 - VLESS - IPv6 : 2083",
+            "name": "2️⃣6️⃣ 〽️ehran",
             "type": "vless",
             "server": "2a06:98c1:3120::3",
             "port": 2083,
@@ -795,7 +795,7 @@
             }
         },
         {
-            "name": "💦 76 - VLESS - IPv6 : 2083",
+            "name": "2️⃣7️⃣ 〽️ehran",
             "type": "vless",
             "server": "2a06:98c1:3121::3",
             "port": 2083,
@@ -822,7 +822,7 @@
             }
         },
         {
-            "name": "💦 77 - VLESS - Clean IP : 2083",
+            "name": "2️⃣8️⃣ 〽️ehran",
             "type": "vless",
             "server": "31.129.48.139",
             "port": 2083,
@@ -849,7 +849,7 @@
             }
         },
         {
-            "name": "💦 78 - VLESS - Domain : 2087",
+            "name": "2️⃣9️⃣ 〽️ehran",
             "type": "vless",
             "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
             "port": 2087,
@@ -876,7 +876,7 @@
             }
         },
         {
-            "name": "💦 79 - VLESS - Domain : 2087",
+            "name": "3️⃣0️⃣ 〽️ehran",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 2087,
