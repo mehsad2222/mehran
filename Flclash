@@ -176,15 +176,15 @@
         {
             "name": "💦 4 - VLESS - IPv4 : 443",
             "type": "vless",
-            "server": "188.114.96.3",
+            "server": "172.67.194.187",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "3ce82664-861f-4285-bb7c-d97123c49318",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vfb2XcWa6eq1Xci9bhHg6PENAkLXPPFR.mOKHaBeRAt2014.WOrkERs.dEv",
+            "servername": "62AH53pTZl3m12jD56OFv41Ob9AuvT-2.mOHaMAD89-SOltanI.workERs.dEV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -192,11 +192,11 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMzdsZ3lQMkEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiWkF6TmlDc2I2eSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "62ah53ptzl3m12jd56ofv41ob9auvt-2.mohamad89-soltani.workers.dev"
                 }
             }
         },
