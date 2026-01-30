@@ -471,17 +471,17 @@
             }
         },
         {
-            "name": "💦 15 - VLESS - Domain : 2053",
+            "name": "1️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
-            "port": 2053,
+            "server": "172.67.167.186",
+            "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "ec07b464-ae99-424c-84b4-49003d0af0c0",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vfb2XcWA6eq1Xci9bhhg6PENAKlxPPFr.moKHAberat2014.WORkers.dev",
+            "servername": "a0FKqNLaeplq-529920uH35D2E7V5vfy.SoFivE8628.wORkeRS.DEV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -489,11 +489,11 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTUhlQ1pNc3B2ejhDeXlweiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiZngxQnlUdXhFU1g3WFBHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "a0fkqnlaeplq-529920uh35d2e7v5vfy.sofive8628.workers.dev"
                 }
             }
         },
