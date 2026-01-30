@@ -93,7 +93,7 @@
     },
     "proxies": [
         {
-            "name": "💦 1 - VLESS - Domain : 443",
+            "name": "0️⃣1️⃣ 〽️ehran",
             "type": "vless",
             "server": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev",
             "port": 443,
@@ -120,7 +120,7 @@
             }
         },
         {
-            "name": "💦 2 - VLESS - Domain : 443",
+            "name": "0️⃣2️⃣ 〽️ehran",
             "type": "vless",
             "server": "104.21.25.213",
             "port": 443,
@@ -147,7 +147,7 @@
             }
         },
         {
-            "name": "💦 3 - VLESS - IPv4 : 443",
+            "name": "0️⃣3️⃣ 〽️ehran",
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 443,
@@ -174,7 +174,7 @@
             }
         },
         {
-            "name": "💦 4 - VLESS - IPv4 : 443",
+            "name": "0️⃣4️⃣ 〽️ehran",
             "type": "vless",
             "server": "172.67.194.187",
             "port": 443,
@@ -201,7 +201,7 @@
             }
         },
         {
-            "name": "💦 5 - VLESS - IPv6 : 443",
+            "name": "0️⃣5️⃣ 〽️ehran",
             "type": "vless",
             "server": "172.67.136.70",
             "port": 443,
