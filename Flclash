@@ -122,15 +122,15 @@
         {
             "name": "💦 2 - VLESS - Domain : 443",
             "type": "vless",
-            "server": "www.speedtest.net",
+            "server": "104.21.25.213",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "53ed49f2-076e-46b4-9bd7-2387ca0b129a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Vfb2xCwA6eQ1Xci9bhHg6PENAKlXPPfr.mOKHaberat2014.wORKerS.dev",
+            "servername": "grf2cWEId5gqQ2PcAGp8DJoyMd2-cU-u.mEhSad89-2a1.WorkeRS.DEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -138,11 +138,11 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOUJPbnBLSXZickdpTCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiRVE5VTYzUm8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "grf2cweid5gqq2pcagp8djoymd2-cu-u.mehsad89-2a1.workers.dev"
                 }
             }
         },
