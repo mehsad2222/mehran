@@ -627,7 +627,7 @@
         {
             "name": "0️⃣2️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "51.20.99.157",
+            "server": "yg1.ygkkk.dpdns.org",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": true,
@@ -654,7 +654,7 @@
         {
             "name": "0️⃣2️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "51.20.99.157",
+            "server": "yg1.ygkkk.dpdns.org",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
@@ -681,8 +681,8 @@
         {
             "name": "0️⃣2️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "51.20.99.157",
-            "port": 443,
+            "server": "yg1.ygkkk.dpdns.org",
+            "port": 8443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
@@ -708,8 +708,8 @@
         {
             "name": "0️⃣2️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "51.20.99.157",
-            "port": 443,
+            "server": "yg1.ygkkk.dpdns.org",
+            "port": 8443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
@@ -735,8 +735,8 @@
         {
             "name": "0️⃣2️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "51.20.99.157",
-            "port": 443,
+            "server": "yg1.ygkkk.dpdns.org",
+            "port": 8443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
@@ -762,7 +762,7 @@
         {
             "name": "0️⃣2️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "77.91.70.242",
+            "server": "yg1.ygkkk.dpdns.org",
             "port": 2053,
             "ip-version": "ipv4-prefer",
             "tfo": true,
@@ -789,7 +789,7 @@
         {
             "name": "0️⃣2️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "77.91.70.242",
+            "server": "yg1.ygkkk.dpdns.org",
             "port": 2053,
             "ip-version": "ipv4-prefer",
             "tfo": false,
@@ -816,7 +816,7 @@
         {
             "name": "0️⃣2️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "77.91.70.242",
+            "server": "www.speedtest.net",
             "port": 2053,
             "ip-version": "ipv4-prefer",
             "tfo": false,
@@ -843,8 +843,8 @@
         {
             "name": "0️⃣2️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "77.91.70.242",
-            "port": 2053,
+            "server": "www.speedtest.net",
+            "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
@@ -870,8 +870,8 @@
         {
             "name": "0️⃣3️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "77.91.70.242",
-            "port": 2053,
+            "server": "www.speedtest.net",
+            "port": 8443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
