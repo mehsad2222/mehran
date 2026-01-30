@@ -363,17 +363,17 @@
             }
         },
         {
-            "name": "💦 11 - VLESS - IPv4 : 8443",
+            "name": "1️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.114.96.3",
-            "port": 8443,
+            "server": "04j4ykzn7t-95eigadljgyz-krw49q5w.tisefi3773.workers.dev",
+            "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "211d6b8d-17fb-4dd2-9abc-95056595fa50",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vFB2xcwA6Eq1xci9BHHG6PeNAKlxpPfR.mokhAbErAt2014.WoRKERS.dev",
+            "servername": "04j4YkzN7T-95eiGADljgyz-KrW49q5W.tISeFI3773.wOrKErS.DEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -381,26 +381,26 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQ1VDdGhsWE45WFZHQWdOMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiVXBjT0g2c00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "04j4ykzn7t-95eigadljgyz-krw49q5w.tisefi3773.workers.dev"
                 }
             }
         },
         {
-            "name": "💦 12 - VLESS - IPv6 : 8443",
+            "name": "1️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "2a06:98c1:3121::3",
-            "port": 8443,
+            "server": "104.21.7.34",
+            "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "7a44251f-7a7a-40b5-bf51-b9d7e3397591",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vFB2xCwA6eQ1xci9bhhG6PEnaklxPPfr.MoKhabERAt2014.WORKErS.DEV",
+            "servername": "bDMol42z996eBFRTJLE4kM4I92VQNOfF.XekaVA7313.workers.DEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -408,26 +408,26 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicHJpTnVjS0hJWEpVQXB1ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiakJEcDVQV2MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "bdmol42z996ebfrtjle4km4i92vqnoff.xekava7313.workers.dev"
                 }
             }
         },
         {
-            "name": "💦 13 - VLESS - IPv6 : 8443",
+            "name": "1️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "2a06:98c1:3120::3",
-            "port": 8443,
+            "server": "www.speedtest.net",
+            "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "748c6b65-65b9-4a69-aed4-82911976da38",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vfB2XCWa6Eq1Xci9bHHG6pEnakLxPPFr.mOKhaberat2014.woRkeRs.DEv",
+            "servername": "OqTwVysnSdJ-mY4S0Oy24yE49w6itl7w.VIgeK64175.workerS.deV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -435,26 +435,26 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaTZteFZiOHdXUVciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiSXRhZkZ6WmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "oqtwvysnsdj-my4s0oy24ye49w6itl7w.vigek64175.workers.dev"
                 }
             }
         },
         {
-            "name": "💦 14 - VLESS - Clean IP : 8443",
+            "name": "1️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.129.48.139",
-            "port": 8443,
+            "server": "104.21.17.254",
+            "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "a471e740-2fc9-484e-aad7-d29e78106be4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Vfb2XcWa6EQ1Xci9bhHg6peNAKlXPpfr.MOKHabeRat2014.WORkErs.Dev",
+            "servername": "1.DAGIBAF358.woRKERs.deV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -462,11 +462,11 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMFFYbTFoQVkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiYXRUWTE0Y25rSmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "1.dagibaf358.workers.dev"
                 }
             }
         },
