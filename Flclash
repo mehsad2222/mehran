@@ -255,17 +255,17 @@
             }
         },
         {
-            "name": "💦 7 - VLESS - Clean IP : 443",
+            "name": "0️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.129.48.139",
+            "server": "104.21.55.57",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "1fe89006-4295-43c7-909d-ebf3883cf6cb",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vfB2XCwA6EQ1Xci9bhhG6PEnakLxPpfr.mokhABeRAt2014.WorKErS.DEV",
+            "servername": "py77W0uE9ccgtIYR2IPl1pMOhpGm3aUu.MIBoxes578.WORKErS.deV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -273,11 +273,11 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaXkzeW54QnFkRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiRnNMSHpGZ1NXQ2hnWWc1USIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "py77w0ue9ccgtiyr2ipl1pmohpgm3auu.miboxes578.workers.dev"
                 }
             }
         },
