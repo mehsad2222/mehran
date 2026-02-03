@@ -122,8 +122,8 @@
         {
             "name": "0️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "port": 443,
+            "server": "172.67.202.79",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
