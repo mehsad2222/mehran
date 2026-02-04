@@ -101,8 +101,8 @@
         {
             "name": "0️⃣0️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "47.89.150.45",
-            "port": 21575,
+            "server": "44.228.63.60",
+            "port": 80,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
@@ -236,8 +236,8 @@
         {
             "name": "0️⃣0️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "47.90.140.40",
-            "port": 15624,
+            "server": "44.228.63.60",
+            "port": 80,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
