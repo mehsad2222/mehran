@@ -432,9 +432,16 @@
             "udp": false,
             "uuid": "c60a9d7b-617c-40b5-b0e4-20a9691a9ce1",
             "packet-encoding": "",
+            "tls": true,
+            "servername": "tAksEKE-0g4SbTXOnEVlEjt5zU13XJ3e.mIwiWeC186.WoRkERS.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR0hCdzVvYUFJWGJhaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiQXBuQzNvZm5BRGJHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
@@ -452,9 +459,16 @@
             "udp": false,
             "uuid": "37ba3ab8-10ae-4663-8ae4-53cd50bdbc5b",
             "packet-encoding": "",
+            "tls": true,
+            "servername": "T7s-gb2X8AOVrByMlVuJjq3jeJBdzeCi.WeWoNo9965.WOrKers.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibWJ0bUdGNjciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiZ1U4R1VHaDIzbkYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
