@@ -315,7 +315,7 @@
             }
         },
         {
-            "name": "0️⃣0️⃣9️⃣ Ⓜ️ehran",
+            "name": "0️⃣0️⃣9️⃣ 〽️ehran",
             "type": "vless",
             "server": "45.95.203.214",
             "port": 8443,
@@ -342,10 +342,10 @@
             }
         },
         {
-            "name": "0️⃣1️⃣0️⃣ Ⓜ️ehran",
+            "name": "0️⃣1️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "18.216.55.100",
-            "port": 443,
+            "server": "45.95.203.214",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
