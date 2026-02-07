@@ -2799,10 +2799,10 @@
             }
         },
         {
-            "name": "1️⃣0️⃣1️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "3.67.25.193",
-            "port": 443,
+            "server": "47.252.4.59",
+            "port": 38181,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -2826,9 +2826,9 @@
             }
         },
         {
-            "name": "1️⃣0️⃣2️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "3.67.25.193",
+            "server": "20.121.115.188",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -2853,10 +2853,10 @@
             }
         },
         {
-            "name": "1️⃣0️⃣3️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "3.67.25.193",
-            "port": 443,
+            "server": "65.49.195.163",
+            "port": 14828,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -2880,10 +2880,10 @@
             }
         },
         {
-            "name": "1️⃣0️⃣4️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "3.67.25.193",
-            "port": 443,
+            "server": "47.89.136.31",
+            "port": 36301,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -2907,9 +2907,9 @@
             }
         },
         {
-            "name": "1️⃣0️⃣5️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "3.67.25.193",
+            "server": "67.226.221.102",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -2934,7 +2934,7 @@
             }
         },
         {
-            "name": "1️⃣0️⃣6️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣6️⃣ 〽️ehran",
             "type": "vless",
             "server": "3.67.25.193",
             "port": 443,
@@ -2961,7 +2961,7 @@
             }
         },
         {
-            "name": "1️⃣0️⃣7️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣7️⃣ 〽️ehran",
             "type": "vless",
             "server": "3.67.25.193",
             "port": 443,
@@ -2988,7 +2988,7 @@
             }
         },
         {
-            "name": "1️⃣0️⃣8️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣8️⃣ 〽️ehran",
             "type": "vless",
             "server": "3.67.25.193",
             "port": 443,
@@ -3015,7 +3015,7 @@
             }
         },
         {
-            "name": "1️⃣0️⃣9️⃣ Ⓜ️ehran",
+            "name": "1️⃣0️⃣9️⃣ 〽️ehran",
             "type": "vless",
             "server": "3.67.25.193",
             "port": 443,
@@ -3042,7 +3042,7 @@
             }
         },
         {
-            "name": "1️⃣1️⃣0️⃣ Ⓜ️ehran",
+            "name": "1️⃣1️⃣0️⃣ 〽️ehran",
             "type": "vless",
             "server": "3.67.25.193",
             "port": 443,
@@ -4525,16 +4525,16 @@
                 "0️⃣9️⃣8️⃣ Ⓜ️ehran",
                 "0️⃣9️⃣9️⃣ Ⓜ️ehran",
                 "1️⃣0️⃣0️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣1️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣2️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣3️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣4️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣5️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣6️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣7️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣8️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣9️⃣ Ⓜ️ehran",
-                "1️⃣1️⃣0️⃣ Ⓜ️ehran",
+                "1️⃣0️⃣1️⃣ 〽️ehran",
+                "1️⃣0️⃣2️⃣ 〽️ehran",
+                "1️⃣0️⃣3️⃣ 〽️ehran",
+                "1️⃣0️⃣4️⃣ 〽️ehran",
+                "1️⃣0️⃣5️⃣ 〽️ehran",
+                "1️⃣0️⃣6️⃣ 〽️ehran",
+                "1️⃣0️⃣7️⃣ 〽️ehran",
+                "1️⃣0️⃣8️⃣ 〽️ehran",
+                "1️⃣0️⃣9️⃣ 〽️ehran",
+                "1️⃣1️⃣0️⃣ 〽️ehran",
                 "1️⃣1️⃣1️⃣ Ⓜ️ehran",
                 "1️⃣1️⃣2️⃣ Ⓜ️ehran",
                 "1️⃣1️⃣3️⃣ Ⓜ️ehran",
@@ -4690,7 +4690,17 @@
                 "0️⃣9️⃣7️⃣ Ⓜ️ehran",
                 "0️⃣9️⃣8️⃣ Ⓜ️ehran",
                 "0️⃣9️⃣9️⃣ Ⓜ️ehran",
-                "1️⃣0️⃣0️⃣ Ⓜ️ehran"
+                "1️⃣0️⃣0️⃣ Ⓜ️ehran",
+                "1️⃣0️⃣1️⃣ 〽️ehran",
+                "1️⃣0️⃣2️⃣ 〽️ehran",
+                "1️⃣0️⃣3️⃣ 〽️ehran",
+                "1️⃣0️⃣4️⃣ 〽️ehran",
+                "1️⃣0️⃣5️⃣ 〽️ehran",
+                "1️⃣0️⃣6️⃣ 〽️ehran",
+                "1️⃣0️⃣7️⃣ 〽️ehran",
+                "1️⃣0️⃣8️⃣ 〽️ehran",
+                "1️⃣0️⃣9️⃣ 〽️ehran",
+                "1️⃣1️⃣0️⃣ 〽️ehran"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interval": 30,
