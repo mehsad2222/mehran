@@ -4028,27 +4028,27 @@
         {
             "name": "1️⃣4️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "www.speedtest.net",
+            "server": "18.184.55.249",
             "port": 443,
-            "ip-version": "ipv4-prefer",
+            "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "748c6b65-65b9-4a69-aed4-82911976da38",
+            "uuid": "193ac99e-9912-4b0c-974f-4b534361390a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OqTwVysnSdJ-mY4S0Oy24yE49w6itl7w.VIgeK64175.workerS.deV",
-            "client-fingerprint": "chrome",
+            "servername": "oIgc7X9cv1h-vq1I8xu0v4jUd77D4s6w.TaroMA7500.WorkeRS.dev",
+            "client-fingerprint": "random",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSXRhZkZ6WmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiam42SU5jd3NjaGkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "oqtwvysnsdj-my4s0oy24ye49w6itl7w.vigek64175.workers.dev"
+                    "Host": "oigc7x9cv1h-vq1i8xu0v4jud77d4s6w.taroma7500.workers.dev"
                 }
             }
         },
