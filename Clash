@@ -4055,15 +4055,15 @@
         {
             "name": "1️⃣4️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.21.17.254",
+            "server": "18.184.55.249",
             "port": 443,
-            "ip-version": "ipv4-prefer",
+            "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a471e740-2fc9-484e-aad7-d29e78106be4",
+            "uuid": "f2c62fac-d797-4bcd-8e4a-3a806167bdf4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "1.DAGIBAF358.woRKERs.deV",
+            "servername": "Hi77OA2yUreG34mUJ1JH5t0oh69RY14w.mDJbdkBDKB767.WoRKeRS.DEV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4071,11 +4071,11 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYXRUWTE0Y25rSmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiVXBuYktIR0tENyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "1.dagibaf358.workers.dev"
+                    "Host": "hi77oa2yureg34muj1jh5t0oh69ry14w.mdjbdkbdkb767.workers.dev"
                 }
             }
         },
