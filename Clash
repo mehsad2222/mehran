@@ -4222,10 +4222,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7dfba7b3-426c-497c-b2e0-ef06ba3b542a",
+            "uuid": "a2483cba-878a-43ef-ae73-665fab3811b2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OkO41gA2H44-bTueAhsPb65GBg843b4l.AmPi983.woRkErs.dEV",
+            "servername": "62401rhyJGde3w67ZHFBPI4M0rE4dkk8.pd0Ue8BdL.WOrkErS.DeV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4233,11 +4233,11 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVlVnc2xYN2JFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiTVVaNnVRak9kQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "oko41ga2h44-btueahspb65gbg843b4l.ampi983.workers.dev"
+                    "Host": "62401rhyjgde3w67zhfbpi4m0re4dkk8.pd0ue8bdl.workers.dev"
                 }
             }
         },
