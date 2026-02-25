@@ -4541,15 +4541,15 @@
         {
             "name": "1️⃣6️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "82.97.249.34",
-            "port": 8443,
+            "server": "104.21.16.94",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f7ab3bf4-a576-41f1-833f-bc559cc24c84",
+            "uuid": "b4bf2f65-a06a-446d-a92c-e1520b28b197",
             "packet-encoding": "",
             "tls": true,
-            "servername": "p8HH72vw8b41UfjRo0ozH122-hW6YTcL.SePEciT184.wOrkErS.DeV",
+            "servername": "9r99HgWa-488EWurwxt0TaI1aL3qw13A.FoFal16206.wORkErs.DEv",
             "client-fingerprint": "random",
             "skip-cert-verify": false,
             "alpn": [
@@ -4557,11 +4557,11 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZnRyOGdXWkltNG9Sb2N2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoidmplWDVsY1NXWkZNZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "p8hh72vw8b41ufjro0ozh122-hw6ytcl.sepecit184.workers.dev"
+                    "Host": "9r99hgwa-488ewurwxt0tai1al3qw13a.fofal16206.workers.dev"
                 }
             }
         },
