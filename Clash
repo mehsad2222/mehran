@@ -7,7 +7,7 @@
     "mode": "rule",
     "disable-keep-alive": false,
     "keep-alive-idle": 10,
-    "keep-alive-interval": 15,
+    "keep-alive-interval": 50,
     "tcp-concurrent": true,
     "geo-auto-update": true,
     "geo-update-interval": 168,
