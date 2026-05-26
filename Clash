@@ -101,7 +101,7 @@
         {
             "name": "0️⃣0️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
@@ -128,7 +128,7 @@
         {
             "name": "0️⃣0️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -155,7 +155,7 @@
         {
             "name": "0️⃣0️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -182,7 +182,7 @@
         {
             "name": "0️⃣0️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -209,7 +209,7 @@
         {
             "name": "0️⃣0️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -236,7 +236,7 @@
         {
             "name": "0️⃣0️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
@@ -263,7 +263,7 @@
         {
             "name": "0️⃣0️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -290,7 +290,7 @@
         {
             "name": "0️⃣0️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -317,7 +317,7 @@
         {
             "name": "0️⃣0️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -344,7 +344,7 @@
         {
             "name": "0️⃣1️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
