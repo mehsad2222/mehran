@@ -749,7 +749,7 @@
         {
             "name": "0️⃣2️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "3.9.223.59",
+            "server": "23.108.217.103",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -776,7 +776,7 @@
         {
             "name": "0️⃣2️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "3.9.223.59",
+            "server": "23.108.217.103",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
