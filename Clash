@@ -587,7 +587,7 @@
         {
             "name": "0️⃣1️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.55",
+            "server": "195.26.230.99",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
@@ -1100,8 +1100,8 @@
         {
             "name": "0️⃣3️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "18.159.105.97",
-            "port": 443,
+            "server": "185.195.69.119",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
@@ -1370,7 +1370,7 @@
         {
             "name": "0️⃣4️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "www.speedtest.net",
+            "server": "81.91.214.85",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
