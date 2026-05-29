@@ -5405,7 +5405,7 @@
         {
             "name": "1️⃣9️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "3.68.31.54",
+            "server": "3.66.115.225",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -5494,7 +5494,7 @@
             "uuid": "776d5f6d-be98-4d7f-aa6a-9dd33918c9ce",
             "packet-encoding": "",
             "tls": true,
-            "servername": "R66A08RG4ei0xXtjdjJkExVDkA9Po8Cc.YGho48856.WoRkERs.Dev",
+            "servername": "r66a08rG4EI0XXTJDjJkexVdKA9po8cC.yghO48856.woRkERs.DEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5502,7 +5502,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQ1ZrQTYyUlowdmFaaEpFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiY0IxNGFuVjllIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
