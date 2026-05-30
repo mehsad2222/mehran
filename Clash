@@ -1829,8 +1829,8 @@
         {
             "name": "0️⃣6️⃣5️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "3.9.223.59",
-            "port": 80,
+            "server": "78.40.116.136",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -1856,8 +1856,8 @@
         {
             "name": "0️⃣6️⃣6️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "3.9.223.59",
-            "port": 80,
+            "server": "147.45.72.36",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
@@ -1883,8 +1883,8 @@
         {
             "name": "0️⃣6️⃣7️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "3.9.223.59",
-            "port": 80,
+            "server": "109.120.135.91",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -1910,8 +1910,8 @@
         {
             "name": "0️⃣6️⃣8️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "3.97.173.206",
-            "port": 80,
+            "server": "217.144.188.147",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
