@@ -3422,8 +3422,8 @@
         {
             "name": "1️⃣2️⃣4️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "173.245.49.95",
-            "port": 443,
+            "server": "164.92.219.230",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -3449,7 +3449,7 @@
         {
             "name": "1️⃣2️⃣5️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "173.245.49.223",
+            "server": "93.183.88.193",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
@@ -3476,7 +3476,7 @@
         {
             "name": "1️⃣2️⃣6️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "104.21.5.58",
+            "server": "146.190.236.144",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
@@ -3503,7 +3503,7 @@
         {
             "name": "1️⃣2️⃣7️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "188.114.97.3",
+            "server": "89.110.79.248",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -3530,7 +3530,7 @@
         {
             "name": "1️⃣2️⃣8️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "104.21.23.88",
+            "server": "195.133.38.227",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
@@ -3561,8 +3561,8 @@
         {
             "name": "1️⃣2️⃣9️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "188.114.96.3",
-            "port": 2053,
+            "server": "80.76.34.190",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
@@ -3592,7 +3592,7 @@
         {
             "name": "1️⃣3️⃣0️⃣ 🛜Mehran",
             "type": "vless",
-            "server": "188.114.97.3",
+            "server": "195.200.26.225",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -4161,7 +4161,7 @@
             }
         },
         {
-            "name": "1️⃣5️⃣1️⃣ Ⓜ️ehran",
+            "name": "1️⃣5️⃣1️⃣ Ⓜ️Mehran",
             "type": "vless",
             "server": "173.245.49.7",
             "port": 443,
