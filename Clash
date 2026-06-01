@@ -181,21 +181,24 @@
             "type": "vless",
             "server": "31.133.0.135",
             "port": 2053,
-            "ip-version": "ipv4",
+            "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
             "uuid": "4c55807a-d254-43a2-9b29-52bd20a83731",
             "packet-encoding": "",
             "tls": true,
-            "servername": "S1iP0L1p-A73t4NY90O1n-OL0GL03fB6.MAtOyE7040.WorKeRS.DEV",
+            "servername": "s1ip0l1p-a73T4Ny90O1N-OL0GL03Fb6.maToYE7040.WoRKERS.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR0VRbjJMRUJIRWsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiWXBiUFlyVEphSGxqTTdzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
