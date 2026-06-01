@@ -134,7 +134,7 @@
             "packet-encoding": "",
             "tls": true,
             "servername": "WF25f34m4K98Pb1lTz8X5Ju75a4f1aE6.POgoKaP347.WorkeRs.dEv",
-            "client-fingerprint": "chrome",
+            "client-fingerprint": "random",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
@@ -251,7 +251,7 @@
             "packet-encoding": "",
             "tls": true,
             "servername": "GV5ABkm5A8XG1g0RNMi4XmK9lvHHqdiS.tOPiN83752.worKErS.dEV",
-            "client-fingerprint": "chrome",
+            "client-fingerprint": "random",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
