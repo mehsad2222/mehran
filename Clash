@@ -127,25 +127,28 @@
             "type": "vless",
             "server": "31.133.0.135",
             "port": 2053,
-            "ip-version": "ipv4",
+            "ip-version": "ipv4-prefer",
             "tfo": false,
             "udp": false,
-            "uuid": "58218b50-74b5-41a3-9038-0eacf351c52d",
+            "uuid": "db1502d5-d67c-4659-9a84-7845c22a7c59",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Be83u9I4VdWszX7c7tNl4T6JKWMoF19m.YeJaB33178.woRkeRs.DeV",
+            "servername": "WF25f34m4K98Pb1lTz8X5Ju75a4f1aE6.POgoKaP347.WorkeRs.dEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibTFyYXNLSDBpS1kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiUGxnQzVCb2FGSmRaRXF4UCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "be83u9i4vdwszx7c7tnl4t6jkwmof19m.yejab33178.workers.dev"
+                    "Host": "wf25f34m4k98pb1ltz8x5ju75a4f1ae6.pogokap347.workers.dev"
                 }
             }
         },
