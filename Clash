@@ -130,25 +130,22 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "db1502d5-d67c-4659-9a84-7845c22a7c59",
+            "uuid": "32ede4cf-5d42-4f14-97f5-c8714048f4ed",
             "packet-encoding": "",
             "tls": true,
-            "servername": "WF25f34m4K98Pb1lTz8X5Ju75a4f1aE6.POgoKaP347.WorkeRs.dEv",
-            "client-fingerprint": "random",
+            "servername": "4O1tAS1Ic9f5YHN7u5QadQJ4z0bC82g5.ZIZIdBidv32.woRkERS.dEV",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUGxnQzVCb2FGSmRaRXF4UCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiQWI3ZDJWQWY5cmxKV0lvayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "wf25f34m4k98pb1ltz8x5ju75a4f1ae6.pogokap347.workers.dev"
+                    "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
                 }
             }
         },
@@ -5465,27 +5462,30 @@
         {
             "name": "1️⃣9️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "37.32.126.246",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "32ede4cf-5d42-4f14-97f5-c8714048f4ed",
+            "uuid": "db1502d5-d67c-4659-9a84-7845c22a7c59",
             "packet-encoding": "",
             "tls": true,
-            "servername": "4O1tAS1Ic9f5YHN7u5QadQJ4z0bC82g5.ZIZIdBidv32.woRkERS.dEV",
-            "client-fingerprint": "chrome",
+            "servername": "WF25f34m4K98Pb1lTz8X5Ju75a4f1aE6.POgoKaP347.WorkeRs.dEv",
+            "client-fingerprint": "random",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQWI3ZDJWQWY5cmxKV0lvayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiUGxnQzVCb2FGSmRaRXF4UCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
+                    "Host": "wf25f34m4k98pb1ltz8x5ju75a4f1ae6.pogokap347.workers.dev"
                 }
             }
         },
@@ -5554,25 +5554,22 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "db1502d5-d67c-4659-9a84-7845c22a7c59",
+            "uuid": "32ede4cf-5d42-4f14-97f5-c8714048f4ed",
             "packet-encoding": "",
             "tls": true,
-            "servername": "WF25f34m4K98Pb1lTz8X5Ju75a4f1aE6.POgoKaP347.WorkeRs.dEv",
-            "client-fingerprint": "random",
+            "servername": "4O1tAS1Ic9f5YHN7u5QadQJ4z0bC82g5.ZIZIdBidv32.woRkERS.dEV",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUGxnQzVCb2FGSmRaRXF4UCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiQWI3ZDJWQWY5cmxKV0lvayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "wf25f34m4k98pb1ltz8x5ju75a4f1ae6.pogokap347.workers.dev"
+                    "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
                 }
             }
         },
