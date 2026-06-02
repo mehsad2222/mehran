@@ -188,23 +188,20 @@
             "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": false,
+            "tfo": true,
             "udp": false,
             "uuid": "ca853293-ea5b-4d30-8d9a-783e66cf43e1",
             "packet-encoding": "",
             "tls": true,
-            "servername": "L-e56v9Vu1VSzj41Rr4Wp5J7LoI9eDPs.HDkDjWI37do30HFOr94hCHoxje9E.WorKErs.DEV",
+            "servername": "l-e56v9vu1VsZJ41Rr4WP5J7LOi9edPS.HdKDJwi37DO30hFoR94hCHOXJe9e.wORKERs.DEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNkdPWm5mVUJ3TjAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiV0FVSmhBYXo5c0NJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
