@@ -6883,6 +6883,60 @@
                     "Host": "fvglqggr2jzli1735pgm3uq2dz4pu0rc.newev77417.workers.dev"
                 }
             }
+        },
+        {
+            "name": "0️⃣5️⃣1️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "18.197.218.69",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": true,
+            "udp": false,
+            "uuid": "92d4bf73-2040-4775-82fa-2c31a8da1c85",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "7l63Vc1uRUs8151Lw2775-Bit712adhw.sOsABEL734.WORKERs.deV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiUHRZbkhHWG80IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "7l63vc1urus8151lw2775-bit712adhw.sosabel734.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣5️⃣2️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "18.197.218.69",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "eaf94d35-de49-49c4-823c-599c5db1c0b2",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "K8ww3RghaVvF8BfGr6Hs4KM51PeDCgz2.sihicAx619.wORKErs.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiWjlQZkNMbnkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "k8ww3rghavvf8bfgr6hs4km51pedcgz2.sihicax619.workers.dev"
+                }
+            }
         }
     ],
     "proxy-groups": [
