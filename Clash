@@ -161,6 +161,17 @@ proxies:
   - {name: 0️⃣1️⃣2️⃣ 〽️ehran-09, server: 173.245.59.249, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: cold-resonance-9af4.gy626hivy.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: cold-resonance-9af4.gy626hivy.workers.dev}}}
   - {name: 0️⃣1️⃣2️⃣ 〽️ehran-10, server: 104.17.29.89, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: cold-resonance-9af4.gy626hivy.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: cold-resonance-9af4.gy626hivy.workers.dev}}}
 
+  - {name: 0️⃣1️⃣3️⃣ Ⓜ️ehran-01, server: 172.66.2.31, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ Ⓜ️ehran-02, server: 162.159.38.179, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ Ⓜ️ehran-03, server: 198.41.223.225, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ Ⓜ️ehran-04, server: 104.19.150.138, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ Ⓜ️ehran-05, server: 104.19.150.138, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ 〽️ehran-06, server: 104.18.86.112, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ 〽️ehran-07, server: 104.19.45.19, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ 〽️ehran-08, server: 104.17.220.51, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ 〽️ehran-09, server: 104.17.55.35, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+  - {name: 0️⃣1️⃣3️⃣ 〽️ehran-10, server: 104.18.46.106, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: flat-base-04a7.ghtdy54ugf.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: flat-base-04a7.ghtdy54ugf.workers.dev}}}
+
 proxy-groups:
   - name: 🌍 PROXY
     type: select
@@ -286,7 +297,16 @@ proxy-groups:
       - 0️⃣1️⃣2️⃣ 〽️ehran-08
       - 0️⃣1️⃣2️⃣ 〽️ehran-09
       - 0️⃣1️⃣2️⃣ 〽️ehran-10
-
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-01
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-02
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-03
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-04
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-05
+      - 0️⃣1️⃣3️⃣ 〽️ehran-06
+      - 0️⃣1️⃣3️⃣ 〽️ehran-07
+      - 0️⃣1️⃣3️⃣ 〽️ehran-08
+      - 0️⃣1️⃣3️⃣ 〽️ehran-09
+      - 0️⃣1️⃣3️⃣ 〽️ehran-10
 
   - name: ♻️ Auto Select
     type: url-test
@@ -414,6 +434,16 @@ proxy-groups:
       - 0️⃣1️⃣2️⃣ 〽️ehran-08
       - 0️⃣1️⃣2️⃣ 〽️ehran-09
       - 0️⃣1️⃣2️⃣ 〽️ehran-10
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-01
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-02
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-03
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-04
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran-05
+      - 0️⃣1️⃣3️⃣ 〽️ehran-06
+      - 0️⃣1️⃣3️⃣ 〽️ehran-07
+      - 0️⃣1️⃣3️⃣ 〽️ehran-08
+      - 0️⃣1️⃣3️⃣ 〽️ehran-09
+      - 0️⃣1️⃣3️⃣ 〽️ehran-10
 rules:
   - GEOIP,IR,DIRECT
   - MATCH,🌍 PROXY
