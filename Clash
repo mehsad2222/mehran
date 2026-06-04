@@ -106,6 +106,17 @@ proxies:
   - {name: 0️⃣0️⃣7️⃣ 〽️ehran-09, server: 104.18.93.156, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
   - {name: 0️⃣0️⃣7️⃣ 〽️ehran-10, server: 188.164.248.80, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
 
+  - {name: 0️⃣0️⃣8️⃣ Ⓜ️ehran-01, server: 198.41.209.84, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ Ⓜ️ehran-02, server: 104.17.19.91, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ Ⓜ️ehran-03, server: 104.17.126.174, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ Ⓜ️ehran-04, server: 188.164.248.238, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ Ⓜ️ehran-05, server: 104.19.150.162, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ 〽️ehran-06, server: 104.17.20.237, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ 〽️ehran-07, server: 173.245.58.163, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ 〽️ehran-08, server: 162.159.47.27, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ 〽️ehran-09, server: 172.66.0.246, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+  - {name: 0️⃣0️⃣8️⃣ 〽️ehran-10, server: 104.16.247.102, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
+
 proxy-groups:
   - name: 🌍 PROXY
     type: select
@@ -181,6 +192,16 @@ proxy-groups:
       - 0️⃣0️⃣7️⃣ 〽️ehran-08
       - 0️⃣0️⃣7️⃣ 〽️ehran-09
       - 0️⃣0️⃣7️⃣ 〽️ehran-10
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-01
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-02
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-03
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-04
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-05
+      - 0️⃣0️⃣8️⃣ 〽️ehran-06
+      - 0️⃣0️⃣8️⃣ 〽️ehran-07
+      - 0️⃣0️⃣8️⃣ 〽️ehran-08
+      - 0️⃣0️⃣8️⃣ 〽️ehran-09
+      - 0️⃣0️⃣8️⃣ 〽️ehran-10
 
   - name: ♻️ Auto Select
     type: url-test
@@ -258,6 +279,16 @@ proxy-groups:
       - 0️⃣0️⃣7️⃣ 〽️ehran-08
       - 0️⃣0️⃣7️⃣ 〽️ehran-09
       - 0️⃣0️⃣7️⃣ 〽️ehran-10
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-01
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-02
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-03
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-04
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran-05
+      - 0️⃣0️⃣8️⃣ 〽️ehran-06
+      - 0️⃣0️⃣8️⃣ 〽️ehran-07
+      - 0️⃣0️⃣8️⃣ 〽️ehran-08
+      - 0️⃣0️⃣8️⃣ 〽️ehran-09
+      - 0️⃣0️⃣8️⃣ 〽️ehran-10
 
 rules:
   - GEOIP,IR,DIRECT
