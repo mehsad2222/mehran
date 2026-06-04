@@ -27,8 +27,10 @@ allow-lan: true
 mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
+
 proxies:
-  - {name: 0️⃣0️⃣1️⃣ Ⓜ️ehran-01 , server: 104.17.101.112, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
+  # ========== 20 تای اول ( bitter-pine ) ==========
+  - {name: 0️⃣0️⃣1️⃣ Ⓜ️ehran-01, server: 104.17.101.112, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
   - {name: 0️⃣0️⃣1️⃣ Ⓜ️ehran-02, server: 104.19.145.228, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
   - {name: 0️⃣0️⃣1️⃣ Ⓜ️ehran-03, server: 104.26.6.218, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
   - {name: 0️⃣0️⃣1️⃣ Ⓜ️ehran-04, server: 198.41.208.236, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
@@ -48,6 +50,8 @@ proxies:
   - {name: 0️⃣0️⃣1️⃣ 〽️ehran-18, server: 104.19.40.31, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
   - {name: 0️⃣0️⃣1️⃣ 〽️ehran-19, server: 8.35.211.14, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
   - {name: 0️⃣0️⃣1️⃣ 〽️ehran-20, server: 198.41.209.220, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
+
+  # ========== 20 تای دوم ( raspy-leaf ) ==========
   - {name: 0️⃣0️⃣2️⃣ Ⓜ️ehran-01, server: 198.41.208.67, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
   - {name: 0️⃣0️⃣2️⃣ Ⓜ️ehran-02, server: 104.17.98.190, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
   - {name: 0️⃣0️⃣2️⃣ Ⓜ️ehran-03, server: 104.17.110.29, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
@@ -58,59 +62,92 @@ proxies:
   - {name: 0️⃣0️⃣2️⃣ Ⓜ️ehran-08, server: 104.19.158.109, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
   - {name: 0️⃣0️⃣2️⃣ Ⓜ️ehran-09, server: 104.18.83.26, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
   - {name: 0️⃣0️⃣2️⃣ Ⓜ️ehran-10, server: 8.39.125.111, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-01, server: 104.16.251.134, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-02, server: 172.66.3.13, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-03, server: 104.19.147.18, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-04, server: 104.17.145.239, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-05, server: 104.16.151.69, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-06, server: 173.245.59.156, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-07, server: 104.19.147.18, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-08, server: 104.17.145.239, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-09, server: 104.16.151.69, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
-  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-10, server: 173.245.59.156, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-11, server: 104.16.251.134, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-12, server: 172.66.3.13, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-13, server: 104.19.147.18, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-14, server: 104.17.145.239, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-15, server: 104.16.151.69, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-16, server: 173.245.59.156, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-17, server: 104.19.147.18, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-18, server: 104.17.145.239, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-19, server: 104.16.151.69, port: 2087, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+  - {name: 0️⃣0️⃣2️⃣ 〽️ehran-20, server: 173.245.59.156, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: raspy-leaf-4b85.shug37rbei3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-leaf-4b85.shug37rbei3.workers.dev}}}
+
 proxy-groups:
+  # گروه دسته اول (001 مهران)
+  - name: 🟢 001-Mehran
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-01
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-02
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-03
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-04
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-05
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-06
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-07
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-08
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-09
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran-10
+      - 0️⃣0️⃣1️⃣ 〽️ehran-11
+      - 0️⃣0️⃣1️⃣ 〽️ehran-12
+      - 0️⃣0️⃣1️⃣ 〽️ehran-13
+      - 0️⃣0️⃣1️⃣ 〽️ehran-14
+      - 0️⃣0️⃣1️⃣ 〽️ehran-15
+      - 0️⃣0️⃣1️⃣ 〽️ehran-16
+      - 0️⃣0️⃣1️⃣ 〽️ehran-17
+      - 0️⃣0️⃣1️⃣ 〽️ehran-18
+      - 0️⃣0️⃣1️⃣ 〽️ehran-19
+      - 0️⃣0️⃣1️⃣ 〽️ehran-20
+
+  # گروه دسته دوم (002 مهران)
+  - name: 🔵 002-Mehran
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-01
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-02
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-03
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-04
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-05
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-06
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-07
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-08
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-09
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran-10
+      - 0️⃣0️⃣2️⃣ 〽️ehran-11
+      - 0️⃣0️⃣2️⃣ 〽️ehran-12
+      - 0️⃣0️⃣2️⃣ 〽️ehran-13
+      - 0️⃣0️⃣2️⃣ 〽️ehran-14
+      - 0️⃣0️⃣2️⃣ 〽️ehran-15
+      - 0️⃣0️⃣2️⃣ 〽️ehran-16
+      - 0️⃣0️⃣2️⃣ 〽️ehran-17
+      - 0️⃣0️⃣2️⃣ 〽️ehran-18
+      - 0️⃣0️⃣2️⃣ 〽️ehran-19
+      - 0️⃣0️⃣2️⃣ 〽️ehran-20
+
+  # گروه اصلی برای انتخاب دستی
   - name: 🌍 PROXY
     type: select
     proxies:
       - ♻️ Auto Select
-      - 0️⃣0️⃣1️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣2️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣3️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣4️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣5️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣6️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣7️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣8️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣9️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣0️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣1️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣2️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣3️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣4️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣5️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣6️⃣ Ⓜ️ehran
+      - 🟢 001-Mehran
+      - 🔵 002-Mehran
+
+  # گروه Auto Select که بین دو گروه بهترین رو انتخاب می‌کنه
   - name: ♻️ Auto Select
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 0️⃣0️⃣1️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣2️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣3️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣4️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣5️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣6️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣7️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣8️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣9️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣0️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣1️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣2️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣3️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣4️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣5️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣6️⃣ Ⓜ️ehran
+      - 🟢 001-Mehran
+      - 🔵 002-Mehran
+
 rules:
   - GEOIP,IR,DIRECT
   - MATCH,🌍 PROXY
