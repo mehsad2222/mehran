@@ -45,13 +45,10 @@ proxies:
   - {name: 0️⃣1️⃣5️⃣ Ⓜ️ehran, server: 8.35.211.14, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
   - {name: 0️⃣1️⃣6️⃣ Ⓜ️ehran, server: 198.41.209.220, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
 proxy-groups:
-  - name: PROXY
+  - name: 🌍 PROXY
     type: select
     proxies:
       - ♻️ Auto Select
-      - 🔯 Failover
-      - 🔮 Load Balance
-      - DIRECT
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran
       - 0️⃣0️⃣2️⃣ Ⓜ️ehran
       - 0️⃣0️⃣3️⃣ Ⓜ️ehran
@@ -90,49 +87,6 @@ proxy-groups:
       - 0️⃣1️⃣4️⃣ Ⓜ️ehran
       - 0️⃣1️⃣5️⃣ Ⓜ️ehran
       - 0️⃣1️⃣6️⃣ Ⓜ️ehran
-  - name: 🔯 Failover
-    type: fallback
-    url: http://www.gstatic.com/generate_204
-    interval: 180
-    proxies:
-      - 0️⃣0️⃣1️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣2️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣3️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣4️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣5️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣6️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣7️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣8️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣9️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣0️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣1️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣2️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣3️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣4️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣5️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣6️⃣ Ⓜ️ehran
-  - name: 🔮 Load Balance
-    type: load-balance
-    strategy: consistent-hashing
-    url: http://www.gstatic.com/generate_204
-    interval: 180
-    proxies:
-      - 0️⃣0️⃣1️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣2️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣3️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣4️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣5️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣6️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣7️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣8️⃣ Ⓜ️ehran
-      - 0️⃣0️⃣9️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣0️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣1️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣2️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣3️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣4️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣5️⃣ Ⓜ️ehran
-      - 0️⃣1️⃣6️⃣ Ⓜ️ehran
 rules:
   - GEOIP,IR,DIRECT
-  - MATCH,PROXY
+  - MATCH,🌍 PROXY
