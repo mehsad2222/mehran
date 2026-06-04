@@ -293,6 +293,17 @@ proxies:
   - {name: 0️⃣2️⃣4️⃣ 〽️ehran-09, server: 104.17.151.247, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: round-mouse-6814.ueuaawy37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: round-mouse-6814.ueuaawy37.workers.dev}}}
   - {name: 0️⃣2️⃣4️⃣ 〽️ehran-10, server: 104.17.107.235, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: round-mouse-6814.ueuaawy37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: round-mouse-6814.ueuaawy37.workers.dev}}}
 
+  - {name: 0️⃣2️⃣5️⃣ Ⓜ️ehran-01, server: 104.17.101.237, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ Ⓜ️ehran-02, server: 104.19.52.166, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ Ⓜ️ehran-03, server: 172.67.70.214, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ Ⓜ️ehran-04, server: 104.19.55.168, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ Ⓜ️ehran-05, server: 188.164.248.181, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ 〽️ehran-06, server: 8.39.125.233, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ 〽️ehran-07, server: 172.66.0.164, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ 〽️ehran-08, server: 8.35.211.241, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ 〽️ehran-09, server: 8.39.125.134, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+  - {name: 0️⃣2️⃣5️⃣ 〽️ehran-10, server: 91.193.58.38, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: lucky-sea-66c7.vbcbdi37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lucky-sea-66c7.vbcbdi37.workers.dev}}}
+
 proxy-groups:
   - name: 🌍 PROXY
     type: select
@@ -538,6 +549,16 @@ proxy-groups:
       - 0️⃣2️⃣4️⃣ 〽️ehran-08
       - 0️⃣2️⃣4️⃣ 〽️ehran-09
       - 0️⃣2️⃣4️⃣ 〽️ehran-10
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-01
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-02
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-03
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-04
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-05
+      - 0️⃣2️⃣5️⃣ 〽️ehran-06
+      - 0️⃣2️⃣5️⃣ 〽️ehran-07
+      - 0️⃣2️⃣5️⃣ 〽️ehran-08
+      - 0️⃣2️⃣5️⃣ 〽️ehran-09
+      - 0️⃣2️⃣5️⃣ 〽️ehran-10
 
   - name: ♻️ Auto Select
     type: url-test
@@ -785,6 +806,16 @@ proxy-groups:
       - 0️⃣2️⃣4️⃣ 〽️ehran-08
       - 0️⃣2️⃣4️⃣ 〽️ehran-09
       - 0️⃣2️⃣4️⃣ 〽️ehran-10
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-01
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-02
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-03
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-04
+      - 0️⃣2️⃣5️⃣ Ⓜ️ehran-05
+      - 0️⃣2️⃣5️⃣ 〽️ehran-06
+      - 0️⃣2️⃣5️⃣ 〽️ehran-07
+      - 0️⃣2️⃣5️⃣ 〽️ehran-08
+      - 0️⃣2️⃣5️⃣ 〽️ehran-09
+      - 0️⃣2️⃣5️⃣ 〽️ehran-10
 
 rules:
   - GEOIP,IR,DIRECT
