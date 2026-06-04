@@ -117,6 +117,17 @@ proxies:
   - {name: 0️⃣0️⃣8️⃣ 〽️ehran-09, server: 172.66.0.246, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
   - {name: 0️⃣0️⃣8️⃣ 〽️ehran-10, server: 104.16.247.102, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: fragrant-truth-7af1.jdkfbieov37.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-truth-7af1.jdkfbieov37.workers.dev}}}
 
+  - {name: 0️⃣0️⃣9️⃣ Ⓜ️ehran-01, server: 104.18.93.201, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ Ⓜ️ehran-02, server: 173.245.58.98, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ Ⓜ️ehran-03, server: 8.39.125.88, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ Ⓜ️ehran-04, server: 104.19.60.55, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ Ⓜ️ehran-05, server: 8.39.125.48, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ 〽️ehran-06, server: 104.17.109.151, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ 〽️ehran-07, server: 198.41.223.232, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ 〽️ehran-08, server: 173.245.58.233, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ 〽️ehran-09, server: 104.16.251.169, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+  - {name: 0️⃣0️⃣9️⃣ 〽️ehran-10, server: 104.18.46.18, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: polished-credit-e6f1.bsi38vd93.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: polished-credit-e6f1.bsi38vd93.workers.dev}}}
+
 proxy-groups:
   - name: 🌍 PROXY
     type: select
@@ -202,6 +213,16 @@ proxy-groups:
       - 0️⃣0️⃣8️⃣ 〽️ehran-08
       - 0️⃣0️⃣8️⃣ 〽️ehran-09
       - 0️⃣0️⃣8️⃣ 〽️ehran-10
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-01
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-02
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-03
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-04
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-05
+      - 0️⃣0️⃣9️⃣ 〽️ehran-06
+      - 0️⃣0️⃣9️⃣ 〽️ehran-07
+      - 0️⃣0️⃣9️⃣ 〽️ehran-08
+      - 0️⃣0️⃣9️⃣ 〽️ehran-09
+      - 0️⃣0️⃣9️⃣ 〽️ehran-10
 
   - name: ♻️ Auto Select
     type: url-test
@@ -289,6 +310,16 @@ proxy-groups:
       - 0️⃣0️⃣8️⃣ 〽️ehran-08
       - 0️⃣0️⃣8️⃣ 〽️ehran-09
       - 0️⃣0️⃣8️⃣ 〽️ehran-10
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-01
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-02
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-03
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-04
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran-05
+      - 0️⃣0️⃣9️⃣ 〽️ehran-06
+      - 0️⃣0️⃣9️⃣ 〽️ehran-07
+      - 0️⃣0️⃣9️⃣ 〽️ehran-08
+      - 0️⃣0️⃣9️⃣ 〽️ehran-09
+      - 0️⃣0️⃣9️⃣ 〽️ehran-10
 
 rules:
   - GEOIP,IR,DIRECT
