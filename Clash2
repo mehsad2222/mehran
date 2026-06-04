@@ -95,6 +95,17 @@ proxies:
   - {name: 0️⃣0️⃣6️⃣ 〽️ehran-09, server: 104.17.97.255, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: wispy-cell-1bcd.hdiw3lop39.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: wispy-cell-1bcd.hdiw3lop39.workers.dev}}}
   - {name: 0️⃣0️⃣6️⃣ 〽️ehran-10, server: 104.17.187.170, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: wispy-cell-1bcd.hdiw3lop39.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: wispy-cell-1bcd.hdiw3lop39.workers.dev}}}
 
+  - {name: 0️⃣0️⃣7️⃣ Ⓜ️ehran-01, server: 91.193.59.134, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ Ⓜ️ehran-02, server: 104.26.0.110, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ Ⓜ️ehran-03, server: 104.17.147.199, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ Ⓜ️ehran-04, server: 104.18.89.125, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ Ⓜ️ehran-05, server: 104.16.242.105, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ 〽️ehran-06, server: 104.26.9.128, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ 〽️ehran-07, server: 104.17.22.39, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ 〽️ehran-08, server: 104.19.154.105, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ 〽️ehran-09, server: 104.18.93.156, port: 2083, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+  - {name: 0️⃣0️⃣7️⃣ 〽️ehran-10, server: 188.164.248.80, port: 2053, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: falling-grass-f753.frw436d.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-grass-f753.frw436d.workers.dev}}}
+
 proxy-groups:
   - name: 🌍 PROXY
     type: select
@@ -160,7 +171,16 @@ proxy-groups:
       - 0️⃣0️⃣6️⃣ 〽️ehran-08
       - 0️⃣0️⃣6️⃣ 〽️ehran-09
       - 0️⃣0️⃣6️⃣ 〽️ehran-10
-
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-01
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-02
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-03
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-04
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-05
+      - 0️⃣0️⃣7️⃣ 〽️ehran-06
+      - 0️⃣0️⃣7️⃣ 〽️ehran-07
+      - 0️⃣0️⃣7️⃣ 〽️ehran-08
+      - 0️⃣0️⃣7️⃣ 〽️ehran-09
+      - 0️⃣0️⃣7️⃣ 〽️ehran-10
 
   - name: ♻️ Auto Select
     type: url-test
@@ -228,6 +248,16 @@ proxy-groups:
       - 0️⃣0️⃣6️⃣ 〽️ehran-08
       - 0️⃣0️⃣6️⃣ 〽️ehran-09
       - 0️⃣0️⃣6️⃣ 〽️ehran-10
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-01
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-02
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-03
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-04
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran-05
+      - 0️⃣0️⃣7️⃣ 〽️ehran-06
+      - 0️⃣0️⃣7️⃣ 〽️ehran-07
+      - 0️⃣0️⃣7️⃣ 〽️ehran-08
+      - 0️⃣0️⃣7️⃣ 〽️ehran-09
+      - 0️⃣0️⃣7️⃣ 〽️ehran-10
 
 rules:
   - GEOIP,IR,DIRECT
