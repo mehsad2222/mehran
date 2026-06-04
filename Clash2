@@ -49,6 +49,8 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ Auto Select
+      - 🔯 Failover
+      - 🔮 Load Balance
       - DIRECT
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran
       - 0️⃣0️⃣2️⃣ Ⓜ️ehran
@@ -71,6 +73,49 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
+    proxies:
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣3️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣4️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣5️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣6️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣0️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣1️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣2️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣4️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣5️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣6️⃣ Ⓜ️ehran
+  - name: 🔯 Failover
+    type: fallback
+    url: http://www.gstatic.com/generate_204
+    interval: 180
+    proxies:
+      - 0️⃣0️⃣1️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣2️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣3️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣4️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣5️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣6️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣7️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣8️⃣ Ⓜ️ehran
+      - 0️⃣0️⃣9️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣0️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣1️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣2️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣3️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣4️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣5️⃣ Ⓜ️ehran
+      - 0️⃣1️⃣6️⃣ Ⓜ️ehran
+  - name: 🔮 Load Balance
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://www.gstatic.com/generate_204
+    interval: 180
     proxies:
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran
       - 0️⃣0️⃣2️⃣ Ⓜ️ehran
