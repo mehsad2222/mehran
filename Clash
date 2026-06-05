@@ -33,6 +33,17 @@ log-level: info
 external-controller: 127.0.0.1:9090
 
 proxies:
+  - {name: 0️⃣4️⃣6️⃣ Ⓜ️ehran-01, server: 104.18.93.199, port: 2087, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ Ⓜ️ehran-02, server: 104.19.53.45, port: 2096, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ Ⓜ️ehran-03, server: 104.18.47.230, port: 2053, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ Ⓜ️ehran-04, server: 188.164.248.92, port: 443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ Ⓜ️ehran-05, server: 104.16.255.155, port: 8443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ 〽️ehran-06, server: 104.19.51.22, port: 2053, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ 〽️ehran-07, server: 162.159.38.20, port: 2083, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ 〽️ehran-08, server: 104.17.221.61, port: 8443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ 〽️ehran-09, server: 104.17.146.252, port: 2096, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+  - {name: 0️⃣4️⃣6️⃣ 〽️ehran-10, server: 8.35.211.212, port: 2053, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fragrant-rice-e6c8.hutt65ig6.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fragrant-rice-e6c8.hutt65ig6.workers.dev}}}
+
   - {name: 0️⃣4️⃣5️⃣ Ⓜ️ehran-01, server: 198.41.209.4, port: 2096, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: falling-haze-998d.id837dn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-haze-998d.id837dn.workers.dev}}}
   - {name: 0️⃣4️⃣5️⃣ Ⓜ️ehran-02, server: 173.245.58.248, port: 2087, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: falling-haze-998d.id837dn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-haze-998d.id837dn.workers.dev}}}
   - {name: 0️⃣4️⃣5️⃣ Ⓜ️ehran-03, server: 8.39.125.125, port: 2053, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: falling-haze-998d.id837dn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: falling-haze-998d.id837dn.workers.dev}}}
@@ -537,6 +548,16 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ Auto Select
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-01
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-02
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-03
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-04
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-05
+      - 0️⃣4️⃣6️⃣ 〽️ehran-06
+      - 0️⃣4️⃣6️⃣ 〽️ehran-07
+      - 0️⃣4️⃣6️⃣ 〽️ehran-08
+      - 0️⃣4️⃣6️⃣ 〽️ehran-09
+      - 0️⃣4️⃣6️⃣ 〽️ehran-10
       - 0️⃣4️⃣5️⃣ Ⓜ️ehran-01
       - 0️⃣4️⃣5️⃣ Ⓜ️ehran-02
       - 0️⃣4️⃣5️⃣ Ⓜ️ehran-03
@@ -994,6 +1015,16 @@ proxy-groups:
     interval: 30
     tolerance: 50
     proxies:
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-01
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-02
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-03
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-04
+      - 0️⃣4️⃣6️⃣ Ⓜ️ehran-05
+      - 0️⃣4️⃣6️⃣ 〽️ehran-06
+      - 0️⃣4️⃣6️⃣ 〽️ehran-07
+      - 0️⃣4️⃣6️⃣ 〽️ehran-08
+      - 0️⃣4️⃣6️⃣ 〽️ehran-09
+      - 0️⃣4️⃣6️⃣ 〽️ehran-10
       - 0️⃣4️⃣5️⃣ Ⓜ️ehran-01
       - 0️⃣4️⃣5️⃣ Ⓜ️ehran-02
       - 0️⃣4️⃣5️⃣ Ⓜ️ehran-03
