@@ -66,6 +66,17 @@ proxies:
   - {name: 0️⃣3️⃣9️⃣ 〽️ehran-09, server: 172.66.2.43, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: noisy-bush-6d65.orijr84j8.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: noisy-bush-6d65.orijr84j8.workers.dev}}}
   - {name: 0️⃣3️⃣9️⃣ 〽️ehran-10, server: 104.16.148.216, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: noisy-bush-6d65.orijr84j8.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: noisy-bush-6d65.orijr84j8.workers.dev}}}
 
+  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-01, server: 91.193.59.185, port: 8443, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-02, server: 162.159.35.235, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-03, server: 104.17.126.139, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-04, server: 104.16.255.141, port: 443, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-05, server: 104.17.216.99, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-06, server: 173.245.59.91, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-07, server: 172.66.1.82, port: 2087, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-08, server: 8.35.211.113, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-09, server: 198.41.223.49, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-10, server: 198.41.223.153, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
+
   - {name: 0️⃣0️⃣1️⃣ Ⓜ️ehran-01, server: 104.17.101.112, port: 8443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
   - {name: 0️⃣0️⃣1️⃣ Ⓜ️ehran-02, server: 104.19.145.228, port: 2096, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
   - {name: 0️⃣0️⃣1️⃣ Ⓜ️ehran-03, server: 104.26.6.218, port: 443, type: vless, uuid: c2e14bb4-d442-4b5d-866f-10731e567231, tls: true, skip-cert-verify: false, servername: bitter-pine-35dd.mhmwdsady851.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: bitter-pine-35dd.mhmwdsady851.workers.dev}}}
@@ -473,18 +484,6 @@ proxies:
   - {name: 0️⃣3️⃣7️⃣ 〽️ehran-09, server: 104.17.19.126, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
   - {name: 0️⃣3️⃣7️⃣ 〽️ehran-10, server: 8.39.125.27, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
 
-  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-01, server: 91.193.59.185, port: 8443, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-02, server: 162.159.35.235, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-03, server: 104.17.126.139, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-04, server: 104.16.255.141, port: 443, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ Ⓜ️ehran-05, server: 104.17.216.99, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-06, server: 173.245.59.91, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-07, server: 172.66.1.82, port: 2087, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-08, server: 8.35.211.113, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-09, server: 198.41.223.49, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-  - {name: 0️⃣3️⃣8️⃣ 〽️ehran-10, server: 198.41.223.153, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: fancy-night-44b4.mnnnndj5.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-night-44b4.mnnnndj5.workers.dev}}}
-
-  
 
 
 proxy-groups:
@@ -522,6 +521,16 @@ proxy-groups:
       - 0️⃣3️⃣9️⃣ 〽️ehran-08
       - 0️⃣3️⃣9️⃣ 〽️ehran-09
       - 0️⃣3️⃣9️⃣ 〽️ehran-10
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-01
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-02
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-03
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-04
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-05
+      - 0️⃣3️⃣8️⃣ 〽️ehran-06
+      - 0️⃣3️⃣8️⃣ 〽️ehran-07
+      - 0️⃣3️⃣8️⃣ 〽️ehran-08
+      - 0️⃣3️⃣8️⃣ 〽️ehran-09
+      - 0️⃣3️⃣8️⃣ 〽️ehran-10
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran-01
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran-02
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran-03
@@ -892,18 +901,7 @@ proxy-groups:
       - 0️⃣3️⃣7️⃣ 〽️ehran-08
       - 0️⃣3️⃣7️⃣ 〽️ehran-09
       - 0️⃣3️⃣7️⃣ 〽️ehran-10
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-01
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-02
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-03
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-04
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-05
-      - 0️⃣3️⃣8️⃣ 〽️ehran-06
-      - 0️⃣3️⃣8️⃣ 〽️ehran-07
-      - 0️⃣3️⃣8️⃣ 〽️ehran-08
-      - 0️⃣3️⃣8️⃣ 〽️ehran-09
-      - 0️⃣3️⃣8️⃣ 〽️ehran-10
-      
-      
+            
 
   - name: ♻️ Auto Select
     type: url-test
@@ -941,6 +939,16 @@ proxy-groups:
       - 0️⃣3️⃣9️⃣ 〽️ehran-08
       - 0️⃣3️⃣9️⃣ 〽️ehran-09
       - 0️⃣3️⃣9️⃣ 〽️ehran-10
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-01
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-02
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-03
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-04
+      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-05
+      - 0️⃣3️⃣8️⃣ 〽️ehran-06
+      - 0️⃣3️⃣8️⃣ 〽️ehran-07
+      - 0️⃣3️⃣8️⃣ 〽️ehran-08
+      - 0️⃣3️⃣8️⃣ 〽️ehran-09
+      - 0️⃣3️⃣8️⃣ 〽️ehran-10    
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran-01
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran-02
       - 0️⃣0️⃣1️⃣ Ⓜ️ehran-03
@@ -1311,16 +1319,7 @@ proxy-groups:
       - 0️⃣3️⃣7️⃣ 〽️ehran-08
       - 0️⃣3️⃣7️⃣ 〽️ehran-09
       - 0️⃣3️⃣7️⃣ 〽️ehran-10
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-01
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-02
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-03
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-04
-      - 0️⃣3️⃣8️⃣ Ⓜ️ehran-05
-      - 0️⃣3️⃣8️⃣ 〽️ehran-06
-      - 0️⃣3️⃣8️⃣ 〽️ehran-07
-      - 0️⃣3️⃣8️⃣ 〽️ehran-08
-      - 0️⃣3️⃣8️⃣ 〽️ehran-09
-      - 0️⃣3️⃣8️⃣ 〽️ehran-10    
+      
 
 rules:
   - DOMAIN-SUFFIX,ir,DIRECT
