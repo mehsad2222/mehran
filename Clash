@@ -458,6 +458,17 @@ proxies:
   - {name: 0️⃣3️⃣9️⃣ 〽️ehran-09, server: 172.66.2.43, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: noisy-bush-6d65.orijr84j8.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: noisy-bush-6d65.orijr84j8.workers.dev}}}
   - {name: 0️⃣3️⃣9️⃣ 〽️ehran-10, server: 104.16.148.216, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: noisy-bush-6d65.orijr84j8.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: noisy-bush-6d65.orijr84j8.workers.dev}}}
 
+  - {name: 0️⃣4️⃣0️⃣ Ⓜ️ehran-01, server: 162.159.44.142, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ Ⓜ️ehran-02, server: 104.18.91.106, port: 2087, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ Ⓜ️ehran-03, server: 8.39.125.149, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ Ⓜ️ehran-04, server: 198.41.208.32, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ Ⓜ️ehran-05, server: 104.18.35.21, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ 〽️ehran-06, server: 104.17.167.200, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ 〽️ehran-07, server: 104.17.103.143, port: 2087, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ 〽️ehran-08, server: 104.17.210.96, port: 2087, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ 〽️ehran-09, server: 104.17.222.24, port: 443, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+  - {name: 0️⃣4️⃣0️⃣ 〽️ehran-10, server: 8.39.125.195, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
+
 proxy-groups:
   - name: 🌍 PROXY
     type: select
@@ -853,6 +864,16 @@ proxy-groups:
       - 0️⃣3️⃣9️⃣ 〽️ehran-08
       - 0️⃣3️⃣9️⃣ 〽️ehran-09
       - 0️⃣3️⃣9️⃣ 〽️ehran-10
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-01
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-02
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-03
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-04
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-05
+      - 0️⃣4️⃣0️⃣ 〽️ehran-06
+      - 0️⃣4️⃣0️⃣ 〽️ehran-07
+      - 0️⃣4️⃣0️⃣ 〽️ehran-08
+      - 0️⃣4️⃣0️⃣ 〽️ehran-09
+      - 0️⃣4️⃣0️⃣ 〽️ehran-10
 
   - name: ♻️ Auto Select
     type: url-test
@@ -1250,6 +1271,16 @@ proxy-groups:
       - 0️⃣3️⃣9️⃣ 〽️ehran-08
       - 0️⃣3️⃣9️⃣ 〽️ehran-09
       - 0️⃣3️⃣9️⃣ 〽️ehran-10
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-01
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-02
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-03
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-04
+      - 0️⃣4️⃣0️⃣ Ⓜ️ehran-05
+      - 0️⃣4️⃣0️⃣ 〽️ehran-06
+      - 0️⃣4️⃣0️⃣ 〽️ehran-07
+      - 0️⃣4️⃣0️⃣ 〽️ehran-08
+      - 0️⃣4️⃣0️⃣ 〽️ehran-09
+      - 0️⃣4️⃣0️⃣ 〽️ehran-10
 
 rules:
   - GEOIP,IR,DIRECT
