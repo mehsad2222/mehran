@@ -33,6 +33,17 @@ log-level: info
 external-controller: 127.0.0.1:9090
 
 proxies:
+  - {name: 0️⃣4️⃣1️⃣ Ⓜ️ehran-01, server: 173.245.58.113, port: 443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ Ⓜ️ehran-02, server: 108.162.198.117, port: 2053, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ Ⓜ️ehran-03, server: 104.19.60.2, port: 443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ Ⓜ️ehran-04, server: 104.19.55.236, port: 443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ Ⓜ️ehran-05, server: 104.17.101.18, port: 2083, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ 〽️ehran-06, server: 188.164.248.142, port: 2053, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ 〽️ehran-07, server: 104.17.157.93, port: 8443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ 〽️ehran-08, server: 104.18.38.99, port: 2096, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ 〽️ehran-09, server: 104.17.121.185, port: 443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+  - {name: 0️⃣4️⃣1️⃣ 〽️ehran-10, server: 162.159.38.56, port: 8443, type: vless, uuid: 9b936da1-6fce-4980-83f0-b4e0c204487a, tls: true, skip-cert-verify: false, servername: fancy-moon-3029.udicnieu3.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: fancy-moon-3029.udicnieu3.workers.dev}}}
+
   - {name: 0️⃣4️⃣0️⃣ Ⓜ️ehran-01, server: 162.159.44.142, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
   - {name: 0️⃣4️⃣0️⃣ Ⓜ️ehran-02, server: 104.18.91.106, port: 2087, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
   - {name: 0️⃣4️⃣0️⃣ Ⓜ️ehran-03, server: 8.39.125.149, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: raspy-poetry-cbba.hdy37dbu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: raspy-poetry-cbba.hdy37dbu.workers.dev}}}
@@ -481,6 +492,16 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ Auto Select
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-01
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-02
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-03
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-04
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-05
+      - 0️⃣4️⃣1️⃣ 〽️ehran-06
+      - 0️⃣4️⃣1️⃣ 〽️ehran-07
+      - 0️⃣4️⃣1️⃣ 〽️ehran-08
+      - 0️⃣4️⃣1️⃣ 〽️ehran-09
+      - 0️⃣4️⃣1️⃣ 〽️ehran-10
       - 0️⃣4️⃣0️⃣ Ⓜ️ehran-01
       - 0️⃣4️⃣0️⃣ Ⓜ️ehran-02
       - 0️⃣4️⃣0️⃣ Ⓜ️ehran-03
@@ -890,6 +911,16 @@ proxy-groups:
     interval: 30
     tolerance: 50
     proxies:
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-01
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-02
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-03
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-04
+      - 0️⃣4️⃣1️⃣ Ⓜ️ehran-05
+      - 0️⃣4️⃣1️⃣ 〽️ehran-06
+      - 0️⃣4️⃣1️⃣ 〽️ehran-07
+      - 0️⃣4️⃣1️⃣ 〽️ehran-08
+      - 0️⃣4️⃣1️⃣ 〽️ehran-09
+      - 0️⃣4️⃣1️⃣ 〽️ehran-10
       - 0️⃣4️⃣0️⃣ Ⓜ️ehran-01
       - 0️⃣4️⃣0️⃣ Ⓜ️ehran-02
       - 0️⃣4️⃣0️⃣ Ⓜ️ehran-03
