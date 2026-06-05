@@ -425,6 +425,17 @@ proxies:
   - {name: 0️⃣3️⃣6️⃣ 〽️ehran-09, server: 104.17.153.249, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: cold-pine-b2d4.iei38hdoeu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: cold-pine-b2d4.iei38hdoeu.workers.dev}}}
   - {name: 0️⃣3️⃣6️⃣ 〽️ehran-10, server: 188.164.248.228, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: cold-pine-b2d4.iei38hdoeu.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: cold-pine-b2d4.iei38hdoeu.workers.dev}}}
 
+  - {name: 0️⃣3️⃣7️⃣ Ⓜ️ehran-01, server: 104.18.46.24, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ Ⓜ️ehran-02, server: 104.18.87.188, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ Ⓜ️ehran-03, server: 104.18.82.162, port: 2087, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ Ⓜ️ehran-04, server: 162.159.38.166, port: 443, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ Ⓜ️ehran-05, server: 104.17.212.191, port: 2083, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ 〽️ehran-06, server: 104.17.119.91, port: 443, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ 〽️ehran-07, server: 104.17.220.97, port: 443, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ 〽️ehran-08, server: 104.17.181.96, port: 2053, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ 〽️ehran-09, server: 104.17.19.126, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+  - {name: 0️⃣3️⃣7️⃣ 〽️ehran-10, server: 8.39.125.27, port: 2096, type: vless, uuid: 424a6c49-1628-43af-8990-169e5b582ea3, tls: true, skip-cert-verify: false, servername: ancient-night-e9e1.bbbdue77.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: ancient-night-e9e1.bbbdue77.workers.dev}}}
+
 proxy-groups:
   - name: 🌍 PROXY
     type: select
@@ -790,6 +801,16 @@ proxy-groups:
       - 0️⃣3️⃣6️⃣ 〽️ehran-08
       - 0️⃣3️⃣6️⃣ 〽️ehran-09
       - 0️⃣3️⃣6️⃣ 〽️ehran-10
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-01
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-02
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-03
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-04
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-05
+      - 0️⃣3️⃣7️⃣ 〽️ehran-06
+      - 0️⃣3️⃣7️⃣ 〽️ehran-07
+      - 0️⃣3️⃣7️⃣ 〽️ehran-08
+      - 0️⃣3️⃣7️⃣ 〽️ehran-09
+      - 0️⃣3️⃣7️⃣ 〽️ehran-10
 
   - name: ♻️ Auto Select
     type: url-test
@@ -1157,6 +1178,16 @@ proxy-groups:
       - 0️⃣3️⃣6️⃣ 〽️ehran-08
       - 0️⃣3️⃣6️⃣ 〽️ehran-09
       - 0️⃣3️⃣6️⃣ 〽️ehran-10
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-01
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-02
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-03
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-04
+      - 0️⃣3️⃣7️⃣ Ⓜ️ehran-05
+      - 0️⃣3️⃣7️⃣ 〽️ehran-06
+      - 0️⃣3️⃣7️⃣ 〽️ehran-07
+      - 0️⃣3️⃣7️⃣ 〽️ehran-08
+      - 0️⃣3️⃣7️⃣ 〽️ehran-09
+      - 0️⃣3️⃣7️⃣ 〽️ehran-10
 
 rules:
   - GEOIP,IR,DIRECT
