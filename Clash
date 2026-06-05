@@ -1283,5 +1283,8 @@ proxy-groups:
       - 0️⃣4️⃣0️⃣ 〽️ehran-10
 
 rules:
+  - DOMAIN-SUFFIX,ir,DIRECT
+  - DOMAIN-SUFFIX,iran,DIRECT
+  - IP-CIDR,192.168.0.0/16,DIRECT
   - GEOIP,IR,DIRECT
   - MATCH,🌍 PROXY
