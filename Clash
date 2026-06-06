@@ -1183,15 +1183,48 @@
             "uuid": "74527947-fa5a-455c-983f-fb4b064b2686",
             "packet-encoding": "",
             "tls": true,
-            "servername": "0MA44w5nDvCLhlwDC0n1Cd6XNFW9N8in.SIjiWIy317.WOrKers.deV",
+            "servername": "0mA44w5NDvcLhLWdc0n1CD6xNFw9N8in.sIJIwiY317.WorkErs.DEV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoia2hlRTV4UUlDM0pjQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiRE9VUmQ0MTFXSjY2Z1NQMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "0ma44w5ndvclhlwdc0n1cd6xnfw9n8in.sijiwiy317.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣2️⃣0️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "74527947-fa5a-455c-983f-fb4b064b2686",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "0mA44w5NDvcLhLWdc0n1CD6xNFw9N8in.sIJIwiY317.WorkErs.DEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "ech-opts": {
+                "enable": true
+            },
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiRE9VUmQ0MTFXSjY2Z1NQMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
@@ -8829,6 +8862,7 @@
                 "0️⃣1️⃣9️⃣ Ⓜ️ehran",
                 "0️⃣1️⃣9️⃣ 〽️ehran",
                 "0️⃣2️⃣0️⃣ Ⓜ️ehran",
+                "0️⃣2️⃣0️⃣ 〽️ehran",
                 "0️⃣2️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣2️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣3️⃣ Ⓜ️ehran",
@@ -9054,6 +9088,7 @@
                 "0️⃣1️⃣9️⃣ Ⓜ️ehran",
                 "0️⃣1️⃣9️⃣ 〽️ehran",
                 "0️⃣2️⃣0️⃣ Ⓜ️ehran",
+                "0️⃣2️⃣0️⃣ 〽️ehran",
                 "0️⃣2️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣2️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣3️⃣ Ⓜ️ehran",
