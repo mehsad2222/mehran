@@ -718,22 +718,55 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "fedc8d38-3db6-4acb-bb18-c70ecfbeab9f",
+            "uuid": "cb77c073-b134-42b5-bd3a-365c1a9a1a06",
             "packet-encoding": "",
             "tls": true,
-            "servername": "wgtaX58wIde3L3Lc1sEHMs1J4Wkx8-Iz.roPiV56918.worKERs.deV",
+            "servername": "8olSRrin09w6Bo6TMv4848q7JJELG877.iDO38dhi.woRkeRs.dEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYmhkM09STG5FIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiSkl2MkRMd1p5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "wgtax58wide3l3lc1sehms1j4wkx8-iz.ropiv56918.workers.dev"
+                    "Host": "8olsrrin09w6bo6tmv4848q7jjelg877.ido38dhi.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣1️⃣2️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "104.18.83.34",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "cb77c073-b134-42b5-bd3a-365c1a9a1a06",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "8olSRrin09w6Bo6TMv4848q7JJELG877.iDO38dhi.woRkeRs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "ech-opts": {
+                "enable": true
+            },
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiSkl2MkRMd1p5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "8olsrrin09w6bo6tmv4848q7jjelg877.ido38dhi.workers.dev"
                 }
             }
         },
@@ -5865,7 +5898,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣1️⃣ 〽️ehran",
+            "name": "2️⃣0️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "94.242.53.158",
             "port": 8443,
@@ -5892,7 +5925,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣2️⃣ Ⓜ️ehran",
+            "name": "2️⃣0️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "89.111.172.106",
             "port": 2053,
@@ -5919,7 +5952,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣2️⃣ 〽️ehran",
+            "name": "2️⃣0️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "3.66.115.225",
             "port": 443,
@@ -5946,7 +5979,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣3️⃣ Ⓜ️ehran",
+            "name": "2️⃣0️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "62.3.12.185",
             "port": 443,
@@ -5973,7 +6006,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣3️⃣ 〽️ehran",
+            "name": "2️⃣0️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "62.3.12.185",
             "port": 443,
@@ -6000,7 +6033,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣4️⃣ Ⓜ️ehran",
+            "name": "2️⃣0️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "185.219.134.25",
             "port": 31564,
@@ -6027,7 +6060,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣4️⃣ 〽️ehran",
+            "name": "2️⃣0️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "94.131.123.74",
             "port": 443,
@@ -6054,7 +6087,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣5️⃣ Ⓜ️ehran",
+            "name": "2️⃣0️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "188.225.34.155",
             "port": 443,
@@ -6081,7 +6114,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣5️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "147.45.245.15",
             "port": 443,
@@ -6108,7 +6141,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣6️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "88.218.76.170",
             "port": 443,
@@ -6135,7 +6168,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣7️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "152.228.191.232",
             "port": 443,
@@ -6162,7 +6195,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣8️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "135.125.123.246",
             "port": 5432,
@@ -6189,7 +6222,7 @@
             }
         },
         {
-            "name": "0️⃣1️⃣4️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "88.218.77.42",
             "port": 8443,
@@ -6216,7 +6249,7 @@
             }
         },
         {
-            "name": "0️⃣1️⃣5️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "185.120.59.207",
             "port": 8443,
@@ -6243,7 +6276,7 @@
             }
         },
         {
-            "name": "0️⃣1️⃣6️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "82.64.152.55",
             "port": 20304,
@@ -6270,7 +6303,7 @@
             }
         },
         {
-            "name": "0️⃣1️⃣7️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "185.120.59.207",
             "port": 2053,
@@ -6297,7 +6330,7 @@
             }
         },
         {
-            "name": "0️⃣1️⃣8️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "31.133.0.55",
             "port": 2053,
@@ -6324,7 +6357,7 @@
             }
         },
         {
-            "name": "0️⃣1️⃣9️⃣ 〽️ehran",
+            "name": "2️⃣1️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "31.133.0.167",
             "port": 2053,
@@ -6351,7 +6384,7 @@
             }
         },
         {
-            "name": "0️⃣2️⃣0️⃣ 〽️ehran",
+            "name": "2️⃣2️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "31.133.0.167",
             "port": 2053,
@@ -8567,6 +8600,7 @@
                 "0️⃣1️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣1️⃣1️⃣ 〽️ehran",
                 "0️⃣1️⃣2️⃣ Ⓜ️ehran",
+                "0️⃣1️⃣2️⃣ 〽️ehran",
                 "0️⃣1️⃣3️⃣ Ⓜ️ehran",
                 "0️⃣1️⃣4️⃣ Ⓜ️ehran",
                 "0️⃣1️⃣5️⃣ Ⓜ️ehran",
@@ -8784,6 +8818,7 @@
                 "0️⃣1️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣1️⃣1️⃣ 〽️ehran",
                 "0️⃣1️⃣2️⃣ Ⓜ️ehran",
+                "0️⃣1️⃣2️⃣ 〽️ehran",
                 "0️⃣1️⃣3️⃣ Ⓜ️ehran",
                 "0️⃣1️⃣4️⃣ Ⓜ️ehran",
                 "0️⃣1️⃣5️⃣ Ⓜ️ehran",
