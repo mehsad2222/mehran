@@ -1600,10 +1600,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "94bee3ed-5f5c-4481-842a-2362496d64db",
+            "uuid": "1939d8a1-54c6-43d8-a2f9-29deb354d794",
             "packet-encoding": "",
             "tls": true,
-            "servername": "wTvC4e69uYLhN6a-dh2-85tQKn5085I6.BOdAS18925.woRkErs.deV",
+            "servername": "1.yd838vd.WoRkeRs.DEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1611,11 +1611,38 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZTdpM2hYYkRRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiNEM1alNsMU1kNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "wtvc4e69uylhn6a-dh2-85tqkn5085i6.bodas18925.workers.dev"
+                    "Host": "1.yd838vd.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣2️⃣7️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "172.67.143.33",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "1939d8a1-54c6-43d8-a2f9-29deb354d794",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "1.yd838vd.WoRkeRs.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiNEM1alNsMU1kNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "1.yd838vd.workers.dev"
                 }
             }
         },
@@ -9074,6 +9101,7 @@
                 "0️⃣2️⃣6️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣6️⃣ 〽️ehran",
                 "0️⃣2️⃣7️⃣ Ⓜ️ehran",
+                "0️⃣2️⃣7️⃣ 〽️ehran",
                 "0️⃣2️⃣8️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣9️⃣ Ⓜ️ehran",
                 "0️⃣3️⃣0️⃣ Ⓜ️ehran",
@@ -9306,6 +9334,7 @@
                 "0️⃣2️⃣6️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣6️⃣ 〽️ehran",
                 "0️⃣2️⃣7️⃣ Ⓜ️ehran",
+                "0️⃣2️⃣7️⃣ 〽️ehran",
                 "0️⃣2️⃣8️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣9️⃣ Ⓜ️ehran",
                 "0️⃣3️⃣0️⃣ Ⓜ️ehran",
