@@ -1503,6 +1503,36 @@
             }
         },
         {
+            "name": "0️⃣2️⃣5️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "188.114.97.7",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "b96d4062-2d08-4570-9489-08fffd367ec6",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Fes6qj4SA93Tx18cD5WCYmJAUAxUcR9Y.gUd6Ruv.worKErs.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "ech-opts": {
+                "enable": true
+            },
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiNzFRU2RMSExVdzhGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "fes6qj4sa93tx18cd5wcymjauaxucr9y.gud6ruv.workers.dev"
+                }
+            }
+        },
+        {
             "name": "0️⃣2️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "31.133.0.124",
@@ -9007,6 +9037,7 @@
                 "0️⃣2️⃣4️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣4️⃣ 〽️ehran",
                 "0️⃣2️⃣5️⃣ Ⓜ️ehran",
+                "0️⃣2️⃣5️⃣ 〽️ehran",
                 "0️⃣2️⃣6️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣7️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣8️⃣ Ⓜ️ehran",
@@ -9237,6 +9268,7 @@
                 "0️⃣2️⃣4️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣4️⃣ 〽️ehran",
                 "0️⃣2️⃣5️⃣ Ⓜ️ehran",
+                "0️⃣2️⃣5️⃣ 〽️ehran",
                 "0️⃣2️⃣6️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣7️⃣ Ⓜ️ehran",
                 "0️⃣2️⃣8️⃣ Ⓜ️ehran",
