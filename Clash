@@ -3125,27 +3125,60 @@
         {
             "name": "0️⃣5️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "3.69.0.8",
+            "server": "188.114.97.10",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1daeac18-4dac-4ac3-a543-a7b111943626",
+            "uuid": "7d1916e4-1f6b-4b12-b47d-21fde85d69a8",
             "packet-encoding": "",
             "tls": true,
-            "servername": "kU696Yf8U24PWRIBk2G2j2Nx9hj6WtZD.kIGofo1198.WORKErs.dEV",
+            "servername": "n72wTZi-Vs3T2be65NH-v06p3JDg7v6i.usiH28dhE.worKerS.Dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiU0RHOGJjOUprVVp3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiQ1hackR6T0xkbW5rVXJlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "ku696yf8u24pwribk2g2j2nx9hj6wtzd.kigofo1198.workers.dev"
+                    "Host": "n72wtzi-vs3t2be65nh-v06p3jdg7v6i.usih28dhe.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣5️⃣4️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "31.133.0.100",
+            "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "7d1916e4-1f6b-4b12-b47d-21fde85d69a8",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "n72wTZi-Vs3T2be65NH-v06p3JDg7v6i.usiH28dhE.worKerS.Dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "ech-opts": {
+                "enable": true
+            },
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiQ1hackR6T0xkbW5rVXJlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "n72wtzi-vs3t2be65nh-v06p3jdg7v6i.usih28dhe.workers.dev"
                 }
             }
         },
@@ -9929,6 +9962,7 @@
                 "0️⃣5️⃣3️⃣ Ⓜ️ehran",
                 "0️⃣5️⃣3️⃣ 〽️ehran",
                 "0️⃣5️⃣4️⃣ Ⓜ️ehran",
+                "0️⃣5️⃣4️⃣ 〽️ehran",
                 "0️⃣5️⃣5️⃣ Ⓜ️ehran",
                 "0️⃣5️⃣6️⃣ Ⓜ️ehran",
                 "0️⃣5️⃣7️⃣ Ⓜ️ehran",
@@ -10188,6 +10222,7 @@
                 "0️⃣5️⃣3️⃣ Ⓜ️ehran",
                 "0️⃣5️⃣3️⃣ 〽️ehran",
                 "0️⃣5️⃣4️⃣ Ⓜ️ehran",
+                "0️⃣5️⃣4️⃣ 〽️ehran",
                 "0️⃣5️⃣5️⃣ Ⓜ️ehran",
                 "0️⃣5️⃣6️⃣ Ⓜ️ehran",
                 "0️⃣5️⃣7️⃣ Ⓜ️ehran",
