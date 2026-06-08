@@ -4001,8 +4001,8 @@
         {
             "name": "0️⃣6️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.172.71.51",
-            "port": 443,
+            "server": "194.39.204.118",
+            "port": 65535,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
