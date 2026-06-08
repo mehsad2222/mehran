@@ -2526,9 +2526,63 @@
             }
         },
         {
+            "name": "0️⃣4️⃣3️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "162.159.39.127",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": true,
+            "udp": false,
+            "uuid": "c5b11cb4-1ef1-4fc1-a432-eafb7d52f83a",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "UpYPDl2FfkpX54gZTEmdI924akBijr6x.rObeV89720.WorkERs.dev",
+            "client-fingerprint": "random",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiYU11cjJSYjhCTCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "upypdl2ffkpx54gztemdi924akbijr6x.robev89720.workers.dev"
+                }
+            }
+        },
+        {
             "name": "0️⃣4️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "31.133.0.100",
+            "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "d9092831-0182-447b-a69f-892b76bb32a6",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "zZ0fgq8Gd3Cp21H5N9-R2r7twX5cgtfH.LINoji4451.wORKeRS.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiQkdKZU5rZXdQN1JsbGV4SyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "zz0fgq8gd3cp21h5n9-r2r7twx5cgtfh.linoji4451.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣4️⃣4️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "91.193.59.53",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
@@ -9580,7 +9634,9 @@
                 "0️⃣4️⃣2️⃣ Ⓜ️ehran",
                 "0️⃣4️⃣2️⃣ 〽️ehran",
                 "0️⃣4️⃣3️⃣ Ⓜ️ehran",
+                "0️⃣4️⃣3️⃣ 〽️ehran",
                 "0️⃣4️⃣4️⃣ Ⓜ️ehran",
+                "0️⃣4️⃣4️⃣ 〽️ehran",
                 "0️⃣4️⃣5️⃣ Ⓜ️ehran",
                 "0️⃣4️⃣6️⃣ Ⓜ️ehran",
                 "0️⃣4️⃣7️⃣ Ⓜ️ehran",
@@ -9828,7 +9884,9 @@
                 "0️⃣4️⃣2️⃣ Ⓜ️ehran",
                 "0️⃣4️⃣2️⃣ 〽️ehran",
                 "0️⃣4️⃣3️⃣ Ⓜ️ehran",
+                "0️⃣4️⃣3️⃣ 〽️ehran",
                 "0️⃣4️⃣4️⃣ Ⓜ️ehran",
+                "0️⃣4️⃣4️⃣ 〽️ehran",
                 "0️⃣4️⃣5️⃣ Ⓜ️ehran",
                 "0️⃣4️⃣6️⃣ Ⓜ️ehran",
                 "0️⃣4️⃣7️⃣ Ⓜ️ehran",
