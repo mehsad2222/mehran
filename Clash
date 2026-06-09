@@ -3881,7 +3881,7 @@
         {
             "name": "0️⃣6️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "37.1.194.237",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
@@ -4169,7 +4169,7 @@
         {
             "name": "0️⃣7️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "37.1.194.237",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
