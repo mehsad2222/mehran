@@ -598,10 +598,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b852829d-982e-41cc-b78f-c834aaa5711d",
+            "uuid": "815cd692-c705-4c92-8452-558ada498bc6",
             "packet-encoding": "",
             "tls": true,
-            "servername": "LXTgxugCj09nVhV4qT9144R4VMbmmQ35.biR6EufG.wORKERS.dev",
+            "servername": "O2tXj6-CET767e08Uc1oZc6Ahm1MCel8.aLIIaLioO86.Workers.dEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -612,11 +612,11 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidVFzOEt2TEV6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoidDdJMVgzUHBKdlRiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "lxtgxugcj09nvhv4qt9144r4vmbmmq35.bir6eufg.workers.dev"
+                    "Host": "o2txj6-cet767e08uc1ozc6ahm1mcel8.aliialioo86.workers.dev"
                 }
             }
         },
@@ -628,10 +628,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b852829d-982e-41cc-b78f-c834aaa5711d",
+            "uuid": "815cd692-c705-4c92-8452-558ada498bc6",
             "packet-encoding": "",
             "tls": true,
-            "servername": "LXTgxugCj09nVhV4qT9144R4VMbmmQ35.biR6EufG.wORKERS.dev",
+            "servername": "O2tXj6-CET767e08Uc1oZc6Ahm1MCel8.aLIIaLioO86.Workers.dEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -642,11 +642,11 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidVFzOEt2TEV6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoidDdJMVgzUHBKdlRiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "lxtgxugcj09nvhv4qt9144r4vmbmmq35.bir6eufg.workers.dev"
+                    "Host": "o2txj6-cet767e08uc1ozc6ahm1mcel8.aliialioo86.workers.dev"
                 }
             }
         },
