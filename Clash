@@ -5606,8 +5606,8 @@
         {
             "name": "0️⃣9️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.89.52.85",
-            "port": 443,
+            "server": "5.10.214.76",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
