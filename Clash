@@ -713,7 +713,7 @@
         {
             "name": "0️⃣1️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.100",
+            "server": "31.133.0.250",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
