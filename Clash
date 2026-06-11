@@ -5160,7 +5160,61 @@
             }
         },
         {
+            "name": "0️⃣8️⃣9️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "54.38.219.132",
+            "port": 12055,
+            "ip-version": "ipv4",
+            "tfo": true,
+            "udp": false,
+            "uuid": "c2cb25d9-7be6-46c8-9253-b7bfdcbd5483",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "pMU4G0P6PwdYBE0VtDASAVKq4opo8K7j.cAyivOH900.wORKerS.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiZHB0RVQySUVKcjBVUzMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "pmu4g0p6pwdybe0vtdasavkq4opo8k7j.cayivoh900.workers.dev"
+                }
+            }
+        },
+        {
             "name": "0️⃣9️⃣0️⃣ Ⓜ️ehran",
+            "type": "vless",
+            "server": "159.100.9.253",
+            "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": true,
+            "udp": false,
+            "uuid": "bb5aa6e2-2e70-4df8-a035-47d9b02e5b89",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "79hV3PWbZ5pFN9dRJx1a97Y78Ms9yjw3.FOXOdOr164.wOrkErs.dEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiUlFSc29DM1QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "79hv3pwbz5pfn9drjx1a97y78ms9yjw3.foxodor164.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣9️⃣0️⃣ 〽️ehran",
             "type": "vless",
             "server": "159.100.9.253",
             "port": 2053,
@@ -11064,7 +11118,9 @@
                 "0️⃣8️⃣8️⃣ Ⓜ️ehran",
                 "0️⃣8️⃣8️⃣ 〽️ehran",
                 "0️⃣8️⃣9️⃣ Ⓜ️ehran",
+                "0️⃣8️⃣9️⃣ 〽️ehran",
                 "0️⃣9️⃣0️⃣ Ⓜ️ehran",
+                "0️⃣9️⃣0️⃣ 〽️ehran",
                 "0️⃣9️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣9️⃣2️⃣ Ⓜ️ehran",
                 "0️⃣9️⃣3️⃣ Ⓜ️ehran",
@@ -11358,7 +11414,9 @@
                 "0️⃣8️⃣8️⃣ Ⓜ️ehran",
                 "0️⃣8️⃣8️⃣ 〽️ehran",
                 "0️⃣8️⃣9️⃣ Ⓜ️ehran",
+                "0️⃣8️⃣9️⃣ 〽️ehran",
                 "0️⃣9️⃣0️⃣ Ⓜ️ehran",
+                "0️⃣9️⃣0️⃣ 〽️ehran",
                 "0️⃣9️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣9️⃣2️⃣ Ⓜ️ehran",
                 "0️⃣9️⃣3️⃣ Ⓜ️ehran",
