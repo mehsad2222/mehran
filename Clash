@@ -4907,7 +4907,7 @@
         {
             "name": "0️⃣8️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "31.133.0.49",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
@@ -4967,7 +4967,7 @@
         {
             "name": "0️⃣8️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "31.133.0.49",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
@@ -5021,7 +5021,7 @@
         {
             "name": "0️⃣8️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "31.133.0.49",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
@@ -5075,8 +5075,8 @@
         {
             "name": "0️⃣8️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.67.191.64",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -5105,8 +5105,8 @@
         {
             "name": "0️⃣8️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "172.67.191.64",
-            "port": 443,
+            "server": "31.133.0.143",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -5135,8 +5135,8 @@
         {
             "name": "0️⃣8️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "54.38.219.132",
-            "port": 12055,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
@@ -5162,8 +5162,8 @@
         {
             "name": "0️⃣8️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "54.38.219.132",
-            "port": 12055,
+            "server": "31.133.0.143",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
@@ -5189,7 +5189,7 @@
         {
             "name": "0️⃣9️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "159.100.9.253",
+            "server": "31.133.0.70",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
@@ -5216,7 +5216,7 @@
         {
             "name": "0️⃣9️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "159.100.9.253",
+            "server": "31.133.0.143",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
