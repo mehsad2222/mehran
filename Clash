@@ -5687,7 +5687,7 @@
         {
             "name": "0️⃣9️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "91.192.102.55",
+            "server": "5.10.214.183",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -5714,8 +5714,8 @@
         {
             "name": "0️⃣9️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "185.66.164.51",
-            "port": 443,
+            "server": "5.10.214.99",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
