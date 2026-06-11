@@ -4688,7 +4688,7 @@
             "server": "5.61.32.232",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
             "uuid": "37376084-6c00-459b-9aa6-9f42aba07172",
             "packet-encoding": "",
