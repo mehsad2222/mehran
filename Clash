@@ -6353,7 +6353,34 @@
         {
             "name": "1️⃣1️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "31.172.72.83",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "211d6b8d-17fb-4dd2-9abc-95056595fa50",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "04j4YkzN7T-95eiGADljgyz-KrW49q5W.tISeFI3773.wOrKErS.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiVXBjT0g2c00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "04j4ykzn7t-95eigadljgyz-krw49q5w.tisefi3773.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣1️⃣1️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "185.223.93.86",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -6380,7 +6407,34 @@
         {
             "name": "1️⃣1️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "103.45.247.67",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "7a44251f-7a7a-40b5-bf51-b9d7e3397591",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "bDMol42z996eBFRTJLE4kM4I92VQNOfF.XekaVA7313.workers.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiakJEcDVQV2MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "bdmol42z996ebfrtjle4km4i92vqnoff.xekava7313.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣1️⃣2️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "168.100.9.81",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
