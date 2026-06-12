@@ -6743,7 +6743,7 @@
         {
             "name": "1️⃣1️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "88.218.248.195",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -6751,15 +6751,48 @@
             "uuid": "34a398fb-b8be-4758-96a6-6a39d22d0aea",
             "packet-encoding": "",
             "tls": true,
-            "servername": "9bSpXz55yDVsQW-602rwpfUKwbfTwbzI.PaRODa3810.WoRkers.deV",
+            "servername": "9bSpXZ55ydvsqw-602rwPfUKwBfTWBZi.PaROda3810.woRkErS.DEv",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRU9qZG83MW5lIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiM2hJaGRpM21aIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "9bspxz55ydvsqw-602rwpfukwbftwbzi.paroda3810.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣1️⃣8️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "89.19.211.109",
+            "port": 8443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "34a398fb-b8be-4758-96a6-6a39d22d0aea",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "9bSpXZ55ydvsqw-602rwPfUKwBfTWBZi.PaROda3810.woRkErS.DEv",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "ech-opts": {
+                "enable": true
+            },
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiM2hJaGRpM21aIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
@@ -11980,7 +12013,9 @@
                 "1️⃣1️⃣7️⃣ Ⓜ️ehran",
                 "1️⃣1️⃣7️⃣ 〽️ehran",
                 "1️⃣1️⃣8️⃣ Ⓜ️ehran",
+                "1️⃣1️⃣8️⃣ 〽️ehran",
                 "1️⃣1️⃣9️⃣ Ⓜ️ehran",
+                "1️⃣1️⃣9️⃣ 〽️ehran",
                 "1️⃣2️⃣0️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣1️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣2️⃣ Ⓜ️ehran",
@@ -12303,7 +12338,9 @@
                 "1️⃣1️⃣7️⃣ Ⓜ️ehran",
                 "1️⃣1️⃣7️⃣ 〽️ehran",
                 "1️⃣1️⃣8️⃣ Ⓜ️ehran",
+                "1️⃣1️⃣8️⃣ 〽️ehran",
                 "1️⃣1️⃣9️⃣ Ⓜ️ehran",
+                "1️⃣1️⃣9️⃣ 〽️ehran",
                 "1️⃣2️⃣0️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣1️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣2️⃣ Ⓜ️ehran",
