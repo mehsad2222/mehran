@@ -8460,6 +8460,33 @@
             }
         },
         {
+            "name": "1️⃣4️⃣7️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "31.133.0.135",
+            "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "f2c62fac-d797-4bcd-8e4a-3a806167bdf4",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Hi77OA2yUreG34mUJ1JH5t0oh69RY14w.mDJbdkBDKB767.WoRKeRS.DEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiVXBuYktIR0tENyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "hi77oa2yureg34muj1jh5t0oh69ry14w.mdjbdkbdkb767.workers.dev"
+                }
+            }
+        },
+        {
             "name": "1️⃣4️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "18.184.55.249",
@@ -8491,6 +8518,33 @@
             "type": "vless",
             "server": "18.184.55.249",
             "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "463e586d-ce4a-42fd-b3db-ae55dd71f6f3",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "GHkVMWm431s5A2I5NNQAA29nBwvFI1rX.43gGYcgtcTrDV.WorKeRS.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiSDVWbE84RFJxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "ghkvmwm431s5a2i5nnqaa29nbwvfi1rx.43ggycgtctrdv.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣4️⃣9️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
