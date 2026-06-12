@@ -8375,27 +8375,60 @@
         {
             "name": "1️⃣4️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
-            "port": 443,
+            "server": "31.133.0.124",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": false,
+            "tfo": true,
             "udp": false,
-            "uuid": "193ac99e-9912-4b0c-974f-4b534361390a",
+            "uuid": "1634894b-ed5f-4d70-87bb-43a5e0b4bc11",
             "packet-encoding": "",
             "tls": true,
-            "servername": "oIgc7X9cv1h-vq1I8xu0v4jUd77D4s6w.TaroMA7500.WorkeRS.dev",
-            "client-fingerprint": "random",
+            "servername": "6G41eb17sT1Zke7c22LhxNwf3277diTs.OEH38Hd.WORkeRs.dev",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiam42SU5jd3NjaGkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiV0xPMkNzRDJ3Y3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "oigc7x9cv1h-vq1i8xu0v4jud77d4s6w.taroma7500.workers.dev"
+                    "Host": "6g41eb17st1zke7c22lhxnwf3277dits.oeh38hd.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣4️⃣6️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "77.221.143.81",
+            "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": true,
+            "udp": false,
+            "uuid": "1634894b-ed5f-4d70-87bb-43a5e0b4bc11",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "6G41eb17sT1Zke7c22LhxNwf3277diTs.OEH38Hd.WORkeRs.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "ech-opts": {
+                "enable": true
+            },
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiV0xPMkNzRDJ3Y3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "6g41eb17st1zke7c22lhxnwf3277dits.oeh38hd.workers.dev"
                 }
             }
         },
