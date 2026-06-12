@@ -7372,28 +7372,27 @@
             "server": "88.218.77.42",
             "port": 8443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "9ed4955f-0cfb-44ac-8ecb-dc1e3d6a6342",
+            "uuid": "2e71c5dd-f5b5-471a-a405-f3b9fb5fb63e",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vuNqUgLyIRjU7xNxqVi8SpP9gYnly0lw.jElId62884.WoRkeRS.DEV",
-            "client-fingerprint": "random",
+            "servername": "rfjh-5b8WnCJQGcp5LVH2t8etLsQM4PI.jEI38VsE7.WoRKeRS.dEv",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "ech-opts": {
-                "enable": true,
-                "config": "AEX+DQBBEwAgACBvEEBk0ZZ3qyQxzbf5zP3J+LzBCGd8GYA450q7GbR2FgAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA="
+                "enable": true
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZ3p1UENEcDRBeXg3dGh6VSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiNXlXVVZxR1ZtREN4SEgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vunquglyirju7xnxqvi8spp9gynly0lw.jelid62884.workers.dev"
+                    "Host": "rfjh-5b8wncjqgcp5lvh2t8etlsqm4pi.jei38vse7.workers.dev"
                 }
             }
         },
@@ -7403,28 +7402,27 @@
             "server": "185.234.66.91",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "9ed4955f-0cfb-44ac-8ecb-dc1e3d6a6342",
+            "uuid": "2e71c5dd-f5b5-471a-a405-f3b9fb5fb63e",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vuNqUgLyIRjU7xNxqVi8SpP9gYnly0lw.jElId62884.WoRkeRS.DEV",
-            "client-fingerprint": "random",
+            "servername": "rfjh-5b8WnCJQGcp5LVH2t8etLsQM4PI.jEI38VsE7.WoRKeRS.dEv",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "ech-opts": {
-                "enable": true,
-                "config": "AEX+DQBBEwAgACBvEEBk0ZZ3qyQxzbf5zP3J+LzBCGd8GYA450q7GbR2FgAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA="
+                "enable": true
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZ3p1UENEcDRBeXg3dGh6VSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiNXlXVVZxR1ZtREN4SEgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "vunquglyirju7xnxqvi8spp9gynly0lw.jelid62884.workers.dev"
+                    "Host": "rfjh-5b8wncjqgcp5lvh2t8etlsqm4pi.jei38vse7.workers.dev"
                 }
             }
         },
