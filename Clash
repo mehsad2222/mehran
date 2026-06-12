@@ -7007,7 +7007,7 @@
         {
             "name": "1️⃣2️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "47.88.15.127",
+            "server": "45.147.199.13",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -7037,8 +7037,35 @@
         {
             "name": "1️⃣2️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "141.147.10.210",
-            "port": 8881,
+            "server": "193.160.96.232",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": true,
+            "udp": false,
+            "uuid": "36103def-4dc9-439e-9a2f-99f25e71dc6e",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "Zz33cZfu3IxS9cLdZ34R712D4mwYCbsU.vASivix435.wOrKERs.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoicWdXRVNnTklTbDkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "zz33czfu3ixs9cldz34r712d4mwycbsu.vasivix435.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣2️⃣3️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "5.180.182.128",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
@@ -12116,6 +12143,7 @@
                 "1️⃣2️⃣2️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣2️⃣ 〽️ehran",
                 "1️⃣2️⃣3️⃣ Ⓜ️ehran",
+                "1️⃣2️⃣3️⃣ 〽️ehran",
                 "1️⃣2️⃣4️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣5️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣6️⃣ Ⓜ️ehran",
@@ -12444,6 +12472,7 @@
                 "1️⃣2️⃣2️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣2️⃣ 〽️ehran",
                 "1️⃣2️⃣3️⃣ Ⓜ️ehran",
+                "1️⃣2️⃣3️⃣ 〽️ehran",
                 "1️⃣2️⃣4️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣5️⃣ Ⓜ️ehran",
                 "1️⃣2️⃣6️⃣ Ⓜ️ehran",
