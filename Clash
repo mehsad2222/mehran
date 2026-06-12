@@ -8021,8 +8021,8 @@
         {
             "name": "1️⃣4️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.172.71.51",
-            "port": 444,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
