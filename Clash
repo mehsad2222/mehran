@@ -8742,10 +8742,64 @@
             }
         },
         {
+            "name": "1️⃣5️⃣2️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "91.149.253.249",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "b8e1c3c3-72f0-4b67-bdfd-7c2041909bf8",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "97VQi2LDegg-5z-Q82OojUHGC9xGty84.HdI48BCiei.WoRkers.dEV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiTTlTZDVQc0VPcDNjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "97vqi2ldegg-5z-q82oojuhgc9xgty84.hdi48bciei.workers.dev"
+                }
+            }
+        },
+        {
             "name": "1️⃣5️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "31.133.0.135",
             "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "a2483cba-878a-43ef-ae73-665fab3811b2",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "62401rhyJGde3w67ZHFBPI4M0rE4dkk8.pd0Ue8BdL.WOrkErS.DeV",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/eyJqdW5rIjoiTVVaNnVRak9kQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "max-early-data": 2560,
+                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "headers": {
+                    "Host": "62401rhyjgde3w67zhfbpi4m0re4dkk8.pd0ue8bdl.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣5️⃣3️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "77.83.246.133",
+            "port": 24443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
