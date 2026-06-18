@@ -685,7 +685,7 @@
             "uuid": "7dc5ff9c-1edc-4151-8cd6-f4281737ca53",
             "packet-encoding": "",
             "tls": true,
-            "servername": "O-7NI5Ob5zM1s2jl19hl1S1n8GJBJkrv.iD838dh3.WorKers.DEv",
+            "servername": "O-7ni5Ob5zM1s2JL19hl1s1N8gjBJKRV.Id838dH3.wOrkERs.DeV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -696,7 +696,7 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOUtxaXFtdnd3MXAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoib0RPZHFyRGYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
@@ -707,7 +707,7 @@
         {
             "name": "0️⃣1️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.10.214.41",
+            "server": "104.21.70.230",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
@@ -715,7 +715,7 @@
             "uuid": "7dc5ff9c-1edc-4151-8cd6-f4281737ca53",
             "packet-encoding": "",
             "tls": true,
-            "servername": "O-7NI5Ob5zM1s2jl19hl1S1n8GJBJkrv.iD838dh3.WorKers.DEv",
+            "servername": "O-7ni5Ob5zM1s2JL19hl1s1N8gjBJKRV.Id838dH3.wOrkERs.DeV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -726,7 +726,7 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOUtxaXFtdnd3MXAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoib0RPZHFyRGYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
