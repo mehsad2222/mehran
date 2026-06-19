@@ -11663,27 +11663,30 @@
         {
             "name": "2️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
-            "server": "94.242.53.158",
+            "server": "90.156.211.232",
             "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "32ede4cf-5d42-4f14-97f5-c8714048f4ed",
+            "uuid": "daa71d5a-03de-4b36-8652-e0aa0bc80931",
             "packet-encoding": "",
             "tls": true,
-            "servername": "4O1tAS1Ic9f5YHN7u5QadQJ4z0bC82g5.ZIZIdBidv32.woRkERS.dEV",
+            "servername": "OZ7JPwOAL4iu-Srt5x0x19k9jKGOP7Cs.ieJ48BD8.worKErS.Dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
+            "ech-opts": {
+                "enable": true
+            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQWI3ZDJWQWY5cmxKV0lvayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiSUdkN2E0VzB1ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
+                    "Host": "oz7jpwoal4iu-srt5x0x19k9jkgop7cs.iej48bd8.workers.dev"
                 }
             }
         },
@@ -12317,6 +12320,7 @@
             "type": "url-test",
             "proxies": [
                 "2️⃣0️⃣1️⃣ ♏️ehran",
+                "2️⃣0️⃣2️⃣ ♏️ehran",
                 "0️⃣0️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣0️⃣1️⃣ 〽️ehran",
                 "0️⃣0️⃣2️⃣ Ⓜ️ehran",
