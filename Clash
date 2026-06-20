@@ -460,8 +460,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiZUttRGY5cWlBQTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "blue-band-d2bd.mefidej310.workers.dev"
                 }
@@ -487,8 +485,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiWm11ZzhwNE5CbDUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "blue-band-d2bd.mefidej310.workers.dev"
                 }
