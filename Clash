@@ -447,7 +447,7 @@
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
-            "udp": false,
+            "udp": true,
             "uuid": "b55d655a-702a-93d3-b6d2-c10093bd5255",
             "packet-encoding": "",
             "tls": true,
@@ -456,9 +456,6 @@
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
-            ],
-            "ech-opts": {
-                "enable": true
             },
             "network": "ws",
             "ws-opts": {
@@ -477,7 +474,7 @@
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
-            "udp": false,
+            "udp": true,
             "uuid": "b55d655a-702a-93d3-b6d2-c10093bd5255",
             "packet-encoding": "",
             "tls": true,
@@ -486,9 +483,6 @@
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
-            ],
-            "ech-opts": {
-                "enable": true
             },
             "network": "ws",
             "ws-opts": {
