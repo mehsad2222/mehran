@@ -443,8 +443,8 @@
         {
             "name": "0️⃣0️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "blue-band-d2bd.mefidej310.workers.dev",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": true,
@@ -459,7 +459,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/irobslsi",
+                "path": "/eyJqdW5rIjoiZUttRGY5cWlBQTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
