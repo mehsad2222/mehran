@@ -30,11 +30,6 @@
         "use-system-hosts": false,
         "listen": "127.0.0.1:1053",
         "ipv6": false,
-        "hosts": {
-            "rule-set:malware": "rcode://refused",
-            "rule-set:phishing": "rcode://refused",
-            "rule-set:cryptominers": "rcode://refused"
-        },
         "nameserver": [
             "https://8.8.8.8/dns-query#✅ Selector"
         ],
@@ -45,9 +40,6 @@
             "8.8.8.8#DIRECT"
         ],
         "direct-nameserver-follow-policy": true,
-        "nameserver-policy": {
-            "rule-set:ir": "8.8.8.8#DIRECT"
-        },
         "enhanced-mode": "fake-ip",
         "fake-ip-range": "198.18.0.1/16",
         "fake-ip-filter-mode": "blacklist",
@@ -115,9 +107,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiaERJMHNvTXRITHQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
@@ -139,18 +128,15 @@
             "uuid": "9870648b-e730-4154-920c-e1b6398f1dd4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "E83X1ts74417UvLJ4M4hRO3EFaMDP16a.ZCZcd43.WoRKers.dEV",
+            "servername": "E83x1ts74417UVlj4M4hRO3eFamDP16A.zcZcd43.wOrkeRS.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicWU5ZFpVeU5zTDc5OGQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoiZ0ZoTzNCZVduc2lRZVBGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
@@ -169,18 +155,15 @@
             "uuid": "9870648b-e730-4154-920c-e1b6398f1dd4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "e83X1Ts74417uvlJ4m4HRO3eFAMDp16a.ZcZCd43.WorkErS.dev",
+            "servername": "e83x1Ts74417UvlJ4M4hRO3eFamDp16a.zcZcd43.WorKErs.DEV",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTmxUMk1mY000WWsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/eyJqdW5rIjoibDFUaXlRVG8xYktVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
@@ -199,18 +182,15 @@
             "uuid": "9870648b-e730-4154-920c-e1b6398f1dd4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "e83X1tS74417UVlJ4M4HRO3Efamdp16a.ZcZCD43.wOrkERS.dEv",
+            "servername": "E83X1ts74417uVLJ4M4hRo3efAMdP16a.ZCzcD43.woRkErS.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUFZrR0kyaDFoSFR4WWd5dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiSEhVdXpQUENvRnUySlhqZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
@@ -245,74 +225,9 @@
             "tolerance": 50
         }
     ],
-    "rule-providers": {
-        "malware": {
-            "type": "http",
-            "format": "text",
-            "behavior": "domain",
-            "path": "./ruleset/malware.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt"
-        },
-        "malware-cidr": {
-            "type": "http",
-            "format": "text",
-            "behavior": "ipcidr",
-            "path": "./ruleset/malware-cidr.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware-ip.txt"
-        },
-        "phishing": {
-            "type": "http",
-            "format": "text",
-            "behavior": "domain",
-            "path": "./ruleset/phishing.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt"
-        },
-        "phishing-cidr": {
-            "type": "http",
-            "format": "text",
-            "behavior": "ipcidr",
-            "path": "./ruleset/phishing-cidr.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing-ip.txt"
-        },
-        "cryptominers": {
-            "type": "http",
-            "format": "text",
-            "behavior": "domain",
-            "path": "./ruleset/cryptominers.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt"
-        },
-        "ir": {
-            "type": "http",
-            "format": "text",
-            "behavior": "domain",
-            "path": "./ruleset/ir.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt"
-        },
-        "ir-cidr": {
-            "type": "http",
-            "format": "text",
-            "behavior": "ipcidr",
-            "path": "./ruleset/ir-cidr.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt"
-        }
-    },
     "rules": [
         "GEOIP,lan,DIRECT,no-resolve",
         "NETWORK,udp,REJECT",
-        "RULE-SET,malware,REJECT",
-        "RULE-SET,phishing,REJECT",
-        "RULE-SET,cryptominers,REJECT",
-        "RULE-SET,malware-cidr,REJECT",
-        "RULE-SET,phishing-cidr,REJECT",
-        "RULE-SET,ir,DIRECT",
-        "RULE-SET,ir-cidr,DIRECT",
         "MATCH,✅ Selector"
     ],
     "ntp": {
