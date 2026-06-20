@@ -85,7 +85,9 @@
                 }
             },
             "udp": true,
-            "tfo": true
+            "tfo": true,
+            "ip-version": "ipv4",
+            "alpn": ["http/1.1"]
         }
     ],
     "proxy-groups": [
