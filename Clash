@@ -455,8 +455,8 @@
         {
             "name": "0️⃣0️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "blue-band-d2bd.mefidej310.workers.dev",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": true,
@@ -483,7 +483,7 @@
         {
             "name": "0️⃣0️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "199.181.197.1",
+            "server": "5.10.214.195",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
