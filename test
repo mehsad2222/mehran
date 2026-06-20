@@ -13,9 +13,7 @@
     "geo-update-interval": 168,
     "external-controller": "127.0.0.1:9090",
     "external-controller-cors": {
-        "allow-origins": [
-            "*"
-        ],
+        "allow-origins": ["*"],
         "allow-private-network": true
     },
     "external-ui": "ui",
@@ -30,8 +28,18 @@
         "use-system-hosts": false,
         "listen": "127.0.0.1:1053",
         "ipv6": false,
+        "enhanced-mode": "fake-ip",
+        "fake-ip-range": "198.18.0.1/16",
+        "fake-ip-filter-mode": "blacklist",
+        "fake-ip-filter": [
+            "+.lan",
+            "+.local",
+            "dns.msftnsci.com",
+            "www.msftnsci.com",
+            "www.msftconnecttest.com"
+        ],
         "nameserver": [
-            "https://8.8.8.8/dns-query#✅ Selector"
+            "https://8.8.8.8/dns-query"
         ],
         "proxy-server-nameserver": [
             "8.8.8.8#DIRECT"
@@ -39,164 +47,45 @@
         "direct-nameserver": [
             "8.8.8.8#DIRECT"
         ],
-        "direct-nameserver-follow-policy": true,
-        "enhanced-mode": "fake-ip",
-        "fake-ip-range": "198.18.0.1/16",
-        "fake-ip-filter-mode": "blacklist",
-        "fake-ip-filter": [
-            "+.lan",
-            "+.local"
-        ]
+        "direct-nameserver-follow-policy": true
     },
     "tun": {
-        "enable": true,
-        "stack": "mixed",
-        "auto-route": true,
-        "strict-route": true,
-        "auto-detect-interface": true,
-        "dns-hijack": [
-            "any:53",
-            "tcp://any:53"
-        ],
-        "mtu": 9000
+        "enable": false
     },
     "sniffer": {
         "enable": true,
         "force-dns-mapping": true,
         "parse-pure-ip": true,
-        "override-destination": true,
+        "override-destination": false,
         "sniff": {
             "HTTP": {
-                "ports": [
-                    80,
-                    8080,
-                    8880,
-                    2052,
-                    2082,
-                    2086,
-                    2095
-                ]
+                "ports": [80, 8080, 8880, 2052, 2082, 2086, 2095]
             },
             "TLS": {
-                "ports": [
-                    443,
-                    8443,
-                    2053,
-                    2083,
-                    2087,
-                    2096
-                ]
+                "ports": [443, 8443, 2053, 2083, 2087, 2096]
             }
         }
     },
     "proxies": [
         {
-            "name": "💦 1 - VLESS - Domain : 443",
+            "name": "V-Core-443-Flclash",
             "type": "vless",
             "server": "blue-band-d2bd.mefidej310.workers.dev",
             "port": 443,
-            "ip-version": "ipv4",
-            "tfo": true,
-            "udp": false,
             "uuid": "b55d655a-702a-93d3-b6d2-c10093bd5255",
-            "packet-encoding": "",
             "tls": true,
             "servername": "blue-band-d2bd.mefidej310.workers.dev",
-            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
+            "client-fingerprint": "chrome",
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaERJMHNvTXRITHQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/eyJqdW5rIjoiZUttRGY5cWlBQTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
                     "Host": "blue-band-d2bd.mefidej310.workers.dev"
                 }
-            }
-        },
-        {
-            "name": "💦 2 - VLESS - Domain : 443",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "port": 443,
-            "ip-version": "ipv4",
-            "tfo": true,
-            "udp": false,
-            "uuid": "9870648b-e730-4154-920c-e1b6398f1dd4",
-            "packet-encoding": "",
-            "tls": true,
-            "servername": "E83x1ts74417UVlj4M4hRO3eFamDP16A.zcZcd43.wOrkeRS.dev",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
-            "network": "ws",
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiZ0ZoTzNCZVduc2lRZVBGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
-                "headers": {
-                    "Host": "e83x1ts74417uvlj4m4hro3efamdp16a.zczcd43.workers.dev"
-                }
-            }
-        },
-        {
-            "name": "💦 3 - VLESS - IPv4 : 443",
-            "type": "vless",
-            "server": "188.114.96.7",
-            "port": 443,
-            "ip-version": "ipv4",
-            "tfo": true,
-            "udp": false,
-            "uuid": "9870648b-e730-4154-920c-e1b6398f1dd4",
-            "packet-encoding": "",
-            "tls": true,
-            "servername": "e83x1Ts74417UvlJ4M4hRO3eFamDp16a.zcZcd43.WorKErs.DEV",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
-            "network": "ws",
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoibDFUaXlRVG8xYktVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
-                "headers": {
-                    "Host": "e83x1ts74417uvlj4m4hro3efamdp16a.zczcd43.workers.dev"
-                }
-            }
-        },
-        {
-            "name": "💦 4 - VLESS - IPv4 : 443",
-            "type": "vless",
-            "server": "188.114.97.7",
-            "port": 443,
-            "ip-version": "ipv4",
-            "tfo": true,
-            "udp": false,
-            "uuid": "9870648b-e730-4154-920c-e1b6398f1dd4",
-            "packet-encoding": "",
-            "tls": true,
-            "servername": "E83X1ts74417uVLJ4M4hRo3efAMdP16a.ZCzcD43.woRkErS.dev",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
-            "network": "ws",
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiSEhVdXpQUENvRnUySlhqZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
-                "headers": {
-                    "Host": "e83x1ts74417uvlj4m4hro3efamdp16a.zczcd43.workers.dev"
-                }
-            }
+            },
+            "udp": true,
+            "tfo": true
         }
     ],
     "proxy-groups": [
@@ -205,20 +94,14 @@
             "type": "select",
             "proxies": [
                 "💦 Best Ping 🚀",
-                "💦 1 - VLESS - Domain : 443",
-                "💦 2 - VLESS - Domain : 443",
-                "💦 3 - VLESS - IPv4 : 443",
-                "💦 4 - VLESS - IPv4 : 443"
+                "V-Core-443-Flclash"
             ]
         },
         {
             "name": "💦 Best Ping 🚀",
             "type": "url-test",
             "proxies": [
-                "💦 1 - VLESS - Domain : 443",
-                "💦 2 - VLESS - Domain : 443",
-                "💦 3 - VLESS - IPv4 : 443",
-                "💦 4 - VLESS - IPv4 : 443"
+                "V-Core-443-Flclash"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interval": 30,
@@ -227,7 +110,6 @@
     ],
     "rules": [
         "GEOIP,lan,DIRECT,no-resolve",
-        "NETWORK,udp,REJECT",
         "MATCH,✅ Selector"
     ],
     "ntp": {
