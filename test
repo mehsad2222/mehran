@@ -101,15 +101,15 @@
         {
             "name": "💦 1 - VLESS - Domain : 443",
             "type": "vless",
-            "server": "e83x1ts74417uvlj4m4hro3efamdp16a.zczcd43.workers.dev",
+            "server": "blue-band-d2bd.mefidej310.workers.dev",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "9870648b-e730-4154-920c-e1b6398f1dd4",
+            "uuid": "b55d655a-702a-93d3-b6d2-c10093bd5255",
             "packet-encoding": "",
             "tls": true,
-            "servername": "e83X1Ts74417Uvlj4M4HRo3eFaMDp16a.ZczcD43.WOrKeRS.deV",
+            "servername": "blue-band-d2bd.mefidej310.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -120,11 +120,11 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZUhXVVY2MDhEVnpLcGJ1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/eyJqdW5rIjoiaERJMHNvTXRITHQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
-                    "Host": "e83x1ts74417uvlj4m4hro3efamdp16a.zczcd43.workers.dev"
+                    "Host": "blue-band-d2bd.mefidej310.workers.dev"
                 }
             }
         },
