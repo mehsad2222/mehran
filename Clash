@@ -11546,10 +11546,10 @@
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "dd67eae8-3667-473c-9bb6-be4f69e1d69f",
+            "uuid": "4255ee03-de72-1ab4-8419-d189ea4d513e",
             "packet-encoding": "",
             "tls": true,
-            "servername": "9EzfxMrHlsKTzuW3hw6rd7ny5bgMn2Ae.uDI27vD.workERS.dev",
+            "servername": "quiet-dawn-2227.sobe8bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -11560,11 +11560,9 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoieG8ySG13V09RdjlVcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/eyJqdW5rIjoiTmhDZGJITEtqR2giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "9ezfxmrhlsktzuw3hw6rd7ny5bgmn2ae.udi27vd.workers.dev"
+                    "Host": "quiet-dawn-2227.sobe8bs.workers.dev"
                 }
             }
         },
@@ -11576,10 +11574,10 @@
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "dd67eae8-3667-473c-9bb6-be4f69e1d69f",
+            "uuid": "4255ee03-de72-1ab4-8419-d189ea4d513e",
             "packet-encoding": "",
             "tls": true,
-            "servername": "9EzfxMrHlsKTzuW3hw6rd7ny5bgMn2Ae.uDI27vD.workERS.dev",
+            "servername": "quiet-dawn-2227.sobe8bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -11590,11 +11588,9 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoieG8ySG13V09RdjlVcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/eyJqdW5rIjoiTmhDZGJITEtqR2giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "9ezfxmrhlsktzuw3hw6rd7ny5bgmn2ae.udi27vd.workers.dev"
+                    "Host": "quiet-dawn-2227.sobe8bs.workers.dev"
                 }
             }
         },
