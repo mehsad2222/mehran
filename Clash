@@ -11484,12 +11484,12 @@
             "server": "31.133.0.70",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": false,
+            "tfo": true,
             "udp": false,
-            "uuid": "14c6966c-a9b7-4652-bb31-47ab0a7c5d76",
+            "uuid": "f23baa55-af82-99c4-ebca-c00a5477cd2a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "8fyanNyLTERDHdOsVdRupnl-7a2xd2O4.sObe8bs.wOrKERs.dev",
+            "servername": "curly-sunset-019a.jriv38bdi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -11500,26 +11500,24 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUDRWTEJGWjhodGV1dFNrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/eyJqdW5rIjoiM0Jua2pSblphd2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "8fyannylterdhdosvdrupnl-7a2xd2o4.sobe8bs.workers.dev"
+                    "Host": "curly-sunset-019a.jriv38bdi.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣9️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "172.67.158.91",
-            "port": 443,
+            "server": "31.133.0.49",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": false,
+            "tfo": true,
             "udp": false,
-            "uuid": "14c6966c-a9b7-4652-bb31-47ab0a7c5d76",
+            "uuid": "f23baa55-af82-99c4-ebca-c00a5477cd2a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "8fyanNyLTERDHdOsVdRupnl-7a2xd2O4.sObe8bs.wOrKERs.dev",
+            "servername": "curly-sunset-019a.jriv38bdi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -11530,11 +11528,9 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUDRWTEJGWjhodGV1dFNrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/eyJqdW5rIjoiM0Jua2pSblphd2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "8fyannylterdhdosvdrupnl-7a2xd2o4.sobe8bs.workers.dev"
+                    "Host": "curly-sunset-019a.jriv38bdi.workers.dev"
                 }
             }
         },
