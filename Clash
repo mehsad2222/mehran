@@ -636,10 +636,10 @@
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "815cd692-c705-4c92-8452-558ada498bc6",
+            "uuid": "2241a0f8-94e2-3044-e9b8-9b8cbdde3947",
             "packet-encoding": "",
             "tls": true,
-            "servername": "O2tXj6-CET767e08Uc1oZc6Ahm1MCel8.aLIIaLioO86.Workers.dEv",
+            "servername": "rough-frog-64d5.jeive8bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -650,26 +650,24 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidDdJMVgzUHBKdlRiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/eyJqdW5rIjoiaGtiTlJxd2tkTzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "o2txj6-cet767e08uc1ozc6ahm1mcel8.aliialioo86.workers.dev"
+                    "Host": "rough-frog-64d5.jeive8bs.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣1️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "88.218.76.170",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "815cd692-c705-4c92-8452-558ada498bc6",
+            "uuid": "2241a0f8-94e2-3044-e9b8-9b8cbdde3947",
             "packet-encoding": "",
             "tls": true,
-            "servername": "O2tXj6-CET767e08Uc1oZc6Ahm1MCel8.aLIIaLioO86.Workers.dEv",
+            "servername": "rough-frog-64d5.jeive8bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -680,11 +678,9 @@
             },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidDdJMVgzUHBKdlRiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/eyJqdW5rIjoiaGtiTlJxd2tkTzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
                 "headers": {
-                    "Host": "o2txj6-cet767e08uc1ozc6ahm1mcel8.aliialioo86.workers.dev"
+                    "Host": "rough-frog-64d5.jeive8bs.workers.dev"
                 }
             }
         },
