@@ -1047,8 +1047,8 @@
         {
             "name": "0️⃣1️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.27.249",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
@@ -1077,8 +1077,8 @@
         {
             "name": "0️⃣1️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "82.64.152.55",
-            "port": 20304,
+            "server": "31.133.0.55",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
