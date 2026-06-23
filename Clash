@@ -215,8 +215,8 @@
         {
             "name": "0️⃣0️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.67.185.114",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
