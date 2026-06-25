@@ -2195,15 +2195,15 @@
         {
             "name": "0️⃣4️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.66.1.207",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ad65a44e-da3c-4fe9-8bd7-514977add57a",
+            "uuid": "28f72f6b-b656-45dd-84fe-3b6723585818",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
+            "servername": "nova-pearl-spark-ecc7.jud7ibit.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2213,37 +2213,32 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
+                    "Host": "nova-pearl-spark-ecc7.jud7ibit.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣4️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "87.120.237.36",
-            "port": 81,
+            "server": "104.17.110.202",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b9dd89d8-02d8-44ae-883a-852a920dabba",
+            "uuid": "28f72f6b-b656-45dd-84fe-3b6723585818",
             "packet-encoding": "",
             "tls": true,
-            "servername": "1gPlhwSdkM6sKwp96wXvq1h2puhwdPPO.HDig38dB.WOrKErs.dEV",
+            "servername": "nova-pearl-spark-ecc7.jud7ibit.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSklqRGFtSWsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "1gplhwsdkm6skwp96wxvq1h2puhwdppo.hdig38db.workers.dev"
+                    "Host": "nova-pearl-spark-ecc7.jud7ibit.workers.dev"
                 }
             }
         },
