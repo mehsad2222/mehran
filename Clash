@@ -1895,15 +1895,15 @@
         {
             "name": "0️⃣3️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.16.145.177",
-            "port": 2096,
+            "server": "104.17.217.104",
+            "port": 2087,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4d9ccac5-b6ee-4727-8437-47cd914988e3",
+            "uuid": "45b256a5-35e6-4289-8292-33e0209ff649",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-spark-755c.ue839v.workers.dev",
+            "servername": "nova-orbit-bridge-ce82.dji39ve.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1913,22 +1913,22 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-sunny-spark-755c.ue839v.workers.dev"
+                    "Host": "nova-orbit-bridge-ce82.dji39ve.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣3️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.16.145.177",
-            "port": 2096,
+            "server": "104.16.243.225",
+            "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4d9ccac5-b6ee-4727-8437-47cd914988e3",
+            "uuid": "45b256a5-35e6-4289-8292-33e0209ff649",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-spark-755c.ue839v.workers.dev",
+            "servername": "nova-orbit-bridge-ce82.dji39ve.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1938,7 +1938,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-sunny-spark-755c.ue839v.workers.dev"
+                    "Host": "nova-orbit-bridge-ce82.dji39ve.workers.dev"
                 }
             }
         },
