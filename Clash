@@ -2700,10 +2700,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65bfa2e1-5ab1-4abf-8ffa-de01794a27f7",
+            "uuid": "f7033d0d-3f65-4b4d-860e-bb1d8b84fe85",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-portal-0c0c.ueibdi27.workers.dev",
+            "servername": "nova-crystal-garden-85df.diu38bdie.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2713,7 +2713,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
+                    "Host": "nova-crystal-garden-85df.diu38bdie.workers.dev"
                 }
             }
         },
@@ -2725,25 +2725,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "d6f2800f-e3b5-44cb-9ae0-c60a5fb38cc3",
+            "uuid": "f7033d0d-3f65-4b4d-860e-bb1d8b84fe85",
             "packet-encoding": "",
             "tls": true,
-            "servername": "1k92F44Hm2Nku5oDNEJXwdyWnfA2x4HX.DIU38bDiE.wOrKERS.deV",
+            "servername": "nova-crystal-garden-85df.diu38bdie.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoienZwNVNXelA0OFQwVGdWVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "1k92f44hm2nku5odnejxwdywnfa2x4hx.diu38bdie.workers.dev"
+                    "Host": "nova-crystal-garden-85df.diu38bdie.workers.dev"
                 }
             }
         },
