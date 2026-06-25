@@ -2395,15 +2395,15 @@
         {
             "name": "0️⃣4️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.66.1.207",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ad65a44e-da3c-4fe9-8bd7-514977add57a",
+            "uuid": "d3387191-767f-4bc3-8f34-6f00aa4e31d4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
+            "servername": "nova-comet-vault-fa40.ieobxkp7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2413,22 +2413,22 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
+                    "Host": "nova-comet-vault-fa40.ieobxkp7.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣4️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "103.45.247.67",
-            "port": 443,
+            "server": "62.84.102.169",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "9f20d217-c9c3-42a7-bff3-e83a6cd5c959",
+            "uuid": "d3387191-767f-4bc3-8f34-6f00aa4e31d4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "87Cb1CJ-nX8MUR20nko7e5nU9EgSVB2d.latiTa5215.WoRKerS.Dev",
+            "servername": "nova-comet-vault-fa40.ieobxkp7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2436,11 +2436,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicnExYThDVFYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "87cb1cj-nx8mur20nko7e5nu9egsvb2d.latita5215.workers.dev"
+                    "Host": "nova-comet-vault-fa40.ieobxkp7.workers.dev"
                 }
             }
         },
