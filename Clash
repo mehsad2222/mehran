@@ -109,14 +109,9 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiU25rVDQxN1EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "be83u9i4vdwszx7c7tnl4t6jkwmof19m.yejab33178.workers.dev"
                 }
@@ -139,14 +134,9 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiU25rVDQxN1EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "be83u9i4vdwszx7c7tnl4t6jkwmof19m.yejab33178.workers.dev"
                 }
@@ -172,8 +162,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiQWI3ZDJWQWY5cmxKV0lvayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
                 }
@@ -199,8 +187,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiQWI3ZDJWQWY5cmxKV0lvayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
                 }
