@@ -2495,15 +2495,15 @@
         {
             "name": "0️⃣4️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.66.1.207",
+            "server": "94.103.95.115",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ad65a44e-da3c-4fe9-8bd7-514977add57a",
+            "uuid": "23a1b09f-165b-437f-84af-0ecf0c59c921",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
+            "servername": "nova-sunny-wave-b2da.udp29vd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2513,22 +2513,22 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
+                    "Host": "nova-sunny-wave-b2da.udp29vd.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣4️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "81.91.214.85",
-            "port": 443,
+            "server": "104.16.154.0",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "01189e83-6ac0-43ca-8cc0-4bd17178efec",
+            "uuid": "23a1b09f-165b-437f-84af-0ecf0c59c921",
             "packet-encoding": "",
             "tls": true,
-            "servername": "i4y2ikEyCfnUjoxida-GurvjjKX2h1-6.MEgOT23202.wORKers.DEv",
+            "servername": "nova-sunny-wave-b2da.udp29vd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2536,11 +2536,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN3lWd2czNHJVa3lXMU1vWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "i4y2ikeycfnujoxida-gurvjjkx2h1-6.megot23202.workers.dev"
+                    "Host": "nova-sunny-wave-b2da.udp29vd.workers.dev"
                 }
             }
         },
