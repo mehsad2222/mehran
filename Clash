@@ -1696,37 +1696,7 @@
         {
             "name": "0️⃣3️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
-            "ip-version": "ipv4",
-            "tfo": false,
-            "udp": false,
-            "uuid": "0bbc5924-da96-4a7b-b99d-00ab5ff06fa4",
-            "packet-encoding": "",
-            "tls": true,
-            "servername": "fMTWcad1J9k3QB8kS8S13ls3Q4wMCIDG.idi3739GS.WOrkers.dev",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
-            "ech-opts": {
-                "enable": true
-            },
-            "network": "ws",
-            "ws-opts": {
-                "path": "/eyJqdW5rIjoiaVBqelE0UHFEUllhUkJwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
-                "headers": {
-                    "Host": "fmtwcad1j9k3qb8ks8s13ls3q4wmcidg.idi3739gs.workers.dev"
-                }
-            }
-        },
-        {
-            "name": "0️⃣3️⃣2️⃣ 〽️ehran",
-            "type": "vless",
-            "server": "146.0.73.202",
+            "server": "104.19.150.211",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -1734,22 +1704,42 @@
             "uuid": "0bbc5924-da96-4a7b-b99d-00ab5ff06fa4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "fMTWcad1J9k3QB8kS8S13ls3Q4wMCIDG.idi3739GS.WOrkers.dev",
+            "servername": "nova-pearl-garden-8900.jeib38sj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaVBqelE0UHFEUllhUkJwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "fmtwcad1j9k3qb8ks8s13ls3q4wmcidg.idi3739gs.workers.dev"
+                    "Host": "nova-pearl-garden-8900.jeib38sj.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "0️⃣3️⃣2️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "104.18.33.224",
+            "port": 2096,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "0bbc5924-da96-4a7b-b99d-00ab5ff06fa4",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nova-pearl-garden-8900.jeib38sj.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/",
+                "headers": {
+                    "Host": "nova-pearl-garden-8900.jeib38sj.workers.dev"
                 }
             }
         },
