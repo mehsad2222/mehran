@@ -1745,60 +1745,50 @@
         {
             "name": "0️⃣3️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "173.245.58.98",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2bcbc50c-d543-4d47-a661-b4ff2fc138c1",
+            "uuid": "f2514bac-32b7-4e3c-842b-565ed836ec90",
             "packet-encoding": "",
             "tls": true,
-            "servername": "BvRPWPK84UoykhvXhCI3B445I9wds6ce.Ie937gd39.WORKerS.DeV",
+            "servername": "nova-swift-panel-e20f.hdiei28h.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoienAwSVpUdGQyWVk2TFVyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "bvrpwpk84uoykhvxhci3b445i9wds6ce.ie937gd39.workers.dev"
+                    "Host": "nova-swift-panel-e20f.hdiei28h.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣3️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.172.71.51",
-            "port": 444,
+            "server": "162.159.36.137",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2bcbc50c-d543-4d47-a661-b4ff2fc138c1",
+            "uuid": "f2514bac-32b7-4e3c-842b-565ed836ec90",
             "packet-encoding": "",
             "tls": true,
-            "servername": "BvRPWPK84UoykhvXhCI3B445I9wds6ce.Ie937gd39.WORKerS.DeV",
+            "servername": "nova-swift-panel-e20f.hdiei28h.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoienAwSVpUdGQyWVk2TFVyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "bvrpwpk84uoykhvxhci3b445i9wds6ce.ie937gd39.workers.dev"
+                    "Host": "nova-swift-panel-e20f.hdiei28h.workers.dev"
                 }
             }
         },
