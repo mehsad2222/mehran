@@ -11273,58 +11273,50 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "31.133.0.70",
-            "port": 2053,
+            "server": "104.17.116.117",
+            "port": 2083,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "f23baa55-af82-99c4-ebca-c00a5477cd2a",
+            "uuid": "3e2dfee7-8d76-42f6-8100-2eaaaece004c",
             "packet-encoding": "",
             "tls": true,
-            "servername": "curly-sunset-019a.jriv38bdi.workers.dev",
+            "servername": "nova-river-node-bef4.huto79go.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiM0Jua2pSblphd2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "curly-sunset-019a.jriv38bdi.workers.dev"
+                    "Host": "nova-river-node-bef4.huto79go.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
-            "server": "188.114.96.3",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "f638142b-b6c4-4ae3-9928-e6c1e42a1bba",
+            "uuid": "6e5696af-db67-4d3c-8242-f60b2f122cec",
             "packet-encoding": "",
             "tls": true,
-            "servername": "57XkEcIgGpgt801kypooKq9P48oUAK0Q.IEH39hr.worKeRS.Dev",
+            "servername": "nova-crystal-core-0293.jdobxk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiT2pYcXgzQzAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "57xkeciggpgt801kypookq9p48ouak0q.ieh39hr.workers.dev"
+                    "Host": "nova-crystal-core-0293.jdobxk.workers.dev"
                 }
             }
         },
