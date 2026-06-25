@@ -2095,15 +2095,15 @@
         {
             "name": "0️⃣4️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.16.145.177",
-            "port": 2096,
+            "server": "172.66.1.207",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4d9ccac5-b6ee-4727-8437-47cd914988e3",
+            "uuid": "ad65a44e-da3c-4fe9-8bd7-514977add57a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-spark-755c.ue839v.workers.dev",
+            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2113,22 +2113,22 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-sunny-spark-755c.ue839v.workers.dev"
+                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣4️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "162.159.43.196",
+            "server": "104.26.12.45",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "fb500d82-d5ec-424c-b50f-c306b6545d63",
+            "uuid": "ad65a44e-da3c-4fe9-8bd7-514977add57a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "U63b0s4anBuSOXY350P71rTZm1b7qF2S.fiMIVi1813.WOrkeRS.DEV",
+            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2136,11 +2136,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWHV3dVVqY2VEMWVRMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "u63b0s4anbusoxy350p71rtzm1b7qf2s.fimivi1813.workers.dev"
+                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
                 }
             }
         },
