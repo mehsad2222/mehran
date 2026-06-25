@@ -161,7 +161,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQWI3ZDJWQWY5cmxKV0lvayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/",
                 "headers": {
                     "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
                 }
@@ -186,7 +186,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQWI3ZDJWQWY5cmxKV0lvayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/",
                 "headers": {
                     "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
                 }
