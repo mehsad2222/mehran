@@ -11126,25 +11126,22 @@
             "server": "31.133.0.70",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "f23baa55-af82-99c4-ebca-c00a5477cd2a",
+            "uuid": "eac79eeb-3ed8-4340-88f6-d977fbc248e2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "curly-sunset-019a.jriv38bdi.workers.dev",
+            "servername": "nova-comet-spark-9a43.16738jsjbx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiM0Jua2pSblphd2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "curly-sunset-019a.jriv38bdi.workers.dev"
+                    "Host": "nova-comet-spark-9a43.16738jsjbx.workers.dev"
                 }
             }
         },
@@ -11154,25 +11151,22 @@
             "server": "31.133.0.49",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "f23baa55-af82-99c4-ebca-c00a5477cd2a",
+            "uuid": "eac79eeb-3ed8-4340-88f6-d977fbc248e2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "curly-sunset-019a.jriv38bdi.workers.dev",
+            "servername": "nova-comet-spark-9a43.16738jsjbx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiM0Jua2pSblphd2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "curly-sunset-019a.jriv38bdi.workers.dev"
+                    "Host": "nova-comet-spark-9a43.16738jsjbx.workers.dev"
                 }
             }
         },
