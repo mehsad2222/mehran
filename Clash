@@ -2745,15 +2745,15 @@
         {
             "name": "0️⃣5️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "159.65.162.90",
-            "port": 4431,
+            "server": "18.197.218.69",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65bfa2e1-5ab1-4abf-8ffa-de01794a27f7",
+            "uuid": "c2216bc6-e6af-477b-87a5-c960e22cd4e1",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-portal-0c0c.ueibdi27.workers.dev",
+            "servername": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2763,7 +2763,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
+                    "Host": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev"
                 }
             }
         },
@@ -2775,10 +2775,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c886066b-2944-4a00-98b0-db29bf5d45ff",
+            "uuid": "c2216bc6-e6af-477b-87a5-c960e22cd4e1",
             "packet-encoding": "",
             "tls": true,
-            "servername": "qUMYh1rTUP-qO1mmBt7N3cXl4wqFg6V1.HDueJ37hD.wOrKErS.DeV",
+            "servername": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2786,11 +2786,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMllkVDI4V0N6RlQwTUM2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "qumyh1rtup-qo1mmbt7n3cxl4wqfg6v1.hduej37hd.workers.dev"
+                    "Host": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev"
                 }
             }
         },
