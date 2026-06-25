@@ -556,10 +556,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2241a0f8-94e2-3044-e9b8-9b8cbdde3947",
+            "uuid": "f1e81a44-7019-4432-8cff-71ac818076b4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "rough-frog-64d5.jeive8bs.workers.dev",
+            "servername": "nova-comet-bridge-fb35.jforbo47sk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -567,9 +567,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaGtiTlJxd2tkTzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "rough-frog-64d5.jeive8bs.workers.dev"
+                    "Host": "nova-comet-bridge-fb35.jforbo47sk.workers.dev"
                 }
             }
         },
@@ -581,10 +581,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2241a0f8-94e2-3044-e9b8-9b8cbdde3947",
+            "uuid": "f1e81a44-7019-4432-8cff-71ac818076b4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "rough-frog-64d5.jeive8bs.workers.dev",
+            "servername": "nova-comet-bridge-fb35.jforbo47sk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -592,9 +592,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaGtiTlJxd2tkTzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "rough-frog-64d5.jeive8bs.workers.dev"
+                    "Host": "nova-comet-bridge-fb35.jforbo47sk.workers.dev"
                 }
             }
         },
