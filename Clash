@@ -136,7 +136,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=a642f8d986",
+                "path": "/",
                 "headers": {
                     "Host": "nova-atlas-spark-36b1.hduv38b.workers.dev"
                 }
