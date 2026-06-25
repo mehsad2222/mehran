@@ -1165,9 +1165,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiMmdQeG1DMzJoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
@@ -1195,9 +1192,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiMmdQeG1DMzJoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
@@ -1225,9 +1219,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiNXRMSXEyQkRNYjlvcjNIeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
@@ -1255,9 +1246,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiNXRMSXEyQkRNYjlvcjNIeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
@@ -1285,9 +1273,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiaHNyNzNZakVHYUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
@@ -1315,9 +1300,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiaHNyNzNZakVHYUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
@@ -1345,9 +1327,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiNzFRU2RMSExVdzhGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
@@ -1375,9 +1354,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiNzFRU2RMSExVdzhGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
@@ -1391,60 +1367,50 @@
         {
             "name": "0️⃣2️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.124",
-            "port": 2053,
+            "server": "104.17.100.119",
+            "port": 8443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "7f2e1310-5626-4820-b17e-cf6043deb253",
+            "uuid": "9911ad4e-04c3-4b06-8dd5-018665a6d019",
             "packet-encoding": "",
             "tls": true,
-            "servername": "cveqauX0vPHzEx83hIws3VvgQq1eHb8b.bIHOla8446.wORKerS.dEv",
+            "servername": "nova-pearl-node-a8b2.jdige8he.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOXZmNGM0ZG9WbzkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "cveqaux0vphzex83hiws3vvgqq1ehb8b.bihola8446.workers.dev"
+                    "Host": "nova-pearl-node-a8b2.jdige8he.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣2️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "77.221.143.81",
+            "server": "104.17.173.226",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "7f2e1310-5626-4820-b17e-cf6043deb253",
+            "uuid": "9911ad4e-04c3-4b06-8dd5-018665a6d019",
             "packet-encoding": "",
             "tls": true,
-            "servername": "cveqauX0vPHzEx83hIws3VvgQq1eHb8b.bIHOla8446.wORKerS.dEv",
+            "servername": "nova-pearl-node-a8b2.jdige8he.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOXZmNGM0ZG9WbzkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "cveqaux0vphzex83hiws3vvgqq1ehb8b.bihola8446.workers.dev"
+                    "Host": "nova-pearl-node-a8b2.jdige8he.workers.dev"
                 }
             }
         },
