@@ -212,8 +212,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiOFE3ejYyUm44NTM5MHAyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "iy3j9ywubo4c0qldd4-t50awfqz6y0s8.ydu3g7.workers.dev"
                 }
@@ -239,8 +237,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiOFE3ejYyUm44NTM5MHAyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "iy3j9ywubo4c0qldd4-t50awfqz6y0s8.ydu3g7.workers.dev"
                 }
@@ -266,8 +262,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiOHlpbVVKU2g1YyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "6rr9dcfu2bp4y5zou4r30e2w9yc40-4a.irobr9ep3b.workers.dev"
                 }
@@ -293,8 +287,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiOHlpbVVKU2g1YyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "6rr9dcfu2bp4y5zou4r30e2w9yc40-4a.irobr9ep3b.workers.dev"
                 }
@@ -320,8 +312,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoid1VuOFZ5NXRncyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "fnka2dedi-xjow67ob6lea-gsrzsy-kd.dug3i27.workers.dev"
                 }
@@ -347,8 +337,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoid1VuOFZ5NXRncyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "fnka2dedi-xjow67ob6lea-gsrzsy-kd.dug3i27.workers.dev"
                 }
@@ -374,8 +362,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiSjRybWlIM2dIUlRZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "ztao97vewclt3jgyt5-qct5fs4mnk04l.hfhgig75tuuh.workers.dev"
                 }
@@ -401,8 +387,6 @@
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiSjRybWlIM2dIUlRZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "ztao97vewclt3jgyt5-qct5fs4mnk04l.hfhgig75tuuh.workers.dev"
                 }
@@ -475,14 +459,9 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoidXJrVzVQMzR3YSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "sxgfozpng34qtqvhu20u4jl6iwuolikh.dapon60917.workers.dev"
                 }
@@ -505,14 +484,9 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoidXJrVzVQMzR3YSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "sxgfozpng34qtqvhu20u4jl6iwuolikh.dapon60917.workers.dev"
                 }
@@ -535,14 +509,9 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiRWVTYW1uRnFLTGRVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "dkx5bvhpl6s6u-8pitqye08cff6gxlzy.udi38bdu.workers.dev"
                 }
@@ -565,14 +534,9 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiRWVTYW1uRnFLTGRVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
                 "headers": {
                     "Host": "dkx5bvhpl6s6u-8pitqye08cff6gxlzy.udi38bdu.workers.dev"
                 }
@@ -595,9 +559,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiaGtiTlJxd2tkTzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
@@ -623,9 +584,6 @@
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
                 "path": "/eyJqdW5rIjoiaGtiTlJxd2tkTzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
