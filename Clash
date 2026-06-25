@@ -1095,60 +1095,50 @@
         {
             "name": "0️⃣2️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "104.18.33.119",
+            "port": 2083,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "72406521-4987-4644-a323-189919766115",
+            "uuid": "69cf2e27-a1ff-4694-8a99-f8af5f70f2b4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "SWNzKfSDa9u-lCjOp4Rl7tKM7RpbINZX.wU5srwkSrG4D.WoRkerS.deV",
+            "servername": "nova-swift-garden-66b4.udieb28.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiU0t3bWhTakxWY0xmTlBQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "swnzkfsda9u-lcjop4rl7tkm7rpbinzx.wu5srwksrg4d.workers.dev"
+                    "Host": "nova-swift-garden-66b4.udieb28.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣2️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.55",
-            "port": 2053,
+            "server": "104.26.8.131",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "72406521-4987-4644-a323-189919766115",
+            "uuid": "69cf2e27-a1ff-4694-8a99-f8af5f70f2b4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "SWNzKfSDa9u-lCjOp4Rl7tKM7RpbINZX.wU5srwkSrG4D.WoRkerS.deV",
+            "servername": "nova-swift-garden-66b4.udieb28.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiU0t3bWhTakxWY0xmTlBQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "swnzkfsda9u-lcjop4rl7tkm7rpbinzx.wu5srwksrg4d.workers.dev"
+                    "Host": "nova-swift-garden-66b4.udieb28.workers.dev"
                 }
             }
         },
