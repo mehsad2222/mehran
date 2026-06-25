@@ -1995,15 +1995,15 @@
         {
             "name": "0️⃣3️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.16.145.177",
-            "port": 2096,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4d9ccac5-b6ee-4727-8437-47cd914988e3",
+            "uuid": "b3489f76-d4a2-47ef-80e6-438bf053c3ec",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-spark-755c.ue839v.workers.dev",
+            "servername": "nova-luna-spark-2bbe.ue8h28b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2013,34 +2013,32 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-sunny-spark-755c.ue839v.workers.dev"
+                    "Host": "nova-luna-spark-2bbe.ue8h28b.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣3️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "91.193.59.53",
-            "port": 443,
+            "server": "198.41.209.208",
+            "port": 2083,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "d3329bbb-a100-447a-a6c9-85f352e0bb60",
+            "uuid": "b3489f76-d4a2-47ef-80e6-438bf053c3ec",
             "packet-encoding": "",
             "tls": true,
-            "servername": "cN98NxTX8pnUh7TYhPz4H6iUAMk1l041.SodEMe6605.wOrkeRs.dEV",
-            "client-fingerprint": "random",
+            "servername": "nova-luna-spark-2bbe.ue8h28b.workers.dev",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYjZMRlBuNFUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "cn98nxtx8pnuh7tyhpz4h6iuamk1l041.sodeme6605.workers.dev"
+                    "Host": "nova-luna-spark-2bbe.ue8h28b.workers.dev"
                 }
             }
         },
