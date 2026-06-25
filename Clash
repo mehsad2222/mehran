@@ -1670,7 +1670,6 @@
         {
             "name": "0️⃣3️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "type": "vless",
             "server": "162.159.46.222",
             "port": 2087,
             "ip-version": "ipv4",
