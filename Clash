@@ -151,15 +151,15 @@
         {
             "name": "0️⃣0️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.17.16.38",
-            "port": 2053,
+            "server": "104.17.144.115",
+            "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "32ede4cf-5d42-4f14-97f5-c8714048f4ed",
+            "uuid": "739c0bb7-5f1d-491f-8a53-0d40b609dd1b",
             "packet-encoding": "",
             "tls": true,
-            "servername": "4O1tAS1Ic9f5YHN7u5QadQJ4z0bC82g5.ZIZIdBidv32.woRkERS.dEV",
+            "servername": "nova-sunny-wave-d61a.irob39b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -169,22 +169,23 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
+                    "Host": "nova-sunny-wave-d61a.irob39b.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣0️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "type": "vless",
+            "server": "104.17.127.11",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "32ede4cf-5d42-4f14-97f5-c8714048f4ed",
+            "uuid": "739c0bb7-5f1d-491f-8a53-0d40b609dd1b",
             "packet-encoding": "",
             "tls": true,
-            "servername": "4O1tAS1Ic9f5YHN7u5QadQJ4z0bC82g5.ZIZIdBidv32.woRkERS.dEV",
+            "servername": "nova-sunny-wave-d61a.irob39b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -194,7 +195,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "4o1tas1ic9f5yhn7u5qadqj4z0bc82g5.zizidbidv32.workers.dev"
+                    "Host": "nova-sunny-wave-d61a.irob39b.workers.dev"
                 }
             }
         },
