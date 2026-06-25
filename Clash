@@ -1056,10 +1056,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b3492ed6-6faf-c30d-4993-20ed00000000",
+            "uuid": "4f6ba5fc-9db1-433e-8420-db84628c3484",
             "packet-encoding": "",
             "tls": true,
-            "servername": "long-term-b444.bsiv48bi.workers.dev",
+            "servername": "nova-river-vault-4e05.jsoge82ovd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1067,9 +1067,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiazl2UVgxV3NPVUkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "long-term-b444.bsiv48bi.workers.dev"
+                    "Host": "nova-river-vault-4e05.jsoge82ovd.workers.dev"
                 }
             }
         },
@@ -1081,10 +1081,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b3492ed6-6faf-c30d-4993-20ed00000000",
+            "uuid": "4f6ba5fc-9db1-433e-8420-db84628c3484",
             "packet-encoding": "",
             "tls": true,
-            "servername": "long-term-b444.bsiv48bi.workers.dev",
+            "servername": "nova-river-vault-4e05.jsoge82ovd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1092,9 +1092,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiazl2UVgxV3NPVUkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "long-term-b444.bsiv48bi.workers.dev"
+                    "Host": "nova-river-vault-4e05.jsoge82ovd.workers.dev"
                 }
             }
         },
