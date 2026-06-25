@@ -11223,30 +11223,25 @@
         {
             "name": "2️⃣0️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.49",
-            "port": 2053,
+            "server": "104.17.116.117",
+            "port": 2083,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "daa71d5a-03de-4b36-8652-e0aa0bc80931",
+            "uuid": "3e2dfee7-8d76-42f6-8100-2eaaaece004c",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OZ7JPwOAL4iu-Srt5x0x19k9jKGOP7Cs.ieJ48BD8.worKErS.Dev",
+            "servername": "nova-river-node-bef4.huto79go.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSUdkN2E0VzB1ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "oz7jpwoal4iu-srt5x0x19k9jkgop7cs.iej48bd8.workers.dev"
+                    "Host": "nova-river-node-bef4.huto79go.workers.dev"
                 }
             }
         },
@@ -11256,27 +11251,22 @@
             "server": "188.114.97.2",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "daa71d5a-03de-4b36-8652-e0aa0bc80931",
+            "uuid": "3e2dfee7-8d76-42f6-8100-2eaaaece004c",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OZ7JPwOAL4iu-Srt5x0x19k9jKGOP7Cs.ieJ48BD8.worKErS.Dev",
+            "servername": "nova-river-node-bef4.huto79go.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSUdkN2E0VzB1ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "oz7jpwoal4iu-srt5x0x19k9jkgop7cs.iej48bd8.workers.dev"
+                    "Host": "nova-river-node-bef4.huto79go.workers.dev"
                 }
             }
         },
