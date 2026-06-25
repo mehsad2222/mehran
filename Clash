@@ -1645,15 +1645,15 @@
         {
             "name": "0️⃣3️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "88.218.248.195",
-            "port": 443,
+            "server": "172.66.0.114",
+            "port": 2087,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "43ea2dab-e9b0-466e-9708-78ccef7040f7",
+            "uuid": "93265bf8-ed36-4195-8eda-93fed4062c28",
             "packet-encoding": "",
             "tls": true,
-            "servername": "2X2071065cJHprtYn5P2k3sVRKfux-5p.bayaj69391.WOrKERs.dEv",
+            "servername": "nova-comet-core-b197.jeib28bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1661,26 +1661,25 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidzZyNTNkTlJuNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "2x2071065cjhprtyn5p2k3svrkfux-5p.bayaj69391.workers.dev"
+                    "Host": "nova-comet-core-b197.jeib28bs.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣3️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "193.42.62.215",
-            "port": 2053,
+            "type": "vless",
+            "server": "162.159.46.222",
+            "port": 2087,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "43ea2dab-e9b0-466e-9708-78ccef7040f7",
+            "uuid": "93265bf8-ed36-4195-8eda-93fed4062c28",
             "packet-encoding": "",
             "tls": true,
-            "servername": "2X2071065cJHprtYn5P2k3sVRKfux-5p.bayaj69391.WOrKERs.dEv",
+            "servername": "nova-comet-core-b197.jeib28bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1688,11 +1687,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidzZyNTNkTlJuNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "2x2071065cjhprtyn5p2k3svrkfux-5p.bayaj69391.workers.dev"
+                    "Host": "nova-comet-core-b197.jeib28bs.workers.dev"
                 }
             }
         },
