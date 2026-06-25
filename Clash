@@ -1800,55 +1800,45 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "8c16f08e-4548-4551-8e81-ef5e1a100bd0",
+            "uuid": "717e7fbe-0e29-4d9f-8aa4-ba6db68ca0f2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ZH4stKLyuXw639fkLMRK5vt92h500w7J.GG547Hdw.WOrkeRS.dEv",
+            "servername": "nova-orbit-spark-82e3.jdib38bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicGFUM2FiYXVTVmk1Tk84IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "zh4stklyuxw639fklmrk5vt92h500w7j.gg547hdw.workers.dev"
+                    "Host": "nova-orbit-spark-82e3.jdib38bs.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣3️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "185.234.66.91",
-            "port": 443,
+            "server": "104.17.110.229",
+            "port": 2087,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "8c16f08e-4548-4551-8e81-ef5e1a100bd0",
+            "uuid": "717e7fbe-0e29-4d9f-8aa4-ba6db68ca0f2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ZH4stKLyuXw639fkLMRK5vt92h500w7J.GG547Hdw.WOrkeRS.dEv",
+            "servername": "nova-orbit-spark-82e3.jdib38bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicGFUM2FiYXVTVmk1Tk84IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "zh4stklyuxw639fklmrk5vt92h500w7j.gg547hdw.workers.dev"
+                    "Host": "nova-orbit-spark-82e3.jdib38bs.workers.dev"
                 }
             }
         },
