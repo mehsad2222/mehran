@@ -2295,15 +2295,15 @@
         {
             "name": "0️⃣4️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.66.1.207",
+            "server": "37.1.195.124",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ad65a44e-da3c-4fe9-8bd7-514977add57a",
+            "uuid": "d26e923e-8856-43ca-8529-252e58067381",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
+            "servername": "nova-crystal-vault-5aa6.linoji4451.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2313,22 +2313,22 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
+                    "Host": "nova-crystal-vault-5aa6.linoji4451.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣4️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "172.66.1.207",
-            "port": 443,
+            "server": "91.107.166.111",
+            "port": 8888,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ad65a44e-da3c-4fe9-8bd7-514977add57a",
+            "uuid": "d26e923e-8856-43ca-8529-252e58067381",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
+            "servername": "nova-crystal-vault-5aa6.linoji4451.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2338,7 +2338,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
+                    "Host": "nova-crystal-vault-5aa6.linoji4451.workers.dev"
                 }
             }
         },
