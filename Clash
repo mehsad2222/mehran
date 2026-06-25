@@ -11182,53 +11182,47 @@
             "server": "31.133.0.70",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "4255ee03-de72-1ab4-8419-d189ea4d513e",
+            "uuid": "6e5696af-db67-4d3c-8242-f60b2f122cec",
             "packet-encoding": "",
             "tls": true,
-            "servername": "quiet-dawn-2227.sobe8bs.workers.dev",
+            "servername": "nova-crystal-core-0293.jdobxk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTmhDZGJITEtqR2giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "quiet-dawn-2227.sobe8bs.workers.dev"
+                    "Host": "nova-crystal-core-0293.jdobxk.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣9️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.21.5.75",
-            "port": 443,
+            "server": "104.17.28.64",
+            "port": 2087,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "4255ee03-de72-1ab4-8419-d189ea4d513e",
+            "uuid": "6e5696af-db67-4d3c-8242-f60b2f122cec",
             "packet-encoding": "",
             "tls": true,
-            "servername": "quiet-dawn-2227.sobe8bs.workers.dev",
+            "servername": "nova-crystal-core-0293.jdobxk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTmhDZGJITEtqR2giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "quiet-dawn-2227.sobe8bs.workers.dev"
+                    "Host": "nova-crystal-core-0293.jdobxk.workers.dev"
                 }
             }
         },
