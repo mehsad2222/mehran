@@ -2650,10 +2650,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65bfa2e1-5ab1-4abf-8ffa-de01794a27f7",
+            "uuid": "70222d16-f9f4-413c-83e0-b97399cd27d2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-portal-0c0c.ueibdi27.workers.dev",
+            "servername": "nova-river-vault-ff5d.hickgpg9.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2663,37 +2663,32 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
+                    "Host": "nova-river-vault-ff5d.hickgpg9.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣5️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "159.65.162.90",
-            "port": 4431,
+            "server": "198.41.208.178",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c2e14467-d08b-498b-b212-8a88a10675d2",
+            "uuid": "70222d16-f9f4-413c-83e0-b97399cd27d2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "fjklTseU1G48539D4hTe2F701T4r9zfy.VnbFI74.worKeRs.Dev",
+            "servername": "nova-river-vault-ff5d.hickgpg9.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMzlSaERpeUo1aFdGc1YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "fjkltseu1g48539d4hte2f701t4r9zfy.vnbfi74.workers.dev"
+                    "Host": "nova-river-vault-ff5d.hickgpg9.workers.dev"
                 }
             }
         },
