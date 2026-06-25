@@ -406,10 +406,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b55d655a-702a-93d3-b6d2-c10093bd5255",
+            "uuid": "dfba9e34-711c-405b-8b77-cc81d57b4d04",
             "packet-encoding": "",
             "tls": true,
-            "servername": "blue-band-d2bd.mefidej310.workers.dev",
+            "servername": "nova-pearl-vault-0da1.gydy5ru.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -417,9 +417,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZUttRGY5cWlBQTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "blue-band-d2bd.mefidej310.workers.dev"
+                    "Host": "nova-pearl-vault-0da1.gydy5ru.workers.dev"
                 }
             }
         },
@@ -431,10 +431,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b55d655a-702a-93d3-b6d2-c10093bd5255",
+            "uuid": "dfba9e34-711c-405b-8b77-cc81d57b4d04",
             "packet-encoding": "",
             "tls": true,
-            "servername": "blue-band-d2bd.mefidej310.workers.dev",
+            "servername": "nova-pearl-vault-0da1.gydy5ru.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -442,9 +442,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWm11ZzhwNE5CbDUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/",
                 "headers": {
-                    "Host": "blue-band-d2bd.mefidej310.workers.dev"
+                    "Host": "nova-pearl-vault-0da1.gydy5ru.workers.dev"
                 }
             }
         },
