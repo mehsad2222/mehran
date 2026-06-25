@@ -2945,15 +2945,15 @@
         {
             "name": "0️⃣5️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "3.68.31.54",
-            "port": 443,
+            "server": "104.17.152.79",
+            "port": 2087,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65bfa2e1-5ab1-4abf-8ffa-de01794a27f7",
+            "uuid": "59ef8acc-ad2c-4498-87f9-3175f8c69dee",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-portal-0c0c.ueibdi27.workers.dev",
+            "servername": "nova-river-gate-80ce.jifo6fy6i.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2963,37 +2963,32 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
+                    "Host": "nova-river-gate-80ce.jifo6fy6i.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣5️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "89.19.211.109",
-            "port": 8443,
+            "server": "162.159.35.125",
+            "port": 2087,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "112ff60b-5f9e-440b-a4cc-45ce84d457af",
+            "uuid": "59ef8acc-ad2c-4498-87f9-3175f8c69dee",
             "packet-encoding": "",
             "tls": true,
-            "servername": "24IUcplw7giwzb-23m22yWTKMtnSxnor.HeiRu38Dn.wOrKeRs.dEv",
+            "servername": "nova-river-gate-80ce.jifo6fy6i.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZUdEckZUZHNHQ2FJZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "24iucplw7giwzb-23m22ywtkmtnsxnor.heiru38dn.workers.dev"
+                    "Host": "nova-river-gate-80ce.jifo6fy6i.workers.dev"
                 }
             }
         },
