@@ -2797,8 +2797,8 @@
         {
             "name": "0️⃣5️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "37.1.195.124",
-            "port": 443,
+            "server": "159.65.162.90",
+            "port": 4431,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -2816,7 +2816,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
-                }"Host": "n72wtzi-vs3t2be65nh-v06p3jdg7v6i.usih28dhe.workers.dev"
                 }
             }
         },
