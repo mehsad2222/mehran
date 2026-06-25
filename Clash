@@ -501,15 +501,15 @@
         {
             "name": "0️⃣0️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.103",
-            "port": 2053,
+            "server": "18.184.27.249",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1cfef06a-0656-4aac-b4ed-30949c48137e",
+            "uuid": "8ec52222-4d92-4bb2-8551-ca413c0a2c19",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Dkx5bVHpl6S6u-8pITQYe08Cff6GXLZY.UDi38BDU.WorkERS.dEV",
+            "servername": "nova-falcon-garden-8d9c.jeib38b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -517,24 +517,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRWVTYW1uRnFLTGRVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/",
                 "headers": {
-                    "Host": "dkx5bvhpl6s6u-8pitqye08cff6gxlzy.udi38bdu.workers.dev"
+                    "Host": "nova-falcon-garden-8d9c.jeib38b.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣0️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "18.184.27.249",
-            "port": 443,
+            "server": "162.159.46.0",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1cfef06a-0656-4aac-b4ed-30949c48137e",
+            "uuid": "8ec52222-4d92-4bb2-8551-ca413c0a2c19",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Dkx5bVHpl6S6u-8pITQYe08Cff6GXLZY.UDi38BDU.WorkERS.dEV",
+            "servername": "nova-falcon-garden-8d9c.jeib38b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -542,9 +542,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRWVTYW1uRnFLTGRVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/",
                 "headers": {
-                    "Host": "dkx5bvhpl6s6u-8pitqye08cff6gxlzy.udi38bdu.workers.dev"
+                    "Host": "nova-falcon-garden-8d9c.jeib38b.workers.dev"
                 }
             }
         },
