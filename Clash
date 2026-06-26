@@ -4161,7 +4161,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=bcf2bba1cf",
                 "headers": {
                     "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
@@ -4186,7 +4186,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=bcf2bba1cf",
                 "headers": {
                     "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
@@ -4211,7 +4211,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=81c57f46e3",
                 "headers": {
                     "Host": "nova-sunny-portal-3a37.idi38bdk.workers.dev"
                 }
@@ -4236,7 +4236,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=81c57f46e3",
                 "headers": {
                     "Host": "nova-sunny-portal-3a37.idi38bdk.workers.dev"
                 }
