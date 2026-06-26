@@ -4095,15 +4095,15 @@
         {
             "name": "0️⃣8️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "162.159.43.208",
+            "server": "104.17.124.112",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hriveo8wh39738u",
+            "uuid": "9a5efffa-988b-40cc-841e-93a723b5018f",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
+            "servername": "nova-swift-spark-c96b.iyitolvv65.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4113,15 +4113,15 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
+                    "Host": "nova-swift-spark-c96b.iyitolvv65.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "162.159.43.208",
-            "port": 2053,
+            "server": "104.16.243.92",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
