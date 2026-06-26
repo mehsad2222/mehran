@@ -4403,7 +4403,7 @@
             "uuid": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf",
             "packet-encoding": "",
             "tls": true,
-            "servername": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf",
+            "servername": "nova-atlas-panel-2013.llkpuof54.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4413,7 +4413,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf"
+                    "Host": "nova-atlas-panel-2013.llkpuof54.workers.dev"
                 }
             }
         },
@@ -4428,7 +4428,7 @@
             "uuid": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf",
             "packet-encoding": "",
             "tls": true,
-            "servername": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf",
+            "servername": "nova-atlas-panel-2013.llkpuof54.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4438,7 +4438,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf"
+                    "Host": "nova-atlas-panel-2013.llkpuof54.workers.dev"
                 }
             }
         },
