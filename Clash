@@ -4953,15 +4953,15 @@
         {
             "name": "0️⃣9️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "146.0.73.202",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "6062ad40-a18f-4a08-ace3-7eb35e1c872e",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ztdJNgc2QmG9SFh6D768rlTpV7OX9Qle.CaseCiM356.WoRkers.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4969,26 +4969,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicDViNHNKQlJ5OEw1TERxMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "ztdjngc2qmg9sfh6d768rltpv7ox9qle.casecim356.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣9️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.10.214.76",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "6062ad40-a18f-4a08-ace3-7eb35e1c872e",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ztdJNgc2QmG9SFh6D768rlTpV7OX9Qle.CaseCiM356.WoRkers.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4996,26 +4994,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicDViNHNKQlJ5OEw1TERxMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "ztdjngc2qmg9sfh6d768rltpv7ox9qle.casecim356.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣9️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "94.156.35.144",
-            "port": 18836,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "38081e94-6d06-4d14-8e6d-12ce3d5e40b1",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "86ZjipRBN8lwKltAtJHw0quxdJRCM2Hs.wALOF48300.workeRs.Dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5023,26 +5019,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRGhkSUhkTVJYSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "86zjiprbn8lwkltatjhw0quxdjrcm2hs.walof48300.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣9️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "176.10.125.114",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "38081e94-6d06-4d14-8e6d-12ce3d5e40b1",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "86ZjipRBN8lwKltAtJHw0quxdJRCM2Hs.wALOF48300.workeRs.Dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5050,26 +5044,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRGhkSUhkTVJYSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "86zjiprbn8lwkltatjhw0quxdjrcm2hs.walof48300.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣9️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "5.10.214.183",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ee084ad6-0fe0-4f45-9d40-0b09fef88fc2",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nYdiZHSCI6pFWAORnvw4Na43E0e38AQp.siLad15078.worKerS.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5077,26 +5069,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoieVZwNHl2QWl1NU0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "nydizhsci6pfwaornvw4na43e0e38aqp.silad15078.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣9️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.10.214.99",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ee084ad6-0fe0-4f45-9d40-0b09fef88fc2",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nYdiZHSCI6pFWAORnvw4Na43E0e38AQp.siLad15078.worKerS.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5104,26 +5094,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoieVZwNHl2QWl1NU0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "nydizhsci6pfwaornvw4na43e0e38aqp.silad15078.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "91.192.102.55",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "e86b793d-7fb2-4dfd-91fc-482f822c7224",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "G6cK6T7QU2A27vTCT5wz-ub00uX8Jt3U.NOgovo5374.wORKErs.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5131,26 +5119,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiS3hWblJRYUliTFEybkkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "g6ck6t7qu2a27vtct5wz-ub00ux8jt3u.nogovo5374.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "89.19.211.109",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "e86b793d-7fb2-4dfd-91fc-482f822c7224",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "G6cK6T7QU2A27vTCT5wz-ub00uX8Jt3U.NOgovo5374.wORKErs.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5158,26 +5144,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiS3hWblJRYUliTFEybkkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "g6ck6t7qu2a27vtct5wz-ub00ux8jt3u.nogovo5374.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "185.139.228.126",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vFB2xcWA6Eq1xCi9bHHg6PEnAKlXpPfR.mOKHABERAt2014.wOrKERs.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5185,26 +5169,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSWQ3bmNTUW1LSWtnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "89.111.172.106",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "0e62fe6d-7e76-4ce0-a93e-4e657b21c4fd",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vFB2xcWA6Eq1xCi9bHHg6PEnAKlXpPfR.mOKHABERAt2014.wOrKERs.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5212,206 +5194,174 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSWQ3bmNTUW1LSWtnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "vfb2xcwa6eq1xci9bhhg6penaklxppfr.mokhaberat2014.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.172.71.51",
-            "port": 444,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b852829d-982e-41cc-b78f-c834aaa5711d",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "lxTgxUgCj09nvHV4qt9144R4VmBMMQ35.Bir6EUFG.wORkerS.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN2FjSjR3OHE2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "lxtgxugcj09nvhv4qt9144r4vmbmmq35.bir6eufg.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "89.110.89.229",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b852829d-982e-41cc-b78f-c834aaa5711d",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "lxTgxUgCj09nvHV4qt9144R4VmBMMQ35.Bir6EUFG.wORkerS.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN2FjSjR3OHE2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "lxtgxugcj09nvhv4qt9144r4vmbmmq35.bir6eufg.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "77.221.143.81",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dc8d627a-c852-485e-b645-23e584b7bd59",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "U4Wrbo88sN1u7Vm8id3qyXZivEwSQEbu.JEiVe83HD.WorkeRS.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN0ZFckxLUElYOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "u4wrbo88sn1u7vm8id3qyxzivewsqebu.jeive83hd.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "185.139.228.126",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dc8d627a-c852-485e-b645-23e584b7bd59",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "U4Wrbo88sN1u7Vm8id3qyXZivEwSQEbu.JEiVe83HD.WorkeRS.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN0ZFckxLUElYOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "u4wrbo88sn1u7vm8id3qyxzivewsqebu.jeive83hd.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "185.223.93.86",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "865d4e51-f471-404a-9523-29fae1615b67",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "c3lX4EHv0-cdNb0E7eXK7xs21Czg4phF.ID837dN.wOrKeRs.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQmpBZnNjaVhhWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "c3lx4ehv0-cdnb0e7exk7xs21czg4phf.id837dn.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "94.131.123.12",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "865d4e51-f471-404a-9523-29fae1615b67",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "c3lX4EHv0-cdNb0E7eXK7xs21Czg4phF.ID837dN.wOrKeRs.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQmpBZnNjaVhhWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "c3lx4ehv0-cdnb0e7exk7xs21czg4phf.id837dn.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6c1a3a9a-5bd8-4327-9aae-76b47d53cc09",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "r2rzGXAMH1Yz-4jodI2v2KlMiL07nWoZ.saciNaW781.WorKErS.dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5419,26 +5369,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSGVHNFRXY2lVTklUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "r2rzgxamh1yz-4jodi2v2klmil07nwoz.sacinaw781.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "94.156.35.144",
-            "port": 18836,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6c1a3a9a-5bd8-4327-9aae-76b47d53cc09",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "r2rzGXAMH1Yz-4jodI2v2KlMiL07nWoZ.saciNaW781.WorKErS.dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5446,26 +5394,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSGVHNFRXY2lVTklUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "r2rzgxamh1yz-4jodi2v2klmil07nwoz.sacinaw781.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "30473816-fdc3-45dc-9d0e-23c7e9a6252a",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6OTz8jAx3x6b-SHcuQYr8qh9Ks8k8YL1.YIwoMe2042.WorkERs.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5473,26 +5419,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZzZmWGwzdmIzZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "6otz8jax3x6b-shcuqyr8qh9ks8k8yl1.yiwome2042.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "176.10.125.114",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "30473816-fdc3-45dc-9d0e-23c7e9a6252a",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6OTz8jAx3x6b-SHcuQYr8qh9Ks8k8YL1.YIwoMe2042.WorkERs.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5500,26 +5444,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZzZmWGwzdmIzZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "6otz8jax3x6b-shcuqyr8qh9ks8k8yl1.yiwome2042.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1fe89006-4295-43c7-909d-ebf3883cf6cb",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "py77W0uE9ccgtIYR2IPl1pMOhpGm3aUu.MIBoxes578.WORKErS.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5527,26 +5469,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRnNMSHpGZ1NXQ2hnWWc1USIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "py77w0ue9ccgtiyr2ipl1pmohpgm3auu.miboxes578.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "185.188.181.14",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1fe89006-4295-43c7-909d-ebf3883cf6cb",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "py77W0uE9ccgtIYR2IPl1pMOhpGm3aUu.MIBoxes578.WORKErS.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5554,26 +5494,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRnNMSHpGZ1NXQ2hnWWc1USIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "py77w0ue9ccgtiyr2ipl1pmohpgm3auu.miboxes578.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dd46345e-c391-4c99-90fa-5cd1dcab542b",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "48eJ85SS47DR9Msi9P8Z968ZpsN633dS.jAvIFEY492.WOrkerS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5581,26 +5519,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMXVRM1RkSURhZnprIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "48ej85ss47dr9msi9p8z968zpsn633ds.javifey492.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "88.218.248.195",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dd46345e-c391-4c99-90fa-5cd1dcab542b",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "48eJ85SS47DR9Msi9P8Z968ZpsN633dS.jAvIFEY492.WOrkerS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5608,26 +5544,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMXVRM1RkSURhZnprIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "48ej85ss47dr9msi9p8z968zpsn633ds.javifey492.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6b79100c-d3f7-4157-9e63-072edb2cff37",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "F40Hq93cG5wDDr9rbh0e-wO5tJ9VGGdS.FIvAYAS931.WoRkeRs.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5635,26 +5569,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMHJnalc1OFAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "f40hq93cg5wddr9rbh0e-wo5tj9vggds.fivayas931.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6b79100c-d3f7-4157-9e63-072edb2cff37",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "F40Hq93cG5wDDr9rbh0e-wO5tJ9VGGdS.FIvAYAS931.WoRkeRs.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5662,26 +5594,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMHJnalc1OFAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "f40hq93cg5wddr9rbh0e-wo5tj9vggds.fivayas931.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "193.24.209.103",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "cagSX5b7WQJ-8Kxo8Cw2lUU22LoBDG07.ryTymISU.wOrkErS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5689,26 +5619,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiS2xrMkNzRHRJcTdxZDZGcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "172.98.207.58",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c2ba21f0-7f3d-402f-88a8-4047bdfb95bd",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "cagSX5b7WQJ-8Kxo8Cw2lUU22LoBDG07.ryTymISU.wOrkErS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5716,26 +5644,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiS2xrMkNzRHRJcTdxZDZGcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "cagsx5b7wqj-8kxo8cw2luu22lobdg07.rytymisu.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "193.24.209.103",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "211d6b8d-17fb-4dd2-9abc-95056595fa50",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "04j4YkzN7T-95eiGADljgyz-KrW49q5W.tISeFI3773.wOrKErS.DEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5743,26 +5669,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVXBjT0g2c00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "04j4ykzn7t-95eigadljgyz-krw49q5w.tisefi3773.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "185.223.93.86",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "211d6b8d-17fb-4dd2-9abc-95056595fa50",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "04j4YkzN7T-95eiGADljgyz-KrW49q5W.tISeFI3773.wOrKErS.DEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5770,26 +5694,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVXBjT0g2c00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "04j4ykzn7t-95eigadljgyz-krw49q5w.tisefi3773.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "193.24.209.103",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7a44251f-7a7a-40b5-bf51-b9d7e3397591",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "bDMol42z996eBFRTJLE4kM4I92VQNOfF.XekaVA7313.workers.DEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5797,26 +5719,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiakJEcDVQV2MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "bdmol42z996ebfrtjle4km4i92vqnoff.xekava7313.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "168.100.9.81",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7a44251f-7a7a-40b5-bf51-b9d7e3397591",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "bDMol42z996eBFRTJLE4kM4I92VQNOfF.XekaVA7313.workers.DEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5824,26 +5744,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiakJEcDVQV2MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "bdmol42z996ebfrtjle4km4i92vqnoff.xekava7313.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "193.24.209.103",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "748c6b65-65b9-4a69-aed4-82911976da38",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OqTwVysnSdJ-mY4S0Oy24yE49w6itl7w.VIgeK64175.workerS.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5851,26 +5769,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSXRhZkZ6WmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "oqtwvysnsdj-my4s0oy24ye49w6itl7w.vigek64175.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "91.215.153.85",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "748c6b65-65b9-4a69-aed4-82911976da38",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OqTwVysnSdJ-mY4S0Oy24yE49w6itl7w.VIgeK64175.workerS.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5878,26 +5794,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSXRhZkZ6WmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "oqtwvysnsdj-my4s0oy24ye49w6itl7w.vigek64175.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "193.24.209.103",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a471e740-2fc9-484e-aad7-d29e78106be4",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "1.DAGIBAF358.woRKERs.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5905,26 +5819,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYXRUWTE0Y25rSmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "1.dagibaf358.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.10.214.51",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a471e740-2fc9-484e-aad7-d29e78106be4",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "1.DAGIBAF358.woRKERs.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5932,26 +5844,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYXRUWTE0Y25rSmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "1.dagibaf358.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "193.24.209.103",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ec07b464-ae99-424c-84b4-49003d0af0c0",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "a0FKqNLaeplq-529920uH35D2E7V5vfy.SoFivE8628.wORkeRS.DEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5959,26 +5869,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZngxQnlUdXhFU1g3WFBHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "a0fkqnlaeplq-529920uh35d2e7v5vfy.sofive8628.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "185.188.181.214",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ec07b464-ae99-424c-84b4-49003d0af0c0",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "a0FKqNLaeplq-529920uH35D2E7V5vfy.SoFivE8628.wORkeRS.DEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5986,311 +5894,259 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZngxQnlUdXhFU1g3WFBHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "a0fkqnlaeplq-529920uh35d2e7v5vfy.sofive8628.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "193.24.209.103",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ca0115b3-34c6-4b7e-9a8c-91fdf5628575",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "iefP5HtAagBN9j4H866H-v871PgmdlYS.NNNbdJ36.WoRKERs.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiT2JhdUpvaXAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "iefp5htaagbn9j4h866h-v871pgmdlys.nnnbdj36.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "91.192.102.55",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ca0115b3-34c6-4b7e-9a8c-91fdf5628575",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "iefP5HtAagBN9j4H866H-v871PgmdlYS.NNNbdJ36.WoRKERs.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiT2JhdUpvaXAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "iefp5htaagbn9j4h866h-v871pgmdlys.nnnbdj36.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "89.110.89.229",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f6238bce-a71e-4b15-b24c-d4c13f16afb3",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "7pXp270woHnD6vq1C-ccLhj3n0S32EcT.VCBCHdY53.WoRKers.Dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWm9XN2RhQ3Y4QUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "7pxp270wohnd6vq1c-cclhj3n0s32ect.vcbchdy53.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f6238bce-a71e-4b15-b24c-d4c13f16afb3",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "7pXp270woHnD6vq1C-ccLhj3n0S32EcT.VCBCHdY53.WoRKers.Dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWm9XN2RhQ3Y4QUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "7pxp270wohnd6vq1c-cclhj3n0s32ect.vcbchdy53.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "88.218.248.195",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "34a398fb-b8be-4758-96a6-6a39d22d0aea",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "9bSpXZ55ydvsqw-602rwPfUKwBfTWBZi.PaROda3810.woRkErS.DEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiM2hJaGRpM21aIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "9bspxz55ydvsqw-602rwpfukwbftwbzi.paroda3810.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "89.19.211.109",
-            "port": 8443,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "34a398fb-b8be-4758-96a6-6a39d22d0aea",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "9bSpXZ55ydvsqw-602rwPfUKwBfTWBZi.PaROda3810.woRkErS.DEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiM2hJaGRpM21aIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "9bspxz55ydvsqw-602rwpfukwbftwbzi.paroda3810.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "89.110.89.229",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "31a677e4-bfa0-484a-a8ad-e2417678462a",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "0-f5Djalg0qty8EQV-4h3aYOpr-pajf9.Y272UdU.WorKERs.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVlhOT2d5OEl3N0lFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "0-f5djalg0qty8eqv-4h3ayopr-pajf9.y272udu.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "31a677e4-bfa0-484a-a8ad-e2417678462a",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "0-f5Djalg0qty8EQV-4h3aYOpr-pajf9.Y272UdU.WorKERs.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVlhOT2d5OEl3N0lFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "0-f5djalg0qty8eqv-4h3ayopr-pajf9.y272udu.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣2️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "77.221.143.81",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "33ab3920-b186-4f78-b30b-8472dc3ada86",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Y895U5daAwWngXYMIjo1jR6uqOpNCa9g.dIKEce7013.WorkErS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaW1BR0ZWT3ZnVmMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "y895u5daawwngxymijo1jr6uqopnca9g.dikece7013.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣2️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "45.138.72.141",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "33ab3920-b186-4f78-b30b-8472dc3ada86",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Y895U5daAwWngXYMIjo1jR6uqOpNCa9g.dIKEce7013.WorkErS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaW1BR0ZWT3ZnVmMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "y895u5daawwngxymijo1jr6uqopnca9g.dikece7013.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
