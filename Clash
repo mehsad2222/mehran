@@ -417,7 +417,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=05ca3aa8b3",
                 "headers": {
                     "Host": "nova-pearl-vault-0da1.gydy5ru.workers.dev"
                 }
@@ -442,7 +442,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=05ca3aa8b3",
                 "headers": {
                     "Host": "nova-pearl-vault-0da1.gydy5ru.workers.dev"
                 }
