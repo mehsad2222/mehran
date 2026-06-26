@@ -3945,15 +3945,15 @@
         {
             "name": "0️⃣7️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "162.159.43.208",
-            "port": 2053,
+            "server": "104.16.255.113",
+            "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hriveo8wh39738u",
+            "uuid": "65094ccc-27d0-472a-8a86-e90c0606ac72",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
+            "servername": "nova-crystal-core-a113.cbvht758.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3963,22 +3963,22 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
+                    "Host": "nova-crystal-core-a113.cbvht758.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "162.159.43.208",
-            "port": 2053,
+            "server": "104.17.16.89",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hriveo8wh39738u",
+            "uuid": "65094ccc-27d0-472a-8a86-e90c0606ac72",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
+            "servername": "nova-crystal-core-a113.cbvht758.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3988,7 +3988,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
+                    "Host": "nova-crystal-core-a113.cbvht758.workers.dev"
                 }
             }
         },
