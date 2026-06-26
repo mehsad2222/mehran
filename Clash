@@ -3345,15 +3345,15 @@
         {
             "name": "0️⃣6️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.16.149.34",
-            "port": 2083,
+            "server": "104.17.210.18",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4fee708a-175c-41ae-8330-070c2dec9bd9",
+            "uuid": "78ba02f7-1019-48d7-86be-2c8c8a73f6e4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-bridge-a21b.jido4trc.workers.dev",
+            "servername": "nova-mango-garden-4ff3.dueobei.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3363,22 +3363,22 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-sunny-bridge-a21b.jido4trc.workers.dev"
+                    "Host": "nova-mango-garden-4ff3.dueobei.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣6️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "173.245.59.132",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2a007a56-43c8-4a9a-b302-5f029d73ac54",
+            "uuid": "78ba02f7-1019-48d7-86be-2c8c8a73f6e4",
             "packet-encoding": "",
             "tls": true,
-            "servername": "o285FHX6a5AfVRYnI90s0DT6hxjNXW-D.TOKeTO6973.WOrKErS.Dev",
+            "servername": "nova-mango-garden-4ff3.dueobei.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3386,11 +3386,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZnhIWHlzWDRFenciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "o285fhx6a5afvryni90s0dt6hxjnxw-d.toketo6973.workers.dev"
+                    "Host": "nova-mango-garden-4ff3.dueobei.workers.dev"
                 }
             }
         },
