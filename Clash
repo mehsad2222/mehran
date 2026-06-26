@@ -3995,15 +3995,15 @@
         {
             "name": "0️⃣7️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "162.159.43.208",
+            "server": "31.133.0.49",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hriveo8wh39738u",
+            "uuid": "ebcaab9e-32ea-4cbb-830a-557f8524fcfa",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
+            "servername": "nova-swift-panel-5918.opio96n.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4013,22 +4013,22 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
+                    "Host": "nova-swift-panel-5918.opio96n.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "162.159.43.208",
+            "server": "31.133.0.250",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hriveo8wh39738u",
+            "uuid": "ebcaab9e-32ea-4cbb-830a-557f8524fcfa",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
+            "servername": "nova-swift-panel-5918.opio96n.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4038,7 +4038,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
+                    "Host": "nova-swift-panel-5918.opio96n.workers.dev"
                 }
             }
         },
