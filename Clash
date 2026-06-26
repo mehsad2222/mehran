@@ -1911,7 +1911,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a6aaa73b1f",
                 "headers": {
                     "Host": "nova-orbit-bridge-ce82.dji39ve.workers.dev"
                 }
@@ -1936,7 +1936,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a6aaa73b1f",
                 "headers": {
                     "Host": "nova-orbit-bridge-ce82.dji39ve.workers.dev"
                 }
@@ -1961,7 +1961,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=74c1dc88ae",
                 "headers": {
                     "Host": "nova-sunny-spark-8ef2.hdiribd.workers.dev"
                 }
@@ -1986,7 +1986,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=74c1dc88ae",
                 "headers": {
                     "Host": "nova-sunny-spark-8ef2.hdiribd.workers.dev"
                 }
@@ -2011,7 +2011,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a98c857c65",
                 "headers": {
                     "Host": "nova-luna-spark-2bbe.ue8h28b.workers.dev"
                 }
@@ -2036,7 +2036,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a98c857c65",
                 "headers": {
                     "Host": "nova-luna-spark-2bbe.ue8h28b.workers.dev"
                 }
@@ -2061,7 +2061,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=78ccae6df8",
                 "headers": {
                     "Host": "nova-river-stack-ee79.hdih382.workers.dev"
                 }
@@ -2086,7 +2086,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=78ccae6df8",
                 "headers": {
                     "Host": "nova-river-stack-ee79.hdih382.workers.dev"
                 }
@@ -2111,7 +2111,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=affcb8f899",
                 "headers": {
                     "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
                 }
@@ -2136,7 +2136,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=affcb8f899",
                 "headers": {
                     "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
                 }
