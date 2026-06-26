@@ -4345,15 +4345,15 @@
         {
             "name": "0️⃣8️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.17.26.100",
-            "port": 8443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "gjfkhkhkvckkkofc",
+            "uuid": "f548477c-e30d-4858-8de6-facc9b623ed9",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
+            "servername": "nova-falcon-core-706c.orj39bdl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4363,37 +4363,32 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
+                    "Host": "nova-falcon-core-706c.orj39bdl.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "37.1.195.124",
+            "server": "94.103.95.115",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "704b2947-37db-4937-9b89-451e7df62488",
+            "uuid": "f548477c-e30d-4858-8de6-facc9b623ed9",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6KsoEnp3w0Tfz7--10Bbq9r5w31GCqz7.IDhv48.wOrkERs.deV",
+            "servername": "nova-falcon-core-706c.orj39bdl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUU4wOGFDNTk1b0U3WmxQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "6ksoenp3w0tfz7--10bbq9r5w31gcqz7.idhv48.workers.dev"
+                    "Host": "nova-falcon-core-706c.orj39bdl.workers.dev"
                 }
             }
         },
