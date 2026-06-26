@@ -4125,10 +4125,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hriveo8wh39738u",
+            "uuid": "9a5efffa-988b-40cc-841e-93a723b5018f",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
+            "servername": "nova-swift-spark-c96b.iyitolvv65.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4138,7 +4138,7 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
+                    "Host": "nova-swift-spark-c96b.iyitolvv65.workers.dev"
                 }
             }
         },
