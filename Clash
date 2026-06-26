@@ -1661,7 +1661,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=34d8eff054",
                 "headers": {
                     "Host": "nova-comet-core-b197.jeib28bs.workers.dev"
                 }
@@ -1686,7 +1686,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=34d8eff054",
                 "headers": {
                     "Host": "nova-comet-core-b197.jeib28bs.workers.dev"
                 }
