@@ -4895,15 +4895,15 @@
         {
             "name": "0️⃣9️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
+            "server": "185.234.66.91",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "e1558176-e100-4069-8dac-6988bd852efa",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-river-garden-2705.optu6uv.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4911,24 +4911,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=922ce1aa9e",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-river-garden-2705.optu6uv.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣9️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "185.223.93.86",
-            "port": 443,
+            "server": "8.35.211.246",
+            "port": 2083,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "7ebba527-2f5b-49ee-8562-da8dbf95952e",
+            "uuid": "e1558176-e100-4069-8dac-6988bd852efa",
             "packet-encoding": "",
             "tls": true,
-            "servername": "TJy0u13fqkNgz14gLldJKenx8lB58MED.motAH32179.woRKers.dEV",
+            "servername": "nova-river-garden-2705.optu6uv.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4936,11 +4936,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNHVZNnpDaTRobUZTdiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/?u=922ce1aa9e",
                 "headers": {
-                    "Host": "tjy0u13fqkngz14glldjkenx8lb58med.motah32179.workers.dev"
+                    "Host": "nova-river-garden-2705.optu6uv.workers.dev"
                 }
             }
         },
