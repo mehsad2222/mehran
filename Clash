@@ -2161,7 +2161,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=1557242b8e",
                 "headers": {
                     "Host": "nova-orbit-bridge-2a34.jirbr8bek.workers.dev"
                 }
@@ -2186,7 +2186,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=1557242b8e",
                 "headers": {
                     "Host": "nova-orbit-bridge-2a34.jirbr8bek.workers.dev"
                 }
@@ -2211,7 +2211,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=aabc2267ed",
                 "headers": {
                     "Host": "nova-pearl-spark-ecc7.jud7ibit.workers.dev"
                 }
@@ -2236,7 +2236,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=aabc2267ed",
                 "headers": {
                     "Host": "nova-pearl-spark-ecc7.jud7ibit.workers.dev"
                 }
@@ -2261,7 +2261,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=40a6a1c84b",
                 "headers": {
                     "Host": "nova-mango-gate-3f6c.irb48jsp2.workers.dev"
                 }
@@ -2286,7 +2286,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=40a6a1c84b",
                 "headers": {
                     "Host": "nova-mango-gate-3f6c.irb48jsp2.workers.dev"
                 }
@@ -2311,7 +2311,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=9b75446683",
                 "headers": {
                     "Host": "nova-crystal-vault-5aa6.linoji4451.workers.dev"
                 }
@@ -2336,7 +2336,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=9b75446683",
                 "headers": {
                     "Host": "nova-crystal-vault-5aa6.linoji4451.workers.dev"
                 }
