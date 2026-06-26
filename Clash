@@ -2761,7 +2761,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=e43c671a1c",
                 "headers": {
                     "Host": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev"
                 }
@@ -2786,7 +2786,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=e43c671a1c",
                 "headers": {
                     "Host": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev"
                 }
@@ -2811,7 +2811,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=f4f6583b51",
                 "headers": {
                     "Host": "nova-atlas-garden-5107.jdoebowv.workers.dev"
                 }
@@ -2836,7 +2836,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=f4f6583b51",
                 "headers": {
                     "Host": "nova-atlas-garden-5107.jdoebowv.workers.dev"
                 }
@@ -2861,7 +2861,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=15aaf97680",
                 "headers": {
                     "Host": "nova-coral-portal-4c58.it84ixkb.workers.dev"
                 }
@@ -2886,7 +2886,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=15aaf97680",
                 "headers": {
                     "Host": "nova-coral-portal-4c58.it84ixkb.workers.dev"
                 }
@@ -2911,7 +2911,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=61b25d1f10",
                 "headers": {
                     "Host": "nova-swift-spark-3c12.jw872kd.workers.dev"
                 }
@@ -2936,7 +2936,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=61b25d1f10",
                 "headers": {
                     "Host": "nova-swift-spark-3c12.jw872kd.workers.dev"
                 }
@@ -2961,7 +2961,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=46357db98e",
                 "headers": {
                     "Host": "nova-river-gate-80ce.jifo6fy6i.workers.dev"
                 }
@@ -2986,7 +2986,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=46357db98e",
                 "headers": {
                     "Host": "nova-river-gate-80ce.jifo6fy6i.workers.dev"
                 }
@@ -3011,7 +3011,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=d1a620f12b",
                 "headers": {
                     "Host": "nova-luna-stack-c475.hd9ekjp3.workers.dev"
                 }
@@ -3036,7 +3036,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=d1a620f12b",
                 "headers": {
                     "Host": "nova-luna-stack-c475.hd9ekjp3.workers.dev"
                 }
@@ -3061,7 +3061,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=eda3ccd010",
                 "headers": {
                     "Host": "nova-crystal-panel-e6ff.jei4g9n3.workers.dev"
                 }
@@ -3086,7 +3086,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=eda3ccd010",
                 "headers": {
                     "Host": "nova-crystal-panel-e6ff.jei4g9n3.workers.dev"
                 }
@@ -3111,7 +3111,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=f24297d256",
                 "headers": {
                     "Host": "nova-sunny-bridge-a21b.jido4trc.workers.dev"
                 }
@@ -3136,7 +3136,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=f24297d256",
                 "headers": {
                     "Host": "nova-sunny-bridge-a21b.jido4trc.workers.dev"
                 }
