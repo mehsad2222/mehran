@@ -4445,15 +4445,15 @@
         {
             "name": "0️⃣8️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "94.103.95.115",
+            "server": "91.149.223.242",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "jdiekdojwkxibhdjdh",
+            "uuid": "2373a7ec-4fab-4c17-848e-111dbd240186",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-falcon-core-706c.orj39bdl.workers.dev",
+            "servername": "nova-turbo-panel-f016.xvvzhdoe.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4463,37 +4463,32 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-falcon-core-706c.orj39bdl.workers.dev"
+                    "Host": "nova-turbo-panel-f016.xvvzhdoe.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.172.72.83",
-            "port": 443,
+            "server": "104.17.127.4",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "9a819442-d285-46ec-9628-fed0add0b426",
+            "uuid": "2373a7ec-4fab-4c17-848e-111dbd240186",
             "packet-encoding": "",
             "tls": true,
-            "servername": "702j6PfuJQvTiOUP4VgisI2J5zGzO2bT.LiKOhOk731.WoRkeRs.DEv",
+            "servername": "nova-turbo-panel-f016.xvvzhdoe.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMElvZFk4UEtPZnlkeWxJeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "702j6pfujqvtioup4vgisi2j5zgzo2bt.likohok731.workers.dev"
+                    "Host": "nova-turbo-panel-f016.xvvzhdoe.workers.dev"
                 }
             }
         },
