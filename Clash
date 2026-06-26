@@ -4395,15 +4395,15 @@
         {
             "name": "0️⃣8️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.49",
-            "port": 2053,
+            "server": "104.16.244.220",
+            "port": 2083,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "95af751a-d287-48dd-b815-0204de423f6c",
+            "uuid": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf",
             "packet-encoding": "",
             "tls": true,
-            "servername": "78R5Twug0ve2PBUlTrYykzCqAApEmMOS.RIgexAD303.woRkeRS.deV",
+            "servername": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4411,26 +4411,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUnJOWGdIUnVkayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "78r5twug0ve2pbultryykzcqaapemmos.rigexad303.workers.dev"
+                    "Host": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.172.72.83",
+            "server": "104.16.254.62",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "95af751a-d287-48dd-b815-0204de423f6c",
+            "uuid": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf",
             "packet-encoding": "",
             "tls": true,
-            "servername": "78R5Twug0ve2PBUlTrYykzCqAApEmMOS.RIgexAD303.woRkeRS.deV",
+            "servername": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4438,41 +4436,34 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUnJOWGdIUnVkayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "78r5twug0ve2pbultryykzcqaapemmos.rigexad303.workers.dev"
+                    "Host": "2fac1abf-b965-44f1-8a8d-4e45a30f97cf"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.70",
-            "port": 2053,
+            "server": "94.103.95.115",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "9a819442-d285-46ec-9628-fed0add0b426",
+            "uuid": "jdiekdojwkxibhdjdh",
             "packet-encoding": "",
             "tls": true,
-            "servername": "702j6PfuJQvTiOUP4VgisI2J5zGzO2bT.LiKOhOk731.WoRkeRs.DEv",
+            "servername": "nova-falcon-core-706c.orj39bdl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMElvZFk4UEtPZnlkeWxJeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "702j6pfujqvtioup4vgisi2j5zgzo2bt.likohok731.workers.dev"
+                    "Host": "nova-falcon-core-706c.orj39bdl.workers.dev"
                 }
             }
         },
@@ -4509,30 +4500,25 @@
         {
             "name": "0️⃣8️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.70",
-            "port": 2053,
+            "server": "94.103.95.115",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "af242904-886f-4fc8-b657-6238b23f8f57",
+            "uuid": "jdiekdojwkxibhdjdh",
             "packet-encoding": "",
             "tls": true,
-            "servername": "68-Z73--5LdCoQmwxSjnjpP4WZzLiCk5.hUdY5Td.WoRkErs.dev",
+            "servername": "nova-falcon-core-706c.orj39bdl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWldjd0h1YlciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "68-z73--5ldcoqmwxsjnjpp4wzzlick5.hudy5td.workers.dev"
+                    "Host": "nova-falcon-core-706c.orj39bdl.workers.dev"
                 }
             }
         },
@@ -4569,30 +4555,25 @@
         {
             "name": "0️⃣8️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.250",
-            "port": 2053,
+            "server": "94.103.95.115",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c2cb25d9-7be6-46c8-9253-b7bfdcbd5483",
+            "uuid": "jdiekdojwkxibhdjdh",
             "packet-encoding": "",
             "tls": true,
-            "servername": "pMu4G0p6pWdYBe0VTdASavkq4OpO8K7J.caYiVoH900.wOrKeRS.dEv",
+            "servername": "nova-falcon-core-706c.orj39bdl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoid0RuaEVHZTJqRkFndiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "pmu4g0p6pwdybe0vtdasavkq4opo8k7j.cayivoh900.workers.dev"
+                    "Host": "nova-falcon-core-706c.orj39bdl.workers.dev"
                 }
             }
         },
@@ -4629,15 +4610,15 @@
         {
             "name": "0️⃣9️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.70",
-            "port": 2053,
+            "server": "94.103.95.115",
+            "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "bb5aa6e2-2e70-4df8-a035-47d9b02e5b89",
+            "uuid": "jdiekdojwkxibhdjdh",
             "packet-encoding": "",
             "tls": true,
-            "servername": "79hV3PWbZ5pFN9dRJx1a97Y78Ms9yjw3.FOXOdOr164.wOrkErs.dEv",
+            "servername": "nova-falcon-core-706c.orj39bdl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4645,11 +4626,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUlFSc29DM1QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "79hv3pwbz5pfn9drjx1a97y78ms9yjw3.foxodor164.workers.dev"
+                    "Host": "nova-falcon-core-706c.orj39bdl.workers.dev"
                 }
             }
         },
