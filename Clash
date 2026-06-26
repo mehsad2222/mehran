@@ -517,7 +517,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=89567ba646",
                 "headers": {
                     "Host": "nova-falcon-garden-8d9c.jeib38b.workers.dev"
                 }
@@ -542,7 +542,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=89567ba646",
                 "headers": {
                     "Host": "nova-falcon-garden-8d9c.jeib38b.workers.dev"
                 }
