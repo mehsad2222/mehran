@@ -4145,75 +4145,65 @@
         {
             "name": "0️⃣8️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "5.61.32.232",
-            "port": 443,
+            "server": "104.17.26.100",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "37376084-6c00-459b-9aa6-9f42aba07172",
+            "uuid": "2bfb569a-dce2-4db8-8759-313f5e013cd2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vh5Ip3pGKT8-gPJOl4Y7TGwRi41iYqU2.JdiVei37b.woRKERS.DEV",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZ3lPWG5lOFlaRUc0NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "vh5ip3pgkt8-gpjol4y7tgwri41iyqu2.jdivei37b.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.172.71.51",
-            "port": 444,
+            "server": "8.39.125.236",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "37376084-6c00-459b-9aa6-9f42aba07172",
+            "uuid": "2bfb569a-dce2-4db8-8759-313f5e013cd2",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vh5Ip3pGKT8-gPJOl4Y7TGwRi41iYqU2.JdiVei37b.woRKERS.DEV",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZ3lPWG5lOFlaRUc0NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "vh5ip3pgkt8-gpjol4y7tgwri41iyqu2.jdivei37b.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "104.17.26.100",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "bd700cf4-bba2-42a1-9b66-f476b0f968e7",
+            "uuid": "gjfkhkhkvckkkofc",
             "packet-encoding": "",
             "tls": true,
-            "servername": "pgtMf4mwHKnzvg1HxPhk931jcFlp72d9.jIgeb17899.WorkErS.deV",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4221,26 +4211,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaXZrWjZKS05VRFVXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "pgtmf4mwhknzvg1hxphk931jcflp72d9.jigeb17899.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "185.234.66.91",
-            "port": 443,
+            "server": "104.17.26.100",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "bd700cf4-bba2-42a1-9b66-f476b0f968e7",
+            "uuid": "gjfkhkhkvckkkofc",
             "packet-encoding": "",
             "tls": true,
-            "servername": "pgtMf4mwHKnzvg1HxPhk931jcFlp72d9.jIgeb17899.WorkErS.deV",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4248,26 +4236,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaXZrWjZKS05VRFVXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "pgtmf4mwhknzvg1hxphk931jcflp72d9.jigeb17899.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "109.237.97.1",
-            "port": 443,
+            "server": "104.17.26.100",
+            "port": 8443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "8d2ca394-31ed-4b91-bee5-492af2882302",
+            "uuid": "gjfkhkhkvckkkofc",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jflfKkJjS22OzACbYQ4bdRe0740gNl9r.uISG28Y.woRkErs.dEV",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4275,26 +4261,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoib3NqZFVWMWoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "jflfkkjjs22ozacbyq4bdre0740gnl9r.uisg28y.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "92.51.36.219",
-            "port": 2053,
+            "server": "104.17.26.100",
+            "port": 8443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "8d2ca394-31ed-4b91-bee5-492af2882302",
+            "uuid": "gjfkhkhkvckkkofc",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jflfKkJjS22OzACbYQ4bdRe0740gNl9r.uISG28Y.woRkErs.dEV",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4302,26 +4286,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoib3NqZFVWMWoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "jflfkkjjs22ozacbyq4bdre0740gnl9r.uisg28y.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "185.234.66.91",
-            "port": 443,
+            "server": "104.17.26.100",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b9a5020b-a126-46e1-a94e-4b5a751c014d",
+            "uuid": "gjfkhkhkvckkkofc",
             "packet-encoding": "",
             "tls": true,
-            "servername": "7Jf965z8SdtrnM9k6461893Rx7u9BY5s.gasejiw351.wORkers.DEv",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4329,26 +4311,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTGlLbkFnSE84eFpyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "7jf965z8sdtrnm9k6461893rx7u9by5s.gasejiw351.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.89.52.85",
-            "port": 443,
+            "server": "104.17.26.100",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b9a5020b-a126-46e1-a94e-4b5a751c014d",
+            "uuid": "gjfkhkhkvckkkofc",
             "packet-encoding": "",
             "tls": true,
-            "servername": "7Jf965z8SdtrnM9k6461893Rx7u9BY5s.gasejiw351.wORkers.DEv",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4356,41 +4336,34 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTGlLbkFnSE84eFpyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "7jf965z8sdtrnm9k6461893rx7u9by5s.gasejiw351.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.49",
-            "port": 2053,
+            "server": "104.17.26.100",
+            "port": 8443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "704b2947-37db-4937-9b89-451e7df62488",
+            "uuid": "gjfkhkhkvckkkofc",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6KsoEnp3w0Tfz7--10Bbq9r5w31GCqz7.IDhv48.wOrkERs.deV",
+            "servername": "nova-orbit-panel-4498.mljlkloll3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUU4wOGFDNTk1b0U3WmxQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "6ksoenp3w0tfz7--10bbq9r5w31gcqz7.idhv48.workers.dev"
+                    "Host": "nova-orbit-panel-4498.mljlkloll3.workers.dev"
                 }
             }
         },
