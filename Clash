@@ -2711,7 +2711,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=70340314f6",
                 "headers": {
                     "Host": "nova-crystal-garden-85df.diu38bdie.workers.dev"
                 }
@@ -2736,7 +2736,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=70340314f6",
                 "headers": {
                     "Host": "nova-crystal-garden-85df.diu38bdie.workers.dev"
                 }
