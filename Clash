@@ -4550,10 +4550,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "jdiekdojwkxibhdjdh",
+            "uuid": "450ecc2b-2db7-49d2-82e4-6c302321bbcd",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-falcon-core-706c.orj39bdl.workers.dev",
+            "servername": "nova-comet-panel-e722.oogif69b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4563,37 +4563,32 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-falcon-core-706c.orj39bdl.workers.dev"
+                    "Host": "nova-comet-panel-e722.oogif69b.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.45",
-            "port": 2053,
+            "server": "104.19.49.107",
+            "port": 2087,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c2cb25d9-7be6-46c8-9253-b7bfdcbd5483",
+            "uuid": "450ecc2b-2db7-49d2-82e4-6c302321bbcd",
             "packet-encoding": "",
             "tls": true,
-            "servername": "pMu4G0p6pWdYBe0VTdASavkq4OpO8K7J.caYiVoH900.wOrKeRS.dEv",
+            "servername": "nova-comet-panel-e722.oogif69b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoid0RuaEVHZTJqRkFndiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "pmu4g0p6pwdybe0vtdasavkq4opo8k7j.cayivoh900.workers.dev"
+                    "Host": "nova-comet-panel-e722.oogif69b.workers.dev"
                 }
             }
         },
