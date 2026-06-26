@@ -3095,15 +3095,15 @@
         {
             "name": "0️⃣6️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.172.72.83",
-            "port": 443,
+            "server": "104.16.149.34",
+            "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65bfa2e1-5ab1-4abf-8ffa-de01794a27f7",
+            "uuid": "4fee708a-175c-41ae-8330-070c2dec9bd9",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-portal-0c0c.ueibdi27.workers.dev",
+            "servername": "nova-sunny-bridge-a21b.jido4trc.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3113,37 +3113,32 @@
             "ws-opts": {
                 "path": "/",
                 "headers": {
-                    "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
+                    "Host": "nova-sunny-bridge-a21b.jido4trc.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣6️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.61.32.232",
-            "port": 443,
+            "server": "173.245.59.71",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "627eafa3-481f-406c-ae6c-ed5b16bbcff5",
+            "uuid": "4fee708a-175c-41ae-8330-070c2dec9bd9",
             "packet-encoding": "",
             "tls": true,
-            "servername": "NgjL9jaz7zM6y6ecma7cpH1jd4lWnytR.ie84Go.workERs.deV",
+            "servername": "nova-sunny-bridge-a21b.jido4trc.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiT0lKZlBxYjQyYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "ngjl9jaz7zm6y6ecma7cph1jd4lwnytr.ie84go.workers.dev"
+                    "Host": "nova-sunny-bridge-a21b.jido4trc.workers.dev"
                 }
             }
         },
