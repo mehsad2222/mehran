@@ -1383,7 +1383,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=11368d2d9c",
                 "headers": {
                     "Host": "nova-pearl-node-a8b2.jdige8he.workers.dev"
                 }
@@ -1408,7 +1408,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=11368d2d9c",
                 "headers": {
                     "Host": "nova-pearl-node-a8b2.jdige8he.workers.dev"
                 }
