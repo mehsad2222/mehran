@@ -1067,7 +1067,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=858f8789aa",
                 "headers": {
                     "Host": "nova-river-vault-4e05.jsoge82ovd.workers.dev"
                 }
@@ -1092,7 +1092,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=858f8789aa",
                 "headers": {
                     "Host": "nova-river-vault-4e05.jsoge82ovd.workers.dev"
                 }
