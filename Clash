@@ -4945,15 +4945,15 @@
         {
             "name": "0️⃣9️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "ff483ce8-def2-463e-8ffc-1ce68dc6ed4a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-luna-garden-4afe.ie93hod.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4961,24 +4961,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=2eb3d63697",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-luna-garden-4afe.ie93hod.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣9️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "198.41.208.71",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "ff483ce8-def2-463e-8ffc-1ce68dc6ed4a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-luna-garden-4afe.ie93hod.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4986,9 +4986,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=2eb3d63697",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-luna-garden-4afe.ie93hod.workers.dev"
                 }
             }
         },
