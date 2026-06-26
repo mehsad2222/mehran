@@ -4461,7 +4461,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=6efd4767ed",
                 "headers": {
                     "Host": "nova-turbo-panel-f016.xvvzhdoe.workers.dev"
                 }
@@ -4486,7 +4486,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=6efd4767ed",
                 "headers": {
                     "Host": "nova-turbo-panel-f016.xvvzhdoe.workers.dev"
                 }
@@ -4511,7 +4511,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a1c7d5eb7c",
                 "headers": {
                     "Host": "nova-turbo-portal-8930.ouf98ogot.workers.dev"
                 }
@@ -4536,7 +4536,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a1c7d5eb7c",
                 "headers": {
                     "Host": "nova-turbo-portal-8930.ouf98ogot.workers.dev"
                 }
@@ -4561,7 +4561,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a263e1e7b7",
                 "headers": {
                     "Host": "nova-comet-panel-e722.oogif69b.workers.dev"
                 }
@@ -4586,7 +4586,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a263e1e7b7",
                 "headers": {
                     "Host": "nova-comet-panel-e722.oogif69b.workers.dev"
                 }
@@ -4611,7 +4611,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=4cdb26066f",
                 "headers": {
                     "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
@@ -4636,7 +4636,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=4cdb26066f",
                 "headers": {
                     "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
@@ -4661,7 +4661,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=3436ab00d3",
                 "headers": {
                     "Host": "nova-turbo-bridge-b24a.oro48bdk.workers.dev"
                 }
@@ -4686,7 +4686,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=3436ab00d3",
                 "headers": {
                     "Host": "nova-turbo-bridge-b24a.oro48bdk.workers.dev"
                 }
@@ -4711,7 +4711,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=cebe59af39",
                 "headers": {
                     "Host": "nova-turbo-core-adb5.opipgvo6r.workers.dev"
                 }
@@ -4736,7 +4736,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=cebe59af39",
                 "headers": {
                     "Host": "nova-turbo-core-adb5.opipgvo6r.workers.dev"
                 }
