@@ -3645,375 +3645,315 @@
         {
             "name": "0️⃣7️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.153.187.209",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "3416dbb7-2baf-48a5-ad3f-1cb47547352d",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "o9Fg-Ednkxfb67sg-4b4J-R1GKxnIzkF.MEhek28409.WoRKeRS.DeV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRDdvcXVIanYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "o9fg-ednkxfb67sg-4b4j-r1gkxnizkf.mehek28409.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.196.27.246",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "3416dbb7-2baf-48a5-ad3f-1cb47547352d",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "o9Fg-Ednkxfb67sg-4b4J-R1GKxnIzkF.MEhek28409.WoRKeRS.DeV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRDdvcXVIanYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "o9fg-ednkxfb67sg-4b4j-r1gkxnizkf.mehek28409.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "32763728-06d6-4328-9729-bf1051b9a7e6",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "2Y69iZDEjm3Zo47hB0g448WHalnC6T75.YIYek94973.WorkeRs.deV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoieVdQSnhVa0hWRURtSVFYSSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "2y69izdejm3zo47hb0g448whalnc6t75.yiyek94973.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.196.27.246",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "32763728-06d6-4328-9729-bf1051b9a7e6",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "2Y69iZDEjm3Zo47hB0g448WHalnC6T75.YIYek94973.WorkeRs.deV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoieVdQSnhVa0hWRURtSVFYSSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "2y69izdejm3zo47hb0g448whalnc6t75.yiyek94973.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f71e691d-f00b-43b6-b34d-40c4af094e98",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "aFh1sTlYQJRVlOzL1-l1LJHMYe33p548.piyOXa4055.woRKeRs.dEV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoid2Z3Z29xTWN0eCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "afh1stlyqjrvlozl1-l1ljhmye33p548.piyoxa4055.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.225.34.155",
-            "port": 443,
+            "server": "162.159.43.208",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f71e691d-f00b-43b6-b34d-40c4af094e98",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "aFh1sTlYQJRVlOzL1-l1LJHMYe33p548.piyOXa4055.woRKeRs.dEV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoid2Z3Z29xTWN0eCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "afh1stlyqjrvlozl1-l1ljhmye33p548.piyoxa4055.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "70f41a23-2371-483a-ba70-12dca2e67ad4",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Szi-3BjX9dcGqMOCnVNykQJpiOYuT7PE.bAPOc14263.WOrkeRS.DEV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoic0g5bkNWNFFOaTUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "szi-3bjx9dcgqmocnvnykqjpioyut7pe.bapoc14263.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "70f41a23-2371-483a-ba70-12dca2e67ad4",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Szi-3BjX9dcGqMOCnVNykQJpiOYuT7PE.bAPOc14263.WOrkeRS.DEV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoic0g5bkNWNFFOaTUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "szi-3bjx9dcgqmocnvnykqjpioyut7pe.bapoc14263.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "22898122-874b-4ec3-ab30-4cf9416ffc77",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "dJM9lJ23wTqWZ9uvgWmJMuf4tAg0E9rJ.XOLiSEL438.WorkerS.dEv",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNlExdzhSWFNxb0VxS0QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "djm9lj23wtqwz9uvgwmjmuf4tag0e9rj.xolisel438.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "89.111.172.106",
-            "port": 8443,
+            "server": "162.159.43.208",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "22898122-874b-4ec3-ab30-4cf9416ffc77",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "dJM9lJ23wTqWZ9uvgWmJMuf4tAg0E9rJ.XOLiSEL438.WorkerS.dEv",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNlExdzhSWFNxb0VxS0QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "djm9lj23wtqwz9uvgwmjmuf4tag0e9rj.xolisel438.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f2987d98-6659-45a3-adce-91fa1d73e50c",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "5O3DcnrhC6vGL2Uv07g8Z-xTQjhe8AJ7.SewIXEr664.WORKeRS.DEv",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR2lPMUVYYTZQdlkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "5o3dcnrhc6vgl2uv07g8z-xtqjhe8aj7.sewixer664.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "194.67.204.158",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f2987d98-6659-45a3-adce-91fa1d73e50c",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "5O3DcnrhC6vGL2Uv07g8Z-xTQjhe8AJ7.SewIXEr664.WORKeRS.DEv",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR2lPMUVYYTZQdlkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "5o3dcnrhc6vgl2uv07g8z-xtqjhe8aj7.sewixer664.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "188.114.96.3",
-            "port": 2096,
+            "server": "162.159.43.208",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b86be286-b68c-4064-95c2-dc2b7fe41123",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Cyd4rlhYGuTAtBD8tO-yW8yh7c9B-fA7.NOJav70947.wORkERS.dEv",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4021,26 +3961,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTFJaSmowakIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "cyd4rlhygutatbd8to-yw8yh7c9b-fa7.nojav70947.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.114.96.3",
-            "port": 2096,
+            "server": "162.159.43.208",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b86be286-b68c-4064-95c2-dc2b7fe41123",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Cyd4rlhYGuTAtBD8tO-yW8yh7c9B-fA7.NOJav70947.wORkERS.dEv",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4048,26 +3986,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTFJaSmowakIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "cyd4rlhygutatbd8to-yw8yh7c9b-fa7.nojav70947.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "5.61.39.183",
-            "port": 443,
+            "server": "162.159.43.208",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "e3123e2a-677b-44eb-b6fb-7cb67bce38f1",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OPFbce202U8RLeDj-FMwr513tiHWhI-m.gajAx37233.WorKERS.DeV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4075,26 +4011,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoianpBV1lJb2UzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "opfbce202u8rledj-fmwr513tihwhi-m.gajax37233.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.89.52.85",
-            "port": 443,
+            "server": "162.159.43.208",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "e3123e2a-677b-44eb-b6fb-7cb67bce38f1",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OPFbce202U8RLeDj-FMwr513tiHWhI-m.gajAx37233.WorKERS.DeV",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4102,26 +4036,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoianpBV1lJb2UzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "opfbce202u8rledj-fmwr513tihwhi-m.gajax37233.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "188.114.96.3",
-            "port": 2096,
+            "server": "162.159.43.208",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "5b104fd5-c9af-429a-8af1-450f5436804b",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "yAWA7W7R4Ot1FOtndZFd4yvblRcM0Bx5.mamod77831.WORKERS.Dev",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4129,26 +4061,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN2puNURyRXQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "yawa7w7r4ot1fotndzfd4yvblrcm0bx5.mamod77831.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣7️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.132.192.195",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "5b104fd5-c9af-429a-8af1-450f5436804b",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "yAWA7W7R4Ot1FOtndZFd4yvblRcM0Bx5.mamod77831.WORKERS.Dev",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4156,26 +4086,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN2puNURyRXQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "yawa7w7r4ot1fotndzfd4yvblrcm0bx5.mamod77831.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "188.114.96.3",
-            "port": 2096,
+            "server": "162.159.43.208",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "8e104660-dd62-4f45-af3e-458ea18e501a",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "8rXOp-eC88YTH9SZQNkWk06v06n-9FqK.RiRAB87139.worKers.dev",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4183,26 +4111,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR0pNUG9xblYwSTdxeVgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "8rxop-ec88yth9szqnkwk06v06n-9fqk.rirab87139.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣8️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.132.192.190",
+            "server": "162.159.43.208",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "8e104660-dd62-4f45-af3e-458ea18e501a",
+            "uuid": "hriveo8wh39738u",
             "packet-encoding": "",
             "tls": true,
-            "servername": "8rXOp-eC88YTH9SZQNkWk06v06n-9FqK.RiRAB87139.worKers.dev",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4210,11 +4136,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR0pNUG9xblYwSTdxeVgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "8rxop-ec88yth9szqnkwk06v06n-9fqk.rirab87139.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
