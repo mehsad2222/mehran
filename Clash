@@ -1117,7 +1117,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=3f80226629",
                 "headers": {
                     "Host": "nova-swift-garden-66b4.udieb28.workers.dev"
                 }
@@ -1142,7 +1142,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=3f80226629",
                 "headers": {
                     "Host": "nova-swift-garden-66b4.udieb28.workers.dev"
                 }
