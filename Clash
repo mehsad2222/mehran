@@ -10819,7 +10819,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=7d958b1bc9",
                 "headers": {
                     "Host": "nova-comet-spark-9a43.16738jsjbx.workers.dev"
                 }
@@ -10844,7 +10844,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=7d958b1bc9",
                 "headers": {
                     "Host": "nova-comet-spark-9a43.16738jsjbx.workers.dev"
                 }
