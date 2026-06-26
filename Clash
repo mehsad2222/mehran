@@ -567,7 +567,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=50d2f79186",
                 "headers": {
                     "Host": "nova-comet-bridge-fb35.jforbo47sk.workers.dev"
                 }
@@ -592,7 +592,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=50d2f79186",
                 "headers": {
                     "Host": "nova-comet-bridge-fb35.jforbo47sk.workers.dev"
                 }
