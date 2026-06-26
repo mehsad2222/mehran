@@ -1761,7 +1761,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=f2fc5c6ef0",
                 "headers": {
                     "Host": "nova-swift-panel-e20f.hdiei28h.workers.dev"
                 }
@@ -1786,7 +1786,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=f2fc5c6ef0",
                 "headers": {
                     "Host": "nova-swift-panel-e20f.hdiei28h.workers.dev"
                 }
@@ -1811,7 +1811,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=23d7bbffe6",
                 "headers": {
                     "Host": "nova-orbit-spark-82e3.jdib38bs.workers.dev"
                 }
@@ -1836,7 +1836,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=23d7bbffe6",
                 "headers": {
                     "Host": "nova-orbit-spark-82e3.jdib38bs.workers.dev"
                 }
@@ -1861,7 +1861,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=0926523623",
                 "headers": {
                     "Host": "nova-sunny-spark-755c.ue839v.workers.dev"
                 }
@@ -1886,7 +1886,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=0926523623",
                 "headers": {
                     "Host": "nova-sunny-spark-755c.ue839v.workers.dev"
                 }
