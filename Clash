@@ -2361,7 +2361,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=75d0a9c495",
                 "headers": {
                     "Host": "nova-turbo-portal-3902.ueb38bl.workers.dev"
                 }
@@ -2386,7 +2386,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=75d0a9c495",
                 "headers": {
                     "Host": "nova-turbo-portal-3902.ueb38bl.workers.dev"
                 }
@@ -2411,7 +2411,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=7646aaa2f7",
                 "headers": {
                     "Host": "nova-comet-vault-fa40.ieobxkp7.workers.dev"
                 }
@@ -2436,7 +2436,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=7646aaa2f7",
                 "headers": {
                     "Host": "nova-comet-vault-fa40.ieobxkp7.workers.dev"
                 }
@@ -2461,7 +2461,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=43f20a496b",
                 "headers": {
                     "Host": "nova-turbo-stack-063d.hdug38v.workers.dev"
                 }
@@ -2486,7 +2486,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=43f20a496b",
                 "headers": {
                     "Host": "nova-turbo-stack-063d.hdug38v.workers.dev"
                 }
@@ -2511,7 +2511,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=ad2cb5c2ce",
                 "headers": {
                     "Host": "nova-sunny-wave-b2da.udp29vd.workers.dev"
                 }
@@ -2536,7 +2536,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=ad2cb5c2ce",
                 "headers": {
                     "Host": "nova-sunny-wave-b2da.udp29vd.workers.dev"
                 }
@@ -2561,7 +2561,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=12cadabd65",
                 "headers": {
                     "Host": "nova-crystal-node-b6f9.ijhueodb8.workers.dev"
                 }
@@ -2586,7 +2586,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=12cadabd65",
                 "headers": {
                     "Host": "nova-crystal-node-b6f9.ijhueodb8.workers.dev"
                 }
@@ -2611,7 +2611,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=eff413be9e",
                 "headers": {
                     "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
                 }
@@ -2636,7 +2636,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=eff413be9e",
                 "headers": {
                     "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
                 }
