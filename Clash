@@ -2661,7 +2661,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=883eed7865",
                 "headers": {
                     "Host": "nova-river-vault-ff5d.hickgpg9.workers.dev"
                 }
@@ -2686,7 +2686,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=883eed7865",
                 "headers": {
                     "Host": "nova-river-vault-ff5d.hickgpg9.workers.dev"
                 }
