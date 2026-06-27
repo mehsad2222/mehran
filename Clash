@@ -767,7 +767,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=6494da537b",
                 "headers": {
                     "Host": "nova-coral-wave-bbc6.hdievuwv.workers.dev"
                 }
@@ -792,7 +792,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=6494da537b",
                 "headers": {
                     "Host": "nova-coral-wave-bbc6.hdievuwv.workers.dev"
                 }
