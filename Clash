@@ -3595,12 +3595,12 @@
         {
             "name": "0️⃣7️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "162.159.43.208",
-            "port": 2053,
+            "server": "104.17.218.154",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1716e31e-bc7d-4f8e-8439-3de16dd5a6f0",
+            "uuid": "f47d3ac1-6ac9-4cc7-87aa-fa4f0454bdb8",
             "packet-encoding": "",
             "tls": true,
             "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
@@ -3611,7 +3611,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=be4cd53a48",
                 "headers": {
                     "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
@@ -3620,12 +3620,12 @@
         {
             "name": "0️⃣7️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.17.148.34",
-            "port": 2053,
+            "server": "104.17.127.214",
+            "port": 2087,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1716e31e-bc7d-4f8e-8439-3de16dd5a6f0",
+            "uuid": "f47d3ac1-6ac9-4cc7-87aa-fa4f0454bdb8",
             "packet-encoding": "",
             "tls": true,
             "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
@@ -3636,7 +3636,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=be4cd53a48",
                 "headers": {
                     "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
