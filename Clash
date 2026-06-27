@@ -601,15 +601,15 @@
         {
             "name": "0️⃣1️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.250",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7dc5ff9c-1edc-4151-8cd6-f4281737ca53",
+            "uuid": "f1e4428c-be14-4581-89ad-055cbc11552c",
             "packet-encoding": "",
             "tls": true,
-            "servername": "O-7ni5Ob5zM1s2JL19hl1s1N8gjBJKRV.Id838dH3.wOrkERs.DeV",
+            "servername": "nova-swift-core-93e8.jdiebi3i.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -617,9 +617,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoib0RPZHFyRGYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/?u=955c569b9a",
                 "headers": {
-                    "Host": "o-7ni5ob5zm1s2jl19hl1s1n8gjbjkrv.id838dh3.workers.dev"
+                    "Host": "nova-swift-core-93e8.jdiebi3i.workers.dev"
                 }
             }
         },
@@ -631,10 +631,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7dc5ff9c-1edc-4151-8cd6-f4281737ca53",
+            "uuid": "f1e4428c-be14-4581-89ad-055cbc11552c",
             "packet-encoding": "",
             "tls": true,
-            "servername": "O-7ni5Ob5zM1s2JL19hl1s1N8gjBJKRV.Id838dH3.wOrkERs.DeV",
+            "servername": "nova-swift-core-93e8.jdiebi3i.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -642,9 +642,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoib0RPZHFyRGYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/?u=955c569b9a",
                 "headers": {
-                    "Host": "o-7ni5ob5zm1s2jl19hl1s1n8gjbjkrv.id838dh3.workers.dev"
+                    "Host": "nova-swift-core-93e8.jdiebi3i.workers.dev"
                 }
             }
         },
