@@ -10648,15 +10648,15 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "91.149.223.242",
+            "server": "37.1.195.124",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65bfa2e1-5ab1-4abf-8ffa-de01794a27f7",
+            "uuid": "e1b05fa9-c14d-49f4-8d6f-1d2df0b23713",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-portal-0c0c.ueibdi27.workers.dev",
+            "servername": "nova-crystal-garden-85df.diu38bdie.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10664,24 +10664,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=eff413be9e",
+                "path": "/?u=70340314f6",
                 "headers": {
-                    "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
+                    "Host": "nova-crystal-garden-85df.diu38bdie.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
-            "server": "104.19.150.160",
-            "port": 8443,
+            "server": "18.197.218.69",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "70222d16-f9f4-413c-83e0-b97399cd27d2",
+            "uuid": "c2216bc6-e6af-477b-87a5-c960e22cd4e1",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-vault-ff5d.hickgpg9.workers.dev",
+            "servername": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10689,9 +10689,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=883eed7865",
+                "path": "/?u=e43c671a1c",
                 "headers": {
-                    "Host": "nova-river-vault-ff5d.hickgpg9.workers.dev"
+                    "Host": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev"
                 }
             }
         },
