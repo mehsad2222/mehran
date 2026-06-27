@@ -167,7 +167,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=b8605b91c9",
                 "headers": {
                     "Host": "nova-sunny-wave-d61a.irob39b.workers.dev"
                 }
@@ -192,7 +192,7 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=b8605b91c9",
                 "headers": {
                     "Host": "nova-sunny-wave-d61a.irob39b.workers.dev"
                 }
