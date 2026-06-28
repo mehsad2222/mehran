@@ -656,10 +656,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "cb77c073-b134-42b5-bd3a-365c1a9a1a06",
+            "uuid": "a89d0262-8db2-0843-6c1e-0eb700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "8olSRrin09w6Bo6TMv4848q7JJELG877.iDO38dhi.woRkeRs.dEv",
+            "servername": "nahan-yw002l.dgt5rhyg.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -667,24 +667,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSkl2MkRMd1p5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/odhwoge",
                 "headers": {
-                    "Host": "8olsrrin09w6bo6tmv4848q7jjelg877.ido38dhi.workers.dev"
+                    "Host": "nahan-yw002l.dgt5rhyg.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣1️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "18.184.27.249",
+            "server": "18.197.218.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "cb77c073-b134-42b5-bd3a-365c1a9a1a06",
+            "uuid": "a89d0262-8db2-0843-6c1e-0eb700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "8olSRrin09w6Bo6TMv4848q7JJELG877.iDO38dhi.woRkeRs.dEv",
+            "servername": "nahan-yw002l.dgt5rhyg.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -692,9 +692,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSkl2MkRMd1p5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/odhwoge",
                 "headers": {
-                    "Host": "8olsrrin09w6bo6tmv4848q7jjelg877.ido38dhi.workers.dev"
+                    "Host": "nahan-yw002l.dgt5rhyg.workers.dev"
                 }
             }
         },
