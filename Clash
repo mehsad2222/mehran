@@ -1313,15 +1313,15 @@
         {
             "name": "0️⃣2️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "188.225.34.155",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b96d4062-2d08-4570-9489-08fffd367ec6",
+            "uuid": "69e8b279-0702-ddf4-bba3-92ec00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Fes6qj4SA93Tx18cD5WCYmJAUAxUcR9Y.gUd6Ruv.worKErs.DeV",
+            "servername": "nahan-f4765x.idob38sh.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1329,26 +1329,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNzFRU2RMSExVdzhGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pwpe9hd92",
                 "headers": {
-                    "Host": "fes6qj4sa93tx18cd5wcymjauaxucr9y.gud6ruv.workers.dev"
+                    "Host": "nahan-f4765x.idob38sh.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣2️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.103",
-            "port": 2053,
+            "server": "185.234.66.91",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b96d4062-2d08-4570-9489-08fffd367ec6",
+            "uuid": "69e8b279-0702-ddf4-bba3-92ec00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Fes6qj4SA93Tx18cD5WCYmJAUAxUcR9Y.gUd6Ruv.worKErs.DeV",
+            "servername": "nahan-f4765x.idob38sh.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1356,11 +1354,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNzFRU2RMSExVdzhGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pwpe9hd92",
                 "headers": {
-                    "Host": "fes6qj4sa93tx18cd5wcymjauaxucr9y.gud6ruv.workers.dev"
+                    "Host": "nahan-f4765x.idob38sh.workers.dev"
                 }
             }
         },
