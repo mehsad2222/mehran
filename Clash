@@ -1154,12 +1154,12 @@
             "server": "31.133.0.122",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": false,
+            "tfo": true,
             "udp": false,
-            "uuid": "480771fc-3552-474c-94b7-f03c83768fdb",
+            "uuid": "2e8dd5af-8a10-1a5b-fa9f-908a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "kQNDy8FiTZlu1-NwekVE5x7KTzX1aQHt.idi38hdie.WOrkErs.dEV",
+            "servername": "nahan-qvapav.iuytv765vh.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1167,26 +1167,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMmdQeG1DMzJoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/jdobskv38b",
                 "headers": {
-                    "Host": "kqndy8fitzlu1-nwekve5x7ktzx1aqht.idi38hdie.workers.dev"
+                    "Host": "nahan-qvapav.iuytv765vh.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣2️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.10.214.29",
+            "server": "103.160.204.34",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": false,
+            "tfo": true,
             "udp": false,
-            "uuid": "480771fc-3552-474c-94b7-f03c83768fdb",
+            "uuid": "2e8dd5af-8a10-1a5b-fa9f-908a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "kQNDy8FiTZlu1-NwekVE5x7KTzX1aQHt.idi38hdie.WOrkErs.dEV",
+            "servername": "nahan-qvapav.iuytv765vh.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1194,11 +1192,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMmdQeG1DMzJoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/jdobskv38b",
                 "headers": {
-                    "Host": "kqndy8fitzlu1-nwekve5x7ktzx1aqht.idi38hdie.workers.dev"
+                    "Host": "nahan-qvapav.iuytv765vh.workers.dev"
                 }
             }
         },
