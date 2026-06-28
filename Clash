@@ -356,10 +356,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f6a64d5c-e7db-47d1-8037-54ae03438664",
+            "uuid": "0e385546-6806-cffc-1312-945600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ZTao97vEwclt3JGYt5-QcT5Fs4Mnk04L.HFhGig75Tuuh.wOrkers.DEV",
+            "servername": "nahan-c399qh.hdiev82b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -367,24 +367,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSjRybWlIM2dIUlRZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/ieibdi3ubskbs",
                 "headers": {
-                    "Host": "ztao97vewclt3jgyt5-qct5fs4mnk04l.hfhgig75tuuh.workers.dev"
+                    "Host": "nahan-c399qh.hdiev82b.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣0️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "172.67.199.117",
+            "server": "103.160.204.34",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f6a64d5c-e7db-47d1-8037-54ae03438664",
+            "uuid": "0e385546-6806-cffc-1312-945600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ZTao97vEwclt3JGYt5-QcT5Fs4Mnk04L.HFhGig75Tuuh.wOrkers.DEV",
+            "servername": "nahan-c399qh.hdiev82b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -392,9 +392,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSjRybWlIM2dIUlRZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/ieibdi3ubskbs",
                 "headers": {
-                    "Host": "ztao97vewclt3jgyt5-qct5fs4mnk04l.hfhgig75tuuh.workers.dev"
+                    "Host": "nahan-c399qh.hdiev82b.workers.dev"
                 }
             }
         },
