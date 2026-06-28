@@ -801,15 +801,15 @@
         {
             "name": "0️⃣1️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "90.156.211.232",
-            "port": 8443,
+            "server": "91.107.166.111",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "0e18d33c-48d3-449b-aa45-085886e60592",
+            "uuid": "0d4e7e6c-7a61-f945-ec1a-229b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OgGes2yGX9TNr2l0dlV89jG1Lij3yTku.tEfaTI1352.woRkERs.deV",
+            "servername": "nahan-oy5mhc.hdivdijsl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -817,24 +817,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWmlSN0xEVThJUSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/jdibdie8eb",
                 "headers": {
-                    "Host": "ogges2ygx9tnr2l0dlv89jg1lij3ytku.tefati1352.workers.dev"
+                    "Host": "nahan-oy5mhc.hdivdijsl.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣1️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "92.241.18.106",
+            "server": "195.54.33.164",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "0e18d33c-48d3-449b-aa45-085886e60592",
+            "uuid": "0d4e7e6c-7a61-f945-ec1a-229b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OgGes2yGX9TNr2l0dlV89jG1Lij3yTku.tEfaTI1352.woRkERs.deV",
+            "servername": "nahan-oy5mhc.hdivdijsl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -842,9 +842,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWmlSN0xEVThJUSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/jdibdie8eb",
                 "headers": {
-                    "Host": "ogges2ygx9tnr2l0dlv89jg1lij3ytku.tefati1352.workers.dev"
+                    "Host": "nahan-oy5mhc.hdivdijsl.workers.dev"
                 }
             }
         },
