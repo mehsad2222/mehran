@@ -1555,15 +1555,15 @@
         {
             "name": "0️⃣3️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.49",
-            "port": 2053,
+            "server": "104.17.110.56",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e2d9e6b6-fdb9-429e-9061-e146beb21945",
+            "uuid": "a49fc8af-84ef-43a3-85cb-e80ddf88efe9",
             "packet-encoding": "",
             "tls": true,
-            "servername": "BhE93pcmjAe5B6Vz4W6W9Yy8ivQP7m8q.Bodohe9590.WorkerS.dEV",
+            "servername": "nova-falcon-core-ba1c.bodohe9590.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1571,26 +1571,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicE1zYVk1akR2NiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/?u=529bee5ee0",
                 "headers": {
-                    "Host": "bhe93pcmjae5b6vz4w6w9yy8ivqp7m8q.bodohe9590.workers.dev"
+                    "Host": "nova-falcon-core-ba1c.bodohe9590.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣3️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.153.187.209",
-            "port": 2053,
+            "server": "104.17.151.168",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e2d9e6b6-fdb9-429e-9061-e146beb21945",
+            "uuid": "a49fc8af-84ef-43a3-85cb-e80ddf88efe9",
             "packet-encoding": "",
             "tls": true,
-            "servername": "BhE93pcmjAe5B6Vz4W6W9Yy8ivQP7m8q.Bodohe9590.WorkerS.dEV",
+            "servername": "nova-falcon-core-ba1c.bodohe9590.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1598,11 +1596,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicE1zYVk1akR2NiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/?u=529bee5ee0",
                 "headers": {
-                    "Host": "bhe93pcmjae5b6vz4w6w9yy8ivqp7m8q.bodohe9590.workers.dev"
+                    "Host": "nova-falcon-core-ba1c.bodohe9590.workers.dev"
                 }
             }
         },
