@@ -5105,15 +5105,15 @@
         {
             "name": "1️⃣0️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "194.67.204.158",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "c84583a1-e89a-42d9-85c5-a266d9b1b4ad",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-mango-spark-7c4d.jickckbcc.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5121,24 +5121,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=9896c5d9e8",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-mango-spark-7c4d.jickckbcc.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "104.17.175.143",
+            "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "c84583a1-e89a-42d9-85c5-a266d9b1b4ad",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-mango-spark-7c4d.jickckbcc.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5146,9 +5146,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=9896c5d9e8",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-mango-spark-7c4d.jickckbcc.workers.dev"
                 }
             }
         },
