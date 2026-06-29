@@ -10626,15 +10626,15 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "37.1.195.124",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e1b05fa9-c14d-49f4-8d6f-1d2df0b23713",
+            "uuid": "b3489f76-d4a2-47ef-80e6-438bf053c3ec",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-garden-85df.diu38bdie.workers.dev",
+            "servername": "nova-luna-spark-2bbe.ue8h28b.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10642,9 +10642,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=70340314f6",
+                "path": "/?u=a98c857c65",
                 "headers": {
-                    "Host": "nova-crystal-garden-85df.diu38bdie.workers.dev"
+                    "Host": "nova-luna-spark-2bbe.ue8h28b.workers.dev"
                 }
             }
         },
