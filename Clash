@@ -1251,15 +1251,15 @@
         {
             "name": "0️⃣2️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.103",
+            "server": "31.133.0.143",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "9efa92f1-1434-4b4f-9d61-7fce2b92e65f",
+            "uuid": "a25be539-2a35-4894-8f26-f5486f49cf50",
             "packet-encoding": "",
             "tls": true,
-            "servername": "EQ4CSngqvShNZy6x4Jo7HWXE4q8rzm1L.Aei48HdU.WOrKers.dEv",
+            "servername": "nova-mango-core-ffa8.aei48hdu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1267,26 +1267,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaHNyNzNZakVHYUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/?u=15ad11a3d4",
                 "headers": {
-                    "Host": "eq4csngqvshnzy6x4jo7hwxe4q8rzm1l.aei48hdu.workers.dev"
+                    "Host": "nova-mango-core-ffa8.aei48hdu.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣2️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.225.34.155",
-            "port": 443,
+            "server": "104.18.33.86",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "9efa92f1-1434-4b4f-9d61-7fce2b92e65f",
+            "uuid": "a25be539-2a35-4894-8f26-f5486f49cf50",
             "packet-encoding": "",
             "tls": true,
-            "servername": "EQ4CSngqvShNZy6x4Jo7HWXE4q8rzm1L.Aei48HdU.WOrKers.dEv",
+            "servername": "nova-mango-core-ffa8.aei48hdu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1294,11 +1292,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaHNyNzNZakVHYUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/?u=15ad11a3d4",
                 "headers": {
-                    "Host": "eq4csngqvshnzy6x4jo7hwxe4q8rzm1l.aei48hdu.workers.dev"
+                    "Host": "nova-mango-core-ffa8.aei48hdu.workers.dev"
                 }
             }
         },
