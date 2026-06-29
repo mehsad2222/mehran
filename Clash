@@ -5156,7 +5156,7 @@
             "name": "1️⃣0️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "194.67.204.158",
-            "port": 8543,
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
