@@ -5255,15 +5255,15 @@
         {
             "name": "1️⃣0️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
+            "server": "212.22.74.89",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "35e47832-a070-4cd0-86b3-abf4159f8b10",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-pearl-cloud-beca.hijfo66k.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5271,24 +5271,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=4c38cf44c5",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-pearl-cloud-beca.hijfo66k.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣0️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "188.164.248.13",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "35e47832-a070-4cd0-86b3-abf4159f8b10",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-pearl-cloud-beca.hijfo66k.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5296,10 +5296,10 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=4c38cf44c5",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
-                }
+                    "Host": "nova-pearl-cloud-beca.hijfo66k.workers.dev"
+                }}
             }
         },
         {
