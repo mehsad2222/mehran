@@ -956,10 +956,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a780d922-afc7-4361-8ccd-281ca295bdf7",
+            "uuid": "bd255098-bffb-556e-712b-c30a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Ur0r7GJXloC5rJ0lsMyDU-8zs8Y03nqX.IdigE7e.WoRkErS.DEv",
+            "servername": "nahan-qwh406.idobe9hs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -967,9 +967,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQlp6QU9reW5CUE14IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/bvnvnsj75ks",
                 "headers": {
-                    "Host": "ur0r7gjxloc5rj0lsmydu-8zs8y03nqx.idige7e.workers.dev"
+                    "Host": "nahan-qwh406.idobe9hs.workers.dev"
                 }
             }
         },
@@ -981,10 +981,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a780d922-afc7-4361-8ccd-281ca295bdf7",
+            "uuid": "bd255098-bffb-556e-712b-c30a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Ur0r7GJXloC5rJ0lsMyDU-8zs8Y03nqX.IdigE7e.WoRkErS.DEv",
+            "servername": "nahan-qwh406.idobe9hs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -992,9 +992,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQlp6QU9reW5CUE14IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "/bvnvnsj75ks",
                 "headers": {
-                    "Host": "ur0r7gjxloc5rj0lsmydu-8zs8y03nqx.idige7e.workers.dev"
+                    "Host": "nahan-qwh406.idobe9hs.workers.dev"
                 }
             }
         },
