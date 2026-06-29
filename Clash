@@ -10626,15 +10626,15 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "104.18.33.197",
+            "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b3489f76-d4a2-47ef-80e6-438bf053c3ec",
+            "uuid": "f994f473-735a-4484-8e24-7f4a4cf3e9f1",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-luna-spark-2bbe.ue8h28b.workers.dev",
+            "servername": "nova-turbo-portal-3cb4.jdje8ge8.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10642,24 +10642,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=a98c857c65",
+                "path": "/?u=9afe517094",
                 "headers": {
-                    "Host": "nova-luna-spark-2bbe.ue8h28b.workers.dev"
+                    "Host": "nova-turbo-portal-3cb4.jdje8ge8.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
-            "server": "18.197.218.69",
-            "port": 443,
+            "server": "104.19.146.169",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c2216bc6-e6af-477b-87a5-c960e22cd4e1",
+            "uuid": "281dcb85-eefb-417f-8e45-c16f73348f87",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev",
+            "servername": "nova-falcon-wave-8333.jdirh39he.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10667,9 +10667,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=e43c671a1c",
+                "path": "/?u=98dbf45e84",
                 "headers": {
-                    "Host": "nova-crystal-cloud-c6a8.hduej37hd.workers.dev"
+                    "Host": "nova-falcon-wave-8333.jdirh39he.workers.dev"
                 }
             }
         },
