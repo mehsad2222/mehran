@@ -851,15 +851,15 @@
         {
             "name": "0️⃣1️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.45",
+            "server": "54.37.235.201",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "fc0f7c9b-8bf8-433f-9a1c-0cfba8ab5e8c",
+            "uuid": "b19fb7d7-8275-6943-4292-f25c00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "xQ8Q87BPTH59Pw35aXuAq725K7fQMlzm.FaFAPon192.WoRKErS.DEV",
+            "servername": "nahan-qp8cou.hif85oh.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -867,24 +867,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibEFtT3lvQ2R5bHFHYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/kdoh38bdi",
                 "headers": {
-                    "Host": "xq8q87bpth59pw35axuaq725k7fqmlzm.fafapon192.workers.dev"
+                    "Host": "nahan-qp8cou.hif85oh.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣1️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.105",
+            "server": "31.133.0.70",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "fc0f7c9b-8bf8-433f-9a1c-0cfba8ab5e8c",
+            "uuid": "b19fb7d7-8275-6943-4292-f25c00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "xQ8Q87BPTH59Pw35aXuAq725K7fQMlzm.FaFAPon192.WoRKErS.DEV",
+            "servername": "nahan-qp8cou.hif85oh.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -892,9 +892,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoibEFtT3lvQ2R5bHFHYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/kdoh38bdi",
                 "headers": {
-                    "Host": "xq8q87bpth59pw35axuaq725k7fqmlzm.fafapon192.workers.dev"
+                    "Host": "nahan-qp8cou.hif85oh.workers.dev"
                 }
             }
         },
