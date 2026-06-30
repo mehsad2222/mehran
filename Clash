@@ -6055,15 +6055,15 @@
         {
             "name": "1️⃣2️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
+            "server": "91.149.253.249",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "55de3853-6c1d-83f0-a8dc-6db300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "bold-tooth-f2b6.gydhhjbj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6071,24 +6071,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/hdov38bdk",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "bold-tooth-f2b6.gydhhjbj.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣2️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
+            "server": "54.37.235.201",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "55de3853-6c1d-83f0-a8dc-6db300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "bold-tooth-f2b6.gydhhjbj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6096,9 +6096,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/hdov38bdk",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "bold-tooth-f2b6.gydhhjbj.workers.dev"
                 }
             }
         },
