@@ -1001,15 +1001,15 @@
         {
             "name": "0️⃣1️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "82.64.152.55",
+            "port": 20304,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "9d73ed29-76bd-4a42-ba1a-f0737a8bf9f5",
+            "uuid": "f3f895ea-09a2-53e3-d3f2-374800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6F6q7Cg0mFu6211je87Ij01ivjKUlc2c.diHeu37Vd.woRKerS.dev",
+            "servername": "nahan-mqn0kd.hhuf75ugu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1017,24 +1017,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoic0xPaGE3a1kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/pishgaman",
                 "headers": {
-                    "Host": "6f6q7cg0mfu6211je87ij01ivjkulc2c.diheu37vd.workers.dev"
+                    "Host": "nahan-mqn0kd.hhuf75ugu.workers.dev
                 }
             }
         },
         {
             "name": "0️⃣1️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.21.70.230",
-            "port": 443,
+            "server": "37.230.114.182",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "9d73ed29-76bd-4a42-ba1a-f0737a8bf9f5",
+            "uuid": "f3f895ea-09a2-53e3-d3f2-374800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6F6q7Cg0mFu6211je87Ij01ivjKUlc2c.diHeu37Vd.woRKerS.dev",
+            "servername": "nahan-mqn0kd.hhuf75ugu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1042,9 +1042,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoic0xPaGE3a1kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+                "path": "/pishgaman",
                 "headers": {
-                    "Host": "6f6q7cg0mfu6211je87ij01ivjkulc2c.diheu37vd.workers.dev"
+                    "Host": "nahan-mqn0kd.hhuf75ugu.workers.dev
                 }
             }
         },
