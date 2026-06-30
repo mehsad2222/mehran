@@ -10608,15 +10608,15 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "104.18.33.197",
+            "server": "104.16.149.34",
             "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f994f473-735a-4484-8e24-7f4a4cf3e9f1",
+            "uuid": "15d4578c-dc16-49bd-864f-72dd8694d983",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-portal-3cb4.jdje8ge8.workers.dev",
+            "servername": "nova-turbo-cloud-0051.jdiroj28.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10624,24 +10624,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=9afe517094",
+                "path": "/?u=05b9ccda23",
                 "headers": {
-                    "Host": "nova-turbo-portal-3cb4.jdje8ge8.workers.dev"
+                    "Host": "nova-turbo-cloud-0051.jdiroj28.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
-            "server": "104.19.146.169",
-            "port": 2053,
+            "server": "104.17.218.154",
+            "port": 2096,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "281dcb85-eefb-417f-8e45-c16f73348f87",
+            "uuid": "f47d3ac1-6ac9-4cc7-87aa-fa4f0454bdb8",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-falcon-wave-8333.jdirh39he.workers.dev",
+            "servername": "nova-turbo-stack-9efa.ieond820.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10649,9 +10649,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=98dbf45e84",
+                "path": "/?u=be4cd53a48",
                 "headers": {
-                    "Host": "nova-falcon-wave-8333.jdirh39he.workers.dev"
+                    "Host": "nova-turbo-stack-9efa.ieond820.workers.dev"
                 }
             }
         },
