@@ -5805,15 +5805,15 @@
         {
             "name": "1️⃣1️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
+            "server": "104.17.59.213",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "b845fc21-e830-4d16-8299-ab6d0b2e490f",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-swift-stack-299d.jdig48hdl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5821,24 +5821,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a9d4cc6c6e",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-swift-stack-299d.jdig48hdl.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
+            "server": "104.19.147.30",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "b845fc21-e830-4d16-8299-ab6d0b2e490f",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-swift-stack-299d.jdig48hdl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5846,9 +5846,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=a9d4cc6c6e",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-swift-stack-299d.jdig48hdl.workers.dev"
                 }
             }
         },
