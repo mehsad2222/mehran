@@ -906,20 +906,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dfd2fd80-8a73-499d-9c34-e52f84299e15",
+            "uuid": "ce9937ad-b13e-99d1-3be4-dc6000000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OD9T0hBmQ98iu8iS5s1WN7Sk5U7dezA6.racoTeX836.wOrkeRs.Dev",
-            "client-fingerprint": "random",
+            "servername": "nahan-rb2c2q.zxcxhyr.workers.dev",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOGh4TTMxRlZyRVhlUCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/ytyir6ef",
                 "headers": {
-                    "Host": "od9t0hbmq98iu8is5s1wn7sk5u7deza6.racotex836.workers.dev"
+                    "Host": "nahan-rb2c2q.zxcxhyr.workers.dev"
                 }
             }
         },
@@ -931,20 +931,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dfd2fd80-8a73-499d-9c34-e52f84299e15",
+            "uuid": "ce9937ad-b13e-99d1-3be4-dc6000000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "OD9T0hBmQ98iu8iS5s1WN7Sk5U7dezA6.racoTeX836.wOrkeRs.Dev",
-            "client-fingerprint": "random",
+            "servername": "nahan-rb2c2q.zxcxhyr.workers.dev",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOGh4TTMxRlZyRVhlUCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/ytyir6ef",
                 "headers": {
-                    "Host": "od9t0hbmq98iu8is5s1wn7sk5u7deza6.racotex836.workers.dev"
+                    "Host": "nahan-rb2c2q.zxcxhyr.workers.dev"
                 }
             }
         },
