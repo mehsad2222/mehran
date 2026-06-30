@@ -5905,15 +5905,15 @@
         {
             "name": "1️⃣1️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "8.39.125.42",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "ae8b42bc-e630-4919-893a-0cb19def6f02",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nova-orbit-bridge-a205.jrih48brj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5921,17 +5921,17 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/?u=55ef65b775",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nova-orbit-bridge-a205.jrih48brj.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "172.66.1.102",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
