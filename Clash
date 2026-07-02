@@ -456,10 +456,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "8be727c0-b10f-9996-6085-e6f100000000",
+            "uuid": "14c8f7aa-c129-454b-8d5b-60e4f5486338",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-ikpk1f.hdibe8sk.workers.dev",
+            "servername": "nova-pixel-panel-2990.uuf8rjk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -467,9 +467,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishghaman",
+                "path": "/?u=1e3cd87e69",
                 "headers": {
-                    "Host": "nahan-ikpk1f.hdibe8sk.workers.dev"
+                    "Host": "nova-pixel-panel-2990.uuf8rjk.workers.dev"
                 }
             }
         },
@@ -481,10 +481,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "8be727c0-b10f-9996-6085-e6f100000000",
+            "uuid": "14c8f7aa-c129-454b-8d5b-60e4f5486338",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-ikpk1f.hdibe8sk.workers.dev",
+            "servername": "nova-pixel-panel-2990.uuf8rjk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -492,9 +492,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishghaman",
+                "path": "/?u=1e3cd87e69",
                 "headers": {
-                    "Host": "nahan-ikpk1f.hdibe8sk.workers.dev"
+                    "Host": "nova-pixel-panel-2990.uuf8rjk.workers.dev"
                 }
             }
         },
