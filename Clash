@@ -7460,10 +7460,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "b8c128ad-231f-91fd-6230-2f3e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "modbpei-07ejs.hduve8bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7471,9 +7471,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/jkdovwi",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "modbpei-07ejs.hduve8bs.workers.dev"
                 }
             }
         },
@@ -7485,25 +7485,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "31538c53-d41c-4c58-99fe-67d9a934182c",
+            "uuid": "b8c128ad-231f-91fd-6230-2f3e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "n65P3qz5RuPE16WWdUJL-7c1SY3UEkTG.hY36HiG.workeRS.dEV",
+            "servername": "modbpei-07ejs.hduve8bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiS2E1RFlTMlExVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/jkdovwi",
                 "headers": {
-                    "Host": "n65p3qz5rupe16wwdujl-7c1sy3uektg.hy36hig.workers.dev"
+                    "Host": "modbpei-07ejs.hduve8bs.workers.dev"
                 }
             }
         },
