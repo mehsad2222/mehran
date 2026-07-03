@@ -7160,10 +7160,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ggggfffghhh",
+            "uuid": "710fc925-36d7-7754-2362-201400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-fp4gay.hpklhdie.workers.dev",
+            "servername": "nahan-p3x0ya.hdohepb.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7171,9 +7171,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pnodvksb",
+                "path": "/kxhbrobd",
                 "headers": {
-                    "Host": "nahan-fp4gay.hpklhdie.workers.dev"
+                    "Host": "nahan-p3x0ya.hdohepb.workers.dev"
                 }
             }
         },
@@ -7185,10 +7185,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "d5c03155-94de-0f76-6fbb-3a7100000000",
+            "uuid": "710fc925-36d7-7754-2362-201400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-fp4gay.hpklhdie.workers.dev",
+            "servername": "nahan-p3x0ya.hdohepb.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7196,9 +7196,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pnodvksb",
+                "path": "/kxhbrobd",
                 "headers": {
-                    "Host": "nahan-fp4gay.hpklhdie.workers.dev"
+                    "Host": "nahan-p3x0ya.hdohepb.workers.dev"
                 }
             }
         },
