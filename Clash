@@ -7410,10 +7410,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "8e2d54e9-08f2-7bf1-bb50-176600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "jdjobsphwi.jdjdvu38.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7421,9 +7421,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/jdievishe",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "jdjobsphwi.jdjdvu38.workers.dev"
                 }
             }
         },
@@ -7435,10 +7435,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f2c62fac-d797-4bcd-8e4a-3a806167bdf4",
+            "uuid": "8e2d54e9-08f2-7bf1-bb50-176600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Hi77OA2yUreG34mUJ1JH5t0oh69RY14w.mDJbdkBDKB767.WoRKeRS.DEV",
+            "servername": "jdjobsphwi.jdjdvu38.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7446,11 +7446,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVXBuYktIR0tENyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/jdievishe",
                 "headers": {
-                    "Host": "hi77oa2yureg34muj1jh5t0oh69ry14w.mdjbdkbdkb767.workers.dev"
+                    "Host": "jdjobsphwi.jdjdvu38.workers.dev"
                 }
             }
         },
