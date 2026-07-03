@@ -7115,22 +7115,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f9c7c2b9-f973-4277-b127-0cf631a62659",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "YkgTR5MBXNOsgtqd1ZTdiREJ359k6AIi.hOkOse5484.worKers.dEv",
-            "client-fingerprint": "random",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiM0ladGFMUVoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "ykgtr5mbxnosgtqd1ztdirej359k6aii.hokose5484.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7167,27 +7165,22 @@
             "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "b6450191-bc58-4c30-be0a-29c7e507b016",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "B00JnhRe8h7Whln3HStE-8XOd99mmlx1.hI47R9g3o.wORkErS.DEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNVcwdEZsU3JKbDdVMlMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "b00jnhre8h7whln3hste-8xod99mmlx1.hi47r9g3o.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7229,25 +7222,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a064df13-af7c-4c69-8fe2-4a4ab19325d0",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "7e6-xi1a2Y4uSuVP9VqRaBcxaC41qrvS.pp0t0fj.WorkERS.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZVZCQ2d5ME5xNERCM2ZMbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "7e6-xi1a2y4usuvp9vqrabcxac41qrvs.pp0t0fj.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7289,25 +7277,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "25df78c1-993a-4c4e-a02a-62ff5a6e7f04",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "5DvZ1vAdavxOC4Dl6S9H53Rq28Aw3i4c.IeiU28jD.woRKERS.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaU5GOEZTOHMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "5dvz1vadavxoc4dl6s9h53rq28aw3i4c.ieiu28jd.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7349,25 +7332,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e2f5903f-675b-43d8-96c7-54a4a817ac54",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "2qFkRhs3eT5ho-1Hl98PZ5X91aOZNh1w.bCNCW7Y.worKERS.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOVY1Nm1mWU1HUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "2qfkrhs3et5ho-1hl98pz5x91aoznh1w.bcncw7y.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7407,27 +7385,22 @@
             "server": "31.133.0.124",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "1634894b-ed5f-4d70-87bb-43a5e0b4bc11",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6G41eb17sT1Zke7c22LhxNwf3277diTs.OEH38Hd.WORkeRs.dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiV0xPMkNzRDJ3Y3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "6g41eb17st1zke7c22lhxnwf3277dits.oeh38hd.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7469,10 +7442,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f2c62fac-d797-4bcd-8e4a-3a806167bdf4",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Hi77OA2yUreG34mUJ1JH5t0oh69RY14w.mDJbdkBDKB767.WoRKeRS.DEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7480,11 +7453,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVXBuYktIR0tENyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "hi77oa2yureg34muj1jh5t0oh69ry14w.mdjbdkbdkb767.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7523,25 +7494,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "31538c53-d41c-4c58-99fe-67d9a934182c",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "n65P3qz5RuPE16WWdUJL-7c1SY3UEkTG.hY36HiG.workeRS.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiS2E1RFlTMlExVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "n65p3qz5rupe16wwdujl-7c1sy3uektg.hy36hig.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7583,10 +7549,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "463e586d-ce4a-42fd-b3db-ae55dd71f6f3",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "GHkVMWm431s5A2I5NNQAA29nBwvFI1rX.43gGYcgtcTrDV.WorKeRS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7594,11 +7560,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSDVWbE84RFJxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "ghkvmwm431s5a2i5nnqaa29nbwvfi1rx.43ggycgtctrdv.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7637,10 +7601,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "77ae7769-a16c-4bf6-9dc8-9126c45fc664",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vUFvWeFSkD9KilaONXLsNWe42Bi8p-Ee.VnvBhYe9piBr.WORKers.DEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7648,11 +7612,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR1p1dkZ4VnZzRiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "vufvwefskd9kilaonxlsnwe42bi8p-ee.vnvbhye9pibr.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7691,25 +7653,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "224f43a1-53e7-4445-8ec8-6d1d00756ca9",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "171ZuDWYTNB2tb7SIDKR7BJHgX1gN97Y.aaAWwEsr33EF.woRkeRS.dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiV1lGSmVyOUIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "171zudwytnb2tb7sidkr7bjhgx1gn97y.aaawwesr33ef.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7751,10 +7708,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b8e1c3c3-72f0-4b67-bdfd-7c2041909bf8",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "97VQi2LDegg-5z-Q82OojUHGC9xGty84.HdI48BCiei.WoRkers.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7762,11 +7719,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTTlTZDVQc0VPcDNjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "97vqi2ldegg-5z-q82oojuhgc9xgty84.hdi48bciei.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7805,10 +7760,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a2483cba-878a-43ef-ae73-665fab3811b2",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "62401rhyJGde3w67ZHFBPI4M0rE4dkk8.pd0Ue8BdL.WOrkErS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7816,11 +7771,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTVVaNnVRak9kQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "62401rhyjgde3w67zhfbpi4m0re4dkk8.pd0ue8bdl.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7859,10 +7812,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "5f97bf66-f802-47cf-a232-9f33ec84c847",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "N1QO0r3yOts25r7Sb9E5PNA3zWUDK2lp.llOPolnmHG1.woRkerS.dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7870,11 +7823,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZG1mTjUySWZzR2RRcmgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "n1qo0r3yots25r7sb9e5pna3zwudk2lp.llopolnmhg1.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7913,10 +7864,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c13c5343-7fff-44a9-bb5d-b16d3347f695",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ZMDQ5Ck-u8T61tV35-D7y35b3fVrPv6u.GDuE739OrRR.WoRKeRS.deV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7924,11 +7875,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiVnc1ZEJSazhvNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "zmdq5ck-u8t61tv35-d7y35b3fvrpv6u.gdue739orrr.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -7967,10 +7916,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f8efd4bb-482e-4dea-af00-d552c7941d03",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "UNW77H33E---twJgnU09kUxJs3qd3NRQ.UeIBF738JksG3.workers.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7978,11 +7927,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUlRVY1oyQTJJcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "unw77h33e---twjgnu09kuxjs3qd3nrq.ueibf738jksg3.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8021,10 +7968,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f6af4e33-1a38-4848-8334-f33d4f9aee2b",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "1sn2a87dFH9Dcz2k43rbK6G4po8A0ver.mnkjNGuFHDt.WOrKeRS.dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8032,11 +7979,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMkMxOVVYYXFCZnJGdVlmcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "1sn2a87dfh9dcz2k43rbk6g4po8a0ver.mnkjngufhdt.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8075,10 +8020,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b36122d9-f0c9-4e1a-bc7e-0f915a55ff5a",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "CSO89Zm2hfFmEEIoGEu68d1jrZ9DO0l1.ofpJtOffgeY47.WorKErs.DEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8086,11 +8031,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRHRFb01RN09HNTFWelJ4ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "cso89zm2hffmeeiogeu68d1jrz9do0l1.ofpjtoffgey47.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8129,10 +8072,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "3571d694-8b07-45cf-916d-0cc4a5a9b677",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Z0c4X-CpG7I726xIi7QwEjf2RWDRSzAA.PpbR848Bflw.WorkERs.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8140,11 +8083,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiV21xZ21BN3N4UjRtQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "z0c4x-cpg7i726xii7qwejf2rwdrszaa.ppbr848bflw.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8183,25 +8124,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2f7397dc-8b4a-41e4-a6f8-04932bcdab1a",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "lYGT55jrFW-6Tp2JUSdXV3ABPkt8lH86.gFYR5t7F.workers.dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWjBkc0tkSVF1MHFOZzZsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "lygt55jrfw-6tp2jusdxv3abpkt8lh86.gfyr5t7f.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8241,27 +8177,22 @@
             "server": "188.114.96.3",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "365d39e0-149b-4b26-9625-a2be0fb69651",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "603zXLX37QX-6xLsPwjyc-hKI7VrYpZM.NVJUd7r.WoRkeRS.dEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMlZGWEtWRG9nT1YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "603zxlx37qx-6xlspwjyc-hki7vrypzm.nvjud7r.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8303,25 +8234,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ffe782dc-4c60-4e19-99c6-439fe8435c41",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "t6FH0GlK4q0BeDUjT8IXHTUZqk8m7F2l.jDIEV8ev.WORkErs.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiT1Z4a2JpZ2theFZzb0wyTyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "t6fh0glk4q0bedujt8ixhtuzqk8m7f2l.jdiev8ev.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8363,25 +8289,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "cea7e5bb-ce81-4b5b-a85c-db08f2674b64",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6-wdc7ZkM8y-ZpDv7875W80Rzy09Jy77.hDIrB83.WORKeRS.dev",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaXNJbFhtUW8ycHhnU2lBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "6-wdc7zkm8y-zpdv7875w80rzy09jy77.hdirb83.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8421,27 +8342,22 @@
             "server": "188.114.96.3",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "181f3f68-9b1b-4f4e-bbdd-27ab5adff63c",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "13syanluRthXT2004N7D3-mJvCPo3VZ9.jdiv38Bd.wOrKErS.DEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN05HQ0Nublh1OXQzbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "13syanlurthxt2004n7d3-mjvcpo3vz9.jdiv38bd.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8483,25 +8399,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7342ad3c-a042-4a43-bc7b-f0919779894f",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "uJvuMkY0gk4q-cz666S3QpKl986kT99z.jhGU566.workerS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicEVYaUpJUnFpblYwSzluIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "ujvumky0gk4q-cz666s3qpkl986kt99z.jhgu566.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8541,27 +8452,22 @@
             "server": "188.114.96.2",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "d34eccfe-9010-4326-91a9-0edde8b8e4ff",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "44cOtuNuQuf763XEf9Y-8h25wtqt1-H3.IdB38Gd.WOrKeRs.DEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoia2xYeTlpMmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "44cotunuquf763xef9y-8h25wtqt1-h3.idb38gd.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8601,27 +8507,22 @@
             "server": "188.114.97.3",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "85f69bad-5348-4b4d-8cdd-a0c3746ebc6f",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "043BgRhOABV7C53oG-k-2mKQ0J9g61n1.iEH83bd.WoRkeRS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTE93cFJ5YVZ2ZWNXR2lSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "043bgrhoabv7c53og-k-2mkq0j9g61n1.ieh83bd.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8661,27 +8562,22 @@
             "server": "104.21.9.199",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "fdfe9f83-8be5-4221-95e1-b0d56f8f9d18",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "gmUcR-u1B6o3lJcUlkMx5KZ1hro6afd9.ueo47GE.workerS.dEv",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiUmNqenF3ODFCVjZyb0NnbSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "gmucr-u1b6o3ljculkmx5kz1hro6afd9.ueo47ge.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8723,25 +8619,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b2f49388-0eb8-4649-b3b5-5416a60426a2",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "rWa8wLge8734cQb5D7M-0JAaWPv39IUi.KfIv38db.workers.DEV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiSGd3c0JuRnk3YXpGTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "rwa8wlge8734cqb5d7m-0jaawpv39iui.kfiv38db.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
@@ -8781,27 +8672,22 @@
             "server": "188.114.96.3",
             "port": 443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "07f9708c-4038-416e-ab6b-a2d9aefb0821",
+            "uuid": "hdihdkdjjfj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "N04u1lbm5q8Prnvn-rFfe3Pnyp1l2h52.iEB38gD.wOrkeRS.DeV",
+            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRmd0ak5oaFJMblUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/",
                 "headers": {
-                    "Host": "n04u1lbm5q8prnvn-rffe3pnyp1l2h52.ieb38gd.workers.dev"
+                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
                 }
             }
         },
