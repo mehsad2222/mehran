@@ -7710,10 +7710,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "0d7e5172-a158-9fcd-42c4-1c4a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "jskhdieo-0je9h.hdohe8y.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7721,24 +7721,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/jdibsobsi",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "jskhdieo-0je9h.hdohe8y.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣5️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "77.83.246.133",
-            "port": 24443,
+            "server": "23.108.217.103",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a2483cba-878a-43ef-ae73-665fab3811b2",
+            "uuid": "0d7e5172-a158-9fcd-42c4-1c4a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "62401rhyJGde3w67ZHFBPI4M0rE4dkk8.pd0Ue8BdL.WOrkErS.DeV",
+            "servername": "jskhdieo-0je9h.hdohe8y.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7746,11 +7746,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTVVaNnVRak9kQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/jdibsobsi",
                 "headers": {
-                    "Host": "62401rhyjgde3w67zhfbpi4m0re4dkk8.pd0ue8bdl.workers.dev"
+                    "Host": "jskhdieo-0je9h.hdohe8y.workers.dev"
                 }
             }
         },
