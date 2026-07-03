@@ -6555,15 +6555,15 @@
         {
             "name": "1️⃣3️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "31.129.48.222",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "6ab14644-850f-f972-4701-d1ef00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-6vhqtu.ftduiiyfg.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6571,24 +6571,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/idowhiwbi",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-6vhqtu.ftduiiyfg.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣3️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "8.35.211.226",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "6ab14644-850f-f972-4701-d1ef00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-6vhqtu.ftduiiyfg.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6596,9 +6596,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/idowhiwbi",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-6vhqtu.ftduiiyfg.workers.dev"
                 }
             }
         },
@@ -10608,15 +10608,15 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "65.108.149.250",
+            "server": "89.111.172.106",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e31379a6-8ff4-2fd8-7770-d32e00000000",
+            "uuid": "ccc61f30-e0cd-9a18-47c2-aae300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-zkine8.oheoeks.workers.dev",
+            "servername": "nahan-8ilkza.ghjjfhjoy.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10624,24 +10624,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pisjgamannn",
+                "path": "/ttryrihsogyg",
                 "headers": {
-                    "Host": "nahan-zkine8.oheoeks.workers.dev"
+                    "Host": "nahan-8ilkza.ghjjfhjoy.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
-            "server": "91.245.225.69",
-            "port": 443,
+            "server": "31.129.48.222",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "d583537a-c768-17de-22b7-140900000000",
+            "uuid": "6ab14644-850f-f972-4701-d1ef00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-2gbxxc.gdige8hs.workers.dev",
+            "servername": "nahan-6vhqtu.ftduiiyfg.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10649,9 +10649,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishiiiimishii",
+                "path": "/idowhiwbi",
                 "headers": {
-                    "Host": "nahan-2gbxxc.gdige8hs.workers.dev"
+                    "Host": "nahan-6vhqtu.ftduiiyfg.workers.dev"
                 }
             }
         },
