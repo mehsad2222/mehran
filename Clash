@@ -6973,7 +6973,7 @@
             "ws-opts": {
                 "path": "/jjhdinpibd",
                 "headers": {
-                    "Host": "/jjhdinpibd"
+                    "Host": "nahan-fvg0hz.utdi58i.workers.dev"
                 }
             }
         },
@@ -6998,7 +6998,7 @@
             "ws-opts": {
                 "path": "/jjhdinpibd",
                 "headers": {
-                    "Host": "/jjhdinpibd"
+                    "Host": "nahan-fvg0hz.utdi58i.workers.dev"
                 }
             }
         },
@@ -7055,15 +7055,15 @@
         {
             "name": "1️⃣4️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
+            "server": "54.37.235.201",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "2b1780be-3a79-c430-fb91-95e100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-wim8u3.jdige83g.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7071,39 +7071,34 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/kpjdpb86n",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-wim8u3.jdige83g.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣4️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.89.52.247",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6a29d313-6c0a-4cf4-9bb6-b283fb3899db",
+            "uuid": "2b1780be-3a79-c430-fb91-95e100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "w4Jrtz5CzFM5xe-08OoMdSTYNuO305X4.RiU48bDi2.worKERS.dEv",
+            "servername": "nahan-wim8u3.jdige83g.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWjk4dUswdlMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/kpjdpb86n",
                 "headers": {
-                    "Host": "w4jrtz5czfm5xe-08oomdstynuo305x4.riu48bdi2.workers.dev"
+                    "Host": "nahan-wim8u3.jdige83g.workers.dev"
                 }
             }
         },
@@ -10512,7 +10507,7 @@
             "ws-opts": {
                 "path": "/jjhdinpibd",
                 "headers": {
-                    "Host": "/jjhdinpibd"
+                    "Host": "nahan-fvg0hz.utdi58i.workers.dev"
                 }
             }
         },
