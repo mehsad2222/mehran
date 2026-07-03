@@ -7260,10 +7260,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "aee2a14b-5c86-453a-7e97-a25f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-66gneu.jfkrboe9.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7271,9 +7271,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/pppjfbv",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-66gneu.jfkrboe9.workers.dev"
                 }
             }
         },
@@ -7285,25 +7285,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "25df78c1-993a-4c4e-a02a-62ff5a6e7f04",
+            "uuid": "aee2a14b-5c86-453a-7e97-a25f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "5DvZ1vAdavxOC4Dl6S9H53Rq28Aw3i4c.IeiU28jD.woRKERS.dEv",
+            "servername": "nahan-66gneu.jfkrboe9.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaU5GOEZTOHMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pppjfbv",
                 "headers": {
-                    "Host": "5dvz1vadavxoc4dl6s9h53rq28aw3i4c.ieiu28jd.workers.dev"
+                    "Host": "nahan-66gneu.jfkrboe9.workers.dev"
                 }
             }
         },
