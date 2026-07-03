@@ -10467,15 +10467,15 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "56f4c5f5-09da-e2d9-6e43-e6b400000000",
+            "uuid": "f5efca34-eaf1-2059-caef-b09100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-fvg0hz.utdi58i.workers.dev",
+            "servername": "nahan-79nmwn.wwwueidb.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10483,9 +10483,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jjhdinpibd",
+                "path": "/lkfnrphd",
                 "headers": {
-                    "Host": "nahan-fvg0hz.utdi58i.workers.dev"
+                    "Host": "nahan-79nmwn.wwwueidb.workers.dev"
                 }
             }
         },
