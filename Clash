@@ -7310,10 +7310,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "f5efca34-eaf1-2059-caef-b09100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-79nmwn.wwwueidb.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7321,9 +7321,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/lkfnrphd",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-79nmwn.wwwueidb.workers.dev"
                 }
             }
         },
@@ -7335,25 +7335,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e2f5903f-675b-43d8-96c7-54a4a817ac54",
+            "uuid": "f5efca34-eaf1-2059-caef-b09100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "2qFkRhs3eT5ho-1Hl98PZ5X91aOZNh1w.bCNCW7Y.worKERS.dEv",
+            "servername": "nahan-79nmwn.wwwueidb.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOVY1Nm1mWU1HUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/lkfnrphd",
                 "headers": {
-                    "Host": "2qfkrhs3et5ho-1hl98pz5x91aoznh1w.bcncw7y.workers.dev"
+                    "Host": "nahan-79nmwn.wwwueidb.workers.dev"
                 }
             }
         },
