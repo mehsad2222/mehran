@@ -7210,10 +7210,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "7f2925bb-2e53-ff42-197b-71db00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-802r5n.hhgficgh.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7221,9 +7221,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/zzxvzhd",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-802r5n.hhgficgh.workers.dev"
                 }
             }
         },
@@ -7235,25 +7235,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a064df13-af7c-4c69-8fe2-4a4ab19325d0",
+            "uuid": "7f2925bb-2e53-ff42-197b-71db00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "7e6-xi1a2Y4uSuVP9VqRaBcxaC41qrvS.pp0t0fj.WorkERS.deV",
+            "servername": "nahan-802r5n.hhgficgh.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZVZCQ2d5ME5xNERCM2ZMbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/zzxvzhd",
                 "headers": {
-                    "Host": "7e6-xi1a2y4usuvp9vqrabcxac41qrvs.pp0t0fj.workers.dev"
+                    "Host": "nahan-802r5n.hhgficgh.workers.dev"
                 }
             }
         },
