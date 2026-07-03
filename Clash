@@ -7162,10 +7162,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "d5c03155-94de-0f76-6fbb-3a7100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-fp4gay.hpklhdie.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7173,9 +7173,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/pnodvksb",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-fp4gay.hpklhdie.workers.dev"
                 }
             }
         },
@@ -7185,27 +7185,22 @@
             "server": "31.133.0.122",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "b6450191-bc58-4c30-be0a-29c7e507b016",
+            "uuid": "d5c03155-94de-0f76-6fbb-3a7100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "B00JnhRe8h7Whln3HStE-8XOd99mmlx1.hI47R9g3o.wORkErS.DEV",
+            "servername": "nahan-fp4gay.hpklhdie.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiNVcwdEZsU3JKbDdVMlMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pnodvksb",
                 "headers": {
-                    "Host": "b00jnhre8h7whln3hste-8xod99mmlx1.hi47r9g3o.workers.dev"
+                    "Host": "nahan-fp4gay.hpklhdie.workers.dev"
                 }
             }
         },
