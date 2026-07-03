@@ -6505,15 +6505,15 @@
         {
             "name": "1️⃣2️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "104.26.13.182",
+            "port": 2087,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "ccc61f30-e0cd-9a18-47c2-aae300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-8ilkza.ghjjfhjoy.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6521,24 +6521,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/ttryrihsogyg",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-8ilkza.ghjjfhjoy.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣2️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "45.138.72.141",
-            "port": 443,
+            "server": "89.111.172.106",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "ccc61f30-e0cd-9a18-47c2-aae300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-8ilkza.ghjjfhjoy.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6546,9 +6546,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/ttryrihsogyg",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-8ilkza.ghjjfhjoy.workers.dev"
                 }
             }
         },
