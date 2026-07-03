@@ -7110,10 +7110,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "d5c03155-94de-0f76-6fbb-3a7100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-fp4gay.hpklhdie.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7121,9 +7121,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/pnodvksb",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-fp4gay.hpklhdie.workers.dev"
                 }
             }
         },
@@ -7135,22 +7135,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f9c7c2b9-f973-4277-b127-0cf631a62659",
+            "uuid": "d5c03155-94de-0f76-6fbb-3a7100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "YkgTR5MBXNOsgtqd1ZTdiREJ359k6AIi.hOkOse5484.worKers.dEv",
-            "client-fingerprint": "random",
+            "servername": "nahan-fp4gay.hpklhdie.workers.dev",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiM0ladGFMUVoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pnodvksb",
                 "headers": {
-                    "Host": "ykgtr5mbxnosgtqd1ztdirej359k6aii.hokose5484.workers.dev"
+                    "Host": "nahan-fp4gay.hpklhdie.workers.dev"
                 }
             }
         },
@@ -7162,7 +7160,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "d5c03155-94de-0f76-6fbb-3a7100000000",
+            "uuid": "ggggfffghhh",
             "packet-encoding": "",
             "tls": true,
             "servername": "nahan-fp4gay.hpklhdie.workers.dev",
