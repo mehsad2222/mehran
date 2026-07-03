@@ -7360,10 +7360,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "f31f5e28-ee97-9ff2-f490-1ad900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "nahan-h0rnu5.jfuckvk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7371,9 +7371,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/mnmnndovs",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "nahan-h0rnu5.jfuckvk.workers.dev"
                 }
             }
         },
@@ -7383,27 +7383,22 @@
             "server": "77.221.143.81",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "1634894b-ed5f-4d70-87bb-43a5e0b4bc11",
+            "uuid": "f31f5e28-ee97-9ff2-f490-1ad900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6G41eb17sT1Zke7c22LhxNwf3277diTs.OEH38Hd.WORkeRs.dev",
+            "servername": "nahan-h0rnu5.jfuckvk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiV0xPMkNzRDJ3Y3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/mnmnndovs",
                 "headers": {
-                    "Host": "6g41eb17st1zke7c22lhxnwf3277dits.oeh38hd.workers.dev"
+                    "Host": "nahan-h0rnu5.jfuckvk.workers.dev"
                 }
             }
         },
