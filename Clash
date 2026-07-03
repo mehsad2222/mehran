@@ -7555,15 +7555,15 @@
         {
             "name": "1️⃣5️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "18.184.55.249",
+            "server": "104.17.17.230",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "3bd52435-bf3a-0cd7-e4cb-58a400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "gyruhh-j086oh.jvdive7kl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7571,9 +7571,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/bjohpvdr",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "gyruhh-j086oh.jvdive7kl.workers.dev"
                 }
             }
         },
@@ -7585,10 +7585,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "77ae7769-a16c-4bf6-9dc8-9126c45fc664",
+            "uuid": "3bd52435-bf3a-0cd7-e4cb-58a400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vUFvWeFSkD9KilaONXLsNWe42Bi8p-Ee.VnvBhYe9piBr.WORKers.DEv",
+            "servername": "gyruhh-j086oh.jvdive7kl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -7596,11 +7596,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiR1p1dkZ4VnZzRiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/bjohpvdr",
                 "headers": {
-                    "Host": "vufvwefskd9kilaonxlsnwe42bi8p-ee.vnvbhye9pibr.workers.dev"
+                    "Host": "gyruhh-j086oh.jvdive7kl.workers.dev"
                 }
             }
         },
