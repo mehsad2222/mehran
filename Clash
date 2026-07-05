@@ -8159,10 +8159,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "a4089d0a-4226-7918-ac5e-729300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "jpbdivskj.yyidigot7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8170,9 +8170,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/hfgudjchg",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "jpbdivskj.yyidigot7.workers.dev"
                 }
             }
         },
@@ -8184,25 +8184,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ffe782dc-4c60-4e19-99c6-439fe8435c41",
+            "uuid": "a4089d0a-4226-7918-ac5e-729300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "t6FH0GlK4q0BeDUjT8IXHTUZqk8m7F2l.jDIEV8ev.WORkErs.DeV",
+            "servername": "jpbdivskj.yyidigot7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiT1Z4a2JpZ2theFZzb0wyTyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/hfgudjchg",
                 "headers": {
-                    "Host": "t6fh0glk4q0bedujt8ixhtuzqk8m7f2l.jdiev8ev.workers.dev"
+                    "Host": "jpbdivskj.yyidigot7.workers.dev"
                 }
             }
         },
