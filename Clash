@@ -8010,10 +8010,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "d5634603-cad7-971a-db13-579e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "hkdbpeh-brp8.hdivdi28bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8021,9 +8021,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/jbdoevieb",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "hkdbpeh-brp8.hdivdi28bs.workers.dev"
                 }
             }
         },
@@ -8035,10 +8035,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "3571d694-8b07-45cf-916d-0cc4a5a9b677",
+            "uuid": "d5634603-cad7-971a-db13-579e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Z0c4X-CpG7I726xIi7QwEjf2RWDRSzAA.PpbR848Bflw.WorkERs.dEv",
+            "servername": "hkdbpeh-brp8.hdivdi28bs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8046,11 +8046,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiV21xZ21BN3N4UjRtQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/jbdoevieb",
                 "headers": {
-                    "Host": "z0c4x-cpg7i726xii7qwejf2rwdrszaa.ppbr848bflw.workers.dev"
+                    "Host": "hkdbpeh-brp8.hdivdi28bs.workers.dev"
                 }
             }
         },
