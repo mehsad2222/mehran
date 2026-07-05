@@ -9054,60 +9054,50 @@
         {
             "name": "1️⃣8️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.250",
+            "server": "31.133.0.70",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f55f8b75-0877-487a-9ea3-4a4bb547e5c5",
+            "uuid": "ee5f865c-291a-1411-fa7b-1b9500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "j5u0WV7Vo0o6c6CZ1yct3gO3HTU32RsY.fts44UF.WorkerS.dEV",
+            "servername": "kfpbso848v.hpdboeuvd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiY0d1UnZKc0FUU2IyVENaNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pbdibzlb",
                 "headers": {
-                    "Host": "j5u0wv7vo0o6c6cz1yct3go3htu32rsy.fts44uf.workers.dev"
+                    "Host": "kfpbso848v.hpdboeuvd.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣8️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.21.73.84",
-            "port": 443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f55f8b75-0877-487a-9ea3-4a4bb547e5c5",
+            "uuid": "ee5f865c-291a-1411-fa7b-1b9500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "j5u0WV7Vo0o6c6CZ1yct3gO3HTU32RsY.fts44UF.WorkerS.dEV",
+            "servername": "kfpbso848v.hpdboeuvd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiY0d1UnZKc0FUU2IyVENaNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pbdibzlb",
                 "headers": {
-                    "Host": "j5u0wv7vo0o6c6cz1yct3go3htu32rsy.fts44uf.workers.dev"
+                    "Host": "kfpbso848v.hpdboeuvd.workers.dev"
                 }
             }
         },
