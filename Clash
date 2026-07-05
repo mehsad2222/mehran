@@ -8704,60 +8704,50 @@
         {
             "name": "1️⃣7️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "40638885-f6d6-4d33-83bd-d66cbbd9edab",
+            "uuid": "0ba37255-cb6c-31ed-1b4c-a02f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "gnE0K1bW8M06roXm6-CkFuVEOVOmmsvG.UEih3Uh.wOrkers.DeV",
+            "servername": "mehranjoooon8eui.fgdudud5.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQm5Jdk54UzA1eWoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/ppj50jfpnr",
                 "headers": {
-                    "Host": "gne0k1bw8m06roxm6-ckfuveovommsvg.ueih3uh.workers.dev"
+                    "Host": "mehranjoooon8eui.fgdudud5.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣7️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.10.214.109",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "40638885-f6d6-4d33-83bd-d66cbbd9edab",
+            "uuid": "0ba37255-cb6c-31ed-1b4c-a02f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "gnE0K1bW8M06roXm6-CkFuVEOVOmmsvG.UEih3Uh.wOrkers.DeV",
+            "servername": "mehranjoooon8eui.fgdudud5.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiQm5Jdk54UzA1eWoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/ppj50jfpnr",
                 "headers": {
-                    "Host": "gne0k1bw8m06roxm6-ckfuveovommsvg.ueih3uh.workers.dev"
+                    "Host": "mehranjoooon8eui.fgdudud5.workers.dev"
                 }
             }
         },
