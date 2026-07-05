@@ -10269,15 +10269,15 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "91.245.225.79",
+            "server": "31.133.0.250",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "32cb12ae-1b94-68b5-6293-c3fe00000000",
+            "uuid": "49ed07f8-1154-44a7-26bf-fe0b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "kdpbdpbe83.gduv38vdi.workers.dev",
+            "servername": "wwudivd63.ydut6rd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10285,24 +10285,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/bkxpebo3i",
+                "path": "/uge738dbe0e",
                 "headers": {
-                    "Host": "kdpbdpbe83.gduv38vdi.workers.dev"
+                    "Host": "wwudivd63.ydut6rd.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
-            "server": "31.133.0.103",
+            "server": "31.133.0.70",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "28e9d9ed-86dd-d24f-aa36-f95200000000",
+            "uuid": "7fb07121-a697-519b-87e2-54ab00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "bxjclndondo.jwiowkll.workers.dev",
+            "servername": "mckveue7.hdobeibs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10310,9 +10310,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/guty5ugjt",
+                "path": "/pbdo4v8dbe",
                 "headers": {
-                    "Host": "bxjclndondo.jwiowkll.workers.dev"
+                    "Host": "mckveue7.hdobeibs.workers.dev"
                 }
             }
         },
