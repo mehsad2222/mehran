@@ -9754,60 +9754,50 @@
         {
             "name": "1️⃣9️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.240",
+            "server": "31.133.0.70",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "c2b648ed-4f5a-40dc-9de3-49b3f3f6a768",
+            "uuid": "162beee6-3f95-a9f2-0be9-c0f900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "p9UNc4PECZqw310wfPXsG6w7WQVkvB4t.nCVYg4Y.WOrkERS.deV",
+            "servername": "lfohr8bd8rb.jdovdkeub.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiczNGcFJMUFE3VzQzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pishgaman",
                 "headers": {
-                    "Host": "p9unc4peczqw310wfpxsg6w7wqvkvb4t.ncvyg4y.workers.dev"
+                    "Host": "lfohr8bd8rb.jdovdkeub.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣9️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.21.32.108",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "c2b648ed-4f5a-40dc-9de3-49b3f3f6a768",
+            "uuid": "162beee6-3f95-a9f2-0be9-c0f900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "p9UNc4PECZqw310wfPXsG6w7WQVkvB4t.nCVYg4Y.WOrkERS.deV",
+            "servername": "lfohr8bd8rb.jdovdkeub.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiczNGcFJMUFE3VzQzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pishgaman",
                 "headers": {
-                    "Host": "p9unc4peczqw310wfpxsg6w7wqvkvb4t.ncvyg4y.workers.dev"
+                    "Host": "lfohr8bd8rb.jdovdkeub.workers.dev"
                 }
             }
         },
