@@ -9309,10 +9309,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "jisjeojsojsj",
+            "uuid": "0caf51a4-855f-c164-210a-735000000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "irog38vd.hhurgo6r.workers.dev",
+            "servername": "zcxbshwy3.jdobsks.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -9320,24 +9320,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pkfobaue8",
+                "path": "/mnvlovmvg",
                 "headers": {
-                    "Host": "irog38vd.hhurgo6r.workers.dev"
+                    "Host": "zcxbshwy3.jdobsks.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣8️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.250",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "jisjeojsojsj",
+            "uuid": "0caf51a4-855f-c164-210a-735000000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "irog38vd.hhurgo6r.workers.dev",
+            "servername": "zcxbshwy3.jdobsks.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -9345,9 +9345,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pkfobaue8",
+                "path": "/mnvlovmvg",
                 "headers": {
-                    "Host": "irog38vd.hhurgo6r.workers.dev"
+                    "Host": "zcxbshwy3.jdobsks.workers.dev"
                 }
             }
         },
