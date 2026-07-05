@@ -556,10 +556,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6cd635f6-c725-4012-81d8-805a027a2df3",
+            "uuid": "90ba7f0c-207f-0cae-26a3-4ff100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-comet-bridge-fb35.jforbo47sk.workers.dev",
+            "servername": "mljdobs758.korkogksb6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -567,9 +567,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=50d2f79186",
+                "path": "/kfobei38id",
                 "headers": {
-                    "Host": "nova-comet-bridge-fb35.jforbo47sk.workers.dev"
+                    "Host": "mljdobs758.korkogksb6.workers.dev"
                 }
             }
         },
@@ -581,10 +581,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6cd635f6-c725-4012-81d8-805a027a2df3",
+            "uuid": "90ba7f0c-207f-0cae-26a3-4ff100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-comet-bridge-fb35.jforbo47sk.workers.dev",
+            "servername": "mljdobs758.korkogksb6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -592,9 +592,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=50d2f79186",
+                "path": "/kfobei38id",
                 "headers": {
-                    "Host": "nova-comet-bridge-fb35.jforbo47sk.workers.dev"
+                    "Host": "mljdobs758.korkogksb6.workers.dev"
                 }
             }
         },
