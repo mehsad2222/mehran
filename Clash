@@ -8109,10 +8109,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "00fcea31-b890-2dac-63ad-e09c00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "kcojgsu-jr0.gfigoguf.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8120,9 +8120,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/jdoebkbs",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "kcojgsu-jr0.gfigoguf.workers.dev"
                 }
             }
         },
@@ -8132,27 +8132,22 @@
             "server": "31.133.0.122",
             "port": 8443,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "365d39e0-149b-4b26-9625-a2be0fb69651",
+            "uuid": "00fcea31-b890-2dac-63ad-e09c00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "603zXLX37QX-6xLsPwjyc-hKI7VrYpZM.NVJUd7r.WoRkeRS.dEV",
+            "servername": "kcojgsu-jr0.gfigoguf.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMlZGWEtWRG9nT1YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/jdoebkbs",
                 "headers": {
-                    "Host": "603zxlx37qx-6xlspwjyc-hki7vrypzm.nvjud7r.workers.dev"
+                    "Host": "kcojgsu-jr0.gfigoguf.workers.dev"
                 }
             }
         },
