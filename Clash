@@ -8060,10 +8060,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "4d670f75-01e7-7399-6ab7-495900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "kpbduvd-p93u.jdind8j2.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8071,9 +8071,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/kdobskb",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "kpbduvd-p93u.jdind8j2.workers.dev"
                 }
             }
         },
@@ -8082,28 +8082,22 @@
             "type": "vless",
             "server": "31.133.0.103",
             "port": 2053,
-            "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2f7397dc-8b4a-41e4-a6f8-04932bcdab1a",
+            "uuid": "4d670f75-01e7-7399-6ab7-495900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "lYGT55jrFW-6Tp2JUSdXV3ABPkt8lH86.gFYR5t7F.workers.dev",
+            "servername": "kpbduvd-p93u.jdind8j2.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiWjBkc0tkSVF1MHFOZzZsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/kdobskb",
                 "headers": {
-                    "Host": "lygt55jrfw-6tp2jusdxv3abpkt8lh86.gfyr5t7f.workers.dev"
+                    "Host": "kpbduvd-p93u.jdind8j2.workers.dev"
                 }
             }
         },
