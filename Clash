@@ -8309,10 +8309,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "6738c873-d033-87c7-db78-5bb300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "kkbdovxkvjk.hdiehow.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8320,9 +8320,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/hdhudbksb",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "kkbdovxkvjk.hdiehow.workers.dev"
                 }
             }
         },
@@ -8334,25 +8334,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7342ad3c-a042-4a43-bc7b-f0919779894f",
+            "uuid": "6738c873-d033-87c7-db78-5bb300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "uJvuMkY0gk4q-cz666S3QpKl986kT99z.jhGU566.workerS.DeV",
+            "servername": "kkbdovxkvjk.hdiehow.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicEVYaUpJUnFpblYwSzluIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/hdhudbksb",
                 "headers": {
-                    "Host": "ujvumky0gk4q-cz666s3qpkl986kt99z.jhgu566.workers.dev"
+                    "Host": "kkbdovxkvjk.hdiehow.workers.dev"
                 }
             }
         },
