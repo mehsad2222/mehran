@@ -8209,10 +8209,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "3ac12462-83e5-010b-e1eb-2c1800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "mkobdovnk.jdieibsll.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8220,9 +8220,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/hgififvjgkic",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "mkobdovnk.jdieibsll.workers.dev"
                 }
             }
         },
@@ -8234,25 +8234,20 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "cea7e5bb-ce81-4b5b-a85c-db08f2674b64",
+            "uuid": "3ac12462-83e5-010b-e1eb-2c1800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6-wdc7ZkM8y-ZpDv7875W80Rzy09Jy77.hDIrB83.WORKeRS.dev",
+            "servername": "mkobdovnk.jdieibsll.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaXNJbFhtUW8ycHhnU2lBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/hgififvjgkic",
                 "headers": {
-                    "Host": "6-wdc7zkm8y-zpdv7875w80rzy09jy77.hdirb83.workers.dev"
+                    "Host": "mkobdovnk.jdieibsll.workers.dev"
                 }
             }
         },
