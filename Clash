@@ -9254,180 +9254,150 @@
         {
             "name": "1️⃣8️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.49",
+            "server": "31.133.0.250",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2d4611dc-9215-4c0e-8889-17af97076e64",
+            "uuid": "jisjeojsojsj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "VN69LWbMJhcm5WF07LX-mT5eGT8-41er.HfYd77ru.worKerS.DEV",
+            "servername": "irog38vd.hhurgo6r.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZnJiU3NBbnZ3Y1A3RiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pkfobaue8",
                 "headers": {
-                    "Host": "vn69lwbmjhcm5wf07lx-mt5egt8-41er.hfyd77ru.workers.dev"
+                    "Host": "irog38vd.hhurgo6r.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣8️⃣4️⃣ 〽️ehran",
             "type": "vless",
-            "server": "172.67.188.26",
-            "port": 443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2d4611dc-9215-4c0e-8889-17af97076e64",
+            "uuid": "jisjeojsojsj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "VN69LWbMJhcm5WF07LX-mT5eGT8-41er.HfYd77ru.worKerS.DEV",
+            "servername": "irog38vd.hhurgo6r.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZnJiU3NBbnZ3Y1A3RiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pkfobaue8",
                 "headers": {
-                    "Host": "vn69lwbmjhcm5wf07lx-mt5egt8-41er.hfyd77ru.workers.dev"
+                    "Host": "irog38vd.hhurgo6r.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣8️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.70",
+            "server": "31.133.0.250",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6856c3be-cc89-47be-8e15-543926af6630",
+            "uuid": "jisjeojsojsj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "spSveXAnX8AP-5-lBSTAQ21N5TNot8l2.JdiEb63.WORkERs.Dev",
+            "servername": "irog38vd.hhurgo6r.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidnlaVzREQ1oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pkfobaue8",
                 "headers": {
-                    "Host": "spsvexanx8ap-5-lbstaq21n5tnot8l2.jdieb63.workers.dev"
+                    "Host": "irog38vd.hhurgo6r.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣8️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.21.19.245",
-            "port": 443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6856c3be-cc89-47be-8e15-543926af6630",
+            "uuid": "jisjeojsojsj",
             "packet-encoding": "",
             "tls": true,
-            "servername": "spSveXAnX8AP-5-lBSTAQ21N5TNot8l2.JdiEb63.WORkERs.Dev",
+            "servername": "irog38vd.hhurgo6r.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidnlaVzREQ1oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pkfobaue8",
                 "headers": {
-                    "Host": "spsvexanx8ap-5-lbstaq21n5tnot8l2.jdieb63.workers.dev"
+                    "Host": "irog38vd.hhurgo6r.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣8️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.105",
+            "server": "31.133.0.250",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "a972d391-2927-486f-a088-77dd61be1f7a",
+            "uuid": "5068368c-6bef-ece3-d680-446500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "y5F02HIJM6W30PSadz667WrNbcTyAdRB.jdiBe73B.WoRkers.dEv",
+            "servername": "irog38vd.hhurgo6r.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicW1WbWtPV2tpVkk1eVk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pkfobaue8",
                 "headers": {
-                    "Host": "y5f02hijm6w30psadz667wrnbctyadrb.jdibe73b.workers.dev"
+                    "Host": "irog38vd.hhurgo6r.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣8️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.114.97.3",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "a972d391-2927-486f-a088-77dd61be1f7a",
+            "uuid": "5068368c-6bef-ece3-d680-446500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "y5F02HIJM6W30PSadz667WrNbcTyAdRB.jdiBe73B.WoRkers.dEv",
+            "servername": "irog38vd.hhurgo6r.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoicW1WbWtPV2tpVkk1eVk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pkfobaue8",
                 "headers": {
-                    "Host": "y5f02hijm6w30psadz667wrnbctyadrb.jdibe73b.workers.dev"
+                    "Host": "irog38vd.hhurgo6r.workers.dev"
                 }
             }
         },
