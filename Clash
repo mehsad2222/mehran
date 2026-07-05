@@ -8259,10 +8259,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "d0af667f-17f2-f75d-d06f-e7ae00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "mejcueigdj.jdibsolppoj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8270,9 +8270,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/npoggu4ridjix6e",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "mejcueigdj.jdibsolppoj.workers.dev"
                 }
             }
         },
@@ -8282,27 +8282,22 @@
             "server": "31.133.0.124",
             "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "181f3f68-9b1b-4f4e-bbdd-27ab5adff63c",
+            "uuid": "d0af667f-17f2-f75d-d06f-e7ae00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "13syanluRthXT2004N7D3-mJvCPo3VZ9.jdiv38Bd.wOrKErS.DEV",
+            "servername": "mejcueigdj.jdibsolppoj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiN05HQ0Nublh1OXQzbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/npoggu4ridjix6e",
                 "headers": {
-                    "Host": "13syanlurthxt2004n7d3-mjvcpo3vz9.jdiv38bd.workers.dev"
+                    "Host": "mejcueigdj.jdibsolppoj.workers.dev"
                 }
             }
         },
