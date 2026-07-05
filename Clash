@@ -9904,60 +9904,50 @@
         {
             "name": "1️⃣9️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "31.133.0.49",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "bf936f40-3b0d-4daf-b072-35419e07a258",
+            "uuid": "dc080d92-e3d3-ed19-1b4a-d0e600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "JwgRI8etzORPYZRc2HBd7mvD5A3KSfqr.iHe839B.wORkErS.dEV",
+            "servername": "vggehvzi379xv.ooyphfob.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYk1YSE5xZFZnM0YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/mehranjoon",
                 "headers": {
-                    "Host": "jwgri8etzorpyzrc2hbd7mvd5a3ksfqr.ihe839b.workers.dev"
+                    "Host": "vggehvzi379xv.ooyphfob.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣9️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.114.97.2",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "bf936f40-3b0d-4daf-b072-35419e07a258",
+            "uuid": "dc080d92-e3d3-ed19-1b4a-d0e600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "JwgRI8etzORPYZRc2HBd7mvD5A3KSfqr.iHe839B.wORkErS.dEV",
+            "servername": "vggehvzi379xv.ooyphfob.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiYk1YSE5xZFZnM0YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/mehranjoon",
                 "headers": {
-                    "Host": "jwgri8etzorpyzrc2hbd7mvd5a3ksfqr.ihe839b.workers.dev"
+                    "Host": "vggehvzi379xv.ooyphfob.workers.dev"
                 }
             }
         },
@@ -10139,15 +10129,15 @@
         {
             "name": "2️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "31.133.0.250",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "49ed07f8-1154-44a7-26bf-fe0b00000000",
+            "uuid": "f200f4df-ef16-684e-e16e-fc3600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "wwudivd63.ydut6rd.workers.dev",
+            "servername": "rryge6efjdgwu.muto8956.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10155,9 +10145,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/uge738dbe0e",
+                "path": "/ibepb8338v",
                 "headers": {
-                    "Host": "wwudivd63.ydut6rd.workers.dev"
+                    "Host": "rryge6efjdgwu.muto8956.workers.dev"
                 }
             }
         },
@@ -10169,10 +10159,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7fb07121-a697-519b-87e2-54ab00000000",
+            "uuid": "dc080d92-e3d3-ed19-1b4a-d0e600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "mckveue7.hdobeibs.workers.dev",
+            "servername": "vggehvzi379xv.ooyphfob.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10180,9 +10170,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pbdo4v8dbe",
+                "path": "/mehranjoon",
                 "headers": {
-                    "Host": "mckveue7.hdobeibs.workers.dev"
+                    "Host": "vggehvzi379xv.ooyphfob.workers.dev"
                 }
             }
         },
