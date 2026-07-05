@@ -156,10 +156,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7275b246-d8b2-4cb7-8162-8404e9c91b5d",
+            "uuid": "532d1538-2755-cdd6-6a7e-3b3700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-wave-d61a.irob39b.workers.dev",
+            "servername": "mobfov-kld8.xxvxbjd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -167,9 +167,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=b8605b91c9",
+                "path": "/jdibdonp",
                 "headers": {
-                    "Host": "nova-sunny-wave-d61a.irob39b.workers.dev"
+                    "Host": "mobfov-kld8.xxvxbjd.workers.dev"
                 }
             }
         },
@@ -181,10 +181,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "7275b246-d8b2-4cb7-8162-8404e9c91b5d",
+            "uuid": "532d1538-2755-cdd6-6a7e-3b3700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-wave-d61a.irob39b.workers.dev",
+            "servername": "mobfov-kld8.xxvxbjd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -192,9 +192,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=b8605b91c9",
+                "path": "/jdibdonp",
                 "headers": {
-                    "Host": "nova-sunny-wave-d61a.irob39b.workers.dev"
+                    "Host": "mobfov-kld8.xxvxbjd.workers.dev"
                 }
             }
         },
