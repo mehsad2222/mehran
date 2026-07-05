@@ -9259,10 +9259,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "jisjeojsojsj",
+            "uuid": "f3ab9be6-31d4-64e4-e154-b8e300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "irog38vd.hhurgo6r.workers.dev",
+            "servername": "pgm0t9bd.hdubeodb73.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -9270,9 +9270,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pkfobaue8",
+                "path": "/idbie8vd",
                 "headers": {
-                    "Host": "irog38vd.hhurgo6r.workers.dev"
+                    "Host": "pgm0t9bd.hdubeodb73.workers.dev"
                 }
             }
         },
@@ -9284,10 +9284,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "jisjeojsojsj",
+            "uuid": "f3ab9be6-31d4-64e4-e154-b8e300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "irog38vd.hhurgo6r.workers.dev",
+            "servername": "pgm0t9bd.hdubeodb73.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -9295,9 +9295,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pkfobaue8",
+                "path": "/idbie8vd",
                 "headers": {
-                    "Host": "irog38vd.hhurgo6r.workers.dev"
+                    "Host": "pgm0t9bd.hdubeodb73.workers.dev"
                 }
             }
         },
