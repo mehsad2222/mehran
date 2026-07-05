@@ -8554,15 +8554,15 @@
         {
             "name": "1️⃣7️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "188.114.96.3",
-            "port": 443,
+            "server": "31.133.0.150",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "hdihdkdjjfj",
+            "uuid": "4a468611-6e83-f1e6-63c8-675c00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-cloud-b79d.jdoen39nx.workers.dev",
+            "servername": "mpbfove4-94hd.hjodivky6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -8570,39 +8570,34 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/kdob848bd",
                 "headers": {
-                    "Host": "nova-swift-cloud-b79d.jdoen39nx.workers.dev"
+                    "Host": "mpbfove4-94hd.hjodivky6.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣7️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "5.10.214.131",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "07f9708c-4038-416e-ab6b-a2d9aefb0821",
+            "uuid": "4a468611-6e83-f1e6-63c8-675c00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "N04u1lbm5q8Prnvn-rFfe3Pnyp1l2h52.iEB38gD.wOrkeRS.DeV",
+            "servername": "mpbfove4-94hd.hjodivky6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiRmd0ak5oaFJMblUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/kdob848bd",
                 "headers": {
-                    "Host": "n04u1lbm5q8prnvn-rffe3pnyp1l2h52.ieb38gd.workers.dev"
+                    "Host": "mpbfove4-94hd.hjodivky6.workers.dev"
                 }
             }
         },
