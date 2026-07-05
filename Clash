@@ -8804,60 +8804,50 @@
         {
             "name": "1️⃣7️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.21.53.185",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c0343634-9e6f-4818-854f-7fe72a0b43c5",
+            "uuid": "1c18cb86-38c9-4b86-8d56-8094200cf190",
             "packet-encoding": "",
             "tls": true,
-            "servername": "x3XS7NFIv5H2MSP0MS3-N0dH437rfuVd.VeUhd73j.wOrkers.DeV",
+            "servername": "nova-orbit-bridge-99f1.veuhd73j.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTmpZM1p1MWl5anhNeDB3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/?u=033c292c81",
                 "headers": {
-                    "Host": "x3xs7nfiv5h2msp0ms3-n0dh437rfuvd.veuhd73j.workers.dev"
+                    "Host": "nova-orbit-bridge-99f1.veuhd73j.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣7️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "31.133.0.45",
+            "server": "31.133.0.250",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "c0343634-9e6f-4818-854f-7fe72a0b43c5",
+            "uuid": "1c18cb86-38c9-4b86-8d56-8094200cf190",
             "packet-encoding": "",
             "tls": true,
-            "servername": "x3XS7NFIv5H2MSP0MS3-N0dH437rfuVd.VeUhd73j.wOrkers.DeV",
+            "servername": "nova-orbit-bridge-99f1.veuhd73j.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
-            "ech-opts": {
-                "enable": true
-            },
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiTmpZM1p1MWl5anhNeDB3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/?u=033c292c81",
                 "headers": {
-                    "Host": "x3xs7nfiv5h2msp0ms3-n0dh437rfuvd.veuhd73j.workers.dev"
+                    "Host": "nova-orbit-bridge-99f1.veuhd73j.workers.dev"
                 }
             }
         },
