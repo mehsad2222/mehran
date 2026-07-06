@@ -506,10 +506,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "8ec52222-4d92-4bb2-8551-ca413c0a2c19",
+            "uuid": "a69f0634-0c34-06b9-3a83-c47d00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-falcon-garden-8d9c.jeib38b.workers.dev",
+            "servername": "jdibe837pdb.johory83.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -517,9 +517,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=89567ba646",
+                "path": "/kdphe8ryv",
                 "headers": {
-                    "Host": "nova-falcon-garden-8d9c.jeib38b.workers.dev"
+                    "Host": "jdibe837pdb.johory83.workers.dev"
                 }
             }
         },
@@ -531,10 +531,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "8ec52222-4d92-4bb2-8551-ca413c0a2c19",
+            "uuid": "a69f0634-0c34-06b9-3a83-c47d00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-falcon-garden-8d9c.jeib38b.workers.dev",
+            "servername": "jdibe837pdb.johory83.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -542,9 +542,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=89567ba646",
+                "path": "/kdphe8ryv",
                 "headers": {
-                    "Host": "nova-falcon-garden-8d9c.jeib38b.workers.dev"
+                    "Host": "jdibe837pdb.johory83.workers.dev"
                 }
             }
         },
