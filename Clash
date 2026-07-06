@@ -10009,10 +10009,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6e5696af-db67-4d3c-8242-f60b2f122cec",
+            "uuid": "91c94038-3878-6e8d-9bed-1fbf00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-core-0293.jdobxk.workers.dev",
+            "servername": "orb9v377vs.ieigr838.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10020,9 +10020,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/idbeo4g8b",
                 "headers": {
-                    "Host": "nova-crystal-core-0293.jdobxk.workers.dev"
+                    "Host": "orb9v377vs.ieigr838.workers.dev"
                 }
             }
         },
@@ -10034,10 +10034,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6e5696af-db67-4d3c-8242-f60b2f122cec",
+            "uuid": "91c94038-3878-6e8d-9bed-1fbf00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-core-0293.jdobxk.workers.dev",
+            "servername": "orb9v377vs.ieigr838.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10045,9 +10045,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/idbeo4g8b",
                 "headers": {
-                    "Host": "nova-crystal-core-0293.jdobxk.workers.dev"
+                    "Host": "orb9v377vs.ieigr838.workers.dev"
                 }
             }
         },
