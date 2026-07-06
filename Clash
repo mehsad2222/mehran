@@ -406,10 +406,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dfba9e34-711c-405b-8b77-cc81d57b4d04",
+            "uuid": "7a61adbd-0e96-92c3-4d64-3dad00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pearl-vault-0da1.gydy5ru.workers.dev",
+            "servername": "jobsphyeo38.odbiebi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -417,9 +417,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=05ca3aa8b3",
+                "path": "/ijdobso38",
                 "headers": {
-                    "Host": "nova-pearl-vault-0da1.gydy5ru.workers.dev"
+                    "Host": "jobsphyeo38.odbiebi.workers.dev"
                 }
             }
         },
@@ -431,10 +431,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dfba9e34-711c-405b-8b77-cc81d57b4d04",
+            "uuid": "7a61adbd-0e96-92c3-4d64-3dad00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pearl-vault-0da1.gydy5ru.workers.dev",
+            "servername": "jobsphyeo38.odbiebi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -442,9 +442,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=05ca3aa8b3",
+                "path": "/ijdobso38",
                 "headers": {
-                    "Host": "nova-pearl-vault-0da1.gydy5ru.workers.dev"
+                    "Host": "jobsphyeo38.odbiebi.workers.dev"
                 }
             }
         },
