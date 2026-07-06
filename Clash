@@ -6610,10 +6610,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4fe96c7d-7297-41ac-81e2-a0d58f9a5089",
+            "uuid": "cffab9c0-c39a-f33c-96c2-898300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-falcon-vault-3a0a.hdigskhsj.workers.dev",
+            "servername": "pokogng64.kdoup48h.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6621,9 +6621,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=41c230f7ca",
+                "path": "/pypjro4id",
                 "headers": {
-                    "Host": "nova-falcon-vault-3a0a.hdigskhsj.workers.dev"
+                    "Host": "pokogng64.kdoup48h.workers.dev"
                 }
             }
         },
@@ -6635,10 +6635,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4fe96c7d-7297-41ac-81e2-a0d58f9a5089",
+            "uuid": "cffab9c0-c39a-f33c-96c2-898300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-falcon-vault-3a0a.hdigskhsj.workers.dev",
+            "servername": "pokogng64.kdoup48h.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6646,9 +6646,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=41c230f7ca",
+                "path": "/pypjro4id",
                 "headers": {
-                    "Host": "nova-falcon-vault-3a0a.hdigskhsj.workers.dev"
+                    "Host": "pokogng64.kdoup48h.workers.dev"
                 }
             }
         },
