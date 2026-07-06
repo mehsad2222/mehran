@@ -6010,10 +6010,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6f76920a-3457-4419-8c54-319adf03f888",
+            "uuid": "49b27bb5-13f9-03ed-65b8-645a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-bridge-6b9e.y272udu.workers.dev",
+            "servername": "uyro74heje.y272udu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6021,9 +6021,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=3a8f4b1bc4",
+                "path": "/odbe8gdob",
                 "headers": {
-                    "Host": "nova-river-bridge-6b9e.y272udu.workers.dev"
+                    "Host": "uyro74heje.y272udu.workers.dev"
                 }
             }
         },
@@ -6035,10 +6035,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6f76920a-3457-4419-8c54-319adf03f888",
+            "uuid": "49b27bb5-13f9-03ed-65b8-645a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-bridge-6b9e.y272udu.workers.dev",
+            "servername": "uyro74heje.y272udu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -6046,9 +6046,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=3a8f4b1bc4",
+                "path": "/odbe8gdob",
                 "headers": {
-                    "Host": "nova-river-bridge-6b9e.y272udu.workers.dev"
+                    "Host": "uyro74heje.y272udu.workers.dev"
                 }
             }
         },
