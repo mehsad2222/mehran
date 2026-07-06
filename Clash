@@ -10059,10 +10059,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "3e2dfee7-8d76-42f6-8100-2eaaaece004c",
+            "uuid": "81c31d32-ed3e-02cf-bfa1-6f6900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-node-bef4.huto79go.workers.dev",
+            "servername": "uofpbsp63d5.iwhye82h8.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10070,9 +10070,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/ieih38hsl",
                 "headers": {
-                    "Host": "nova-river-node-bef4.huto79go.workers.dev"
+                    "Host": "uofpbsp63d5.iwhye82h8.workers.dev"
                 }
             }
         },
@@ -10084,10 +10084,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "3e2dfee7-8d76-42f6-8100-2eaaaece004c",
+            "uuid": "81c31d32-ed3e-02cf-bfa1-6f6900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-node-bef4.huto79go.workers.dev",
+            "servername": "uofpbsp63d5.iwhye82h8.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10095,9 +10095,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/",
+                "path": "/ieih38hsl",
                 "headers": {
-                    "Host": "nova-river-node-bef4.huto79go.workers.dev"
+                    "Host": "uofpbsp63d5.iwhye82h8.workers.dev"
                 }
             }
         },
