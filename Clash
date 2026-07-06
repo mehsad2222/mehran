@@ -106,10 +106,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b5b309ec-d363-451a-8980-0941801df9ad",
+            "uuid": "e765348e-1679-e005-2211-7ee500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-atlas-spark-36b1.hduv38b.workers.dev",
+            "servername": "jdinelndonw.dhhdine.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -117,9 +117,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=a642f8d986",
+                "path": "/pishgamantechnology",
                 "headers": {
-                    "Host": "nova-atlas-spark-36b1.hduv38b.workers.dev"
+                    "Host": "jdinelndonw.dhhdine.workers.dev"
                 }
             }
         },
@@ -131,10 +131,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b5b309ec-d363-451a-8980-0941801df9ad",
+            "uuid": "e765348e-1679-e005-2211-7ee500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-atlas-spark-36b1.hduv38b.workers.dev",
+            "servername": "jdinelndonw.dhhdine.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -142,9 +142,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=a642f8d986",
+                "path": "/pishgamantechnology",
                 "headers": {
-                    "Host": "nova-atlas-spark-36b1.hduv38b.workers.dev"
+                    "Host": "jdinelndonw.dhhdine.workers.dev"
                 }
             }
         },
