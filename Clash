@@ -9959,10 +9959,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "eac79eeb-3ed8-4340-88f6-d977fbc248e2",
+            "uuid": "d8f08ba7-d5b4-86f3-5e47-ad4b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-comet-spark-9a43.16738jsjbx.workers.dev",
+            "servername": "opbeobs74-93g.hsig28bsi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -9970,9 +9970,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=7d958b1bc9",
+                "path": "/urididjvnoy",
                 "headers": {
-                    "Host": "nova-comet-spark-9a43.16738jsjbx.workers.dev"
+                    "Host": "opbeobs74-93g.hsig28bsi.workers.dev"
                 }
             }
         },
@@ -9984,10 +9984,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "eac79eeb-3ed8-4340-88f6-d977fbc248e2",
+            "uuid": "d8f08ba7-d5b4-86f3-5e47-ad4b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-comet-spark-9a43.16738jsjbx.workers.dev",
+            "servername": "opbeobs74-93g.hsig28bsi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -9995,9 +9995,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=7d958b1bc9",
+                "path": "/urididjvnoy",
                 "headers": {
-                    "Host": "nova-comet-spark-9a43.16738jsjbx.workers.dev"
+                    "Host": "opbeobs74-93g.hsig28bsi.workers.dev"
                 }
             }
         },
