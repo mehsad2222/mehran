@@ -2110,10 +2110,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e9d40bc2-c2e0-45c1-8cbc-b5c261c2a1b8",
+            "uuid": "ec40372b-5a6f-5cdd-75cf-ab8d00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-orbit-bridge-2a34.jirbr8bek.workers.dev",
+            "servername": "jdobe9383-08ej8.dafite5729.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2121,9 +2121,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=1557242b8e",
+                "path": "/jdoheovs",
                 "headers": {
-                    "Host": "nova-orbit-bridge-2a34.jirbr8bek.workers.dev"
+                    "Host": "jdobe9383-08ej8.dafite5729.workers.dev"
                 }
             }
         },
@@ -2135,10 +2135,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e9d40bc2-c2e0-45c1-8cbc-b5c261c2a1b8",
+            "uuid": "ec40372b-5a6f-5cdd-75cf-ab8d00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-orbit-bridge-2a34.jirbr8bek.workers.dev",
+            "servername": "jdobe9383-08ej8.dafite5729.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2146,9 +2146,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=1557242b8e",
+                "path": "/jdoheovs",
                 "headers": {
-                    "Host": "nova-orbit-bridge-2a34.jirbr8bek.workers.dev"
+                    "Host": "jdobe9383-08ej8.dafite5729.workers.dev"
                 }
             }
         },
