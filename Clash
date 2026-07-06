@@ -5960,10 +5960,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65467535-7dc4-4c23-8fe4-9ad95db53632",
+            "uuid": "cfb3895b-feda-f6a4-6ea4-f2af00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pixel-spark-6819.jdig38bd.workers.dev",
+            "servername": "pokd0h38hdog.hyeujhyf.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5971,9 +5971,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=0738550d0e",
+                "path": "/prbdig8g",
                 "headers": {
-                    "Host": "nova-pixel-spark-6819.jdig38bd.workers.dev"
+                    "Host": "pokd0h38hdog.hyeujhyf.workers.dev"
                 }
             }
         },
@@ -5985,10 +5985,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65467535-7dc4-4c23-8fe4-9ad95db53632",
+            "uuid": "cfb3895b-feda-f6a4-6ea4-f2af00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pixel-spark-6819.jdig38bd.workers.dev",
+            "servername": "pokd0h38hdog.hyeujhyf.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5996,9 +5996,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=0738550d0e",
+                "path": "/prbdig8g",
                 "headers": {
-                    "Host": "nova-pixel-spark-6819.jdig38bd.workers.dev"
+                    "Host": "pokd0h38hdog.hyeujhyf.workers.dev"
                 }
             }
         },
