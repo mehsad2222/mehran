@@ -6005,8 +6005,8 @@
         {
             "name": "1️⃣1️⃣9️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.18.33.46",
-            "port": 8443,
+            "server": "31.133.0.49",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -6030,8 +6030,8 @@
         {
             "name": "1️⃣1️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "8.35.211.72",
-            "port": 2053,
+            "server": "37.252.6.119",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
