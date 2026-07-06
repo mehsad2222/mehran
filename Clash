@@ -756,10 +756,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ceb95cf6-6d0a-41c1-8a36-440575b4598b",
+            "uuid": "aed0078a-a4d9-d3f4-a598-8b8d00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-coral-wave-bbc6.hdievuwv.workers.dev",
+            "servername": "idoebo38bs.gyeih67gi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -767,9 +767,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=6494da537b",
+                "path": "/hur5eihbd",
                 "headers": {
-                    "Host": "nova-coral-wave-bbc6.hdievuwv.workers.dev"
+                    "Host": "idoebo38bs.gyeih67gi.workers.dev"
                 }
             }
         },
@@ -781,10 +781,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "ceb95cf6-6d0a-41c1-8a36-440575b4598b",
+            "uuid": "aed0078a-a4d9-d3f4-a598-8b8d00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-coral-wave-bbc6.hdievuwv.workers.dev",
+            "servername": "idoebo38bs.gyeih67gi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -792,9 +792,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=6494da537b",
+                "path": "/hur5eihbd",
                 "headers": {
-                    "Host": "nova-coral-wave-bbc6.hdievuwv.workers.dev"
+                    "Host": "idoebo38bs.gyeih67gi.workers.dev"
                 }
             }
         },
