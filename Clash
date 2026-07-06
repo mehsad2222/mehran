@@ -1106,10 +1106,10 @@
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "69cf2e27-a1ff-4694-8a99-f8af5f70f2b4",
+            "uuid": "3cfe28ce-ad1e-c0c5-fd45-1bca00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-garden-66b4.udieb28.workers.dev",
+            "servername": "pkpdjo838.yrui74yur.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1117,9 +1117,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=3f80226629",
+                "path": "/pir04hbdh",
                 "headers": {
-                    "Host": "nova-swift-garden-66b4.udieb28.workers.dev"
+                    "Host": "pkpdjo838.yrui74yur.workers.dev"
                 }
             }
         },
@@ -1131,10 +1131,10 @@
             "ip-version": "ipv4",
             "tfo": true,
             "udp": false,
-            "uuid": "69cf2e27-a1ff-4694-8a99-f8af5f70f2b4",
+            "uuid": "3cfe28ce-ad1e-c0c5-fd45-1bca00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-garden-66b4.udieb28.workers.dev",
+            "servername": "pkpdjo838.yrui74yur.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1142,9 +1142,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=3f80226629",
+                "path": "/pir04hbdh",
                 "headers": {
-                    "Host": "nova-swift-garden-66b4.udieb28.workers.dev"
+                    "Host": "pkpdjo838.yrui74yur.workers.dev"
                 }
             }
         },
