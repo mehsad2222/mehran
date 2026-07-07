@@ -1606,10 +1606,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "93265bf8-ed36-4195-8eda-93fed4062c28",
+            "uuid": "1aeba59a-30f6-1908-176e-b48e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-comet-core-b197.jeib28bs.workers.dev",
+            "servername": "fhsi3v8bdie.ueig38hd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1617,9 +1617,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=34d8eff054",
+                "path": "/wuow73obs",
                 "headers": {
-                    "Host": "nova-comet-core-b197.jeib28bs.workers.dev"
+                    "Host": "fhsi3v8bdie.ueig38hd.workers.dev"
                 }
             }
         },
@@ -1631,10 +1631,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "93265bf8-ed36-4195-8eda-93fed4062c28",
+            "uuid": "1aeba59a-30f6-1908-176e-b48e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-comet-core-b197.jeib28bs.workers.dev",
+            "servername": "fhsi3v8bdie.ueig38hd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1642,9 +1642,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=34d8eff054",
+                "path": "/wuow73obs",
                 "headers": {
-                    "Host": "nova-comet-core-b197.jeib28bs.workers.dev"
+                    "Host": "fhsi3v8bdie.ueig38hd.workers.dev"
                 }
             }
         },
@@ -1656,10 +1656,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "fb176dfb-846e-4704-8240-b86870a0b301",
+            "uuid": "b730f4cf-b51c-b08f-ccb3-979f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pearl-garden-8900.jeib38sj.workers.dev",
+            "servername": "aagsueivd8e.jdib38dj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1667,9 +1667,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=95b8088508",
+                "path": "/pobor6wn",
                 "headers": {
-                    "Host": "nova-pearl-garden-8900.jeib38sj.workers.dev"
+                    "Host": "aagsueivd8e.jdib38dj.workers.dev"
                 }
             }
         },
@@ -1681,10 +1681,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "fb176dfb-846e-4704-8240-b86870a0b301",
+            "uuid": "b730f4cf-b51c-b08f-ccb3-979f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pearl-garden-8900.jeib38sj.workers.dev",
+            "servername": "aagsueivd8e.jdib38dj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1692,9 +1692,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=95b8088508",
+                "path": "/pobor6wn",
                 "headers": {
-                    "Host": "nova-pearl-garden-8900.jeib38sj.workers.dev"
+                    "Host": "aagsueivd8e.jdib38dj.workers.dev"
                 }
             }
         },
@@ -1706,10 +1706,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f2514bac-32b7-4e3c-842b-565ed836ec90",
+            "uuid": "f699ccbd-59d3-d988-cd40-3a2a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-panel-e20f.hdiei28h.workers.dev",
+            "servername": "xxuwuv38bxg.irh848kfo.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1717,9 +1717,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=f2fc5c6ef0",
+                "path": "/iorhog38ve",
                 "headers": {
-                    "Host": "nova-swift-panel-e20f.hdiei28h.workers.dev"
+                    "Host": "xxuwuv38bxg.irh848kfo.workers.dev"
                 }
             }
         },
@@ -1731,10 +1731,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f2514bac-32b7-4e3c-842b-565ed836ec90",
+            "uuid": "f699ccbd-59d3-d988-cd40-3a2a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-swift-panel-e20f.hdiei28h.workers.dev",
+            "servername": "xxuwuv38bxg.irh848kfo.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1742,9 +1742,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=f2fc5c6ef0",
+                "path": "/iorhog38ve",
                 "headers": {
-                    "Host": "nova-swift-panel-e20f.hdiei28h.workers.dev"
+                    "Host": "xxuwuv38bxg.irh848kfo.workers.dev"
                 }
             }
         },
@@ -1756,10 +1756,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "717e7fbe-0e29-4d9f-8aa4-ba6db68ca0f2",
+            "uuid": "2c889a8e-8fe5-ecf5-fd1a-9f5900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-orbit-spark-82e3.jdib38bs.workers.dev",
+            "servername": "sssyeib28bs.oyoth947h.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1767,9 +1767,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=23d7bbffe6",
+                "path": "/quwyy28ge",
                 "headers": {
-                    "Host": "nova-orbit-spark-82e3.jdib38bs.workers.dev"
+                    "Host": "sssyeib28bs.oyoth947h.workers.dev"
                 }
             }
         },
@@ -1781,10 +1781,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "717e7fbe-0e29-4d9f-8aa4-ba6db68ca0f2",
+            "uuid": "2c889a8e-8fe5-ecf5-fd1a-9f5900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-orbit-spark-82e3.jdib38bs.workers.dev",
+            "servername": "sssyeib28bs.oyoth947h.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1792,9 +1792,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=23d7bbffe6",
+                "path": "/quwyy28ge",
                 "headers": {
-                    "Host": "nova-orbit-spark-82e3.jdib38bs.workers.dev"
+                    "Host": "sssyeib28bs.oyoth947h.workers.dev"
                 }
             }
         },
@@ -1806,10 +1806,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4d9ccac5-b6ee-4727-8437-47cd914988e3",
+            "uuid": "a00a53b2-15a0-9d31-74be-255c00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-spark-755c.ue839v.workers.dev",
+            "servername": "poiidb38bd83u.pkto49bd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1817,9 +1817,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=0926523623",
+                "path": "/pfk049bdo",
                 "headers": {
-                    "Host": "nova-sunny-spark-755c.ue839v.workers.dev"
+                    "Host": "poiidb38bd83u.pkto49bd.workers.dev"
                 }
             }
         },
@@ -1831,10 +1831,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "4d9ccac5-b6ee-4727-8437-47cd914988e3",
+            "uuid": "a00a53b2-15a0-9d31-74be-255c00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-spark-755c.ue839v.workers.dev",
+            "servername": "poiidb38bd83u.pkto49bd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1842,9 +1842,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=0926523623",
+                "path": "/pfk049bdo",
                 "headers": {
-                    "Host": "nova-sunny-spark-755c.ue839v.workers.dev"
+                    "Host": "poiidb38bd83u.pkto49bd.workers.dev"
                 }
             }
         },
@@ -1856,10 +1856,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "45b256a5-35e6-4289-8292-33e0209ff649",
+            "uuid": "985f9442-53d0-5d60-fd31-fc3400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-orbit-bridge-ce82.dji39ve.workers.dev",
+            "servername": "eeeeibciwivx87.prj49bxop.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1867,9 +1867,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=a6aaa73b1f",
+                "path": "/oejo39bsie",
                 "headers": {
-                    "Host": "nova-orbit-bridge-ce82.dji39ve.workers.dev"
+                    "Host": "eeeeibciwivx87.prj49bxop.workers.dev"
                 }
             }
         },
@@ -1881,10 +1881,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "45b256a5-35e6-4289-8292-33e0209ff649",
+            "uuid": "985f9442-53d0-5d60-fd31-fc3400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-orbit-bridge-ce82.dji39ve.workers.dev",
+            "servername": "eeeeibciwivx87.prj49bxop.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1892,9 +1892,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=a6aaa73b1f",
+                "path": "/oejo39bsie",
                 "headers": {
-                    "Host": "nova-orbit-bridge-ce82.dji39ve.workers.dev"
+                    "Host": "eeeeibciwivx87.prj49bxop.workers.dev"
                 }
             }
         },
@@ -1906,10 +1906,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "8bbde050-ad2c-4f12-8e9f-aae99dc41ecd",
+            "uuid": "59c12f2a-d971-6e49-db3a-5e8400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-spark-8ef2.hdiribd.workers.dev",
+            "servername": "rrruchi38hx83.aadwr3fgg.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1917,9 +1917,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=74c1dc88ae",
+                "path": "/pjeobskbd",
                 "headers": {
-                    "Host": "nova-sunny-spark-8ef2.hdiribd.workers.dev"
+                    "Host": "rrruchi38hx83.aadwr3fgg.workers.dev"
                 }
             }
         },
@@ -1931,10 +1931,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "8bbde050-ad2c-4f12-8e9f-aae99dc41ecd",
+            "uuid": "59c12f2a-d971-6e49-db3a-5e8400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-spark-8ef2.hdiribd.workers.dev",
+            "servername": "rrruchi38hx83.aadwr3fgg.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1942,9 +1942,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=74c1dc88ae",
+                "path": "/pjeobskbd",
                 "headers": {
-                    "Host": "nova-sunny-spark-8ef2.hdiribd.workers.dev"
+                    "Host": "rrruchi38hx83.aadwr3fgg.workers.dev"
                 }
             }
         },
@@ -1956,10 +1956,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b3489f76-d4a2-47ef-80e6-438bf053c3ec",
+            "uuid": "f0c234a6-1f84-77a0-7f65-691b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-luna-spark-2bbe.ue8h28b.workers.dev",
+            "servername": "ttye738vx8wi.iri38hdo37.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1967,9 +1967,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=a98c857c65",
+                "path": "/idb49vdiJr",
                 "headers": {
-                    "Host": "nova-luna-spark-2bbe.ue8h28b.workers.dev"
+                    "Host": "ttye738vx8wi.iri38hdo37.workers.dev"
                 }
             }
         },
@@ -1981,10 +1981,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b3489f76-d4a2-47ef-80e6-438bf053c3ec",
+            "uuid": "f0c234a6-1f84-77a0-7f65-691b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-luna-spark-2bbe.ue8h28b.workers.dev",
+            "servername": "ttye738vx8wi.iri38hdo37.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1992,9 +1992,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=a98c857c65",
+                "path": "/idb49vdiJr",
                 "headers": {
-                    "Host": "nova-luna-spark-2bbe.ue8h28b.workers.dev"
+                    "Host": "ttye738vx8wi.iri38hdo37.workers.dev"
                 }
             }
         },
@@ -2006,10 +2006,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "575916c4-fffd-4218-8d69-ff0c876a41b1",
+            "uuid": "8c18451b-ec48-fcc4-35dc-7d3a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-stack-ee79.hdih382.workers.dev",
+            "servername": "zzhxu38bxo37.irosn38hsoo.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2017,9 +2017,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=78ccae6df8",
+                "path": "/pishgamandohr8",
                 "headers": {
-                    "Host": "nova-river-stack-ee79.hdih382.workers.dev"
+                    "Host": "zzhxu38bxo37.irosn38hsoo.workers.dev"
                 }
             }
         },
@@ -2031,10 +2031,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "575916c4-fffd-4218-8d69-ff0c876a41b1",
+            "uuid": "8c18451b-ec48-fcc4-35dc-7d3a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-stack-ee79.hdih382.workers.dev",
+            "servername": "zzhxu38bxo37.irosn38hsoo.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2042,9 +2042,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=78ccae6df8",
+                "path": "/pishgamandohr8",
                 "headers": {
-                    "Host": "nova-river-stack-ee79.hdih382.workers.dev"
+                    "Host": "zzhxu38bxo37.irosn38hsoo.workers.dev"
                 }
             }
         },
@@ -2056,10 +2056,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2d3c14d7-9b80-4358-8b6b-da8ef4eee0b2",
+            "uuid": "f11f941c-6034-4ff0-4307-bac800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
+            "servername": "cvdhgeuc37v3.fguyr6ehf7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2067,9 +2067,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=affcb8f899",
+                "path": "/pidhfornofyr",
                 "headers": {
-                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
+                    "Host": "cvdhgeuc37v3.fguyr6ehf7.workers.dev"
                 }
             }
         },
@@ -2081,10 +2081,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "2d3c14d7-9b80-4358-8b6b-da8ef4eee0b2",
+            "uuid": "f11f941c-6034-4ff0-4307-bac800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-panel-48be.he838hkl.workers.dev",
+            "servername": "cvdhgeuc37v3.fguyr6ehf7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2092,9 +2092,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=affcb8f899",
+                "path": "/pidhfornofyr",
                 "headers": {
-                    "Host": "nova-crystal-panel-48be.he838hkl.workers.dev"
+                    "Host": "cvdhgeuc37v3.fguyr6ehf7.workers.dev"
                 }
             }
         },
