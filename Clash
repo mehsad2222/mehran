@@ -1506,10 +1506,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1a701cda-8cce-442e-8e65-53ef7cbcdb1e",
+            "uuid": "79692f6e-d875-8f32-dc34-043a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pixel-core-0e38.ur838hdo.workers.dev",
+            "servername": "orpbdog487.ur838hdo.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1517,9 +1517,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=0cb6ba20fc",
+                "path": "/poieonzk",
                 "headers": {
-                    "Host": "nova-pixel-core-0e38.ur838hdo.workers.dev"
+                    "Host": "orpbdog487.ur838hdo.workers.dev"
                 }
             }
         },
@@ -1531,10 +1531,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1a701cda-8cce-442e-8e65-53ef7cbcdb1e",
+            "uuid": "79692f6e-d875-8f32-dc34-043a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pixel-core-0e38.ur838hdo.workers.dev",
+            "servername": "orpbdog487.ur838hdo.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -1542,9 +1542,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=0cb6ba20fc",
+                "path": "/poieonzk",
                 "headers": {
-                    "Host": "nova-pixel-core-0e38.ur838hdo.workers.dev"
+                    "Host": "orpbdog487.ur838hdo.workers.dev"
                 }
             }
         },
