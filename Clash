@@ -2606,10 +2606,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "70222d16-f9f4-413c-83e0-b97399cd27d2",
+            "uuid": "05102511-7a19-37f0-0beb-e31400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-vault-ff5d.hickgpg9.workers.dev",
+            "servername": "plorj-838jro.jdur73joe.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2617,9 +2617,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=883eed7865",
+                "path": "/ornp49ndo",
                 "headers": {
-                    "Host": "nova-river-vault-ff5d.hickgpg9.workers.dev"
+                    "Host": "plorj-838jro.jdur73joe.workers.dev"
                 }
             }
         },
@@ -2631,10 +2631,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "70222d16-f9f4-413c-83e0-b97399cd27d2",
+            "uuid": "05102511-7a19-37f0-0beb-e31400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-vault-ff5d.hickgpg9.workers.dev",
+            "servername": "plorj-838jro.jdur73joe.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2642,9 +2642,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=883eed7865",
+                "path": "/ornp49ndo",
                 "headers": {
-                    "Host": "nova-river-vault-ff5d.hickgpg9.workers.dev"
+                    "Host": "plorj-838jro.jdur73joe.workers.dev"
                 }
             }
         },
