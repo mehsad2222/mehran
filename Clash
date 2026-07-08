@@ -10250,15 +10250,15 @@
         {
             "name": "2️⃣0️⃣6️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "62.3.12.185",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f6a64d5c-e7db-47d1-8037-54ae03438664",
+            "uuid": "31c05910-7d47-f0a0-0206-427000000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "Ztao97VEWCLt3jgyt5-QCt5fs4mnK04L.hfhGIg75tUuH.woRKERs.dEv",
+            "servername": "jdihrihskhdj.gtdjiy74hv.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10266,53 +10266,49 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoib1piRGU5RkI2elJFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/h7tibkvib",
                 "headers": {
-                    "Host": "ztao97vewclt3jgyt5-qct5fs4mnk04l.hfhgig75tuuh.workers.dev"
+                    "Host": "jdihrihskhdj.gtdjiy74hv.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣7️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "185.219.134.25",
-            "port": 31564,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "e166a807-f809-4df9-a1e5-a9c8fe08be62",
+            "uuid": "cc1dfbf9-55f7-ef99-8019-31de00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ehoOshh7cp61-S8NU2si1QFF1p9s-J4M.MefiDEj310.WOrkers.dEv",
-            "client-fingerprint": "random",
+            "servername": "ciydobdkbsjk.uriv4ibsib.workers.dev",
+            "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
                 "http/1.1"
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaWNOa01VVnI1c2pOZ28iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/keohry38hej",
                 "headers": {
-                    "Host": "ehooshh7cp61-s8nu2si1qff1p9s-j4m.mefidej310.workers.dev"
+                    "Host": "ciydobdkbsjk.uriv4ibsib.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣8️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "94.131.123.74",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "668d042e-a88a-497a-bcb4-5a4758559735",
+            "uuid": "b5c31ba4-85fc-b7d6-3311-5a4a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "sxGFoZPng34QtqVhu20U4jl6IwUoLiKH.DApON60917.woRkerS.DeV",
+            "servername": "nahan-cjfi74u.rweqrq33wr.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10320,26 +10316,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoidXJrVzVQMzR3YSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/mehrankdkjdkh",
                 "headers": {
-                    "Host": "sxgfozpng34qtqvhu20u4jl6iwuolikh.dapon60917.workers.dev"
+                    "Host": "nahan-cjfi74u.rweqrq33wr.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣9️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "188.225.34.155",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "f8c81200-4a90-4592-8fa5-2c379edfb215",
+            "uuid": "b8b1be13-e522-fe24-6c0d-f57e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "q0X83KkjvP3bFQCl0KRhZ07Jyh62-V0Q.CivoceH891.WoRkErs.dev",
+            "servername": "nahdjdibsog6.uei3gobsug.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10347,26 +10341,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiMkNCQ1BINzBYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/pishgamanfinish",
                 "headers": {
-                    "Host": "q0x83kkjvp3bfqcl0krhz07jyh62-v0q.civoceh891.workers.dev"
+                    "Host": "nahdjdibsog6.uei3gobsug.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣1️⃣0️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "80.76.32.165",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
-            "tfo": true,
+            "tfo": false,
             "udp": false,
-            "uuid": "e86b793d-7fb2-4dfd-91fc-482f822c7224",
+            "uuid": "3739ca81-6067-fb06-dbf5-e3fe00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "G6cK6T7QU2A27vTCT5wz-ub00uX8Jt3U.NOgovo5374.wORKErs.deV",
+            "servername": "guojiyfb-core.rew36git7gj.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10374,11 +10366,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiS3hWblJRYUliTFEybkkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/koofojdoue",
                 "headers": {
-                    "Host": "g6ck6t7qu2a27vtct5wz-ub00ux8jt3u.nogovo5374.workers.dev"
+                    "Host": "guojiyfb-core.rew36git7gj.workers.dev"
                 }
             }
         }
