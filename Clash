@@ -5551,15 +5551,15 @@
         {
             "name": "1️⃣1️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.17.172.164",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "93552cc8-7bdd-42f4-8015-351912f4a449",
+            "uuid": "ce479106-8971-5dda-e79d-61c200000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-mango-panel-46aa.iroebjd7.workers.dev",
+            "servername": "idobeoeb8hen.uje8ye7hwi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5567,24 +5567,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=1cbdbc38ae",
+                "path": "/iro58ndondu",
                 "headers": {
-                    "Host": "nova-mango-panel-46aa.iroebjd7.workers.dev"
+                    "Host": "idobeoeb8hen.uje8ye7hwi.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣0️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.164.248.103",
-            "port": 443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "93552cc8-7bdd-42f4-8015-351912f4a449",
+            "uuid": "ce479106-8971-5dda-e79d-61c200000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-mango-panel-46aa.iroebjd7.workers.dev",
+            "servername": "idobeoeb8hen.uje8ye7hwi.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5592,24 +5592,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=1cbdbc38ae",
+                "path": "/iro58ndondu",
                 "headers": {
-                    "Host": "nova-mango-panel-46aa.iroebjd7.workers.dev"
+                    "Host": "idobeoeb8hen.uje8ye7hwi.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣1️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "172.67.79.107",
-            "port": 8443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "af458b00-77b6-42e0-8994-cb20c7b29f99",
+            "uuid": "dc107dbb-75b7-6e58-76bd-e23600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-luna-portal-82af.hdi3bibdl.workers.dev",
+            "servername": "oso4bndibej.gu58fyf6fyf.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5617,24 +5617,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=c0d1e689c3",
+                "path": "/okfojdond",
                 "headers": {
-                    "Host": "nova-luna-portal-82af.hdi3bibdl.workers.dev"
+                    "Host": "oso4bndibej.gu58fyf6fyf.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣1️⃣ 〽️ehran",
             "type": "vless",
-            "server": "63.32.194.15",
-            "port": 8443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "af458b00-77b6-42e0-8994-cb20c7b29f99",
+            "uuid": "dc107dbb-75b7-6e58-76bd-e23600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-luna-portal-82af.hdi3bibdl.workers.dev",
+            "servername": "oso4bndibej.gu58fyf6fyf.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5642,24 +5642,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=c0d1e689c3",
+                "path": "/okfojdond",
                 "headers": {
-                    "Host": "nova-luna-portal-82af.hdi3bibdl.workers.dev"
+                    "Host": "oso4bndibej.gu58fyf6fyf.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.19.149.49",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "89898a84-e081-4f86-8b1f-ccd642bcc3d2",
+            "uuid": "170ef339-26a6-4176-8509-56a700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pearl-wave-8994.hdihw937.workers.dev",
+            "servername": "jeob38ndiebj.hy7g755fifu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5667,24 +5667,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=f0ec88d691",
+                "path": "/projfob38",
                 "headers": {
-                    "Host": "nova-pearl-wave-8994.hdihw937.workers.dev"
+                    "Host": "jeob38ndiebj.hy7g755fifu.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣2️⃣ 〽️ehran",
             "type": "vless",
-            "server": "193.160.96.232",
-            "port": 443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "89898a84-e081-4f86-8b1f-ccd642bcc3d2",
+            "uuid": "170ef339-26a6-4176-8509-56a700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pearl-wave-8994.hdihw937.workers.dev",
+            "servername": "jeob38ndiebj.hy7g755fifu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5692,24 +5692,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=f0ec88d691",
+                "path": "/projfob38",
                 "headers": {
-                    "Host": "nova-pearl-wave-8994.hdihw937.workers.dev"
+                    "Host": "jeob38ndiebj.hy7g755fifu.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣3️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.17.60.146",
+            "server": "31.133.0.250",
             "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dac37c4b-44f0-4190-814b-348ba6edd12d",
+            "uuid": "c5c68862-0367-6796-cd6f-a8cf00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-garden-d9b6.jdieh8d.workers.dev",
+            "servername": "je838hdjeud.gu85gjvu6t7f.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5717,24 +5717,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=0e3fa0be36",
+                "path": "/ieoj38jdnkeu",
                 "headers": {
-                    "Host": "nova-river-garden-d9b6.jdieh8d.workers.dev"
+                    "Host": "je838hdjeud.gu85gjvu6t7f.workers.dev"
                 }
             }
         },
         {
             "name": "1️⃣1️⃣3️⃣ 〽️ehran",
             "type": "vless",
-            "server": "188.164.248.65",
+            "server": "31.133.0.135",
             "port": 2083,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "dac37c4b-44f0-4190-814b-348ba6edd12d",
+            "uuid": "c5c68862-0367-6796-cd6f-a8cf00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-garden-d9b6.jdieh8d.workers.dev",
+            "servername": "je838hdjeud.gu85gjvu6t7f.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5742,9 +5742,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=0e3fa0be36",
+                "path": "/ieoj38jdnkeu",
                 "headers": {
-                    "Host": "nova-river-garden-d9b6.jdieh8d.workers.dev"
+                    "Host": "je838hdjeud.gu85gjvu6t7f.workers.dev"
                 }
             }
         },
