@@ -2206,10 +2206,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a13e11e4-3ad1-482f-86be-16de7f9a020d",
+            "uuid": "6ff08d51-afd0-d04b-e685-6d2b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-mango-gate-3f6c.irb48jsp2.workers.dev",
+            "servername": "tuud54eugits7e.oheig38hd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2217,9 +2217,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=40a6a1c84b",
+                "path": "/jdoheiie74id",
                 "headers": {
-                    "Host": "nova-mango-gate-3f6c.irb48jsp2.workers.dev"
+                    "Host": "tuud54eugits7e.oheig38hd.workers.dev"
                 }
             }
         },
@@ -2231,10 +2231,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "a13e11e4-3ad1-482f-86be-16de7f9a020d",
+            "uuid": "6ff08d51-afd0-d04b-e685-6d2b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-mango-gate-3f6c.irb48jsp2.workers.dev",
+            "servername": "tuud54eugits7e.oheig38hd.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2242,9 +2242,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=40a6a1c84b",
+                "path": "/jdoheiie74id",
                 "headers": {
-                    "Host": "nova-mango-gate-3f6c.irb48jsp2.workers.dev"
+                    "Host": "tuud54eugits7e.oheig38hd.workers.dev"
                 }
             }
         },
