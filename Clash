@@ -10098,7 +10098,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣1️⃣ 🩷Mahdi🩷",
+            "name": "0️⃣0️⃣0️⃣ 🩷Mahdi🩷",
             "type": "vless",
             "server": "31.133.0.150",
             "port": 2053,
@@ -10123,17 +10123,17 @@
             }
         },
         {
-            "name": "2️⃣0️⃣1️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣1️⃣ 🥇VIP🥇",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "45.89.52.85",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6897c2a9-a537-b45d-e31f-681a00000000",
+            "uuid": "2f902913-12ed-188d-8684-ee0a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "gubgreuv-j05tjc.aioru48n.workers.dev",
+            "servername": "nahughhn-core.heivskvsig.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10141,24 +10141,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/kfobflbf",
+                "path": "/jdihdobsi",
                 "headers": {
-                    "Host": "gubgreuv-j05tjc.aioru48n.workers.dev"
+                    "Host": "nahughhn-core.heivskvsig.workers.dev"
                 }
             }
         },
         {
-            "name": "2️⃣0️⃣2️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣1️⃣ 🥈VIP🥈",
             "type": "vless",
-            "server": "31.133.0.122",
-            "port": 2053,
+            "server": "81.200.158.206",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "fd2d0cf7-bc84-0976-2916-f80d00000000",
+            "uuid": "2f902913-12ed-188d-8684-ee0a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "kd9be8jdihee8b.jhe73g8j8.workers.dev",
+            "servername": "nahughhn-core.heivskvsig.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10166,9 +10166,59 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/iribriheooe",
+                "path": "/jdihdobsi",
                 "headers": {
-                    "Host": "kd9be8jdihee8b.jhe73g8j8.workers.dev"
+                    "Host": "nahughhn-core.heivskvsig.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "2️⃣0️⃣2️⃣ 🥇VIP🥇",
+            "type": "vless",
+            "server": "94.131.123.12",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "2af36ace-a0dc-9ddb-090e-579700000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "ndjjeig-core.irbi38jd.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/iru49hjl",
+                "headers": {
+                    "Host": "ndjjeig-core.irbi38jd.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "2️⃣0️⃣2️⃣ 🥈VIP🥈",
+            "type": "vless",
+            "server": "31.129.42.100",
+            "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "2af36ace-a0dc-9ddb-090e-579700000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "ndjjeig-core.irbi38jd.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/iru49hjl",
+                "headers": {
+                    "Host": "ndjjeig-core.irbi38jd.workers.dev"
                 }
             }
         },
@@ -10795,15 +10845,19 @@
                 "1️⃣9️⃣9️⃣ 〽️ehran",
                 "2️⃣0️⃣0️⃣ Ⓜ️ehran",
                 "2️⃣0️⃣0️⃣ 〽️ehran",
-                "2️⃣0️⃣1️⃣ 🩷Mahdi🩷"
+                "2️⃣0️⃣1️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣1️⃣ 🥈VIP🥈",
+                "2️⃣0️⃣2️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣2️⃣ 🥈VIP🥈",
+                "0️⃣0️⃣0️⃣ 🩷Mahdi🩷"
             ]
         },
         {
             "name": "🚀 Best Ping",
             "type": "url-test",
             "proxies": [
-                "2️⃣0️⃣1️⃣ ♏️ehran",
-                "2️⃣0️⃣2️⃣ ♏️ehran",
+                "2️⃣0️⃣1️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣2️⃣ 🥇VIP🥇",
                 "0️⃣0️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣0️⃣1️⃣ 〽️ehran",
                 "0️⃣0️⃣2️⃣ Ⓜ️ehran",
