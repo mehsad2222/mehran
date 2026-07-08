@@ -3426,15 +3426,15 @@
         {
             "name": "0️⃣6️⃣7️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.17.122.250",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "426392ee-8362-481f-81e0-80328cb99451",
+            "uuid": "6ec1a4b1-b466-93aa-f0c3-52a500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-coral-garden-d704.hduv37b.workers.dev",
+            "servername": "aafshctts4r.set7ej8gk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3442,24 +3442,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=4470168865",
+                "path": "/pishgaman-technology",
                 "headers": {
-                    "Host": "nova-coral-garden-d704.hduv37b.workers.dev"
+                    "Host": "aafshctts4r.set7ej8gk.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣6️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "104.26.15.117",
-            "port": 443,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "15d4578c-dc16-49bd-864f-72dd8694d983",
+            "uuid": "670379dd-b80a-8b8d-3390-017a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-cloud-0051.jdiroj28.workers.dev",
+            "servername": "oe9h3ndibe8.ibr9b49ndl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3467,24 +3467,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=05b9ccda23",
+                "path": "/pishimishi",
                 "headers": {
-                    "Host": "nova-turbo-cloud-0051.jdiroj28.workers.dev"
+                    "Host": "oe9h3ndibe8.ibr9b49ndl.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣6️⃣8️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.16.149.34",
-            "port": 2083,
+            "server": "31.133.0.122",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "15d4578c-dc16-49bd-864f-72dd8694d983",
+            "uuid": "670379dd-b80a-8b8d-3390-017a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-turbo-cloud-0051.jdiroj28.workers.dev",
+            "servername": "oe9h3ndibe8.ibr9b49ndl.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3492,9 +3492,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=05b9ccda23",
+                "path": "/pishimishi",
                 "headers": {
-                    "Host": "nova-turbo-cloud-0051.jdiroj28.workers.dev"
+                    "Host": "oe9h3ndibe8.ibr9b49ndl.workers.dev"
                 }
             }
         },
