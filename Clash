@@ -3381,10 +3381,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "93b90e2c-8628-485c-8e4d-67a1bddb55e3",
+            "uuid": "6ec1a4b1-b466-93aa-f0c3-52a500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-pearl-portal-bdb7.poiocb7r.workers.dev",
+            "servername": "aafshctts4r.set7ej8gk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3392,24 +3392,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=4b44fad774",
+                "path": "/pishgaman-technology",
                 "headers": {
-                    "Host": "nova-pearl-portal-bdb7.poiocb7r.workers.dev"
+                    "Host": "aafshctts4r.set7ej8gk.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣6️⃣7️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "173.245.58.44",
-            "port": 2087,
+            "server": "31.133.0.70",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "426392ee-8362-481f-81e0-80328cb99451",
+            "uuid": "6ec1a4b1-b466-93aa-f0c3-52a500000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-coral-garden-d704.hduv37b.workers.dev",
+            "servername": "aafshctts4r.set7ej8gk.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -3417,9 +3417,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=4470168865",
+                "path": "/pishgaman-technology",
                 "headers": {
-                    "Host": "nova-coral-garden-d704.hduv37b.workers.dev"
+                    "Host": "aafshctts4r.set7ej8gk.workers.dev"
                 }
             }
         },
