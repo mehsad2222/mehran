@@ -2506,10 +2506,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "5dc05b07-cf83-4112-863c-e238c06c9c30",
+            "uuid": "0262cf3d-0a89-85f4-890f-e06b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-node-b6f9.ijhueodb8.workers.dev",
+            "servername": "vxjkw8be837.hr8g4obs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2517,24 +2517,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=12cadabd65",
+                "path": "/ibdih48vd",
                 "headers": {
-                    "Host": "nova-crystal-node-b6f9.ijhueodb8.workers.dev"
+                    "Host": "vxjkw8be837.hr8g4obs.workers.dev"
                 }
             }
         },
         {
             "name": "0️⃣4️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.17.57.57",
-            "port": 2083,
+            "server": "90.156.211.232",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "5dc05b07-cf83-4112-863c-e238c06c9c30",
+            "uuid": "0262cf3d-0a89-85f4-890f-e06b00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-crystal-node-b6f9.ijhueodb8.workers.dev",
+            "servername": "vxjkw8be837.hr8g4obs.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2542,9 +2542,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=12cadabd65",
+                "path": "/ibdih48vd",
                 "headers": {
-                    "Host": "nova-crystal-node-b6f9.ijhueodb8.workers.dev"
+                    "Host": "vxjkw8be837.hr8g4obs.workers.dev"
                 }
             }
         },
