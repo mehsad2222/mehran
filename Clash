@@ -10200,15 +10200,15 @@
         {
             "name": "2️⃣0️⃣4️⃣ 🥇VIP🥇",
             "type": "vless",
-            "server": "3.66.115.225",
+            "server": "91.245.225.69",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "48871bcf-7b5e-49b0-bd0b-f1d6c6c90c63",
+            "uuid": "e371ad1a-1de6-3751-c800-cc0100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "6rR9dCfu2bp4Y5ZOU4R30e2w9YC40-4a.IroBr9eP3B.WoRKErS.dev",
+            "servername": "nahanhig766.jdibe8beo.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10216,26 +10216,24 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiOHlpbVVKU2g1YyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/oepjxoneodj",
                 "headers": {
-                    "Host": "6rr9dcfu2bp4y5zou4r30e2w9yc40-4a.irobr9ep3b.workers.dev"
+                    "Host": "nahanhig766.jdibe8beo.workers.dev"
                 }
             }
         },
         {
             "name": "2️⃣0️⃣5️⃣ 🥇VIP🥇",
             "type": "vless",
-            "server": "62.3.12.185",
-            "port": 443,
+            "server": "95.85.89.70",
+            "port": 81,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "bda4a5dc-9efc-450a-a4db-5f35a38e6891",
+            "uuid": "cf223b19-f49a-798d-6527-856400000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "rBL5HQOe2A0Clx1-r616EWWPNNU-FCgt.rameciY764.worKERS.dEv",
+            "servername": "nahihh67vju.ieuj38d8jdieij.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10243,11 +10241,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiaThEejRhZ2syOUJQVmgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/urih38heige",
                 "headers": {
-                    "Host": "rbl5hqoe2a0clx1-r616ewwpnnu-fcgt.rameciy764.workers.dev"
+                    "Host": "nahihh67vju.ieuj38d8jdieij.workers.dev"
                 }
             }
         },
