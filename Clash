@@ -10150,8 +10150,8 @@
         {
             "name": "2️⃣0️⃣2️⃣ 🥇VIP🥇",
             "type": "vless",
-            "server": "94.131.123.12",
-            "port": 443,
+            "server": "78.40.117.65",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -10175,15 +10175,15 @@
         {
             "name": "2️⃣0️⃣3️⃣ 🥇VIP🥇",
             "type": "vless",
-            "server": "89.111.172.106",
-            "port": 2053,
+            "server": "63.32.194.15",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "319825a8-84b8-4769-be4f-37c2fa5764e6",
+            "uuid": "ba8f48e6-3ff5-5ca5-9400-b1e900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "C2wPuFfyIBfeyE1VlV5jR2077pzrNCDF.vcCbF5EVh.WoRKerS.Dev",
+            "servername": "nahaut7r6f5.uye73ihd8he.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -10191,11 +10191,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/eyJqdW5rIjoiZGdFN2szNTl4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "max-early-data": 2560,
-                "early-data-header-name": "Sec-WebSocket-Protocol",
+                "path": "/hdigeigwi",
                 "headers": {
-                    "Host": "c2wpuffyibfeye1vlv5jr2077pzrncdf.vccbf5evh.workers.dev"
+                    "Host": "nahaut7r6f5.uye73ihd8he.workers.dev"
                 }
             }
         },
