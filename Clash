@@ -10148,31 +10148,6 @@
             }
         },
         {
-            "name": "2️⃣0️⃣1️⃣ 🥈VIP🥈",
-            "type": "vless",
-            "server": "81.200.158.206",
-            "port": 8443,
-            "ip-version": "ipv4",
-            "tfo": false,
-            "udp": false,
-            "uuid": "2f902913-12ed-188d-8684-ee0a00000000",
-            "packet-encoding": "",
-            "tls": true,
-            "servername": "nahughhn-core.heivskvsig.workers.dev",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
-            "network": "ws",
-            "ws-opts": {
-                "path": "/jdihdobsi",
-                "headers": {
-                    "Host": "nahughhn-core.heivskvsig.workers.dev"
-                }
-            }
-        },
-        {
             "name": "2️⃣0️⃣2️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "94.131.123.12",
@@ -10198,32 +10173,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣2️⃣ 🥈VIP🥈",
-            "type": "vless",
-            "server": "31.129.42.100",
-            "port": 2053,
-            "ip-version": "ipv4",
-            "tfo": false,
-            "udp": false,
-            "uuid": "2af36ace-a0dc-9ddb-090e-579700000000",
-            "packet-encoding": "",
-            "tls": true,
-            "servername": "ndjjeig-core.irbi38jd.workers.dev",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
-            "network": "ws",
-            "ws-opts": {
-                "path": "/iru49hjl",
-                "headers": {
-                    "Host": "ndjjeig-core.irbi38jd.workers.dev"
-                }
-            }
-        },
-        {
-            "name": "2️⃣0️⃣3️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣3️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "89.111.172.106",
             "port": 2053,
@@ -10250,7 +10200,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣4️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣4️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "3.66.115.225",
             "port": 443,
@@ -10277,7 +10227,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣5️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣5️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "62.3.12.185",
             "port": 443,
@@ -10304,7 +10254,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣6️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣6️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "62.3.12.185",
             "port": 443,
@@ -10331,7 +10281,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣7️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣7️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "185.219.134.25",
             "port": 31564,
@@ -10358,7 +10308,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣8️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣8️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "94.131.123.74",
             "port": 443,
@@ -10385,7 +10335,7 @@
             }
         },
         {
-            "name": "2️⃣0️⃣9️⃣ ♏️ehran",
+            "name": "2️⃣0️⃣9️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "188.225.34.155",
             "port": 443,
@@ -10412,7 +10362,7 @@
             }
         },
         {
-            "name": "2️⃣1️⃣0️⃣ ♏️ehran",
+            "name": "2️⃣1️⃣0️⃣ 🥇VIP🥇",
             "type": "vless",
             "server": "80.76.32.165",
             "port": 443,
@@ -10846,9 +10796,15 @@
                 "2️⃣0️⃣0️⃣ Ⓜ️ehran",
                 "2️⃣0️⃣0️⃣ 〽️ehran",
                 "2️⃣0️⃣1️⃣ 🥇VIP🥇",
-                "2️⃣0️⃣1️⃣ 🥈VIP🥈",
                 "2️⃣0️⃣2️⃣ 🥇VIP🥇",
-                "2️⃣0️⃣2️⃣ 🥈VIP🥈",
+                "2️⃣0️⃣3️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣4️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣5️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣6️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣7️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣8️⃣ 🥇VIP🥇",
+                "2️⃣0️⃣9️⃣ 🥇VIP🥇",
+                "2️⃣1️⃣0️⃣ 🥇VIP🥇",
                 "0️⃣0️⃣0️⃣ 🩷Mahdi🩷"
             ]
         },
