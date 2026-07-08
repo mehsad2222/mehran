@@ -2556,10 +2556,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65bfa2e1-5ab1-4abf-8ffa-de01794a27f7",
+            "uuid": "53a7edd8-1f33-4af6-f553-81fb00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-portal-0c0c.ueibdi27.workers.dev",
+            "servername": "bbkcue838hd.vsucxhwig27.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2567,9 +2567,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=eff413be9e",
+                "path": "/sydjiebdhvnc",
                 "headers": {
-                    "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
+                    "Host": "bbkcue838hd.vsucxhwig27.workers.dev"
                 }
             }
         },
@@ -2581,10 +2581,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "65bfa2e1-5ab1-4abf-8ffa-de01794a27f7",
+            "uuid": "53a7edd8-1f33-4af6-f553-81fb00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-river-portal-0c0c.ueibdi27.workers.dev",
+            "servername": "bbkcue838hd.vsucxhwig27.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2592,9 +2592,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=eff413be9e",
+                "path": "/sydjiebdhvnc",
                 "headers": {
-                    "Host": "nova-river-portal-0c0c.ueibdi27.workers.dev"
+                    "Host": "bbkcue838hd.vsucxhwig27.workers.dev"
                 }
             }
         },
