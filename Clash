@@ -2456,10 +2456,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "23a1b09f-165b-437f-84af-0ecf0c59c921",
+            "uuid": "3efd2110-b8c3-0c9c-415f-c43700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-wave-b2da.udp29vd.workers.dev",
+            "servername": "wrwy37hs8ei.qwtafqu37.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2467,9 +2467,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=ad2cb5c2ce",
+                "path": "/oopkdphsob",
                 "headers": {
-                    "Host": "nova-sunny-wave-b2da.udp29vd.workers.dev"
+                    "Host": "wrwy37hs8ei.qwtafqu37.workers.dev"
                 }
             }
         },
@@ -2481,10 +2481,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "23a1b09f-165b-437f-84af-0ecf0c59c921",
+            "uuid": "3efd2110-b8c3-0c9c-415f-c43700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nova-sunny-wave-b2da.udp29vd.workers.dev",
+            "servername": "wrwy37hs8ei.qwtafqu37.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -2492,9 +2492,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/?u=ad2cb5c2ce",
+                "path": "/oopkdphsob",
                 "headers": {
-                    "Host": "nova-sunny-wave-b2da.udp29vd.workers.dev"
+                    "Host": "wrwy37hs8ei.qwtafqu37.workers.dev"
                 }
             }
         },
