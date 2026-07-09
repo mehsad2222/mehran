@@ -6,8 +6,8 @@
     "log-level": "warning",
     "mode": "rule",
     "disable-keep-alive": false,
-    "keep-alive-idle": 30,
-    "keep-alive-interval": 20,
+    "keep-alive-idle": 10,
+    "keep-alive-interval": 15,
     "tcp-concurrent": true,
     "geo-auto-update": true,
     "geo-update-interval": 168,
@@ -13970,7 +13970,7 @@
                 "2️⃣0️⃣0️⃣ 〽️ehran"
             ],
             "url": "https://www.gstatic.com/generate_204",
-            "interval": 60,
+            "interval": 30,
             "tolerance": 50
         }
     ],
