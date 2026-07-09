@@ -9899,6 +9899,31 @@
             }
         },
         {
+            "name": "1️⃣3️⃣1️⃣ ♏️ehran",
+            "type": "vless",
+            "server": "198.41.223.201",
+            "port": 2083,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "cffab9c0-c39a-f33c-96c2-898300000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "pokogng64.kdoup48h.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/pypjro4id",
+                "headers": {
+                    "Host": "pokogng64.kdoup48h.workers.dev"
+                }
+            }
+        },
+        {
             "name": "1️⃣3️⃣2️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "31.133.0.70",
@@ -9925,6 +9950,31 @@
         },
         {
             "name": "1️⃣3️⃣2️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "172.66.1.150",
+            "port": 8443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "b758515b-5eff-ee03-b200-61ca00000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-dc3abb.jfovr8bd.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/jdidbisv",
+                "headers": {
+                    "Host": "nahan-dc3abb.jfovr8bd.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣3️⃣2️⃣ ♏️ehran",
             "type": "vless",
             "server": "172.66.1.150",
             "port": 8443,
@@ -9999,6 +10049,31 @@
             }
         },
         {
+            "name": "1️⃣3️⃣3️⃣ ♏️ehran",
+            "type": "vless",
+            "server": "104.16.248.78",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "6be686b5-a823-623e-1a24-33fa00000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-5ft1zg.hgdj9f4.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/jdiv38bdpp",
+                "headers": {
+                    "Host": "nahan-5ft1zg.hgdj9f4.workers.dev"
+                }
+            }
+        },
+        {
             "name": "1️⃣3️⃣4️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "91.245.225.69",
@@ -10025,6 +10100,31 @@
         },
         {
             "name": "1️⃣3️⃣4️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "104.18.33.115",
+            "port": 2087,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "1f6d217b-cc95-084b-1bbb-be0400000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-ggy5eh.hurpio9.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/mehranjoon",
+                "headers": {
+                    "Host": "nahan-ggy5eh.hurpio9.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣3️⃣4️⃣ ♏️ehran",
             "type": "vless",
             "server": "104.18.33.115",
             "port": 2087,
@@ -10099,6 +10199,31 @@
             }
         },
         {
+            "name": "1️⃣3️⃣5️⃣ ♏️ehran",
+            "type": "vless",
+            "server": "104.17.49.205",
+            "port": 2083,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "190943e6-078e-b01f-5301-b59a00000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-63cbye.hgyfui7t.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/lpiphkvh",
+                "headers": {
+                    "Host": "nahan-63cbye.hgyfui7t.workers.dev"
+                }
+            }
+        },
+        {
             "name": "1️⃣3️⃣6️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "104.248.17.101",
@@ -10125,6 +10250,31 @@
         },
         {
             "name": "1️⃣3️⃣6️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "31.133.0.250",
+            "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "fb9c89e5-7cae-df05-00c7-53ae00000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-5n8etn.jdibe8dn.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/pdpneur8p",
+                "headers": {
+                    "Host": "nahan-5n8etn.jdibe8dn.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣3️⃣6️⃣ ♏️ehran",
             "type": "vless",
             "server": "31.133.0.250",
             "port": 2053,
@@ -10199,6 +10349,31 @@
             }
         },
         {
+            "name": "1️⃣3️⃣7️⃣ ♏️ehran",
+            "type": "vless",
+            "server": "37.252.6.119",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "37488723-42f2-fcf4-8ec3-857d00000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-x3nz8b.kkkhjo8y.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/lodkmpite",
+                "headers": {
+                    "Host": "nahan-x3nz8b.kkkhjo8y.workers.dev"
+                }
+            }
+        },
+        {
             "name": "1️⃣3️⃣8️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "45.138.72.141",
@@ -10225,6 +10400,31 @@
         },
         {
             "name": "1️⃣3️⃣8️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "104.248.17.101",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "56f4c5f5-09da-e2d9-6e43-e6b400000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-fvg0hz.utdi58i.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/jjhdinpibd",
+                "headers": {
+                    "Host": "nahan-fvg0hz.utdi58i.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣3️⃣8️⃣ ♏️ehran",
             "type": "vless",
             "server": "104.248.17.101",
             "port": 443,
@@ -10299,6 +10499,31 @@
             }
         },
         {
+            "name": "1️⃣3️⃣9️⃣ ♏️ehran",
+            "type": "vless",
+            "server": "212.22.74.89",
+            "port": 443,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "a51249ef-92db-d6cc-3dc5-296300000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-ytt5n0.jdivdoe8.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/cbcbcjg",
+                "headers": {
+                    "Host": "nahan-ytt5n0.jdivdoe8.workers.dev"
+                }
+            }
+        },
+        {
             "name": "1️⃣4️⃣0️⃣ Ⓜ️ehran",
             "type": "vless",
             "server": "54.37.235.201",
@@ -10325,6 +10550,31 @@
         },
         {
             "name": "1️⃣4️⃣0️⃣ 〽️ehran",
+            "type": "vless",
+            "server": "31.133.0.135",
+            "port": 2053,
+            "ip-version": "ipv4",
+            "tfo": false,
+            "udp": false,
+            "uuid": "2b1780be-3a79-c430-fb91-95e100000000",
+            "packet-encoding": "",
+            "tls": true,
+            "servername": "nahan-wim8u3.jdige83g.workers.dev",
+            "client-fingerprint": "chrome",
+            "skip-cert-verify": false,
+            "alpn": [
+                "http/1.1"
+            ],
+            "network": "ws",
+            "ws-opts": {
+                "path": "/kpjdpb86n",
+                "headers": {
+                    "Host": "nahan-wim8u3.jdige83g.workers.dev"
+                }
+            }
+        },
+        {
+            "name": "1️⃣4️⃣0️⃣ ♏️ehran",
             "type": "vless",
             "server": "31.133.0.135",
             "port": 2053,
