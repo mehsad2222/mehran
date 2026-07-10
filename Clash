@@ -13979,10 +13979,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "5068368c-6bef-ece3-d680-446500000000",
+            "uuid": "b2824a74-d492-b393-780e-705e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "irog38vd.hhurgo6r.workers.dev",
+            "servername": "mehrandoie.cvcndue.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -13990,9 +13990,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pkfobaue8",
+                "path": "/nmmfih",
                 "headers": {
-                    "Host": "irog38vd.hhurgo6r.workers.dev"
+                    "Host": "mehrandoie.cvcndue.workers.dev"
                 }
             }
         },
@@ -14004,10 +14004,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "5068368c-6bef-ece3-d680-446500000000",
+            "uuid": "b2824a74-d492-b393-780e-705e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "irog38vd.hhurgo6r.workers.dev",
+            "servername": "mehrandoie.cvcndue.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -14015,9 +14015,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pkfobaue8",
+                "path": "/nmmfih",
                 "headers": {
-                    "Host": "irog38vd.hhurgo6r.workers.dev"
+                    "Host": "mehrandoie.cvcndue.workers.dev"
                 }
             }
         },
@@ -14029,10 +14029,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "5068368c-6bef-ece3-d680-446500000000",
+            "uuid": "b2824a74-d492-b393-780e-705e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "irog38vd.hhurgo6r.workers.dev",
+            "servername": "mehrandoie.cvcndue.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -14040,9 +14040,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pkfobaue8",
+                "path": "/nmmfih",
                 "headers": {
-                    "Host": "irog38vd.hhurgo6r.workers.dev"
+                    "Host": "b2824a74-d492-b393-780e-705e00000000"
                 }
             }
         },
