@@ -1481,7 +1481,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "1c47343b-1d56-5b4f-64bf-6ef000000000,
+            "uuid": "1c47343b-1d56-5b4f-64bf-6ef000000000",
             "packet-encoding": "",
             "tls": true,
             "servername": "nahan-mqn0kd.hhuf75ugu.workers.dev",
