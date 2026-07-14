@@ -5056,10 +5056,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6ec1a4b1-b466-93aa-f0c3-52a500000000",
+            "uuid": "bae000dd-37c6-4def-5511-51f600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "aafshctts4r.set7ej8gk.workers.dev",
+            "servername": "mehdtab.nfpnsm.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5067,9 +5067,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishgaman-technology",
+                "path": "/mehranjdbhs",
                 "headers": {
-                    "Host": "aafshctts4r.set7ej8gk.workers.dev"
+                    "Host": "mehdtab.nfpnsm.workers.dev"
                 }
             }
         },
@@ -5081,10 +5081,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6ec1a4b1-b466-93aa-f0c3-52a500000000",
+            "uuid": "bae000dd-37c6-4def-5511-51f600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "aafshctts4r.set7ej8gk.workers.dev",
+            "servername": "mehdtab.nfpnsm.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5092,9 +5092,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishgaman-technology",
+                "path": "/mehranjdbhs",
                 "headers": {
-                    "Host": "aafshctts4r.set7ej8gk.workers.dev"
+                    "Host": "mehdtab.nfpnsm.workers.dev"
                 }
             }
         },
@@ -5106,10 +5106,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "6ec1a4b1-b466-93aa-f0c3-52a500000000",
+            "uuid": "bae000dd-37c6-4def-5511-51f600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "aafshctts4r.set7ej8gk.workers.dev",
+            "servername": "mehdtab.nfpnsm.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5117,9 +5117,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishgaman-technology",
+                "path": "/mehranjdbhs",
                 "headers": {
-                    "Host": "aafshctts4r.set7ej8gk.workers.dev"
+                    "Host": "mehdtab.nfpnsm.workers.dev"
                 }
             }
         },
