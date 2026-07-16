@@ -5656,10 +5656,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "0b3656cc-5867-8674-4d7f-8f5500000000",
+            "uuid": "9f5cf52d-db35-27d0-b5ce-a52a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ieokdjjskbe838.jdib38nslu.workers.dev",
+            "servername": "mehrand63.jdihe83.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5667,9 +5667,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jdohe8jd",
+                "path": "/itihdoh",
                 "headers": {
-                    "Host": "ieokdjjskbe838.jdib38nslu.workers.dev"
+                    "Host": "mehrand63.jdihe83.workers.dev"
                 }
             }
         },
@@ -5681,10 +5681,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "0b3656cc-5867-8674-4d7f-8f5500000000",
+            "uuid": "9f5cf52d-db35-27d0-b5ce-a52a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ieokdjjskbe838.jdib38nslu.workers.dev",
+            "servername": "mehrand63.jdihe83.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5692,9 +5692,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jdohe8jd",
+                "path": "/itihdoh",
                 "headers": {
-                    "Host": "ieokdjjskbe838.jdib38nslu.workers.dev"
+                    "Host": "mehrand63.jdihe83.workers.dev"
                 }
             }
         },
@@ -5706,10 +5706,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "0b3656cc-5867-8674-4d7f-8f5500000000",
+            "uuid": "9f5cf52d-db35-27d0-b5ce-a52a00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ieokdjjskbe838.jdib38nslu.workers.dev",
+            "servername": "mehrand63.jdihe83.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -5717,9 +5717,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jdohe8jd",
+                "path": "/itihdoh",
                 "headers": {
-                    "Host": "ieokdjjskbe838.jdib38nslu.workers.dev"
+                    "Host": "mehrand63.jdihe83.workers.dev"
                 }
             }
         },
