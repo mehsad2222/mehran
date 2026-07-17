@@ -11651,7 +11651,7 @@
         {
             "name": "1️⃣5️⃣5️⃣ Ⓜ️ehran",
             "type": "vless",
-            "server": "109.237.97.1",
+            "server": "46.17.102.93",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -11676,7 +11676,7 @@
         {
             "name": "1️⃣5️⃣5️⃣ 〽️ehran",
             "type": "vless",
-            "server": "104.248.17.101",
+            "server": "46.17.102.250",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
