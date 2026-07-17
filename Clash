@@ -15097,31 +15097,6 @@
             }
         },
         {
-            "name": "0️⃣0️⃣0️⃣ 🩷Mahdi🩷",
-            "type": "vless",
-            "server": "31.133.0.150",
-            "port": 2053,
-            "ip-version": "ipv4",
-            "tfo": false,
-            "udp": false,
-            "uuid": "d28f4f6b-7b5f-57de-5ec5-413000000000",
-            "packet-encoding": "",
-            "tls": true,
-            "servername": "crimson-brook-261b.jdivei28v.workers.dev",
-            "client-fingerprint": "chrome",
-            "skip-cert-verify": false,
-            "alpn": [
-                "http/1.1"
-            ],
-            "network": "ws",
-            "ws-opts": {
-                "path": "/Mahdi",
-                "headers": {
-                    "Host": "crimson-brook-261b.jdivei28v.workers.dev"
-                }
-            }
-        },
-        {
             "name": "2️⃣0️⃣1️⃣ ⚡️Helper",
             "type": "vless",
             "server": "31.133.0.70",
@@ -15848,8 +15823,7 @@
                 "2️⃣0️⃣7️⃣ ⚡️Helper",
                 "2️⃣0️⃣8️⃣ ⚡️Helper",
                 "2️⃣0️⃣9️⃣ ⚡️Helper",
-                "2️⃣1️⃣0️⃣ ⚡️Helper",
-                "0️⃣0️⃣0️⃣ 🩷Mahdi🩷"
+                "2️⃣1️⃣0️⃣ ⚡️Helper"
             ]
         },
         {
