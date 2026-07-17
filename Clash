@@ -11751,7 +11751,7 @@
         {
             "name": "1️⃣5️⃣6️⃣ 〽️ehran",
             "type": "vless",
-            "server": "91.149.253.249",
+            "server": "104.17.17.6",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -12724,8 +12724,8 @@
         {
             "name": "1️⃣6️⃣9️⃣ 〽️ehran",
             "type": "vless",
-            "server": "80.211.249.68",
-            "port": 2053,
+            "server": "45.135.165.50",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -14024,7 +14024,7 @@
         {
             "name": "1️⃣8️⃣6️⃣ ♏️ehran",
             "type": "vless",
-            "server": "37.187.98.185",
+            "server": "45.135.165.50",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -14042,7 +14042,7 @@
             "ws-opts": {
                 "path": "/nmmfih",
                 "headers": {
-                    "Host": "b2824a74-d492-b393-780e-705e00000000"
+                    "Host": "mehrandoie.cvcndue.workers.dev"
                 }
             }
         },
