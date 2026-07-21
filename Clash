@@ -15099,8 +15099,8 @@
         {
             "name": "2️⃣0️⃣1️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "54.37.235.201",
-            "port": 443,
+            "server": "31.133.0.250",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -15149,7 +15149,7 @@
         {
             "name": "2️⃣0️⃣3️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "54.37.235.201",
+            "server": "45.138.72.141",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -15199,7 +15199,7 @@
         {
             "name": "2️⃣0️⃣5️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "54.37.235.201",
+            "server": "45.135.165.50",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -15249,8 +15249,8 @@
         {
             "name": "2️⃣0️⃣7️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "54.37.235.201",
-            "port": 443,
+            "server": "77.221.143.81",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
@@ -15299,8 +15299,8 @@
         {
             "name": "2️⃣0️⃣9️⃣ ⚡️Helper",
             "type": "vless",
-            "server": "54.37.235.201",
-            "port": 443,
+            "server": "78.40.117.65",
+            "port": 8443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
