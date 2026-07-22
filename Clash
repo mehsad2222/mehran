@@ -124,9 +124,10 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
-            "server": "104.21.6.152",
+            "server": "18.184.27.249",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -199,9 +200,10 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
-            "server": "104.21.6.152",
+            "server": "18.184.27.249",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -274,9 +276,10 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣3️⃣ ♏️ehran",
             "type": "vless",
-            "server": "193.124.92.170",
+            "server": "18.184.27.249",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -349,9 +352,10 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣4️⃣ ♏️ehran",
             "type": "vless",
-            "server": "193.124.92.170",
+            "server": "18.184.27.249",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -424,9 +428,10 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣5️⃣ ♏️ehran",
             "type": "vless",
-            "server": "193.124.92.170",
+            "server": "18.184.27.249",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -499,10 +504,11 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣6️⃣ ♏️ehran",
             "type": "vless",
-            "server": "78.40.117.65",
-            "port": 8443,
+            "server": "18.184.27.249",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
@@ -574,10 +580,11 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣7️⃣ ♏️ehran",
             "type": "vless",
-            "server": "78.40.117.65",
-            "port": 8443,
+            "server": "18.184.27.249",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
@@ -649,10 +656,11 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣8️⃣ ♏️ehran",
             "type": "vless",
-            "server": "5.34.209.139",
-            "port": 2053,
+            "server": "18.184.27.249",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
@@ -724,10 +732,11 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣0️⃣9️⃣ ♏️ehran",
             "type": "vless",
-            "server": "78.40.116.136",
-            "port": 2053,
+            "server": "18.184.27.249",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
@@ -799,10 +808,11 @@
             }
         },
         {
+            #وایفایی
             "name": "0️⃣1️⃣0️⃣ ♏️ehran",
             "type": "vless",
-            "server": "78.40.117.65",
-            "port": 8443,
+            "server": "18.184.27.249",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
