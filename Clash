@@ -15329,8 +15329,8 @@
         {
             "name": "2️⃣1️⃣0️⃣ 🎓khuisf",
             "type": "vless",
-            "server": "31.133.0.135",
-            "port": 2053,
+            "server": "104.21.70.230",
+            "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
