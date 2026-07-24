@@ -15154,8 +15154,8 @@
         {
             "name": "2️⃣0️⃣3️⃣ 🛜Wifi",
             "type": "vless",
-            "server": "45.89.52.247",
-            "port": 443,
+            "server": "103.90.75.41",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
@@ -15229,7 +15229,7 @@
         {
             "name": "2️⃣0️⃣6️⃣ 🛜Wifi",
             "type": "vless",
-            "server": "45.89.52.247",
+            "server": "2.59.183.181",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
@@ -15304,7 +15304,7 @@
         {
             "name": "2️⃣0️⃣9️⃣ 🛜Wifi",
             "type": "vless",
-            "server": "45.89.52.247",
+            "server": "103.45.247.67",
             "port": 443,
             "ip-version": "ipv4",
             "tfo": false,
