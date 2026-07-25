@@ -15204,8 +15204,8 @@
         {
             "name": "2️⃣0️⃣5️⃣ 📶Hamarah",
             "type": "vless",
-            "server": "45.135.165.50",
-            "port": 443,
+            "server": "31.133.0.135",
+            "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
@@ -15254,7 +15254,7 @@
         {
             "name": "2️⃣0️⃣7️⃣ 📶Hamarah",
             "type": "vless",
-            "server": "77.221.143.81",
+            "server": "31.133.0.135",
             "port": 2053,
             "ip-version": "ipv4",
             "tfo": false,
