@@ -81,10 +81,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "980c60a8-083a-d140-7500-fedf00000001",
+            "uuid": "25917af3-2ea4-30b2-641b-ae8600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jdinelndonw.dhhdine.workers.dev",
+            "servername": "ur7g47.vsfyeu3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -92,9 +92,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishgamantechnology",
+                "path": "/ur8bfov",
                 "headers": {
-                    "Host": "jdinelndonw.dhhdine.workers.dev"
+                    "Host": "ur7g47.vsfyeu3.workers.dev"
                 }
             }
         },
@@ -106,10 +106,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "980c60a8-083a-d140-7500-fedf00000001",
+            "uuid": "25917af3-2ea4-30b2-641b-ae8600000001",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jdinelndonw.dhhdine.workers.dev",
+            "servername": "ur7g47.vsfyeu3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -117,9 +117,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishgamantechnology",
+                "path": "/ur8bfov",
                 "headers": {
-                    "Host": "jdinelndonw.dhhdine.workers.dev"
+                    "Host": "ur7g47.vsfyeu3.workers.dev"
                 }
             }
         },
@@ -132,10 +132,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "980c60a8-083a-d140-7500-fedf00000001",
+            "uuid": "25917af3-2ea4-30b2-641b-ae8600000002",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jdinelndonw.dhhdine.workers.dev",
+            "servername": "ur7g47.vsfyeu3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -143,9 +143,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/pishgamantechnology",
+                "path": "/ur8bfov",
                 "headers": {
-                    "Host": "jdinelndonw.dhhdine.workers.dev"
+                    "Host": "ur7g47.vsfyeu3.workers.dev"
                 }
             }
         },
