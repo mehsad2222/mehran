@@ -15961,12 +15961,6 @@
                 "2️⃣0️⃣1️⃣ 📶Hamarah",
                 "2️⃣0️⃣2️⃣ 📶Hamarah",
                 "2️⃣0️⃣3️⃣ 🛜Wifi",
-                "2️⃣0️⃣4️⃣ 📶Hamarah",
-                "2️⃣0️⃣5️⃣ 📶Hamarah",
-                "2️⃣0️⃣6️⃣ 🛜Wifi",
-                "2️⃣0️⃣7️⃣ 📶Hamarah",
-                "2️⃣0️⃣8️⃣ 📶Hamarah",
-                "2️⃣0️⃣9️⃣ 🛜Wifi",
                 "2️⃣1️⃣0️⃣ 🎓khuisf"
             ]
         },
@@ -15974,9 +15968,9 @@
             "name": "🚀 Best Ping",
             "type": "url-test",
             "proxies": [
-                "2️⃣0️⃣4️⃣ 📶Hamarah",
-                "2️⃣0️⃣5️⃣ 📶Hamarah",
-                "2️⃣0️⃣6️⃣ 🛜Wifi",
+                "2️⃣0️⃣1️⃣ 📶Hamarah",
+                "2️⃣0️⃣2️⃣ 📶Hamarah",
+                "2️⃣0️⃣3️⃣ 🛜Wifi",
                 "0️⃣0️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣0️⃣1️⃣ 〽️ehran",
                 "0️⃣0️⃣1️⃣ ♏️ehran",
