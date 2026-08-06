@@ -606,10 +606,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "5dbd00ac-c9f5-8044-7c44-863600000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000022",
             "packet-encoding": "",
             "tls": true,
-            "servername": "wwgdushj64.djiellirn.workers.dev",
+            "servername": "nbdvu2.oprisg73.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -617,9 +617,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/orih38bd",
+                "path": "/iriy46g",
                 "headers": {
-                    "Host": "wwgdushj64.djiellirn.workers.dev"
+                    "Host": "nbdvu2.oprisg73.workers.dev"
                 }
             }
         },
@@ -631,10 +631,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "5dbd00ac-c9f5-8044-7c44-863600000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000023",
             "packet-encoding": "",
             "tls": true,
-            "servername": "wwgdushj64.djiellirn.workers.dev",
+            "servername": "nbdvu2.oprisg73.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -642,14 +642,13 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/orih38bd",
+                "path": "/iriy46g",
                 "headers": {
-                    "Host": "wwgdushj64.djiellirn.workers.dev"
+                    "Host": "nbdvu2.oprisg73.workers.dev"
                 }
             }
         },
         {
-            #وایفایی
             "name": "0️⃣0️⃣8️⃣ ♏️ehran",
             "type": "vless",
             "server": "18.184.27.249",
@@ -657,10 +656,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "5dbd00ac-c9f5-8044-7c44-863600000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000024",
             "packet-encoding": "",
             "tls": true,
-            "servername": "wwgdushj64.djiellirn.workers.dev",
+            "servername": "nbdvu2.oprisg73.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -668,9 +667,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/orih38bd",
+                "path": "/iriy46g",
                 "headers": {
-                    "Host": "wwgdushj64.djiellirn.workers.dev"
+                    "Host": "nbdvu2.oprisg73.workers.dev"
                 }
             }
         },
