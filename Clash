@@ -756,10 +756,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7edd18e7-7117-68bb-1d8a-b46800000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000028",
             "packet-encoding": "",
             "tls": true,
-            "servername": "mljdobs758.korkogksb6.workers.dev",
+            "servername": "dsgyetc.kfiv37t3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -767,9 +767,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/kfobei38id",
+                "path": "/vdigei53",
                 "headers": {
-                    "Host": "mljdobs758.korkogksb6.workers.dev"
+                    "Host": "dsgyetc.kfiv37t3.workers.dev"
                 }
             }
         },
@@ -781,10 +781,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7edd18e7-7117-68bb-1d8a-b46800000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000029",
             "packet-encoding": "",
             "tls": true,
-            "servername": "mljdobs758.korkogksb6.workers.dev",
+            "servername": "dsgyetc.kfiv37t3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -792,14 +792,13 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/kfobei38id",
+                "path": "/vdigei53",
                 "headers": {
-                    "Host": "mljdobs758.korkogksb6.workers.dev"
+                    "Host": "dsgyetc.kfiv37t3.workers.dev"
                 }
             }
         },
         {
-            #وایفایی
             "name": "0️⃣1️⃣0️⃣ ♏️ehran",
             "type": "vless",
             "server": "18.184.27.249",
@@ -807,10 +806,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7edd18e7-7117-68bb-1d8a-b46800000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000030",
             "packet-encoding": "",
             "tls": true,
-            "servername": "mljdobs758.korkogksb6.workers.dev",
+            "servername": "dsgyetc.kfiv37t3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -818,9 +817,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/kfobei38id",
+                "path": "/vdigei53",
                 "headers": {
-                    "Host": "mljdobs758.korkogksb6.workers.dev"
+                    "Host": "dsgyetc.kfiv37t3.workers.dev"
                 }
             }
         },
