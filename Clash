@@ -681,10 +681,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "e8c9395b-ddae-9850-1081-916500000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000025",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jdibe837pdb.johory83.workers.dev",
+            "servername": "mfohru2.xcsufwy.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -692,9 +692,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/kdphe8ryv",
+                "path": "/ndogey3",
                 "headers": {
-                    "Host": "jdibe837pdb.johory83.workers.dev"
+                    "Host": "mfohru2.xcsufwy.workers.dev"
                 }
             }
         },
@@ -706,10 +706,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "e8c9395b-ddae-9850-1081-916500000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000026",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jdibe837pdb.johory83.workers.dev",
+            "servername": "mfohru2.xcsufwy.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -717,14 +717,13 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/kdphe8ryv",
+                "path": "/ndogey3",
                 "headers": {
-                    "Host": "jdibe837pdb.johory83.workers.dev"
+                    "Host": "mfohru2.xcsufwy.workers.dev"
                 }
             }
         },
         {
-            #وایفایی
             "name": "0️⃣0️⃣9️⃣ ♏️ehran",
             "type": "vless",
             "server": "18.184.27.249",
@@ -732,10 +731,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "e8c9395b-ddae-9850-1081-916500000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000027",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jdibe837pdb.johory83.workers.dev",
+            "servername": "mfohru2.xcsufwy.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -743,9 +742,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/kdphe8ryv",
+                "path": "/ndogey3",
                 "headers": {
-                    "Host": "jdibe837pdb.johory83.workers.dev"
+                    "Host": "mfohru2.xcsufwy.workers.dev"
                 }
             }
         },
