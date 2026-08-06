@@ -124,7 +124,6 @@
             }
         },
         {
-            #وایفایی
             "name": "0️⃣0️⃣1️⃣ ♏️ehran",
             "type": "vless",
             "server": "18.184.27.249",
@@ -157,10 +156,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3b1e9097-ce93-9cc0-ea87-493300000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "mobfov-kld8.xxvxbjd.workers.dev",
+            "servername": "ojdpbst.lkprhh4.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -168,9 +167,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jdibdonp",
+                "path": "/jrige46d",
                 "headers": {
-                    "Host": "mobfov-kld8.xxvxbjd.workers.dev"
+                    "Host": "ojdpbst.lkprhh4.workers.dev"
                 }
             }
         },
@@ -182,10 +181,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3b1e9097-ce93-9cc0-ea87-493300000001",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "mobfov-kld8.xxvxbjd.workers.dev",
+            "servername": "ojdpbst.lkprhh4.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -193,14 +192,13 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jdibdonp",
+                "path": "/jrige46d",
                 "headers": {
-                    "Host": "mobfov-kld8.xxvxbjd.workers.dev"
+                    "Host": "ojdpbst.lkprhh4.workers.dev"
                 }
             }
         },
         {
-            #وایفایی
             "name": "0️⃣0️⃣2️⃣ ♏️ehran",
             "type": "vless",
             "server": "18.184.27.249",
@@ -208,10 +206,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3b1e9097-ce93-9cc0-ea87-493300000002",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "mobfov-kld8.xxvxbjd.workers.dev",
+            "servername": "ojdpbst.lkprhh4.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -219,9 +217,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jdibdonp",
+                "path": "/jrige46d",
                 "headers": {
-                    "Host": "mobfov-kld8.xxvxbjd.workers.dev"
+                    "Host": "ojdpbst.lkprhh4.workers.dev"
                 }
             }
         },
