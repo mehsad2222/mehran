@@ -231,10 +231,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3a8b86d8-808e-8ff9-8cc2-25a200000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-29oyhb.hdi3g8skj.workers.dev",
+            "servername": "xbfjue2.nofheig3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -242,9 +242,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/mfongpndjd",
+                "path": "/jrig47bd",
                 "headers": {
-                    "Host": "nahan-29oyhb.hdi3g8skj.workers.dev"
+                    "Host": "xbfjue2.nofheig3.workers.dev"
                 }
             }
         },
@@ -256,10 +256,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3a8b86d8-808e-8ff9-8cc2-25a200000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000001",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-29oyhb.hdi3g8skj.workers.dev",
+            "servername": "xbfjue2.nofheig3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -267,9 +267,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/mfongpndjd",
+                "path": "/jrig47bd",
                 "headers": {
-                    "Host": "nahan-29oyhb.hdi3g8skj.workers.dev"
+                    "Host": "xbfjue2.nofheig3.workers.dev"
                 }
             }
         },
@@ -282,10 +282,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3a8b86d8-808e-8ff9-8cc2-25a200000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000002",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-29oyhb.hdi3g8skj.workers.dev",
+            "servername": "xbfjue2.nofheig3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -293,9 +293,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/mfongpndjd",
+                "path": "/jrig47bd",
                 "headers": {
-                    "Host": "nahan-29oyhb.hdi3g8skj.workers.dev"
+                    "Host": "xbfjue2.nofheig3.workers.dev"
                 }
             }
         },
