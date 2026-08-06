@@ -156,7 +156,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000004",
             "packet-encoding": "",
             "tls": true,
             "servername": "ojdpbst.lkprhh4.workers.dev",
@@ -181,7 +181,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000001",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000005",
             "packet-encoding": "",
             "tls": true,
             "servername": "ojdpbst.lkprhh4.workers.dev",
@@ -206,7 +206,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000002",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000006",
             "packet-encoding": "",
             "tls": true,
             "servername": "ojdpbst.lkprhh4.workers.dev",
@@ -231,7 +231,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000007",
             "packet-encoding": "",
             "tls": true,
             "servername": "xbfjue2.nofheig3.workers.dev",
@@ -256,7 +256,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000001",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000008",
             "packet-encoding": "",
             "tls": true,
             "servername": "xbfjue2.nofheig3.workers.dev",
@@ -281,7 +281,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000002",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000009",
             "packet-encoding": "",
             "tls": true,
             "servername": "xbfjue2.nofheig3.workers.dev",
@@ -306,7 +306,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000010",
             "packet-encoding": "",
             "tls": true,
             "servername": "fwyt364.bbcjry3.workers.dev",
@@ -331,7 +331,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000001",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000011",
             "packet-encoding": "",
             "tls": true,
             "servername": "fwyt364.bbcjry3.workers.dev",
@@ -356,7 +356,7 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000002",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000012",
             "packet-encoding": "",
             "tls": true,
             "servername": "fwyt364.bbcjry3.workers.dev",
@@ -381,10 +381,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "17f97e23-2932-44c5-f032-5c3700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000013",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-fzgoz4.hydu6uigj.workers.dev",
+            "servername": "irob4uu.plfohey.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -392,9 +392,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/xzhczns738",
+                "path": "/njdjgwy",
                 "headers": {
-                    "Host": "nahan-fzgoz4.hydu6uigj.workers.dev"
+                    "Host": "irob4uu.plfohey.workers.dev"
                 }
             }
         },
@@ -406,10 +406,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "17f97e23-2932-44c5-f032-5c3700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000014",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-fzgoz4.hydu6uigj.workers.dev",
+            "servername": "irob4uu.plfohey.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -417,14 +417,13 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/xzhczns738",
+                "path": "/njdjgwy",
                 "headers": {
-                    "Host": "nahan-fzgoz4.hydu6uigj.workers.dev"
+                    "Host": "irob4uu.plfohey.workers.dev"
                 }
             }
         },
         {
-            #وایفایی
             "name": "0️⃣0️⃣5️⃣ ♏️ehran",
             "type": "vless",
             "server": "18.184.27.249",
@@ -432,10 +431,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "17f97e23-2932-44c5-f032-5c3700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000015",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-fzgoz4.hydu6uigj.workers.dev",
+            "servername": "irob4uu.plfohey.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -443,9 +442,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/xzhczns738",
+                "path": "/njdjgwy",
                 "headers": {
-                    "Host": "nahan-fzgoz4.hydu6uigj.workers.dev"
+                    "Host": "irob4uu.plfohey.workers.dev"
                 }
             }
         },
