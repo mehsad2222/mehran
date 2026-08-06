@@ -831,10 +831,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7ec7fc7d-89f7-34bd-6afe-175700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000031",
             "packet-encoding": "",
             "tls": true,
-            "servername": "orobdph38.hur65ivhh.workers.dev",
+            "servername": "uru3g7.yekbdi3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -842,9 +842,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/or0jphfieb",
+                "path": "/tyfyfcjf",
                 "headers": {
-                    "Host": "orobdph38.hur65ivhh.workers.dev"
+                    "Host": "uru3g7.yekbdi3.workers.dev"
                 }
             }
         },
@@ -856,10 +856,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7ec7fc7d-89f7-34bd-6afe-175700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000032",
             "packet-encoding": "",
             "tls": true,
-            "servername": "orobdph38.hur65ivhh.workers.dev",
+            "servername": "uru3g7.yekbdi3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -867,9 +867,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/or0jphfieb",
+                "path": "/tyfyfcjf",
                 "headers": {
-                    "Host": "orobdph38.hur65ivhh.workers.dev"
+                    "Host": "uru3g7.yekbdi3.workers.dev"
                 }
             }
         },
@@ -881,10 +881,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7ec7fc7d-89f7-34bd-6afe-175700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000033",
             "packet-encoding": "",
             "tls": true,
-            "servername": "orobdph38.hur65ivhh.workers.dev",
+            "servername": "uru3g7.yekbdi3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -892,9 +892,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/or0jphfieb",
+                "path": "/tyfyfcjf",
                 "headers": {
-                    "Host": "orobdph38.hur65ivhh.workers.dev"
+                    "Host": "uru3g7.yekbdi3.workers.dev"
                 }
             }
         },
