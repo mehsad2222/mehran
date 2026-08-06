@@ -456,10 +456,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "da5fab12-d7d6-c2d8-2270-893700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000016",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-c399qh.hdiev82b.workers.dev",
+            "servername": "ueug37d.mngohr7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -467,9 +467,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ieibdi3ubskbs",
+                "path": "/iueg37es",
                 "headers": {
-                    "Host": "nahan-c399qh.hdiev82b.workers.dev"
+                    "Host": "ueug37d.mngohr7.workers.dev"
                 }
             }
         },
@@ -481,10 +481,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "da5fab12-d7d6-c2d8-2270-893700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000017",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-c399qh.hdiev82b.workers.dev",
+            "servername": "ueug37d.mngohr7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -492,14 +492,13 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ieibdi3ubskbs",
+                "path": "/iueg37es",
                 "headers": {
-                    "Host": "nahan-c399qh.hdiev82b.workers.dev"
+                    "Host": "ueug37d.mngohr7.workers.dev"
                 }
             }
         },
         {
-            #وایفایی
             "name": "0️⃣0️⃣6️⃣ ♏️ehran",
             "type": "vless",
             "server": "18.184.27.249",
@@ -507,10 +506,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "da5fab12-d7d6-c2d8-2270-893700000000",
+            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000018",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahan-c399qh.hdiev82b.workers.dev",
+            "servername": "ueug37d.mngohr7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -518,9 +517,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ieibdi3ubskbs",
+                "path": "/iueg37es",
                 "headers": {
-                    "Host": "nahan-c399qh.hdiev82b.workers.dev"
+                    "Host": "ueug37d.mngohr7.workers.dev"
                 }
             }
         },
