@@ -81,10 +81,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000000",
+            "uuid": "7f787393-609e-b093-b67a-027900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ur7g47.vsfyeu3.workers.dev",
+            "servername": "jri36ev.oeuu36.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -92,9 +92,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ur8bfov",
+                "path": "/hduv37",
                 "headers": {
-                    "Host": "ur7g47.vsfyeu3.workers.dev"
+                    "Host": "jri36ev.oeuu36.workers.dev"
                 }
             }
         },
@@ -106,10 +106,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000001",
+            "uuid": "7f787393-609e-b093-b67a-027900000001",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ur7g47.vsfyeu3.workers.dev",
+            "servername": "jri36ev.oeuu36.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -117,9 +117,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ur8bfov",
+                "path": "/hduv37",
                 "headers": {
-                    "Host": "ur7g47.vsfyeu3.workers.dev"
+                    "Host": "jri36ev.oeuu36.workers.dev"
                 }
             }
         },
@@ -131,10 +131,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000002",
+            "uuid": "7f787393-609e-b093-b67a-027900000002",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ur7g47.vsfyeu3.workers.dev",
+            "servername": "jri36ev.oeuu36.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -142,9 +142,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ur8bfov",
+                "path": "/hduv37",
                 "headers": {
-                    "Host": "ur7g47.vsfyeu3.workers.dev"
+                    "Host": "jri36ev.oeuu36.workers.dev"
                 }
             }
         },
