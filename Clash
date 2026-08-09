@@ -81,10 +81,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7f787393-609e-b093-b67a-027900000000",
+            "uuid": "5249ed1b-63e8-756f-173b-8ce300000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jri36ev.oeuu36.workers.dev",
+            "servername": "jrig37d.ieh83u7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -92,9 +92,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hduv37",
+                "path": "/hdjbdu",
                 "headers": {
-                    "Host": "jri36ev.oeuu36.workers.dev"
+                    "Host": "jrig37d.ieh83u7.workers.dev"
                 }
             }
         },
@@ -106,10 +106,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7f787393-609e-b093-b67a-027900000001",
+            "uuid": "5249ed1b-63e8-756f-173b-8ce300000001",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jri36ev.oeuu36.workers.dev",
+            "servername": "jrig37d.ieh83u7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -117,9 +117,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hduv37",
+                "path": "/hdjbdu",
                 "headers": {
-                    "Host": "jri36ev.oeuu36.workers.dev"
+                    "Host": "jrig37d.ieh83u7.workers.dev"
                 }
             }
         },
@@ -131,10 +131,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "7f787393-609e-b093-b67a-027900000002",
+            "uuid": "5249ed1b-63e8-756f-173b-8ce300000002",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jri36ev.oeuu36.workers.dev",
+            "servername": "jrig37d.ieh83u7.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -142,9 +142,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hduv37",
+                "path": "/hdjbdu",
                 "headers": {
-                    "Host": "jri36ev.oeuu36.workers.dev"
+                    "Host": "jrig37d.ieh83u7.workers.dev"
                 }
             }
         },
