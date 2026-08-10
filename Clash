@@ -831,10 +831,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000031",
+            "uuid": "ca89d835-1cd7-7fb9-0497-a11700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "uru3g7.yekbdi3.workers.dev",
+            "servername": "iri37d.ue8b3u.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -842,9 +842,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/tyfyfcjf",
+                "path": "/hdiv37v",
                 "headers": {
-                    "Host": "uru3g7.yekbdi3.workers.dev"
+                    "Host": "iri37d.ue8b3u.workers.dev"
                 }
             }
         },
@@ -856,10 +856,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000032",
+            "uuid": "ca89d835-1cd7-7fb9-0497-a11700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "uru3g7.yekbdi3.workers.dev",
+            "servername": "iri37d.ue8b3u.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -867,9 +867,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/tyfyfcjf",
+                "path": "/hdiv37v",
                 "headers": {
-                    "Host": "uru3g7.yekbdi3.workers.dev"
+                    "Host": "iri37d.ue8b3u.workers.dev"
                 }
             }
         },
@@ -881,10 +881,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "3cc81f96-8e56-bfee-aa89-77c800000033",
+            "uuid": "ca89d835-1cd7-7fb9-0497-a11700000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "uru3g7.yekbdi3.workers.dev",
+            "servername": "iri37d.ue8b3u.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -892,9 +892,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/tyfyfcjf",
+                "path": "/hdiv37v",
                 "headers": {
-                    "Host": "uru3g7.yekbdi3.workers.dev"
+                    "Host": "iri37d.ue8b3u.workers.dev
                 }
             }
         },
