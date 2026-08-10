@@ -306,10 +306,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "c24e9bfd-ea5b-0ea5-6b5c-0aa900000000",
+            "uuid": "5ce2336a-b379-63e0-fcc2-d47e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "dyeyd7g.ccdge6.workers.dev",
+            "servername": "ewtd53.bbdue6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -317,9 +317,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdibeuv",
+                "path": "/phruvd",
                 "headers": {
-                    "Host": "dyeyd7g.ccdge6.workers.dev"
+                    "Host": "ewtd53.bbdue6.workers.dev"
                 }
             }
         },
@@ -331,10 +331,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "c24e9bfd-ea5b-0ea5-6b5c-0aa900000000",
+            "uuid": "5ce2336a-b379-63e0-fcc2-d47e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "dyeyd7g.ccdge6.workers.dev",
+            "servername": "ewtd53.bbdue6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -342,9 +342,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdibeuv",
+                "path": "/phruvd",
                 "headers": {
-                    "Host": "dyeyd7g.ccdge6.workers.dev"
+                    "Host": "ewtd53.bbdue6.workers.dev"
                 }
             }
         },
@@ -356,10 +356,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "c24e9bfd-ea5b-0ea5-6b5c-0aa900000000",
+            "uuid": "5ce2336a-b379-63e0-fcc2-d47e00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "dyeyd7g.ccdge6.workers.dev",
+            "servername": "ewtd53.bbdue6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -367,9 +367,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdibeuv",
+                "path": "/phruvd",
                 "headers": {
-                    "Host": "dyeyd7g.ccdge6.workers.dev"
+                    "Host": "ewtd53.bbdue6.workers.dev"
                 }
             }
         },
