@@ -531,10 +531,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "9efac5d4-3849-3748-5a6e-e9c000000000",
+            "uuid": "6b4aa5bf-602c-34b1-fc73-610600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vduf35g.oorh836.workers.dev",
+            "servername": "cveu7e.ffduwu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -542,9 +542,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/prkiv36s",
+                "path": "/jdiv3u",
                 "headers": {
-                    "Host": "vduf35g.oorh836.workers.dev"
+                    "Host": "cveu7e.ffduwu.workers.dev"
                 }
             }
         },
@@ -556,10 +556,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "9efac5d4-3849-3748-5a6e-e9c000000001",
+            "uuid": "6b4aa5bf-602c-34b1-fc73-610600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vduf35g.oorh836.workers.dev",
+            "servername": "cveu7e.ffduwu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -567,9 +567,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/prkiv36s",
+                "path": "/jdiv3u",
                 "headers": {
-                    "Host": "vduf35g.oorh836.workers.dev"
+                    "Host": "cveu7e.ffduwu.workers.dev"
                 }
             }
         },
@@ -581,10 +581,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "9efac5d4-3849-3748-5a6e-e9c000000002",
+            "uuid": "6b4aa5bf-602c-34b1-fc73-610600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "vduf35g.oorh836.workers.dev",
+            "servername": "cveu7e.ffduwu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -592,9 +592,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/prkiv36s",
+                "path": "/jdiv3u",
                 "headers": {
-                    "Host": "vduf35g.oorh836.workers.dev"
+                    "Host": "cveu7e.ffduwu.workers.dev"
                 }
             }
         },
