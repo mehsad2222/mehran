@@ -231,10 +231,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "43ff12ac-1f5b-cc39-0670-7a4400000000",
+            "uuid": "c24e9bfd-ea5b-0ea5-6b5c-0aa900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "xbfjue2.nofheig3.workers.dev",
+            "servername": "dyeyd7g.ccdge6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -242,9 +242,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jrig47bd",
+                "path": "/hdibeuv",
                 "headers": {
-                    "Host": "xbfjue2.nofheig3.workers.dev"
+                    "Host": "dyeyd7g.ccdge6.workers.dev"
                 }
             }
         },
@@ -256,10 +256,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "43ff12ac-1f5b-cc39-0670-7a4400000001",
+            "uuid": "c24e9bfd-ea5b-0ea5-6b5c-0aa900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "xbfjue2.nofheig3.workers.dev",
+            "servername": "dyeyd7g.ccdge6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -267,9 +267,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jrig47bd",
+                "path": "/hdibeuv",
                 "headers": {
-                    "Host": "xbfjue2.nofheig3.workers.dev"
+                    "Host": "dyeyd7g.ccdge6.workers.dev"
                 }
             }
         },
@@ -281,10 +281,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "43ff12ac-1f5b-cc39-0670-7a4400000002",
+            "uuid": "c24e9bfd-ea5b-0ea5-6b5c-0aa900000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "xbfjue2.nofheig3.workers.dev",
+            "servername": "dyeyd7g.ccdge6.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -292,9 +292,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/jrig47bd",
+                "path": "/hdibeuv",
                 "headers": {
-                    "Host": "xbfjue2.nofheig3.workers.dev"
+                    "Host": "dyeyd7g.ccdge6.workers.dev"
                 }
             }
         },
