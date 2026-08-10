@@ -381,10 +381,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "e5c38f01-19cb-5e06-3178-135700000000",
+            "uuid": "78d2af59-73fb-02ef-cb24-2c9f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ie7vd7.ccey27.workers.dev",
+            "servername": "ur8g37.tehrandu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -392,9 +392,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ue7g37",
+                "path": "/uhriveu",
                 "headers": {
-                    "Host": "ie7vd7.ccey27.workers.dev"
+                    "Host": "ur8g37.tehrandu.workers.dev"
                 }
             }
         },
@@ -406,10 +406,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "e5c38f01-19cb-5e06-3178-135700000000",
+            "uuid": "78d2af59-73fb-02ef-cb24-2c9f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ie7vd7.ccey27.workers.dev",
+            "servername": "ur8g37.tehrandu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -417,9 +417,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ue7g37",
+                "path": "/uhriveu",
                 "headers": {
-                    "Host": "ie7vd7.ccey27.workers.dev"
+                    "Host": "ur8g37.tehrandu.workers.dev"
                 }
             }
         },
@@ -431,10 +431,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "e5c38f01-19cb-5e06-3178-135700000000",
+            "uuid": "78d2af59-73fb-02ef-cb24-2c9f00000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ie7vd7.ccey27.workers.dev",
+            "servername": "ur8g37.tehrandu.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -442,9 +442,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/ue7g37",
+                "path": "/uhriveu",
                 "headers": {
-                    "Host": "ie7vd7.ccey27.workers.dev"
+                    "Host": "ur8g37.tehrandu.workers.dev"
                 }
             }
         },
