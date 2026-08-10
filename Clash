@@ -756,10 +756,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "ba0d6b49-e1d2-e8a5-8ecf-62a800000000",
+            "uuid": "7030d7c5-326a-ed57-02f8-86f600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "dsgyetc.kfiv37t3.workers.dev",
+            "servername": "nahanu3.mldjeig3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -767,9 +767,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/vdigei53",
+                "path": "/porhvdd",
                 "headers": {
-                    "Host": "dsgyetc.kfiv37t3.workers.dev"
+                    "Host": "nahanu3.mldjeig3.workers.dev"
                 }
             }
         },
@@ -781,10 +781,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "ba0d6b49-e1d2-e8a5-8ecf-62a800000001",
+            "uuid": "7030d7c5-326a-ed57-02f8-86f600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "dsgyetc.kfiv37t3.workers.dev",
+            "servername": "nahanu3.mldjeig3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -792,9 +792,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/vdigei53",
+                "path": "/porhvdd",
                 "headers": {
-                    "Host": "dsgyetc.kfiv37t3.workers.dev"
+                    "Host": "nahanu3.mldjeig3.workers.dev"
                 }
             }
         },
@@ -806,10 +806,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "ba0d6b49-e1d2-e8a5-8ecf-62a800000002",
+            "uuid": "7030d7c5-326a-ed57-02f8-86f600000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "dsgyetc.kfiv37t3.workers.dev",
+            "servername": "nahanu3.mldjeig3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -817,9 +817,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/vdigei53",
+                "path": "/porhvdd",
                 "headers": {
-                    "Host": "dsgyetc.kfiv37t3.workers.dev"
+                    "Host": "nahanu3.mldjeig3.workers.dev"
                 }
             }
         },
