@@ -831,10 +831,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "ca89d835-1cd7-7fb9-0497-a11700000000",
+            "uuid": "519dea7a-0f73-1c81-410a-4a2100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "iri37d.ue8b3u.workers.dev",
+            "servername": "zcsy36.ud7b4v.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -842,9 +842,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdiv37v",
+                "path": "/startapp",
                 "headers": {
-                    "Host": "iri37d.ue8b3u.workers.dev"
+                    "Host": "zcsy36.ud7b4v.workers.dev"
                 }
             }
         },
@@ -856,10 +856,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "ca89d835-1cd7-7fb9-0497-a11700000000",
+            "uuid": "519dea7a-0f73-1c81-410a-4a2100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "iri37d.ue8b3u.workers.dev",
+            "servername": "zcsy36.ud7b4v.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -867,9 +867,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdiv37v",
+                "path": "/startapp",
                 "headers": {
-                    "Host": "iri37d.ue8b3u.workers.dev"
+                    "Host": "zcsy36.ud7b4v.workers.dev"
                 }
             }
         },
@@ -881,10 +881,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "ca89d835-1cd7-7fb9-0497-a11700000000",
+            "uuid": "519dea7a-0f73-1c81-410a-4a2100000000",
             "packet-encoding": "",
             "tls": true,
-            "servername": "iri37d.ue8b3u.workers.dev",
+            "servername": "zcsy36.ud7b4v.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -892,9 +892,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdiv37v",
+                "path": "/startapp",
                 "headers": {
-                    "Host": "iri37d.ue8b3u.workers.dev"
+                    "Host": "zcsy36.ud7b4v.workers.dev"
                 }
             }
         },
