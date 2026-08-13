@@ -15224,10 +15224,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "31c05910-7d47-f0a0-0206-427000000000",
+            "uuid": "5d56862b-e38d-4f9b-a224-eb0b3963788a",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jdihrihskhdj.gtdjiy74hv.workers.dev",
+            "servername": "qn99tgyfeju6nmkvwzn5bshggk91moq.rwweqtfu5.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -15235,9 +15235,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/h7tibkvib",
+                "path": "/vl/DDA5JXSvMpdCkLgnSTNJj3TCeDQuvK?ed=2560",
                 "headers": {
-                    "Host": "jdihrihskhdj.gtdjiy74hv.workers.dev"
+                    "Host": "qn99tgyfeju6nmkvwzn5bshggk91moq.rwweqtfu5.workers.dev"
                 }
             }
         },
