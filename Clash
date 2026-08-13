@@ -81,10 +81,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "5249ed1b-63e8-756f-173b-8ce300000000",
+            "uuid": "4be172ba-acb5-4a52-94ad-3bd0c686178b",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jrig37d.ieh83u7.workers.dev",
+            "servername": "vpj7sdvqlah37kg02bp0k-khg.gge7g3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -92,9 +92,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdjbdu",
+                "path": "/vl/L3xKbrri9ut0GuRV?ed=2560",
                 "headers": {
-                    "Host": "jrig37d.ieh83u7.workers.dev"
+                    "Host": "vpj7sdvqlah37kg02bp0k-khg.gge7g3.workers.dev"
                 }
             }
         },
@@ -106,10 +106,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "5249ed1b-63e8-756f-173b-8ce300000000",
+            "uuid": "4be172ba-acb5-4a52-94ad-3bd0c686178b",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jrig37d.ieh83u7.workers.dev",
+            "servername": "vpj7sdvqlah37kg02bp0k-khg.gge7g3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -117,9 +117,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdjbdu",
+                "path": "/vl/L3xKbrri9ut0GuRV?ed=2560",
                 "headers": {
-                    "Host": "jrig37d.ieh83u7.workers.dev"
+                    "Host": "vpj7sdvqlah37kg02bp0k-khg.gge7g3.workers.dev"
                 }
             }
         },
@@ -131,10 +131,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "5249ed1b-63e8-756f-173b-8ce300000000",
+            "uuid": "4be172ba-acb5-4a52-94ad-3bd0c686178b",
             "packet-encoding": "",
             "tls": true,
-            "servername": "jrig37d.ieh83u7.workers.dev",
+            "servername": "vpj7sdvqlah37kg02bp0k-khg.gge7g3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -142,9 +142,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdjbdu",
+                "path": "/vl/L3xKbrri9ut0GuRV?ed=2560",
                 "headers": {
-                    "Host": "jrig37d.ieh83u7.workers.dev"
+                    "Host": "vpj7sdvqlah37kg02bp0k-khg.gge7g3.workers.dev"
                 }
             }
         },
