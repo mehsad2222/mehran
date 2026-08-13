@@ -15199,10 +15199,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "cf223b19-f49a-798d-6527-856400000000",
+            "uuid": "73fb2ab0-68c8-4c16-9b80-2aa5264d3aad",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nahihh67vju.ieuj38d8jdieij.workers.dev",
+            "servername": "pyl6x160wbth3s-ntqeceh.gryfy55.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -15210,9 +15210,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/urih38heige",
+                "path": "/vl/9DvtmXXNU9z2uofEUqS0?ed=2560",
                 "headers": {
-                    "Host": "nahihh67vju.ieuj38d8jdieij.workers.dev"
+                    "Host": "pyl6x160wbth3s-ntqeceh.gryfy55.workers.dev"
                 }
             }
         },
