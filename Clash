@@ -1,14 +1,14 @@
 {
     "mixed-port": 7890,
-    "tcp-concurrent": true,
     "ipv6": true,
     "allow-lan": false,
-    "unified-delay": true,
+    "unified-delay": false,
     "log-level": "warning",
     "mode": "rule",
     "disable-keep-alive": false,
     "keep-alive-idle": 10,
     "keep-alive-interval": 15,
+    "tcp-concurrent": true,
     "geo-auto-update": true,
     "geo-update-interval": 168,
     "external-controller": "127.0.0.1:9090",
@@ -45,7 +45,6 @@
         },
         "enhanced-mode": "fake-ip",
         "fake-ip-range": "198.18.0.1/16",
-        "fake-ip-ttl": 3600,
         "fake-ip-filter-mode": "blacklist",
         "fake-ip-filter": [
             "+.lan",
@@ -16616,6 +16615,7 @@
     },
     "rules": [
         "GEOIP,lan,DIRECT,no-resolve",
+        "NETWORK,udp,REJECT",
         "RULE-SET,ir,DIRECT",
         "RULE-SET,ir-cidr,DIRECT",
         "MATCH,✅ Selector"
