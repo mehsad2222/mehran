@@ -27,20 +27,21 @@
         "respect-rules": true,
         "use-system-hosts": false,
         "listen": "127.0.0.1:1053",
-        "ipv6": false,
-        "enhanced-mode": "redir-host",
+        "ipv6": true,
+        "hosts": {
+            "rule-set:category-ads-all": "rcode://refused"
+        },
         "nameserver": [
-            "https://8.8.8.8/dns-query#DIRECT"
+            "https://8.8.8.8/dns-query#✅ Selector"
         ],
         "proxy-server-nameserver": [
-            "8.8.8.8#DIRECT",
-            "1.1.1.1#DIRECT"
+            "8.8.8.8#DIRECT"
         ],
         "direct-nameserver": [
-            "8.8.8.8#DIRECT",
-            "1.1.1.1#DIRECT"
+            "8.8.8.8#DIRECT"
         ],
-        "direct-nameserver-follow-policy": true
+        "direct-nameserver-follow-policy": true,
+        "enhanced-mode": "redir-host"
     },
     "tun": {
         "enable": true,
@@ -48,7 +49,10 @@
         "auto-route": true,
         "strict-route": true,
         "auto-detect-interface": true,
-        "dns-hijack": ["any:53", "tcp://any:53"],
+        "dns-hijack": [
+            "any:53",
+            "tcp://any:53"
+        ],
         "mtu": 9000
     },
     "sniffer": {
