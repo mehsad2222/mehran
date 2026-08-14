@@ -43,7 +43,7 @@
         "direct-nameserver-follow-policy": true,
         "enhanced-mode": "fake-ip"
         "fake-ip-range": "198.18.0.1/16",
-        "fake-ip-ttl": 10
+        "fake-ip-ttl": 3600
     },
     "tun": {
         "enable": true,
