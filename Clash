@@ -16594,14 +16594,10 @@
         }
     ],
     "rules": [
-        "GEOIP,lan,DIRECT,no-resolve",
-        "NETWORK,udp,REJECT",
+        "DOMAIN-SUFFIX,ir,DIRECT",
+        "DOMAIN-KEYWORD,gov.ir,DIRECT",
+        "DOMAIN-SUFFIX,fa,DIRECT",
+        "GEOIP,IR,DIRECT",
         "MATCH,✅ Selector"
-    ],
-    "ntp": {
-        "enable": true,
-        "server": "time.cloudflare.com",
-        "port": 123,
-        "interval": 30
-    }
+    ]
 }
