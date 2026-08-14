@@ -156,10 +156,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "6ecb9978-1f09-9bb9-62bb-240700000000",
+            "uuid": "665b55b0-f04f-4fcf-b11b-320774b4cb00",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nfih37v.bnfige6.workers.dev",
+            "servername": "vpbor2s6j-uakhfbz94.bbxter5.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -167,9 +167,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hr8v3yf",
+                "path": "/vl/fUGYR19LMo3LLrIiewxJk5L5joFTr?ed=2560",
                 "headers": {
-                    "Host": "nfih37v.bnfige6.workers.dev"
+                    "Host": "vpbor2s6j-uakhfbz94.bbxter5.workers.dev"
                 }
             }
         },
@@ -181,10 +181,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "6ecb9978-1f09-9bb9-62bb-240700000000",
+            "uuid": "665b55b0-f04f-4fcf-b11b-320774b4cb00",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nfih37v.bnfige6.workers.dev",
+            "servername": "vpbor2s6j-uakhfbz94.bbxter5.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -192,9 +192,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hr8v3yf",
+                "path": "/vl/fUGYR19LMo3LLrIiewxJk5L5joFTr?ed=2560",
                 "headers": {
-                    "Host": "nfih37v.bnfige6.workers.dev"
+                    "Host": "vpbor2s6j-uakhfbz94.bbxter5.workers.dev"
                 }
             }
         },
@@ -206,10 +206,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "6ecb9978-1f09-9bb9-62bb-240700000000",
+            "uuid": "665b55b0-f04f-4fcf-b11b-320774b4cb00",
             "packet-encoding": "",
             "tls": true,
-            "servername": "nfih37v.bnfige6.workers.dev",
+            "servername": "vpbor2s6j-uakhfbz94.bbxter5.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -217,9 +217,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hr8v3yf",
+                "path": "/vl/fUGYR19LMo3LLrIiewxJk5L5joFTr?ed=2560",
                 "headers": {
-                    "Host": "nfih37v.bnfige6.workers.dev"
+                    "Host": "vpbor2s6j-uakhfbz94.bbxter5.workers.dev"
                 }
             }
         },
