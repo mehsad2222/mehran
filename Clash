@@ -3,7 +3,7 @@
     "tcp-concurrent": true,
     "ipv6": true,
     "allow-lan": false,
-    "unified-delay": false,
+    "unified-delay": true,
     "log-level": "warning",
     "mode": "rule",
     "disable-keep-alive": false,
