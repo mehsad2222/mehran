@@ -4281,10 +4281,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b682db13-794b-7da0-6dd9-1c7700000000",
+            "uuid": "8969c6a2-8033-416c-bb12-07474a9c8bc5",
             "packet-encoding": "",
             "tls": true,
-            "servername": "h73t6sh.bxue37.workers.dev",
+            "servername": "zcqyvqs4i3o1gzcm6tus9her8.nkgy55s.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4292,9 +4292,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdugd",
+                "path": "/vl/Xfmz8Js5nizhzATg5DAYIUuYXoAuhDPB?ed=2560",
                 "headers": {
-                    "Host": "h73t6sh.bxue37.workers.dev"
+                    "Host": "zcqyvqs4i3o1gzcm6tus9her8.nkgy55s.workers.dev"
                 }
             }
         },
@@ -4306,10 +4306,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b682db13-794b-7da0-6dd9-1c7700000000",
+            "uuid": "8969c6a2-8033-416c-bb12-07474a9c8bc5",
             "packet-encoding": "",
             "tls": true,
-            "servername": "h73t6sh.bxue37.workers.dev",
+            "servername": "zcqyvqs4i3o1gzcm6tus9her8.nkgy55s.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4317,9 +4317,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdugd",
+                "path": "/vl/Xfmz8Js5nizhzATg5DAYIUuYXoAuhDPB?ed=2560",
                 "headers": {
-                    "Host": "h73t6sh.bxue37.workers.dev"
+                    "Host": "zcqyvqs4i3o1gzcm6tus9her8.nkgy55s.workers.dev"
                 }
             }
         },
@@ -4331,10 +4331,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": false,
-            "uuid": "b682db13-794b-7da0-6dd9-1c7700000000",
+            "uuid": "8969c6a2-8033-416c-bb12-07474a9c8bc5",
             "packet-encoding": "",
             "tls": true,
-            "servername": "h73t6sh.bxue37.workers.dev",
+            "servername": "zcqyvqs4i3o1gzcm6tus9her8.nkgy55s.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -4342,9 +4342,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/hdugd",
+                "path": "/vl/Xfmz8Js5nizhzATg5DAYIUuYXoAuhDPB?ed=2560",
                 "headers": {
-                    "Host": "h73t6sh.bxue37.workers.dev"
+                    "Host": "zcqyvqs4i3o1gzcm6tus9her8.nkgy55s.workers.dev"
                 }
             }
         },
