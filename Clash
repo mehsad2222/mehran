@@ -16616,7 +16616,6 @@
     },
     "rules": [
         "GEOIP,lan,DIRECT,no-resolve",
-        "NETWORK,udp,REJECT",
         "RULE-SET,ir,DIRECT",
         "RULE-SET,ir-cidr,DIRECT",
         "MATCH,✅ Selector"
