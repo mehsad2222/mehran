@@ -28,13 +28,9 @@
         "use-system-hosts": false,
         "listen": "127.0.0.1:1053",
         "ipv6": false,
-        "enhanced-mode": "fake-ip",
-        "fake-ip-range": "198.18.0.1/16",
-        "fake-ip-filter-mode": "blacklist",
-        "fake-ip-filter": ["+.lan", "+.local", "+.ir"],
+        "enhanced-mode": "redir-host",
         "nameserver": [
-            "https://1.1.1.1/dns-query#✅ Selector",
-            "https://dns.google/dns-query#✅ Selector"
+            "https://8.8.8.8/dns-query#✅ Selector"
         ],
         "proxy-server-nameserver": [
             "8.8.8.8#DIRECT",
