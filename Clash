@@ -49,15 +49,15 @@
     },
     "tun": {
         "enable": true,
-        "stack": "mixed",
+        "stack": "gvisor",
         "auto-route": true,
-        "strict-route": true,
+        "strict-route": false,
         "auto-detect-interface": true,
         "dns-hijack": [
             "any:53",
             "tcp://any:53"
         ],
-        "mtu": 9000
+        "mtu": 4064
     },
     "sniffer": {
         "enable": true,
