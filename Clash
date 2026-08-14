@@ -1,5 +1,4 @@
-{
-    "mixed-port": 7890,
+"mixed-port": 7890,
     "ipv6": true,
     "allow-lan": false,
     "unified-delay": false,
@@ -40,9 +39,6 @@
             "8.8.8.8#DIRECT"
         ],
         "direct-nameserver-follow-policy": true,
-        "nameserver-policy": {
-            "rule-set:ir": "8.8.8.8#DIRECT"
-        },
         "enhanced-mode": "fake-ip",
         "fake-ip-range": "198.18.0.1/16",
         "fake-ip-filter-mode": "blacklist",
@@ -16595,29 +16591,9 @@
             "tolerance": 50
         }
     ],
-    "rule-providers": {
-        "ir": {
-            "type": "http",
-            "format": "text",
-            "behavior": "domain",
-            "path": "./ruleset/ir.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt"
-        },
-        "ir-cidr": {
-            "type": "http",
-            "format": "text",
-            "behavior": "ipcidr",
-            "path": "./ruleset/ir-cidr.txt",
-            "interval": 86400,
-            "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt"
-        }
-    },
     "rules": [
         "GEOIP,lan,DIRECT,no-resolve",
         "NETWORK,udp,REJECT",
-        "RULE-SET,ir,DIRECT",
-        "RULE-SET,ir-cidr,DIRECT",
         "MATCH,✅ Selector"
     ],
     "ntp": {
