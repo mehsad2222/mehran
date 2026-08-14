@@ -2,23 +2,26 @@
     "mixed-port": 7890,
     "ipv6": true,
     "allow-lan": false,
-    "unified-delay": true,
-    "log-level": "error",
+    "unified-delay": false,
+    "log-level": "warning",
     "mode": "rule",
     "disable-keep-alive": false,
     "keep-alive-idle": 10,
-    "keep-alive-interval": 30,
+    "keep-alive-interval": 15,
     "tcp-concurrent": true,
     "geo-auto-update": true,
     "geo-update-interval": 168,
-    "external-controller": "",
+    "external-controller": "127.0.0.1:9090",
     "external-controller-cors": {
-        "allow-origins": ["*"],
+        "allow-origins": [
+            "*"
+        ],
         "allow-private-network": true
     },
-    "external-ui": "",
+    "external-ui": "ui",
+    "external-ui-url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
     "profile": {
-        "store-selected": false,
+        "store-selected": true,
         "store-fake-ip": true
     },
     "dns": {
@@ -26,9 +29,7 @@
         "respect-rules": true,
         "use-system-hosts": false,
         "listen": "127.0.0.1:1053",
-        "ipv6": true,
-        "enhanced-mode": "redir-host",
-        "fake-ip-range": "198.18.0.1/16",
+        "ipv6": false,
         "nameserver": [
             "https://8.8.8.8/dns-query#✅ Selector"
         ],
@@ -39,15 +40,16 @@
             "8.8.8.8#DIRECT"
         ],
         "direct-nameserver-follow-policy": true,
-        "default-nameserver": [
-            "114.114.114.114",
-            "223.5.5.5",
-            "8.8.8.8",
-            "1.0.0.1"
+        "enhanced-mode": "fake-ip",
+        "fake-ip-range": "198.18.0.1/16",
+        "fake-ip-filter-mode": "blacklist",
+        "fake-ip-filter": [
+            "+.lan",
+            "+.local"
         ]
     },
     "tun": {
-        "enable": false,
+        "enable": true,
         "stack": "mixed",
         "auto-route": true,
         "strict-route": true,
@@ -65,10 +67,25 @@
         "override-destination": true,
         "sniff": {
             "HTTP": {
-                "ports": [80, 8080, 8880, 2052, 2082, 2086, 2095]
+                "ports": [
+                    80,
+                    8080,
+                    8880,
+                    2052,
+                    2082,
+                    2086,
+                    2095
+                ]
             },
             "TLS": {
-                "ports": [443, 8443, 2053, 2083, 2087, 2096]
+                "ports": [
+                    443,
+                    8443,
+                    2053,
+                    2083,
+                    2087,
+                    2096
+                ]
             }
         }
     },
@@ -16576,15 +16593,13 @@
         }
     ],
     "rules": [
-        "DOMAIN-SUFFIX,ir,DIRECT",
-        "DOMAIN-KEYWORD,gov.ir,DIRECT",
-        "DOMAIN-SUFFIX,fa,DIRECT",
-        "GEOIP,IR,DIRECT",
+        "GEOIP,lan,DIRECT,no-resolve",
+        "NETWORK,udp,REJECT",
         "MATCH,✅ Selector"
     ],
     "ntp": {
-        "enable": false,
-        "server": "time.apple.com",
+        "enable": true,
+        "server": "time.cloudflare.com",
         "port": 123,
         "interval": 30
     }
