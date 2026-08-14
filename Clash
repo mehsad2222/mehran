@@ -27,7 +27,7 @@
         "respect-rules": true,
         "use-system-hosts": false,
         "listen": "127.0.0.1:1053",
-        "ipv6": true,
+        "ipv6": false,
         "hosts": {
             "rule-set:category-ads-all": "rcode://refused"
         },
@@ -35,13 +35,15 @@
             "https://8.8.8.8/dns-query#✅ Selector"
         ],
         "proxy-server-nameserver": [
-            "8.8.8.8#DIRECT"
+            "223.6.6.6#DIRECT"
         ],
         "direct-nameserver": [
-            "8.8.8.8#DIRECT"
+            "local#DIRECT"
         ],
         "direct-nameserver-follow-policy": true,
-        "enhanced-mode": "redir-host"
+        "enhanced-mode": "fake-ip"
+        "fake-ip-range": "198.18.0.1/16",
+        "fake-ip-ttl": 1
     },
     "tun": {
         "enable": true,
