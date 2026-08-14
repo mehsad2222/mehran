@@ -16594,11 +16594,5 @@
         "GEOIP,lan,DIRECT,no-resolve",
         "NETWORK,udp,REJECT",
         "MATCH,✅ Selector"
-    ],
-    "ntp": {
-        "enable": true,
-        "server": "time.cloudflare.com",
-        "port": 123,
-        "interval": 30
-    }
+    ]
 }
