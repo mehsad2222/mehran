@@ -30,7 +30,7 @@
         "ipv6": false,
         "enhanced-mode": "redir-host",
         "nameserver": [
-            "https://8.8.8.8/dns-query#✅ Selector"
+            "https://8.8.8.8/dns-query#DIRECT"
         ],
         "proxy-server-nameserver": [
             "8.8.8.8#DIRECT",
