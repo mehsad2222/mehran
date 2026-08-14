@@ -31,38 +31,20 @@
         "enhanced-mode": "fake-ip",
         "fake-ip-range": "198.18.0.1/16",
         "fake-ip-filter-mode": "blacklist",
-        "fake-ip-filter": ["+.lan", "+.local"],
+        "fake-ip-filter": ["+.lan", "+.local", "+.ir"],
         "nameserver": [
             "https://1.1.1.1/dns-query#Proxy",
-            "https://dns.google/dns-query#Proxy",
-            "https://cloudflare-dns.com/dns-query#Proxy",
-            "tls://1.1.1.1#Proxy",
-            "tls://dns.google#Proxy",
-            "https://dns.quad9.net/dns-query#Proxy",
-            "tls://dns.quad9.net#Proxy",
-            "https://dns.adguard.com/dns-query#Proxy",
-            "tls://dns.adguard.com#Proxy"
+            "https://dns.google/dns-query#Proxy"
         ],
         "proxy-server-nameserver": [
             "8.8.8.8#DIRECT",
-            "1.1.1.1#DIRECT",
-            "9.9.9.9#DIRECT"
+            "1.1.1.1#DIRECT"
         ],
         "direct-nameserver": [
             "8.8.8.8#DIRECT",
             "1.1.1.1#DIRECT"
         ],
-        "direct-nameserver-follow-policy": true,
-        "fallback": [
-            "https://dns.quad9.net/dns-query#Proxy",
-            "https://dns.adguard.com/dns-query#Proxy",
-            "tls://dns.quad9.net#Proxy"
-        ],
-        "fallback-filter": {
-            "geoip": true,
-            "geoip-code": "IR",
-            "domain": ["+.ir", "+.gov.ir"]
-        }
+        "direct-nameserver-follow-policy": true
     },
     "tun": {
         "enable": true,
