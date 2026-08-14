@@ -16574,14 +16574,10 @@
     ],
     "rules": [
         "DOMAIN-SUFFIX,ir,DIRECT",
-        "DOMAIN-KEYWORD,gov.ir,DIRECT",
         "DOMAIN-SUFFIX,fa,DIRECT",
         "DOMAIN-SUFFIX,ایران,DIRECT",
         "GEOIP,lan,DIRECT,no-resolve",
         "GEOIP,IR,DIRECT,no-resolve",
-        "DOMAIN-SUFFIX,digikala.com,DIRECT",
-        "DOMAIN-SUFFIX,divar.ir,DIRECT",
-        "DOMAIN-SUFFIX,snapp.ir,DIRECT",
         "MATCH,✅ Selector"
     ]
 }
