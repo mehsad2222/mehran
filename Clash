@@ -15249,10 +15249,10 @@
             "ip-version": "ipv4",
             "tfo": false,
             "udp": true,
-            "uuid": "cc1dfbf9-55f7-ef99-8019-31de00000000",
+            "uuid": "61b12f82-b2bc-42a5-86bf-601e0aba5e05",
             "packet-encoding": "",
             "tls": true,
-            "servername": "ciydobdkbsjk.uriv4ibsib.workers.dev",
+            "servername": "cozy-canyon-b718.ue8veh3.workers.dev",
             "client-fingerprint": "chrome",
             "skip-cert-verify": false,
             "alpn": [
@@ -15260,9 +15260,9 @@
             ],
             "network": "ws",
             "ws-opts": {
-                "path": "/keohry38hej",
+                "path": "/?u=2-0-7",
                 "headers": {
-                    "Host": "ciydobdkbsjk.uriv4ibsib.workers.dev"
+                    "Host": "cozy-canyon-b718.ue8veh3.workers.dev"
                 }
             }
         },
@@ -15954,6 +15954,7 @@
                 "2️⃣0️⃣4️⃣ 📶Hamarah",
                 "2️⃣0️⃣5️⃣ 📶Hamarah",
                 "2️⃣0️⃣6️⃣ 🛜Wifi",
+                "2️⃣0️⃣7️⃣ 📶Hamarah",
                 "2️⃣1️⃣0️⃣ 🎓khuisf"
             ]
         },
@@ -15967,6 +15968,7 @@
                 "2️⃣0️⃣4️⃣ 📶Hamarah",
                 "2️⃣0️⃣5️⃣ 📶Hamarah",
                 "2️⃣0️⃣6️⃣ 🛜Wifi",
+                "2️⃣0️⃣7️⃣ 📶Hamarah",
                 "0️⃣0️⃣1️⃣ Ⓜ️ehran",
                 "0️⃣0️⃣1️⃣ 〽️ehran",
                 "0️⃣0️⃣1️⃣ ♏️ehran",
