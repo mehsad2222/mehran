@@ -1,5 +1,6 @@
 {
     "mixed-port": 7890,
+    "tcp-concurrent": true,
     "ipv6": true,
     "allow-lan": false,
     "unified-delay": false,
@@ -8,14 +9,11 @@
     "disable-keep-alive": false,
     "keep-alive-idle": 10,
     "keep-alive-interval": 15,
-    "tcp-concurrent": true,
     "geo-auto-update": true,
     "geo-update-interval": 168,
     "external-controller": "127.0.0.1:9090",
     "external-controller-cors": {
-        "allow-origins": [
-            "*"
-        ],
+        "allow-origins": ["*"],
         "allow-private-network": true
     },
     "external-ui": "ui",
@@ -33,33 +31,37 @@
         "enhanced-mode": "fake-ip",
         "fake-ip-range": "198.18.0.1/16",
         "fake-ip-filter-mode": "blacklist",
-        "fake-ip-filter": [
-            "+.lan",
-            "+.local"
-        ],
+        "fake-ip-filter": ["+.lan", "+.local"],
         "nameserver": [
             "https://1.1.1.1/dns-query#Proxy",
             "https://dns.google/dns-query#Proxy",
+            "https://cloudflare-dns.com/dns-query#Proxy",
+            "tls://1.1.1.1#Proxy",
+            "tls://dns.google#Proxy",
+            "https://dns.quad9.net/dns-query#Proxy",
+            "tls://dns.quad9.net#Proxy",
+            "https://dns.adguard.com/dns-query#Proxy",
             "tls://dns.adguard.com#Proxy"
         ],
         "proxy-server-nameserver": [
             "8.8.8.8#DIRECT",
-            "1.1.1.1#DIRECT"
+            "1.1.1.1#DIRECT",
+            "9.9.9.9#DIRECT"
         ],
         "direct-nameserver": [
-            "8.8.8.8#DIRECT"
+            "8.8.8.8#DIRECT",
+            "1.1.1.1#DIRECT"
         ],
         "direct-nameserver-follow-policy": true,
         "fallback": [
-            "https://dns.quad9.net/dns-query#Proxy"
+            "https://dns.quad9.net/dns-query#Proxy",
+            "https://dns.adguard.com/dns-query#Proxy",
+            "tls://dns.quad9.net#Proxy"
         ],
         "fallback-filter": {
             "geoip": true,
             "geoip-code": "IR",
-            "domain": [
-                "+.ir",
-                "+.gov.ir"
-            ]
+            "domain": ["+.ir", "+.gov.ir"]
         }
     },
     "tun": {
@@ -68,10 +70,7 @@
         "auto-route": true,
         "strict-route": true,
         "auto-detect-interface": true,
-        "dns-hijack": [
-            "any:53",
-            "tcp://any:53"
-        ],
+        "dns-hijack": ["any:53", "tcp://any:53"],
         "mtu": 9000
     },
     "sniffer": {
@@ -81,25 +80,10 @@
         "override-destination": true,
         "sniff": {
             "HTTP": {
-                "ports": [
-                    80,
-                    8080,
-                    8880,
-                    2052,
-                    2082,
-                    2086,
-                    2095
-                ]
+                "ports": [80, 8080, 8880, 2052, 2082, 2086, 2095]
             },
             "TLS": {
-                "ports": [
-                    443,
-                    8443,
-                    2053,
-                    2083,
-                    2087,
-                    2096
-                ]
+                "ports": [443, 8443, 2053, 2083, 2087, 2096]
             }
         }
     },
