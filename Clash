@@ -30,23 +30,37 @@
         "use-system-hosts": false,
         "listen": "127.0.0.1:1053",
         "ipv6": false,
-        "nameserver": [
-            "https://8.8.8.8/dns-query#✅ Selector"
-        ],
-        "proxy-server-nameserver": [
-            "8.8.8.8#DIRECT"
-        ],
-        "direct-nameserver": [
-            "8.8.8.8#DIRECT"
-        ],
-        "direct-nameserver-follow-policy": true,
         "enhanced-mode": "fake-ip",
         "fake-ip-range": "198.18.0.1/16",
         "fake-ip-filter-mode": "blacklist",
         "fake-ip-filter": [
             "+.lan",
             "+.local"
-        ]
+        ],
+        "nameserver": [
+            "https://1.1.1.1/dns-query#Proxy",
+            "https://dns.google/dns-query#Proxy",
+            "tls://dns.adguard.com#Proxy"
+        ],
+        "proxy-server-nameserver": [
+            "8.8.8.8#DIRECT",
+            "1.1.1.1#DIRECT"
+        ],
+        "direct-nameserver": [
+            "8.8.8.8#DIRECT"
+        ],
+        "direct-nameserver-follow-policy": true,
+        "fallback": [
+            "https://dns.quad9.net/dns-query#Proxy"
+        ],
+        "fallback-filter": {
+            "geoip": true,
+            "geoip-code": "IR",
+            "domain": [
+                "+.ir",
+                "+.gov.ir"
+            ]
+        }
     },
     "tun": {
         "enable": true,
