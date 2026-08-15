@@ -3,7 +3,7 @@
     "ipv6": false,
     "allow-lan": false,
     "unified-delay": true,
-    "log-level": "warning",
+    "log-level": "info",
     "mode": "rule",
     "disable-keep-alive": false,
     "keep-alive-idle": 10,
