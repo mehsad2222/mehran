@@ -34,7 +34,7 @@
             "https://8.8.8.8/dns-query#✅ Selector"
         ],
         "proxy-server-nameserver": [
-            "8.8.8.8#DIRECT"
+            "udp://223.6.6.6#DIRECT"
         ],
         "direct-nameserver": [
             "8.8.8.8#DIRECT"
