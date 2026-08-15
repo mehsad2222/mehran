@@ -52,9 +52,9 @@
       "address": [
         "172.19.0.1/28"
       ],
-      "mtu": 9000,
+      "mtu": 4064,
       "auto_route": true,
-      "strict_route": true,
+      "strict_route": false,
       "stack": "mixed"
     },
     {
@@ -19021,10 +19021,6 @@
       {
         "ip_is_private": true,
         "outbound": "direct"
-      },
-      {
-        "network": "udp",
-        "action": "reject"
       }
     ],
     "auto_detect_interface": true,
