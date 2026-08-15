@@ -19633,7 +19633,7 @@
     ],
     "auto_detect_interface": true,
     "final": "✅ Selector",
-    "default_domain_resolver": "dns-resolver"
+    "default_domain_resolver": "dns-direct"
   },
   "experimental": {
     "cache_file": {
