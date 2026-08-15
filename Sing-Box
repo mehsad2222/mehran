@@ -21,16 +21,6 @@
         "type": "fakeip",
         "inet4_range": "198.18.0.0/15",
         "tag": "dns-fake"
-      },
-      {
-        "tag": "dns-resolver",
-        "address": "selector",
-        "servers": [
-          "udp://223.6.6.6",
-          "udp://8.8.8.8",
-          "https://1.1.1.1/dns-query"
-        ],
-        "strategy": "prefer_ipv4" 
       }
     ],
     "rules": [
@@ -44,10 +34,7 @@
       },
       {
         "inbound": "tun-in",
-        "query_type": [
-          "A",
-          "AAAA"
-        ],
+        "query_type": ["A", "AAAA"],
         "action": "route",
         "server": "dns-fake"
       }
@@ -59,9 +46,7 @@
     {
       "type": "tun",
       "tag": "tun-in",
-      "address": [
-        "172.19.0.1/28"
-      ],
+      "address": ["172.19.0.1/28"],
       "mtu": 9000,
       "auto_route": true,
       "strict_route": true,
