@@ -37,7 +37,7 @@
             "udp://223.6.6.6#DIRECT"
         ],
         "direct-nameserver": [
-            "8.8.8.8#DIRECT"
+            "local#DIRECT"
         ],
         "direct-nameserver-follow-policy": true,
         "enhanced-mode": "fake-ip",
