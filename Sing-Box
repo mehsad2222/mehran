@@ -55,7 +55,7 @@
       "mtu": 4064,
       "auto_route": true,
       "strict_route": false,
-      "stack": "mixed"
+      "stack": "gvisor"
     },
     {
       "type": "mixed",
