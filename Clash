@@ -16569,15 +16569,19 @@
         "2️⃣0️⃣0️⃣ ♏️ehran"
       ],
       "url": "https://www.gstatic.com/generate_204",
-      "interval": 30,
-      "tolerance": 50
+            "interval": 30,
+            "tolerance": 50
+        }
+    ],
+    "rules": [
+        "GEOIP,lan,DIRECT,no-resolve",
+        "NETWORK,udp,REJECT",
+        "MATCH,✅ Selector"
+    ],
+    "ntp": {
+        "enable": true,
+        "server": "time.cloudflare.com",
+        "port": 123,
+        "interval": 30
     }
-  ],
-  "rules": [
-    "DOMAIN-SUFFIX,ir,DIRECT",
-    "DOMAIN-KEYWORD,gov.ir,DIRECT",
-    "DOMAIN-SUFFIX,fa,DIRECT",
-    "GEOIP,IR,DIRECT",
-    "MATCH,✅ Selector"
-  ]
 }
