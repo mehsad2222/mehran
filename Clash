@@ -1,6 +1,6 @@
 {
     "mixed-port": 7890,
-    "ipv6": false,
+    "ipv6": true,
     "allow-lan": false,
     "unified-delay": true,
     "log-level": "info",
@@ -34,10 +34,10 @@
             "https://8.8.8.8/dns-query#✅ Selector"
         ],
         "proxy-server-nameserver": [
-            "udp://223.6.6.6#DIRECT"
+            ""8.8.8.8#DIRECT"
         ],
         "direct-nameserver": [
-            "local#DIRECT"
+            ""8.8.8.8#DIRECT"
         ],
         "direct-nameserver-follow-policy": true,
         "enhanced-mode": "fake-ip",
@@ -51,7 +51,7 @@
     },
     "tun": {
         "enable": true,
-        "stack": "gvisor",
+        "stack": "mixed",
         "auto-route": true,
         "strict-route": false,
         "auto-detect-interface": true,
@@ -59,7 +59,7 @@
             "any:53",
             "tcp://any:53"
         ],
-        "mtu": 4064
+        "mtu": 9000
     },
     "sniffer": {
         "enable": true,
