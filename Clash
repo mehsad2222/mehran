@@ -34,10 +34,10 @@
             "https://8.8.8.8/dns-query#✅ Selector"
         ],
         "proxy-server-nameserver": [
-            ""8.8.8.8#DIRECT"
+            "8.8.8.8#DIRECT"
         ],
         "direct-nameserver": [
-            ""8.8.8.8#DIRECT"
+            "8.8.8.8#DIRECT"
         ],
         "direct-nameserver-follow-policy": true,
         "enhanced-mode": "fake-ip",
