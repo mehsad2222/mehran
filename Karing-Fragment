@@ -3767,10 +3767,10 @@
       "server_port": 2053,
       "tag": "1️⃣0️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "d12082bf-d2ab-42ae-1ead-413c00000000",
       "tls": {
         "enabled": true,
-        "server_name": "square-boat-d74c.jdo3b8jsl.workers.dev",
+        "server_name": "geyv37v.atyuh74.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3783,10 +3783,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/fibepbcls",
+        "path": "/sepahan",
         "headers": {
           "Host": [
-            "square-boat-d74c.jdo3b8jsl.workers.dev"
+            "geyv37v.atyuh74.workers.dev"
           ]
         }
       }
@@ -3796,10 +3796,10 @@
       "server_port": 443,
       "tag": "1️⃣0️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "d12082bf-d2ab-42ae-1ead-413c00000000",
       "tls": {
         "enabled": true,
-        "server_name": "square-boat-d74c.jdo3b8jsl.workers.dev",
+        "server_name": "geyv37v.atyuh74.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3812,10 +3812,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/fibepbcls",
+        "path": "/sepahan",
         "headers": {
           "Host": [
-            "square-boat-d74c.jdo3b8jsl.workers.dev"
+            "geyv37v.atyuh74.workers.dev"
           ]
         }
       }
@@ -3825,10 +3825,10 @@
       "server_port": 443,
       "tag": "1️⃣0️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "d12082bf-d2ab-42ae-1ead-413c00000000",
       "tls": {
         "enabled": true,
-        "server_name": "square-boat-d74c.jdo3b8jsl.workers.dev",
+        "server_name": "geyv37v.atyuh74.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3841,10 +3841,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/fibepbcls",
+        "path": "/sepahan",
         "headers": {
           "Host": [
-            "square-boat-d74c.jdo3b8jsl.workers.dev"
+            "geyv37v.atyuh74.workers.dev"
           ]
         }
       }
