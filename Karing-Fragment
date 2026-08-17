@@ -4289,10 +4289,10 @@
       "server_port": 2053,
       "tag": "1️⃣6️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "10240199-f091-b098-16c9-79d600000000",
       "tls": {
         "enabled": true,
-        "server_name": "yri38ve.jfigeig3.workers.dev",
+        "server_name": "zvdue7v.hduvd4y.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4305,10 +4305,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/yrucei3",
+        "path": "/android",
         "headers": {
           "Host": [
-            "yri38ve.jfigeig3.workers.dev"
+            "zvdue7v.hduvd4y.workers.dev"
           ]
         }
       }
@@ -4318,10 +4318,10 @@
       "server_port": 443,
       "tag": "1️⃣6️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "10240199-f091-b098-16c9-79d600000000",
       "tls": {
         "enabled": true,
-        "server_name": "yri38ve.jfigeig3.workers.dev",
+        "server_name": "zvdue7v.hduvd4y.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4334,10 +4334,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/yrucei3",
+        "path": "/android",
         "headers": {
           "Host": [
-            "yri38ve.jfigeig3.workers.dev"
+            "zvdue7v.hduvd4y.workers.dev"
           ]
         }
       }
@@ -4347,10 +4347,10 @@
       "server_port": 443,
       "tag": "1️⃣6️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "10240199-f091-b098-16c9-79d600000000",
       "tls": {
         "enabled": true,
-        "server_name": "yri38ve.jfigeig3.workers.dev",
+        "server_name": "zvdue7v.hduvd4y.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4363,10 +4363,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/yrucei3",
+        "path": "/android",
         "headers": {
           "Host": [
-            "yri38ve.jfigeig3.workers.dev"
+            "zvdue7v.hduvd4y.workers.dev"
           ]
         }
       }
