@@ -4550,10 +4550,10 @@
       "server_port": 2053,
       "tag": "1️⃣9️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "7fef853b-14f4-e977-c953-dbb900000000",
       "tls": {
         "enabled": true,
-        "server_name": "bhruv36.vbdige7f.workers.dev",
+        "server_name": "ueiv38n.nodpeb7.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4566,10 +4566,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/urugeov",
+        "path": "/khuisf",
         "headers": {
           "Host": [
-            "bhruv36.vbdige7f.workers.dev"
+            "ueiv38n.nodpeb7.workers.dev"
           ]
         }
       }
@@ -4579,10 +4579,10 @@
       "server_port": 443,
       "tag": "1️⃣9️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "7fef853b-14f4-e977-c953-dbb900000000",
       "tls": {
         "enabled": true,
-        "server_name": "bhruv36.vbdige7f.workers.dev",
+        "server_name": "ueiv38n.nodpeb7.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4595,10 +4595,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/urugeov",
+        "path": "/khuisf",
         "headers": {
           "Host": [
-            "bhruv36.vbdige7f.workers.dev"
+            "ueiv38n.nodpeb7.workers.dev"
           ]
         }
       }
@@ -4608,10 +4608,10 @@
       "server_port": 443,
       "tag": "1️⃣9️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "7fef853b-14f4-e977-c953-dbb900000000",
       "tls": {
         "enabled": true,
-        "server_name": "bhruv36.vbdige7f.workers.dev",
+        "server_name": "ueiv38n.nodpeb7.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4624,10 +4624,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/urugeov",
+        "path": "/khuisf",
         "headers": {
           "Host": [
-            "bhruv36.vbdige7f.workers.dev"
+            "ueiv38n.nodpeb7.workers.dev"
           ]
         }
       }
