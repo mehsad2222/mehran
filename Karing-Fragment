@@ -3506,10 +3506,10 @@
       "server_port": 2053,
       "tag": "0️⃣7️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "8fbe8584-75eb-db99-22d5-10a900000000",
       "tls": {
         "enabled": true,
-        "server_name": "jiyi7y.vbbgtte4.workers.dev",
+        "server_name": "tdihdhv.wreuv3d.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3522,10 +3522,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/opipfb8r",
+        "path": "/ferarii",
         "headers": {
           "Host": [
-            "jiyi7y.vbbgtte4.workers.dev"
+            "tdihdhv.wreuv3d.workers.dev"
           ]
         }
       }
@@ -3535,10 +3535,10 @@
       "server_port": 443,
       "tag": "0️⃣7️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "8fbe8584-75eb-db99-22d5-10a900000000",
       "tls": {
         "enabled": true,
-        "server_name": "jiyi7y.vbbgtte4.workers.dev",
+        "server_name": "tdihdhv.wreuv3d.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3551,10 +3551,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/opipfb8r",
+        "path": "/ferarii",
         "headers": {
           "Host": [
-            "jiyi7y.vbbgtte4.workers.dev"
+            "tdihdhv.wreuv3d.workers.dev"
           ]
         }
       }
@@ -3564,10 +3564,10 @@
       "server_port": 443,
       "tag": "0️⃣7️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "8fbe8584-75eb-db99-22d5-10a900000000",
       "tls": {
         "enabled": true,
-        "server_name": "jiyi7y.vbbgtte4.workers.dev",
+        "server_name": "tdihdhv.wreuv3d.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3580,10 +3580,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/opipfb8r",
+        "path": "/ferarii",
         "headers": {
           "Host": [
-            "jiyi7y.vbbgtte4.workers.dev"
+            "tdihdhv.wreuv3d.workers.dev"
           ]
         }
       }
