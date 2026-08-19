@@ -3071,10 +3071,10 @@
       "server_port": 2053,
       "tag": "0️⃣2️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "5df7bbd3-83b8-8545-0807-adf900000000",
       "tls": {
         "enabled": true,
-        "server_name": "fjirni38.plt04ije.workers.dev",
+        "server_name": "ffeuf26.urig38v.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3087,10 +3087,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/heigdh",
+        "path": "/delamarta",
         "headers": {
           "Host": [
-            "fjirni38.plt04ije.workers.dev"
+            "ffeuf26.urig38v.workers.dev"
           ]
         }
       }
@@ -3100,10 +3100,10 @@
       "server_port": 443,
       "tag": "0️⃣2️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "5df7bbd3-83b8-8545-0807-adf900000000",
       "tls": {
         "enabled": true,
-        "server_name": "fjirni38.plt04ije.workers.dev",
+        "server_name": "ffeuf26.urig38v.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3116,10 +3116,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/heigdh",
+        "path": "/delamarta",
         "headers": {
           "Host": [
-            "fjirni38.plt04ije.workers.dev"
+            "ffeuf26.urig38v.workers.dev"
           ]
         }
       }
@@ -3129,10 +3129,10 @@
       "server_port": 443,
       "tag": "0️⃣2️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "5df7bbd3-83b8-8545-0807-adf900000000",
       "tls": {
         "enabled": true,
-        "server_name": "fjirni38.plt04ije.workers.dev",
+        "server_name": "ffeuf26.urig38v.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3145,10 +3145,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/heigdh",
+        "path": "/delamarta",
         "headers": {
           "Host": [
-            "fjirni38.plt04ije.workers.dev"
+            "ffeuf26.urig38v.workers.dev"
           ]
         }
       }
