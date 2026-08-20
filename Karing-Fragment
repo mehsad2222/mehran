@@ -4985,10 +4985,10 @@
       "server_port": 443,
       "tag": "2️⃣4️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "545fe4a8-1796-e8c3-02f3-0ba500000000",
       "tls": {
         "enabled": true,
-        "server_name": "cool-boat-85c2.heib38hd.workers.dev",
+        "server_name": "ryiigitf.bghufbt.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5001,10 +5001,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/orovk38b",
+        "path": "/isfahsn",
         "headers": {
           "Host": [
-            "cool-boat-85c2.heib38hd.workers.dev"
+            "ryiigitf.bghufbt.workers.dev"
           ]
         }
       }
@@ -5014,10 +5014,10 @@
       "server_port": 443,
       "tag": "2️⃣4️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "545fe4a8-1796-e8c3-02f3-0ba500000000",
       "tls": {
         "enabled": true,
-        "server_name": "cool-boat-85c2.heib38hd.workers.dev",
+        "server_name": "ryiigitf.bghufbt.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5030,10 +5030,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/orovk38b",
+        "path": "/isfahsn",
         "headers": {
           "Host": [
-            "cool-boat-85c2.heib38hd.workers.dev"
+            "ryiigitf.bghufbt.workers.dev"
           ]
         }
       }
@@ -5043,10 +5043,10 @@
       "server_port": 443,
       "tag": "2️⃣4️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "545fe4a8-1796-e8c3-02f3-0ba500000000",
       "tls": {
         "enabled": true,
-        "server_name": "cool-boat-85c2.heib38hd.workers.dev",
+        "server_name": "ryiigitf.bghufbt.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5059,10 +5059,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/orovk38b",
+        "path": "/isfahsn",
         "headers": {
           "Host": [
-            "cool-boat-85c2.heib38hd.workers.dev"
+            "ryiigitf.bghufbt.workers.dev"
           ]
         }
       }
