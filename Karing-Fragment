@@ -4898,10 +4898,10 @@
       "server_port": 443,
       "tag": "2️⃣3️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "0a5ca5bb-e65a-24d6-23f2-763900000000",
       "tls": {
         "enabled": true,
-        "server_name": "sparkling-smoke-e49f.uev38vd.workers.dev",
+        "server_name": "reuoevk.yryfeibd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4914,10 +4914,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/djoebi3vdjs",
+        "path": "/esfahan",
         "headers": {
           "Host": [
-            "sparkling-smoke-e49f.uev38vd.workers.dev"
+            "reuoevk.yryfeibd.workers.dev"
           ]
         }
       }
@@ -4927,10 +4927,10 @@
       "server_port": 443,
       "tag": "2️⃣3️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "0a5ca5bb-e65a-24d6-23f2-763900000000",
       "tls": {
         "enabled": true,
-        "server_name": "sparkling-smoke-e49f.uev38vd.workers.dev",
+        "server_name": "reuoevk.yryfeibd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4943,10 +4943,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/djoebi3vdjs",
+        "path": "/esfahan",
         "headers": {
           "Host": [
-            "sparkling-smoke-e49f.uev38vd.workers.dev"
+            "reuoevk.yryfeibd.workers.dev"
           ]
         }
       }
@@ -4956,10 +4956,10 @@
       "server_port": 443,
       "tag": "2️⃣3️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "0a5ca5bb-e65a-24d6-23f2-763900000000",
       "tls": {
         "enabled": true,
-        "server_name": "sparkling-smoke-e49f.uev38vd.workers.dev",
+        "server_name": "reuoevk.yryfeibd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4972,10 +4972,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/djoebi3vdjs",
+        "path": "/esfahan",
         "headers": {
           "Host": [
-            "sparkling-smoke-e49f.uev38vd.workers.dev"
+            "reuoevk.yryfeibd.workers.dev"
           ]
         }
       }
