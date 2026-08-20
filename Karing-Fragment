@@ -5072,10 +5072,10 @@
       "server_port": 2053,
       "tag": "2️⃣5️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "3f32b032-8897-66bb-d5c2-70bf00000000",
       "tls": {
         "enabled": true,
-        "server_name": "shejhid.uruu7fg.workers.dev",
+        "server_name": "ey73giw.adfeu6d.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5088,10 +5088,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pmfpnvd",
+        "path": "/univercity",
         "headers": {
           "Host": [
-            "shejhid.uruu7fg.workers.dev"
+            "ey73giw.adfeu6d.workers.dev"
           ]
         }
       }
@@ -5101,10 +5101,10 @@
       "server_port": 443,
       "tag": "2️⃣5️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "3f32b032-8897-66bb-d5c2-70bf00000000",
       "tls": {
         "enabled": true,
-        "server_name": "shejhid.uruu7fg.workers.dev",
+        "server_name": "ey73giw.adfeu6d.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5117,10 +5117,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pmfpnvd",
+        "path": "/univercity",
         "headers": {
           "Host": [
-            "shejhid.uruu7fg.workers.dev"
+            "ey73giw.adfeu6d.workers.dev"
           ]
         }
       }
@@ -5130,10 +5130,10 @@
       "server_port": 443,
       "tag": "2️⃣5️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "3f32b032-8897-66bb-d5c2-70bf00000000",
       "tls": {
         "enabled": true,
-        "server_name": "shejhid.uruu7fg.workers.dev",
+        "server_name": "ey73giw.adfeu6d.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5146,10 +5146,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pmfpnvd",
+        "path": "/univercity",
         "headers": {
           "Host": [
-            "shejhid.uruu7fg.workers.dev"
+            "ey73giw.adfeu6d.workers.dev"
           ]
         }
       }
