@@ -4376,10 +4376,10 @@
       "server_port": 2053,
       "tag": "1️⃣7️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "707319ad-5aa5-bbd1-f9eb-809f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "hudh75d.ytuu6rs.workers.dev",
+        "server_name": "ye83ovs.ieohe7gd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4392,10 +4392,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jkdbdie",
+        "path": "/tehranmusic",
         "headers": {
           "Host": [
-            "hudh75d.ytuu6rs.workers.dev"
+            "ye83ovs.ieohe7gd.workers.dev"
           ]
         }
       }
@@ -4405,10 +4405,10 @@
       "server_port": 443,
       "tag": "1️⃣7️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "707319ad-5aa5-bbd1-f9eb-809f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "hudh75d.ytuu6rs.workers.dev",
+        "server_name": "ye83ovs.ieohe7gd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4421,10 +4421,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jkdbdie",
+        "path": "/tehranmusic",
         "headers": {
           "Host": [
-            "hudh75d.ytuu6rs.workers.dev"
+            "ye83ovs.ieohe7gd.workers.dev"
           ]
         }
       }
@@ -4434,10 +4434,10 @@
       "server_port": 443,
       "tag": "1️⃣7️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "707319ad-5aa5-bbd1-f9eb-809f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "hudh75d.ytuu6rs.workers.dev",
+        "server_name": "ye83ovs.ieohe7gd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4450,10 +4450,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jkdbdie",
+        "path": "/tehranmusic",
         "headers": {
           "Host": [
-            "hudh75d.ytuu6rs.workers.dev"
+            "ye83ovs.ieohe7gd.workers.dev"
           ]
         }
       }
