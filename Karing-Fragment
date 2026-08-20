@@ -3680,10 +3680,10 @@
       "server_port": 2053,
       "tag": "0️⃣9️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "7658839e-5fa6-dd6d-d90b-f06900000000",
       "tls": {
         "enabled": true,
-        "server_name": "naei839hdue.ueui38hdi.workers.dev",
+        "server_name": "gshr8v3.ueui38hdi.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3696,10 +3696,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/tuvskbdn",
+        "path": "/tohidastan",
         "headers": {
           "Host": [
-            "naei839hdue.ueui38hdi.workers.dev"
+            "gshr8v3.ueui38hdi.workers.dev"
           ]
         }
       }
@@ -3709,10 +3709,10 @@
       "server_port": 443,
       "tag": "0️⃣9️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "7658839e-5fa6-dd6d-d90b-f06900000000",
       "tls": {
         "enabled": true,
-        "server_name": "naei839hdue.ueui38hdi.workers.dev",
+        "server_name": "gshr8v3.ueui38hdi.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3725,10 +3725,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/tuvskbdn",
+        "path": "/tohidastan",
         "headers": {
           "Host": [
-            "naei839hdue.ueui38hdi.workers.dev"
+            "gshr8v3.ueui38hdi.workers.dev"
           ]
         }
       }
@@ -3738,10 +3738,10 @@
       "server_port": 443,
       "tag": "0️⃣9️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "7658839e-5fa6-dd6d-d90b-f06900000000",
       "tls": {
         "enabled": true,
-        "server_name": "naei839hdue.ueui38hdi.workers.dev",
+        "server_name": "gshr8v3.ueui38hdi.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3754,10 +3754,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/tuvskbdn",
+        "path": "/tohidastan",
         "headers": {
           "Host": [
-            "naei839hdue.ueui38hdi.workers.dev"
+            "gshr8v3.ueui38hdi.workers.dev"
           ]
         }
       }
