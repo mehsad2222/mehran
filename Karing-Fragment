@@ -4811,10 +4811,10 @@
       "server_port": 443,
       "tag": "2️⃣2️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "ed8fc57d-9336-51b4-645b-005100000000",
       "tls": {
         "enabled": true,
-        "server_name": "oopdhg.xjy376h.workers.dev",
+        "server_name": "gfugdu3.ueob38b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4827,10 +4827,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/heivsjgw",
+        "path": "/download",
         "headers": {
           "Host": [
-            "oopdhg.xjy376h.workers.dev"
+            "gfugdu3.ueob38b.workers.dev"
           ]
         }
       }
@@ -4840,10 +4840,10 @@
       "server_port": 443,
       "tag": "2️⃣2️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "ed8fc57d-9336-51b4-645b-005100000000",
       "tls": {
         "enabled": true,
-        "server_name": "oopdhg.xjy376h.workers.dev",
+        "server_name": "gfugdu3.ueob38b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4856,10 +4856,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/heivsjgw",
+        "path": "/download",
         "headers": {
           "Host": [
-            "oopdhg.xjy376h.workers.dev"
+            "gfugdu3.ueob38b.workers.dev"
           ]
         }
       }
@@ -4869,10 +4869,10 @@
       "server_port": 443,
       "tag": "2️⃣2️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "ed8fc57d-9336-51b4-645b-005100000000",
       "tls": {
         "enabled": true,
-        "server_name": "oopdhg.xjy376h.workers.dev",
+        "server_name": "gfugdu3.ueob38b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4885,10 +4885,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/heivsjgw",
+        "path": "/download",
         "headers": {
           "Host": [
-            "oopdhg.xjy376h.workers.dev"
+            "gfugdu3.ueob38b.workers.dev"
           ]
         }
       }
