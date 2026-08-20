@@ -4724,10 +4724,10 @@
       "server_port": 443,
       "tag": "2️⃣1️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "e741a690-898d-cc0c-a77f-229500000000",
       "tls": {
         "enabled": true,
-        "server_name": "mfpbtp.hdug3fs.workers.dev",
+        "server_name": "fh6tirc.zzxteyg6.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4740,10 +4740,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/iribdj",
+        "path": "/sarzadeh",
         "headers": {
           "Host": [
-            "mfpbtp.hdug3fs.workers.dev"
+            "fh6tirc.zzxteyg6.workers.dev"
           ]
         }
       }
@@ -4753,10 +4753,10 @@
       "server_port": 443,
       "tag": "2️⃣1️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "e741a690-898d-cc0c-a77f-229500000000",
       "tls": {
         "enabled": true,
-        "server_name": "mfpbtp.hdug3fs.workers.dev",
+        "server_name": "fh6tirc.zzxteyg6.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4769,10 +4769,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/iribdj",
+        "path": "/sarzadeh",
         "headers": {
           "Host": [
-            "mfpbtp.hdug3fs.workers.dev"
+            "fh6tirc.zzxteyg6.workers.dev"
           ]
         }
       }
@@ -4782,10 +4782,10 @@
       "server_port": 443,
       "tag": "2️⃣1️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "e741a690-898d-cc0c-a77f-229500000000",
       "tls": {
         "enabled": true,
-        "server_name": "mfpbtp.hdug3fs.workers.dev",
+        "server_name": "fh6tirc.zzxteyg6.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4798,10 +4798,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/iribdj",
+        "path": "/sarzadeh",
         "headers": {
           "Host": [
-            "mfpbtp.hdug3fs.workers.dev"
+            "fh6tirc.zzxteyg6.workers.dev"
           ]
         }
       }
