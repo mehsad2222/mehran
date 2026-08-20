@@ -4637,10 +4637,10 @@
       "server_port": 2053,
       "tag": "2️⃣0️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "bae5576d-1cac-e5d3-8465-606600000000",
       "tls": {
         "enabled": true,
-        "server_name": "hdu373y.urig48hdh.workers.dev",
+        "server_name": "fduhr7.yuf7rjc.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4653,10 +4653,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jr9b48vr",
+        "path": "/loveme",
         "headers": {
           "Host": [
-            "hdu373y.urig48hdh.workers.dev"
+            "fduhr7.yuf7rjc.workers.dev"
           ]
         }
       }
@@ -4666,10 +4666,10 @@
       "server_port": 443,
       "tag": "2️⃣0️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "bae5576d-1cac-e5d3-8465-606600000000",
       "tls": {
         "enabled": true,
-        "server_name": "hdu373y.urig48hdh.workers.dev",
+        "server_name": "fduhr7.yuf7rjc.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4682,10 +4682,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jr9b48vr",
+        "path": "/loveme",
         "headers": {
           "Host": [
-            "hdu373y.urig48hdh.workers.dev"
+            "fduhr7.yuf7rjc.workers.dev"
           ]
         }
       }
@@ -4695,10 +4695,10 @@
       "server_port": 443,
       "tag": "2️⃣0️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "bae5576d-1cac-e5d3-8465-606600000000",
       "tls": {
         "enabled": true,
-        "server_name": "hdu373y.urig48hdh.workers.dev",
+        "server_name": "fduhr7.yuf7rjc.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4711,10 +4711,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jr9b48vr",
+        "path": "/loveme",
         "headers": {
           "Host": [
-            "hdu373y.urig48hdh.workers.dev"
+            "fduhr7.yuf7rjc.workers.dev"
           ]
         }
       }
