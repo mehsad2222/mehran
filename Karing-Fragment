@@ -5855,10 +5855,10 @@
       "server_port": 443,
       "tag": "3️⃣4️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "0aef1d86-29d9-859b-b1cf-74ee00000000",
       "tls": {
         "enabled": true,
-        "server_name": "hdig38i.bcbb57.workers.dev",
+        "server_name": "dsfs72g.vxbf8ge.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5871,10 +5871,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/zcsg28g",
+        "path": "/ribdojsu",
         "headers": {
           "Host": [
-            "hdig38i.bcbb57.workers.dev"
+            "dsfs72g.vxbf8ge.workers.dev"
           ]
         }
       }
@@ -5884,10 +5884,10 @@
       "server_port": 443,
       "tag": "3️⃣4️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "0aef1d86-29d9-859b-b1cf-74ee00000000",
       "tls": {
         "enabled": true,
-        "server_name": "hdig38i.bcbb57.workers.dev",
+        "server_name": "dsfs72g.vxbf8ge.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5900,10 +5900,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/zcsg28g",
+        "path": "/ribdojsu",
         "headers": {
           "Host": [
-            "hdig38i.bcbb57.workers.dev"
+            "dsfs72g.vxbf8ge.workers.dev"
           ]
         }
       }
@@ -5913,10 +5913,10 @@
       "server_port": 443,
       "tag": "3️⃣4️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "0aef1d86-29d9-859b-b1cf-74ee00000000",
       "tls": {
         "enabled": true,
-        "server_name": "hdig38i.bcbb57.workers.dev",
+        "server_name": "dsfs72g.vxbf8ge.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5929,10 +5929,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/zcsg28g",
+        "path": "/ribdojsu",
         "headers": {
           "Host": [
-            "hdig38i.bcbb57.workers.dev"
+            "dsfs72g.vxbf8ge.workers.dev"
           ]
         }
       }
