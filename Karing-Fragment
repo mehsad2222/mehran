@@ -4115,10 +4115,10 @@
       "server_port": 2053,
       "tag": "1️⃣4️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "9440dee4-f32c-522f-e825-580200000000",
       "tls": {
         "enabled": true,
-        "server_name": "odn93je.bnnpgjr.workers.dev",
+        "server_name": "gfug38j.uioc877f.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4131,10 +4131,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/iyrui47ye",
+        "path": "/gmail",
         "headers": {
           "Host": [
-            "odn93je.bnnpgjr.workers.dev"
+            "gfug38j.uioc877f.workers.dev"
           ]
         }
       }
@@ -4144,10 +4144,10 @@
       "server_port": 443,
       "tag": "1️⃣4️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "9440dee4-f32c-522f-e825-580200000000",
       "tls": {
         "enabled": true,
-        "server_name": "odn93je.bnnpgjr.workers.dev",
+        "server_name": "gfug38j.uioc877f.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4160,10 +4160,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/iyrui47ye",
+        "path": "/gmail",
         "headers": {
           "Host": [
-            "odn93je.bnnpgjr.workers.dev"
+            "gfug38j.uioc877f.workers.dev"
           ]
         }
       }
@@ -4173,10 +4173,10 @@
       "server_port": 443,
       "tag": "1️⃣4️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "9440dee4-f32c-522f-e825-580200000000",
       "tls": {
         "enabled": true,
-        "server_name": "odn93je.bnnpgjr.workers.dev",
+        "server_name": "gfug38j.uioc877f.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4189,10 +4189,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/iyrui47ye",
+        "path": "/gmail",
         "headers": {
           "Host": [
-            "odn93je.bnnpgjr.workers.dev"
+            "gfug38j.uioc877f.workers.dev"
           ]
         }
       }
