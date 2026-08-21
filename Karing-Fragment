@@ -4463,10 +4463,10 @@
       "server_port": 2053,
       "tag": "1️⃣8️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "25d77eed-7644-53ef-19ee-a36100000000",
       "tls": {
         "enabled": true,
-        "server_name": "uri37g.hduvy3.workers.dev",
+        "server_name": "daheg7v.tui9d6h.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4479,10 +4479,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/vcdue5",
+        "path": "/torob",
         "headers": {
           "Host": [
-            "uri37g.hduvy3.workers.dev"
+            "daheg7v.tui9d6h.workers.dev"
           ]
         }
       }
@@ -4492,10 +4492,10 @@
       "server_port": 443,
       "tag": "1️⃣8️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "25d77eed-7644-53ef-19ee-a36100000000",
       "tls": {
         "enabled": true,
-        "server_name": "uri37g.hduvy3.workers.dev",
+        "server_name": "daheg7v.tui9d6h.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4508,10 +4508,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/vcdue5",
+        "path": "/torob",
         "headers": {
           "Host": [
-            "uri37g.hduvy3.workers.dev"
+            "daheg7v.tui9d6h.workers.dev"
           ]
         }
       }
@@ -4521,10 +4521,10 @@
       "server_port": 443,
       "tag": "1️⃣8️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "25d77eed-7644-53ef-19ee-a36100000000",
       "tls": {
         "enabled": true,
-        "server_name": "uri37g.hduvy3.workers.dev",
+        "server_name": "daheg7v.tui9d6h.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4537,10 +4537,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/vcdue5",
+        "path": "/torob",
         "headers": {
           "Host": [
-            "uri37g.hduvy3.workers.dev"
+            "daheg7v.tui9d6h.workers.dev"
           ]
         }
       }
