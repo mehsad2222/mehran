@@ -3332,10 +3332,10 @@
       "server_port": 2053,
       "tag": "0️⃣5️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "22aafc14-a01a-8cbd-e317-b7af00000000",
       "tls": {
         "enabled": true,
-        "server_name": "royal-poetry-0c69.hdjdbow.workers.dev",
+        "server_name": "tir9g38.qwtf36g.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3348,10 +3348,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hsi3vis",
+        "path": "/mahvareh",
         "headers": {
           "Host": [
-            "royal-poetry-0c69.hdjdbow.workers.dev"
+            "tir9g38.qwtf36g.workers.dev"
           ]
         }
       }
@@ -3361,10 +3361,10 @@
       "server_port": 443,
       "tag": "0️⃣5️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "22aafc14-a01a-8cbd-e317-b7af00000000",
       "tls": {
         "enabled": true,
-        "server_name": "royal-poetry-0c69.hdjdbow.workers.dev",
+        "server_name": "tir9g38.qwtf36g.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3377,10 +3377,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hsi3vis",
+        "path": "/mahvareh",
         "headers": {
           "Host": [
-            "royal-poetry-0c69.hdjdbow.workers.dev"
+            "tir9g38.qwtf36g.workers.dev"
           ]
         }
       }
@@ -3390,10 +3390,10 @@
       "server_port": 443,
       "tag": "0️⃣5️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "22aafc14-a01a-8cbd-e317-b7af00000000",
       "tls": {
         "enabled": true,
-        "server_name": "royal-poetry-0c69.hdjdbow.workers.dev",
+        "server_name": "tir9g38.qwtf36g.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3406,10 +3406,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hsi3vis",
+        "path": "/mahvareh",
         "headers": {
           "Host": [
-            "royal-poetry-0c69.hdjdbow.workers.dev"
+            "tir9g38.qwtf36g.workers.dev"
           ]
         }
       }
