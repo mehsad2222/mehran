@@ -6377,10 +6377,10 @@
       "server_port": 2053,
       "tag": "4️⃣0️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "61f55f89-c3e5-a724-40da-d98600000000",
       "tls": {
         "enabled": true,
-        "server_name": "shrill-lab-8b8e.jeuv38bd.workers.dev",
+        "server_name": "fbdpobe.pie9ge8v.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6393,10 +6393,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/dueibeibe",
+        "path": "/apktops",
         "headers": {
           "Host": [
-            "shrill-lab-8b8e.jeuv38bd.workers.dev"
+            "fbdpobe.pie9ge8v.workers.dev"
           ]
         }
       }
@@ -6406,10 +6406,10 @@
       "server_port": 443,
       "tag": "4️⃣0️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "61f55f89-c3e5-a724-40da-d98600000000",
       "tls": {
         "enabled": true,
-        "server_name": "shrill-lab-8b8e.jeuv38bd.workers.dev",
+        "server_name": "fbdpobe.pie9ge8v.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6422,10 +6422,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/dueibeibe",
+        "path": "/apktops",
         "headers": {
           "Host": [
-            "shrill-lab-8b8e.jeuv38bd.workers.dev"
+            "fbdpobe.pie9ge8v.workers.dev"
           ]
         }
       }
@@ -6435,10 +6435,10 @@
       "server_port": 443,
       "tag": "4️⃣0️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "61f55f89-c3e5-a724-40da-d98600000000",
       "tls": {
         "enabled": true,
-        "server_name": "shrill-lab-8b8e.jeuv38bd.workers.dev",
+        "server_name": "fbdpobe.pie9ge8v.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6451,10 +6451,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/dueibeibe",
+        "path": "/apktops",
         "headers": {
           "Host": [
-            "shrill-lab-8b8e.jeuv38bd.workers.dev"
+            "fbdpobe.pie9ge8v.workers.dev"
           ]
         }
       }
