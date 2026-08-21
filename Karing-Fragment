@@ -6551,10 +6551,10 @@
       "server_port": 2053,
       "tag": "4️⃣2️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "913fca94-001a-41d0-8a12-c1b1bb5ef998",
+      "uuid": "e04ff743-bd14-d40b-1b0e-d0af00000000",
       "tls": {
         "enabled": true,
-        "server_name": "lively-meadow-1bc3.yeib37b.workers.dev",
+        "server_name": "wtqy27sg.ueuve82.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6567,10 +6567,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/?u=0-4-2",
+        "path": "/appscore",
         "headers": {
           "Host": [
-            "lively-meadow-1bc3.yeib37b.workers.dev"
+            "wtqy27sg.ueuve82.workers.dev"
           ]
         }
       }
@@ -6580,10 +6580,10 @@
       "server_port": 443,
       "tag": "4️⃣2️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "913fca94-001a-41d0-8a12-c1b1bb5ef998",
+      "uuid": "e04ff743-bd14-d40b-1b0e-d0af00000000",
       "tls": {
         "enabled": true,
-        "server_name": "lively-meadow-1bc3.yeib37b.workers.dev",
+        "server_name": "wtqy27sg.ueuve82.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6596,10 +6596,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/?u=0-4-2",
+        "path": "/appscore",
         "headers": {
           "Host": [
-            "lively-meadow-1bc3.yeib37b.workers.dev"
+            "wtqy27sg.ueuve82.workers.dev"
           ]
         }
       }
@@ -6609,10 +6609,10 @@
       "server_port": 443,
       "tag": "4️⃣2️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "913fca94-001a-41d0-8a12-c1b1bb5ef998",
+      "uuid": "e04ff743-bd14-d40b-1b0e-d0af00000000",
       "tls": {
         "enabled": true,
-        "server_name": "lively-meadow-1bc3.yeib37b.workers.dev",
+        "server_name": "wtqy27sg.ueuve82.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6625,10 +6625,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/?u=0-4-2",
+        "path": "/appscore",
         "headers": {
           "Host": [
-            "lively-meadow-1bc3.yeib37b.workers.dev"
+            "wtqy27sg.ueuve82.workers.dev"
           ]
         }
       }
