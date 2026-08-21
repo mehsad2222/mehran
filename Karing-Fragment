@@ -6290,10 +6290,10 @@
       "server_port": 2053,
       "tag": "3️⃣9️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "550fe2c0-6bd2-102e-4418-510000000000",
       "tls": {
         "enabled": true,
-        "server_name": "guojiyfb-core.rew36git7gj.workers.dev",
+        "server_name": "fsg72i8cj.nfo9rnd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6306,10 +6306,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/koofojdoue",
+        "path": "/farsnews",
         "headers": {
           "Host": [
-            "guojiyfb-core.rew36git7gj.workers.dev"
+            "fsg72i8cj.nfo9rnd.workers.dev"
           ]
         }
       }
@@ -6319,10 +6319,10 @@
       "server_port": 443,
       "tag": "3️⃣9️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "550fe2c0-6bd2-102e-4418-510000000000",
       "tls": {
         "enabled": true,
-        "server_name": "guojiyfb-core.rew36git7gj.workers.dev",
+        "server_name": "fsg72i8cj.nfo9rnd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6335,10 +6335,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/koofojdoue",
+        "path": "/farsnews",
         "headers": {
           "Host": [
-            "guojiyfb-core.rew36git7gj.workers.dev"
+            "fsg72i8cj.nfo9rnd.workers.dev"
           ]
         }
       }
@@ -6348,10 +6348,10 @@
       "server_port": 443,
       "tag": "3️⃣9️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "550fe2c0-6bd2-102e-4418-510000000000",
       "tls": {
         "enabled": true,
-        "server_name": "guojiyfb-core.rew36git7gj.workers.dev",
+        "server_name": "fsg72i8cj.nfo9rnd.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6364,10 +6364,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/koofojdoue",
+        "path": "/farsnews",
         "headers": {
           "Host": [
-            "guojiyfb-core.rew36git7gj.workers.dev"
+            "fsg72i8cj.nfo9rnd.workers.dev"
           ]
         }
       }
