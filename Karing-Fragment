@@ -5768,10 +5768,10 @@
       "server_port": 443,
       "tag": "3️⃣3️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "5d32acea-c45e-7645-5dcb-ee4500000000",
       "tls": {
         "enabled": true,
-        "server_name": "abashe4.ioprkhe4.workers.dev",
+        "server_name": "afysh27h.etseucj4.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5784,10 +5784,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hduhdj74",
+        "path": "/manoto",
         "headers": {
           "Host": [
-            "abashe4.ioprkhe4.workers.dev"
+            "afysh27h.etseucj4.workers.dev"
           ]
         }
       }
@@ -5797,10 +5797,10 @@
       "server_port": 443,
       "tag": "3️⃣3️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "5d32acea-c45e-7645-5dcb-ee4500000000",
       "tls": {
         "enabled": true,
-        "server_name": "abashe4.ioprkhe4.workers.dev",
+        "server_name": "afysh27h.etseucj4.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5813,10 +5813,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hduhdj74",
+        "path": "/manoto",
         "headers": {
           "Host": [
-            "abashe4.ioprkhe4.workers.dev"
+            "afysh27h.etseucj4.workers.dev"
           ]
         }
       }
@@ -5826,10 +5826,10 @@
       "server_port": 443,
       "tag": "3️⃣3️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "5d32acea-c45e-7645-5dcb-ee4500000000",
       "tls": {
         "enabled": true,
-        "server_name": "abashe4.ioprkhe4.workers.dev",
+        "server_name": "afysh27h.etseucj4.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5842,10 +5842,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hduhdj74",
+        "path": "/manoto",
         "headers": {
           "Host": [
-            "abashe4.ioprkhe4.workers.dev"
+            "afysh27h.etseucj4.workers.dev"
           ]
         }
       }
