@@ -6464,10 +6464,10 @@
       "server_port": 2053,
       "tag": "4️⃣1️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "ebf53b8a-1ca2-dea0-623a-55dd00000000",
       "tls": {
         "enabled": true,
-        "server_name": "solitary-river-7567.ie938bk.workers.dev",
+        "server_name": "zsye9bd.gbe838b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6480,10 +6480,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/khuisf",
+        "path": "/farsroid",
         "headers": {
           "Host": [
-            "solitary-river-7567.ie938bk.workers.dev"
+            "zsye9bd.gbe838b.workers.dev"
           ]
         }
       }
@@ -6493,10 +6493,10 @@
       "server_port": 443,
       "tag": "4️⃣1️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "ebf53b8a-1ca2-dea0-623a-55dd00000000",
       "tls": {
         "enabled": true,
-        "server_name": "solitary-river-7567.ie938bk.workers.dev",
+        "server_name": "zsye9bd.gbe838b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6509,10 +6509,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/khuisf",
+        "path": "/farsroid",
         "headers": {
           "Host": [
-            "solitary-river-7567.ie938bk.workers.dev"
+            "zsye9bd.gbe838b.workers.dev"
           ]
         }
       }
@@ -6522,10 +6522,10 @@
       "server_port": 443,
       "tag": "4️⃣1️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "ebf53b8a-1ca2-dea0-623a-55dd00000000",
       "tls": {
         "enabled": true,
-        "server_name": "solitary-river-7567.ie938bk.workers.dev",
+        "server_name": "zsye9bd.gbe838b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6538,10 +6538,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/khuisf",
+        "path": "/farsroid",
         "headers": {
           "Host": [
-            "solitary-river-7567.ie938bk.workers.dev"
+            "zsye9bd.gbe838b.workers.dev"
           ]
         }
       }
