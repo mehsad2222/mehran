@@ -5507,10 +5507,10 @@
       "server_port": 443,
       "tag": "3️⃣0️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "534dea61-8534-6d79-cdac-70ac00000000",
       "tls": {
         "enabled": true,
-        "server_name": "small-haze-b540.mmkkdo6.workers.dev",
+        "server_name": "day27v.cs83g8.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5523,10 +5523,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/saeid",
+        "path": "/radiojavan",
         "headers": {
           "Host": [
-            "small-haze-b540.mmkkdo6.workers.dev"
+            "day27v.cs83g8.workers.dev"
           ]
         }
       }
@@ -5536,10 +5536,10 @@
       "server_port": 443,
       "tag": "3️⃣0️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "534dea61-8534-6d79-cdac-70ac00000000",
       "tls": {
         "enabled": true,
-        "server_name": "small-haze-b540.mmkkdo6.workers.dev",
+        "server_name": "day27v.cs83g8.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5552,10 +5552,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/saeid",
+        "path": "/radiojavan",
         "headers": {
           "Host": [
-            "small-haze-b540.mmkkdo6.workers.dev"
+            "day27v.cs83g8.workers.dev"
           ]
         }
       }
@@ -5565,10 +5565,10 @@
       "server_port": 443,
       "tag": "3️⃣0️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "534dea61-8534-6d79-cdac-70ac00000000",
       "tls": {
         "enabled": true,
-        "server_name": "small-haze-b540.mmkkdo6.workers.dev",
+        "server_name": "day27v.cs83g8.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5581,10 +5581,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/saeid",
+        "path": "/radiojavan",
         "headers": {
           "Host": [
-            "small-haze-b540.mmkkdo6.workers.dev"
+            "day27v.cs83g8.workers.dev"
           ]
         }
       }
