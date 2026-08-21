@@ -5246,10 +5246,10 @@
       "server_port": 443,
       "tag": "2️⃣7️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "4cf9ba39-f3fa-079e-44fd-7d5200000000",
       "tls": {
         "enabled": true,
-        "server_name": "lucky-night-9aea.jruv38b.workers.dev",
+        "server_name": "turiebd.yeye7ge.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5262,10 +5262,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/zeinab",
+        "path": "/esteghlal",
         "headers": {
           "Host": [
-            "lucky-night-9aea.jruv38b.workers.dev"
+            "turiebd.yeye7ge.workers.dev"
           ]
         }
       }
@@ -5275,10 +5275,10 @@
       "server_port": 443,
       "tag": "2️⃣7️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "4cf9ba39-f3fa-079e-44fd-7d5200000000",
       "tls": {
         "enabled": true,
-        "server_name": "lucky-night-9aea.jruv38b.workers.dev",
+        "server_name": "turiebd.yeye7ge.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5291,10 +5291,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/zeinab",
+        "path": "/esteghlal",
         "headers": {
           "Host": [
-            "lucky-night-9aea.jruv38b.workers.dev"
+            "turiebd.yeye7ge.workers.dev"
           ]
         }
       }
@@ -5304,10 +5304,10 @@
       "server_port": 443,
       "tag": "2️⃣7️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "4cf9ba39-f3fa-079e-44fd-7d5200000000",
       "tls": {
         "enabled": true,
-        "server_name": "lucky-night-9aea.jruv38b.workers.dev",
+        "server_name": "turiebd.yeye7ge.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5320,10 +5320,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/zeinab",
+        "path": "/esteghlal",
         "headers": {
           "Host": [
-            "lucky-night-9aea.jruv38b.workers.dev"
+            "turiebd.yeye7ge.workers.dev"
           ]
         }
       }
