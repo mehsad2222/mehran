@@ -5420,10 +5420,10 @@
       "server_port": 443,
       "tag": "2️⃣9️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "77f86392-5d8b-3449-98bc-d9dc00000000",
       "tls": {
         "enabled": true,
-        "server_name": "calm-disk-2db7.vjtte73.workers.dev",
+        "server_name": "pprihwv.bcmbfi4.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5436,10 +5436,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/sepahan",
+        "path": "/tractor",
         "headers": {
           "Host": [
-            "calm-disk-2db7.vjtte73.workers.dev"
+            "pprihwv.bcmbfi4.workers.dev"
           ]
         }
       }
@@ -5449,10 +5449,10 @@
       "server_port": 443,
       "tag": "2️⃣9️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "77f86392-5d8b-3449-98bc-d9dc00000000",
       "tls": {
         "enabled": true,
-        "server_name": "calm-disk-2db7.vjtte73.workers.dev",
+        "server_name": "pprihwv.bcmbfi4.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5465,10 +5465,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/sepahan",
+        "path": "/tractor",
         "headers": {
           "Host": [
-            "calm-disk-2db7.vjtte73.workers.dev"
+            "pprihwv.bcmbfi4.workers.dev"
           ]
         }
       }
@@ -5478,10 +5478,10 @@
       "server_port": 443,
       "tag": "2️⃣9️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "77f86392-5d8b-3449-98bc-d9dc00000000",
       "tls": {
         "enabled": true,
-        "server_name": "calm-disk-2db7.vjtte73.workers.dev",
+        "server_name": "pprihwv.bcmbfi4.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5494,10 +5494,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/sepahan",
+        "path": "/tractor",
         "headers": {
           "Host": [
-            "calm-disk-2db7.vjtte73.workers.dev"
+            "pprihwv.bcmbfi4.workers.dev"
           ]
         }
       }
