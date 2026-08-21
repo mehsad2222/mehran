@@ -2984,10 +2984,10 @@
       "server_port": 443,
       "tag": "0️⃣1️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "721075d0-2ebd-fbfa-f1a0-df0700000000",
       "tls": {
         "enabled": true,
-        "server_name": "hr8v4ie.jdiv38v.workers.dev",
+        "server_name": "zsyue7v.bo9ry3c.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3000,10 +3000,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hrucdvwu",
+        "path": "/tictok",
         "headers": {
           "Host": [
-            "hr8v4ie.jdiv38v.workers.dev"
+            "zsyue7v.bo9ry3c.workers.dev"
           ]
         }
       }
@@ -3013,10 +3013,10 @@
       "server_port": 2053,
       "tag": "0️⃣1️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "721075d0-2ebd-fbfa-f1a0-df0700000000",
       "tls": {
         "enabled": true,
-        "server_name": "hr8v4ie.jdiv38v.workers.dev",
+        "server_name": "zsyue7v.bo9ry3c.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3029,10 +3029,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hrucdvwu",
+        "path": "/tictok",
         "headers": {
           "Host": [
-            "hr8v4ie.jdiv38v.workers.dev"
+            "zsyue7v.bo9ry3c.workers.dev"
           ]
         }
       }
@@ -3042,10 +3042,10 @@
       "server_port": 443,
       "tag": "0️⃣1️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "721075d0-2ebd-fbfa-f1a0-df0700000000",
       "tls": {
         "enabled": true,
-        "server_name": "hr8v4ie.jdiv38v.workers.dev",
+        "server_name": "zsyue7v.bo9ry3c.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3058,10 +3058,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hrucdvwu",
+        "path": "/tictok",
         "headers": {
           "Host": [
-            "hr8v4ie.jdiv38v.workers.dev"
+            "zsyue7v.bo9ry3c.workers.dev"
           ]
         }
       }
