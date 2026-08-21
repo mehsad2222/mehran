@@ -5681,10 +5681,10 @@
       "server_port": 2053,
       "tag": "3️⃣2️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "dae4dd95-f075-38d9-7216-070700000000",
       "tls": {
         "enabled": true,
-        "server_name": "iir73ob.y4t67gr.workers.dev",
+        "server_name": "gj97r7g.kliidhcr.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5697,10 +5697,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/udiveiv",
+        "path": "/varzesh3",
         "headers": {
           "Host": [
-            "iir73ob.y4t67gr.workers.dev"
+            "gj97r7g.kliidhcr.workers.dev"
           ]
         }
       }
@@ -5710,10 +5710,10 @@
       "server_port": 443,
       "tag": "3️⃣2️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "dae4dd95-f075-38d9-7216-070700000000",
       "tls": {
         "enabled": true,
-        "server_name": "iir73ob.y4t67gr.workers.dev",
+        "server_name": "gj97r7g.kliidhcr.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5726,10 +5726,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/udiveiv",
+        "path": "/varzesh3",
         "headers": {
           "Host": [
-            "iir73ob.y4t67gr.workers.dev"
+            "gj97r7g.kliidhcr.workers.dev"
           ]
         }
       }
@@ -5739,10 +5739,10 @@
       "server_port": 443,
       "tag": "3️⃣2️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "dae4dd95-f075-38d9-7216-070700000000",
       "tls": {
         "enabled": true,
-        "server_name": "iir73ob.y4t67gr.workers.dev",
+        "server_name": "gj97r7g.kliidhcr.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5755,10 +5755,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/udiveiv",
+        "path": "/varzesh3",
         "headers": {
           "Host": [
-            "iir73ob.y4t67gr.workers.dev"
+            "gj97r7g.kliidhcr.workers.dev"
           ]
         }
       }
