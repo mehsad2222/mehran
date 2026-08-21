@@ -6203,10 +6203,10 @@
       "server_port": 2053,
       "tag": "3️⃣8️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "8a30a9db-0ef5-1629-291e-22ae00000000",
       "tls": {
         "enabled": true,
-        "server_name": "bbdjuw4.nnjhgft.workers.dev",
+        "server_name": "id7heot.nldpve8.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6219,10 +6219,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/kpphcc64",
+        "path": "/tehranlove",
         "headers": {
           "Host": [
-            "bbdjuw4.nnjhgft.workers.dev"
+            "id7heot.nldpve8.workers.dev"
           ]
         }
       }
@@ -6232,10 +6232,10 @@
       "server_port": 443,
       "tag": "3️⃣8️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "8a30a9db-0ef5-1629-291e-22ae00000000",
       "tls": {
         "enabled": true,
-        "server_name": "bbdjuw4.nnjhgft.workers.dev",
+        "server_name": "id7heot.nldpve8.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6248,10 +6248,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/kpphcc64",
+        "path": "/tehranlove",
         "headers": {
           "Host": [
-            "bbdjuw4.nnjhgft.workers.dev"
+            "id7heot.nldpve8.workers.dev"
           ]
         }
       }
@@ -6261,10 +6261,10 @@
       "server_port": 443,
       "tag": "3️⃣8️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "8a30a9db-0ef5-1629-291e-22ae00000000",
       "tls": {
         "enabled": true,
-        "server_name": "bbdjuw4.nnjhgft.workers.dev",
+        "server_name": "id7heot.nldpve8.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6277,10 +6277,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/kpphcc64",
+        "path": "/tehranlove",
         "headers": {
           "Host": [
-            "bbdjuw4.nnjhgft.workers.dev"
+            "id7heot.nldpve8.workers.dev"
           ]
         }
       }
