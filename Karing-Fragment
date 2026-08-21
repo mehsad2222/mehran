@@ -6029,10 +6029,10 @@
       "server_port": 2053,
       "tag": "3️⃣6️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "8a477368-38d3-1789-d0fc-2d6f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "bbrjuey.tyeig37h.workers.dev",
+        "server_name": "nkfueuv.kp0g7ef.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6045,10 +6045,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/vdugsu5",
+        "path": "/digikala",
         "headers": {
           "Host": [
-            "bbrjuey.tyeig37h.workers.dev"
+            "nkfueuv.kp0g7ef.workers.dev"
           ]
         }
       }
@@ -6058,10 +6058,10 @@
       "server_port": 443,
       "tag": "3️⃣6️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "8a477368-38d3-1789-d0fc-2d6f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "bbrjuey.tyeig37h.workers.dev",
+        "server_name": "nkfueuv.kp0g7ef.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6074,10 +6074,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/vdugsu5",
+        "path": "/digikala",
         "headers": {
           "Host": [
-            "bbrjuey.tyeig37h.workers.dev"
+            "nkfueuv.kp0g7ef.workers.dev"
           ]
         }
       }
@@ -6087,10 +6087,10 @@
       "server_port": 443,
       "tag": "3️⃣6️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "8a477368-38d3-1789-d0fc-2d6f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "bbrjuey.tyeig37h.workers.dev",
+        "server_name": "nkfueuv.kp0g7ef.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6103,10 +6103,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/vdugsu5",
+        "path": "/digikala",
         "headers": {
           "Host": [
-            "bbrjuey.tyeig37h.workers.dev"
+            "nkfueuv.kp0g7ef.workers.dev"
           ]
         }
       }
