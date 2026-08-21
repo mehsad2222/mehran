@@ -5333,10 +5333,10 @@
       "server_port": 443,
       "tag": "2️⃣8️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "dace84d1-bd74-dd83-1a22-586700000000",
       "tls": {
         "enabled": true,
-        "server_name": "withered-butterfly-f01b.ue8b38b.workers.dev",
+        "server_name": "fggg65b.fguyico.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5349,10 +5349,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hosein",
+        "path": "/pirozi",
         "headers": {
           "Host": [
-            "withered-butterfly-f01b.ue8b38b.workers.dev"
+            "fggg65b.fguyico.workers.dev"
           ]
         }
       }
@@ -5362,10 +5362,10 @@
       "server_port": 443,
       "tag": "2️⃣8️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "dace84d1-bd74-dd83-1a22-586700000000",
       "tls": {
         "enabled": true,
-        "server_name": "withered-butterfly-f01b.ue8b38b.workers.dev",
+        "server_name": "fggg65b.fguyico.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5378,10 +5378,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hosein",
+        "path": "/pirozi",
         "headers": {
           "Host": [
-            "withered-butterfly-f01b.ue8b38b.workers.dev"
+            "fggg65b.fguyico.workers.dev"
           ]
         }
       }
@@ -5391,10 +5391,10 @@
       "server_port": 443,
       "tag": "2️⃣8️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "dace84d1-bd74-dd83-1a22-586700000000",
       "tls": {
         "enabled": true,
-        "server_name": "withered-butterfly-f01b.ue8b38b.workers.dev",
+        "server_name": "fggg65b.fguyico.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -5407,10 +5407,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hosein",
+        "path": "/pirozi",
         "headers": {
           "Host": [
-            "withered-butterfly-f01b.ue8b38b.workers.dev"
+            "fggg65b.fguyico.workers.dev"
           ]
         }
       }
