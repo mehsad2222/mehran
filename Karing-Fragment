@@ -3593,10 +3593,10 @@
       "server_port": 2053,
       "tag": "0️⃣8️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "0c1193a3-4eae-e040-48f5-c99500000000",
       "tls": {
         "enabled": true,
-        "server_name": "bieiy36.yirhyec.workers.dev",
+        "server_name": "hduebo.ryf7fj5t.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3609,10 +3609,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jdig37b",
+        "path": "/openhouse",
         "headers": {
           "Host": [
-            "bieiy36.yirhyec.workers.dev"
+            "hduebo.ryf7fj5t.workers.dev"
           ]
         }
       }
@@ -3622,10 +3622,10 @@
       "server_port": 443,
       "tag": "0️⃣8️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "0c1193a3-4eae-e040-48f5-c99500000000",
       "tls": {
         "enabled": true,
-        "server_name": "bieiy36.yirhyec.workers.dev",
+        "server_name": "hduebo.ryf7fj5t.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3638,10 +3638,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jdig37b",
+        "path": "/openhouse",
         "headers": {
           "Host": [
-            "bieiy36.yirhyec.workers.dev"
+            "hduebo.ryf7fj5t.workers.dev"
           ]
         }
       }
@@ -3651,10 +3651,10 @@
       "server_port": 443,
       "tag": "0️⃣8️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "0c1193a3-4eae-e040-48f5-c99500000000",
       "tls": {
         "enabled": true,
-        "server_name": "bieiy36.yirhyec.workers.dev",
+        "server_name": "hduebo.ryf7fj5t.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -3667,10 +3667,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/jdig37b",
+        "path": "/openhouse",
         "headers": {
           "Host": [
-            "bieiy36.yirhyec.workers.dev"
+            "hduebo.ryf7fj5t.workers.dev"
           ]
         }
       }
