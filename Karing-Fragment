@@ -4202,10 +4202,10 @@
       "server_port": 2053,
       "tag": "1️⃣5️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "77e15e90-d7d1-4e64-8c3e-6af58c0d2851",
+      "uuid": "2f5e31f5-a831-e170-be56-8e8900000000",
       "tls": {
         "enabled": true,
-        "server_name": "quiet-sparrow-d05e.ye7g37.workers.dev",
+        "server_name": "hd8jsib.ge7hdin.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4218,10 +4218,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/?u=0-1-5",
+        "path": "/khuisf",
         "headers": {
           "Host": [
-            "quiet-sparrow-d05e.ye7g37.workers.dev"
+            "hd8jsib.ge7hdin.workers.dev"
           ]
         }
       }
@@ -4231,10 +4231,10 @@
       "server_port": 443,
       "tag": "1️⃣5️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "77e15e90-d7d1-4e64-8c3e-6af58c0d2851",
+      "uuid": "2f5e31f5-a831-e170-be56-8e8900000000",
       "tls": {
         "enabled": true,
-        "server_name": "quiet-sparrow-d05e.ye7g37.workers.dev",
+        "server_name": "hd8jsib.ge7hdin.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4247,10 +4247,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/?u=0-1-5",
+        "path": "/khuisf",
         "headers": {
           "Host": [
-            "quiet-sparrow-d05e.ye7g37.workers.dev"
+            "hd8jsib.ge7hdin.workers.dev"
           ]
         }
       }
@@ -4260,10 +4260,10 @@
       "server_port": 443,
       "tag": "1️⃣5️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "77e15e90-d7d1-4e64-8c3e-6af58c0d2851",
+      "uuid": "2f5e31f5-a831-e170-be56-8e8900000000",
       "tls": {
         "enabled": true,
-        "server_name": "quiet-sparrow-d05e.ye7g37.workers.dev",
+        "server_name": "hd8jsib.ge7hdin.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -4276,10 +4276,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/?u=0-1-5",
+        "path": "/khuisf",
         "headers": {
           "Host": [
-            "quiet-sparrow-d05e.ye7g37.workers.dev"
+            "hd8jsib.ge7hdin.workers.dev"
           ]
         }
       }
