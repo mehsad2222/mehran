@@ -6638,10 +6638,10 @@
       "server_port": 2053,
       "tag": "4️⃣3️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "f2b3df00-d2dd-93ce-3025-770100000000",
       "tls": {
         "enabled": true,
-        "server_name": "square-breeze-1b35.jdjvei37.workers.dev",
+        "server_name": "sfauwg8.yr9bpsbe.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6654,10 +6654,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pishgaman",
+        "path": "/divar",
         "headers": {
           "Host": [
-            "square-breeze-1b35.jdjvei37.workers.dev"
+            "sfauwg8.yr9bpsbe.workers.dev"
           ]
         }
       }
@@ -6667,10 +6667,10 @@
       "server_port": 443,
       "tag": "4️⃣3️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "f2b3df00-d2dd-93ce-3025-770100000000",
       "tls": {
         "enabled": true,
-        "server_name": "square-breeze-1b35.jdjvei37.workers.dev",
+        "server_name": "sfauwg8.yr9bpsbe.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6683,10 +6683,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pishgaman",
+        "path": "/divar",
         "headers": {
           "Host": [
-            "square-breeze-1b35.jdjvei37.workers.dev"
+            "sfauwg8.yr9bpsbe.workers.dev"
           ]
         }
       }
@@ -6696,10 +6696,10 @@
       "server_port": 443,
       "tag": "4️⃣3️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "f2b3df00-d2dd-93ce-3025-770100000000",
       "tls": {
         "enabled": true,
-        "server_name": "square-breeze-1b35.jdjvei37.workers.dev",
+        "server_name": "sfauwg8.yr9bpsbe.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6712,10 +6712,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pishgaman",
+        "path": "/divar",
         "headers": {
           "Host": [
-            "square-breeze-1b35.jdjvei37.workers.dev"
+            "sfauwg8.yr9bpsbe.workers.dev"
           ]
         }
       }
