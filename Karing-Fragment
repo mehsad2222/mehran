@@ -7073,10 +7073,10 @@
       "server_port": 2053,
       "tag": "4️⃣8️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "2c117bd4-3cb3-a628-d180-6ed400000000",
       "tls": {
         "enabled": true,
-        "server_name": "white-disk-3438.heibdi38b.workers.dev",
+        "server_name": "bdu0wg-yynql1-h69923.hud7th.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -7089,10 +7089,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/ghcofduzvx",
+        "path": "/music",
         "headers": {
           "Host": [
-            "white-disk-3438.heibdi38b.workers.dev"
+            "bdu0wg-yynql1-h69923.hud7th.workers.dev"
           ]
         }
       }
@@ -7102,10 +7102,10 @@
       "server_port": 443,
       "tag": "4️⃣8️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "2c117bd4-3cb3-a628-d180-6ed400000000",
       "tls": {
         "enabled": true,
-        "server_name": "white-disk-3438.heibdi38b.workers.dev",
+        "server_name": "bdu0wg-yynql1-h69923.hud7th.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -7118,10 +7118,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/ghcofduzvx",
+        "path": "/music",
         "headers": {
           "Host": [
-            "white-disk-3438.heibdi38b.workers.dev"
+            "bdu0wg-yynql1-h69923.hud7th.workers.dev"
           ]
         }
       }
@@ -7131,10 +7131,10 @@
       "server_port": 443,
       "tag": "4️⃣8️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "2c117bd4-3cb3-a628-d180-6ed400000000",
       "tls": {
         "enabled": true,
-        "server_name": "white-disk-3438.heibdi38b.workers.dev",
+        "server_name": "bdu0wg-yynql1-h69923.hud7th.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -7147,10 +7147,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/ghcofduzvx",
+        "path": "/music",
         "headers": {
           "Host": [
-            "white-disk-3438.heibdi38b.workers.dev"
+            "bdu0wg-yynql1-h69923.hud7th.workers.dev"
           ]
         }
       }
