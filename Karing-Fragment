@@ -6725,10 +6725,10 @@
       "server_port": 2053,
       "tag": "4️⃣4️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "553595fe-c9ae-0807-a52e-307200000000",
       "tls": {
         "enabled": true,
-        "server_name": "muddy-dew-2adc.dkkdj.workers.dev",
+        "server_name": "gdie8od.yeuvr8b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6741,10 +6741,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hsueisb37",
+        "path": "/khuisf.ac.ir",
         "headers": {
           "Host": [
-            "muddy-dew-2adc.dkkdj.workers.dev"
+            "gdie8od.yeuvr8b.workers.dev"
           ]
         }
       }
@@ -6754,10 +6754,10 @@
       "server_port": 443,
       "tag": "4️⃣4️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "553595fe-c9ae-0807-a52e-307200000000",
       "tls": {
         "enabled": true,
-        "server_name": "muddy-dew-2adc.dkkdj.workers.dev",
+        "server_name": "gdie8od.yeuvr8b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6770,10 +6770,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hsueisb37",
+        "path": "/khuisf.ac.ir",
         "headers": {
           "Host": [
-            "muddy-dew-2adc.dkkdj.workers.dev"
+            "gdie8od.yeuvr8b.workers.dev"
           ]
         }
       }
@@ -6783,10 +6783,10 @@
       "server_port": 443,
       "tag": "4️⃣4️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "553595fe-c9ae-0807-a52e-307200000000",
       "tls": {
         "enabled": true,
-        "server_name": "muddy-dew-2adc.dkkdj.workers.dev",
+        "server_name": "gdie8od.yeuvr8b.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6799,10 +6799,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hsueisb37",
+        "path": "/khuisf.ac.ir",
         "headers": {
           "Host": [
-            "muddy-dew-2adc.dkkdj.workers.dev"
+            "gdie8od.yeuvr8b.workers.dev"
           ]
         }
       }
@@ -6812,10 +6812,10 @@
       "server_port": 2053,
       "tag": "4️⃣5️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "3d77da73-acc3-e97c-8cba-d95e00000000",
       "tls": {
         "enabled": true,
-        "server_name": "damp-wood-118b.jdov38ge.workers.dev",
+        "server_name": "geuu28b.gtr6t5uf.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6828,10 +6828,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pfnpdbdl",
+        "path": "/tehrankhu",
         "headers": {
           "Host": [
-            "damp-wood-118b.jdov38ge.workers.dev"
+            "geuu28b.gtr6t5uf.workers.dev"
           ]
         }
       }
@@ -6841,10 +6841,10 @@
       "server_port": 443,
       "tag": "4️⃣5️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "3d77da73-acc3-e97c-8cba-d95e00000000",
       "tls": {
         "enabled": true,
-        "server_name": "damp-wood-118b.jdov38ge.workers.dev",
+        "server_name": "geuu28b.gtr6t5uf.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6857,10 +6857,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pfnpdbdl",
+        "path": "/tehrankhu",
         "headers": {
           "Host": [
-            "damp-wood-118b.jdov38ge.workers.dev"
+            "geuu28b.gtr6t5uf.workers.dev"
           ]
         }
       }
@@ -6870,10 +6870,10 @@
       "server_port": 443,
       "tag": "4️⃣5️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "3d77da73-acc3-e97c-8cba-d95e00000000",
       "tls": {
         "enabled": true,
-        "server_name": "damp-wood-118b.jdov38ge.workers.dev",
+        "server_name": "geuu28b.gtr6t5uf.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6886,10 +6886,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/pfnpdbdl",
+        "path": "/tehrankhu",
         "headers": {
           "Host": [
-            "damp-wood-118b.jdov38ge.workers.dev"
+            "geuu28b.gtr6t5uf.workers.dev"
           ]
         }
       }
