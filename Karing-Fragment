@@ -7160,10 +7160,10 @@
       "server_port": 2053,
       "tag": "4️⃣9️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "272ab771-1dd1-942d-20f0-52ab00000000",
       "tls": {
         "enabled": true,
-        "server_name": "jdihrihskhdj.gtdjiy74hv.workers.dev",
+        "server_name": "zte072-dftsb7-i0g2i0.rrisoh2u.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -7176,10 +7176,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/h7tibkvib",
+        "path": "/ueijdog",
         "headers": {
           "Host": [
-            "jdihrihskhdj.gtdjiy74hv.workers.dev"
+            "zte072-dftsb7-i0g2i0.rrisoh2u.workers.dev"
           ]
         }
       }
@@ -7189,10 +7189,10 @@
       "server_port": 443,
       "tag": "4️⃣9️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "272ab771-1dd1-942d-20f0-52ab00000000",
       "tls": {
         "enabled": true,
-        "server_name": "jdihrihskhdj.gtdjiy74hv.workers.dev",
+        "server_name": "zte072-dftsb7-i0g2i0.rrisoh2u.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -7205,10 +7205,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/h7tibkvib",
+        "path": "/ueijdog",
         "headers": {
           "Host": [
-            "jdihrihskhdj.gtdjiy74hv.workers.dev"
+            "zte072-dftsb7-i0g2i0.rrisoh2u.workers.dev"
           ]
         }
       }
@@ -7218,10 +7218,10 @@
       "server_port": 443,
       "tag": "4️⃣9️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "272ab771-1dd1-942d-20f0-52ab00000000
       "tls": {
         "enabled": true,
-        "server_name": "jdihrihskhdj.gtdjiy74hv.workers.dev",
+        "server_name": "zte072-dftsb7-i0g2i0.rrisoh2u.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -7234,10 +7234,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/h7tibkvib",
+        "path": "/ueijdog",
         "headers": {
           "Host": [
-            "jdihrihskhdj.gtdjiy74hv.workers.dev"
+            "zte072-dftsb7-i0g2i0.rrisoh2u.workers.dev"
           ]
         }
       }
