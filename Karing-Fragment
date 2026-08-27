@@ -6899,10 +6899,10 @@
       "server_port": 2053,
       "tag": "4️⃣6️⃣ Ⓜ️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000000",
+      "uuid": "334070a9-8e38-c7b6-3748-638f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "autumn-river-7be4.hys757fh.workers.dev",
+        "server_name": "tzdn1y-8ynhj1-y5om7u.jd8jdig3.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6915,10 +6915,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hhfugff",
+        "path": "/sedayiran",
         "headers": {
           "Host": [
-            "autumn-river-7be4.hys757fh.workers.dev"
+            "tzdn1y-8ynhj1-y5om7u.jd8jdig3.workers.dev"
           ]
         }
       }
@@ -6928,10 +6928,10 @@
       "server_port": 8080,
       "tag": "4️⃣6️⃣ 〽️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000001",
+      "uuid": "334070a9-8e38-c7b6-3748-638f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "autumn-river-7be4.hys757fh.workers.dev",
+        "server_name": "tzdn1y-8ynhj1-y5om7u.jd8jdig3.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6944,10 +6944,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hhfugff",
+        "path": "/sedayiran",
         "headers": {
           "Host": [
-            "autumn-river-7be4.hys757fh.workers.dev"
+            "tzdn1y-8ynhj1-y5om7u.jd8jdig3.workers.dev"
           ]
         }
       }
@@ -6957,10 +6957,10 @@
       "server_port": 443,
       "tag": "4️⃣6️⃣ ♏️ehran",
       "type": "vless",
-      "uuid": "b1ae4aed-cb77-90b3-77bb-dc7900000002",
+      "uuid": "334070a9-8e38-c7b6-3748-638f00000000",
       "tls": {
         "enabled": true,
-        "server_name": "autumn-river-7be4.hys757fh.workers.dev",
+        "server_name": "tzdn1y-8ynhj1-y5om7u.jd8jdig3.workers.dev",
         "insecure": false,
         "alpn": [
           "http/1.1"
@@ -6973,10 +6973,10 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/hhfugff",
+        "path": "/sedayiran",
         "headers": {
           "Host": [
-            "autumn-river-7be4.hys757fh.workers.dev"
+            "tzdn1y-8ynhj1-y5om7u.jd8jdig3.workers.dev"
           ]
         }
       }
