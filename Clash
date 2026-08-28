@@ -15242,8 +15242,8 @@
     {
       "name": "2️⃣0️⃣7️⃣ 📶Hamarah",
       "type": "vless",
-      "server": "31.133.0.135",
-      "port": 2053,
+      "server": "217.12.206.160",
+      "port": 81,
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
@@ -15267,8 +15267,8 @@
     {
       "name": "2️⃣0️⃣8️⃣ 📶Hamarah",
       "type": "vless",
-      "server": "31.133.0.135",
-      "port": 2053,
+      "server": "70.34.244.250",
+      "port": 12531,
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
