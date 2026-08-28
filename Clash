@@ -15322,10 +15322,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "3739ca81-6067-fb06-dbf5-e3fe00000000",
+      "uuid": "e4da9089-ae96-63f0-2d1b-3bd700000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "guojiyfb-core.rew36git7gj.workers.dev",
+      "servername": "satysu.uieh83h.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -15333,9 +15333,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/koofojdoue",
+        "path": "/kfivd",
         "headers": {
-          "Host": "guojiyfb-core.rew36git7gj.workers.dev"
+          "Host": "satysu.uieh83h.workers.dev"
         }
       }
     }
@@ -15953,6 +15953,8 @@
         "2️⃣0️⃣5️⃣ 📶Hamarah",
         "2️⃣0️⃣6️⃣ 🛜Wifi",
         "2️⃣0️⃣7️⃣ 📶Hamarah",
+        "2️⃣0️⃣8️⃣ 📶Hamarah",
+        "2️⃣0️⃣9️⃣ 🛜Wifi",
         "2️⃣1️⃣0️⃣ 🎓khuisf"
       ]
     },
@@ -15967,6 +15969,8 @@
         "2️⃣0️⃣5️⃣ 📶Hamarah",
         "2️⃣0️⃣6️⃣ 🛜Wifi",
         "2️⃣0️⃣7️⃣ 📶Hamarah",
+        "2️⃣0️⃣8️⃣ 📶Hamarah",
+        "2️⃣0️⃣9️⃣ 🛜Wifi",
         "0️⃣0️⃣1️⃣ Ⓜ️ehran",
         "0️⃣0️⃣1️⃣ 〽️ehran",
         "0️⃣0️⃣1️⃣ ♏️ehran",
