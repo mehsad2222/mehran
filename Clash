@@ -4449,10 +4449,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "8315453b-14ec-a959-839b-732500000000",
+      "uuid": "5e2c876c-4dcd-1c41-a1f8-a1d100000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "tieh82v.mndh27f.workers.dev",
+      "servername": "khn2n0-vgovnt-iip6mk.eyhr9b37.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -4460,9 +4460,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/ugeu37v",
+        "path": "/pot9h47h",
         "headers": {
-          "Host": "tieh82v.mndh27f.workers.dev"
+          "Host": "khn2n0-vgovnt-iip6mk.eyhr9b37.workers.dev"
         }
       }
     },
@@ -4474,10 +4474,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "8315453b-14ec-a959-839b-732500000000",
+      "uuid": "5e2c876c-4dcd-1c41-a1f8-a1d100000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "tieh82v.mndh27f.workers.dev",
+      "servername": "khn2n0-vgovnt-iip6mk.eyhr9b37.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -4485,9 +4485,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/ugeu37v",
+        "path": "/pot9h47h",
         "headers": {
-          "Host": "tieh82v.mndh27f.workers.dev"
+          "Host": "khn2n0-vgovnt-iip6mk.eyhr9b37.workers.dev"
         }
       }
     },
@@ -4499,10 +4499,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "8315453b-14ec-a959-839b-732500000000",
+      "uuid": "5e2c876c-4dcd-1c41-a1f8-a1d100000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "tieh82v.mndh27f.workers.dev",
+      "servername": "khn2n0-vgovnt-iip6mk.eyhr9b37.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -4510,9 +4510,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/ugeu37v",
+        "path": "/pot9h47h",
         "headers": {
-          "Host": "tieh82v.mndh27f.workers.dev"
+          "Host": "khn2n0-vgovnt-iip6mk.eyhr9b37.workers.dev"
         }
       }
     },
