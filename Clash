@@ -15247,10 +15247,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "61b12f82-b2bc-42a5-86bf-601e0aba5e05",
+      "uuid": "9e59c6a9-34bd-27cd-8fae-f40c00000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "cozy-canyon-b718.ue8veh3.workers.dev",
+      "servername": "j94tr3-rcq600-zvuooi.yri83h9d.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -15258,9 +15258,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/?u=2-0-7",
+        "path": "/pishgaman",
         "headers": {
-          "Host": "cozy-canyon-b718.ue8veh3.workers.dev"
+          "Host": "j94tr3-rcq600-zvuooi.yri83h9d.workers.dev"
         }
       }
     },
@@ -15272,10 +15272,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "b5c31ba4-85fc-b7d6-3311-5a4a00000000",
+      "uuid": "3f294d23-e50f-f7f6-42e8-dc4c00000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "nahan-cjfi74u.rweqrq33wr.workers.dev",
+      "servername": "mzj7n2-ux8mvj-nr9urt.okepveu.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -15283,9 +15283,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/mehrankdkjdkh",
+        "path": "/sepahan",
         "headers": {
-          "Host": "nahan-cjfi74u.rweqrq33wr.workers.dev"
+          "Host": "mzj7n2-ux8mvj-nr9urt.okepveu.workers.dev"
         }
       }
     },
