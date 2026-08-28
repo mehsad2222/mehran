@@ -15297,10 +15297,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "b8b1be13-e522-fe24-6c0d-f57e00000000",
+      "uuid": "25a0c553-4365-7024-d947-69ea00000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "nahdjdibsog6.uei3gobsug.workers.dev",
+      "servername": "vpf7nw-88f46h-y4k0it.rtug7dg5.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -15308,9 +15308,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/pishgamanfinish",
+        "path": "/digikala",
         "headers": {
-          "Host": "nahdjdibsog6.uei3gobsug.workers.dev"
+          "Host": "vpf7nw-88f46h-y4k0it.rtug7dg5.workers.dev"
         }
       }
     },
