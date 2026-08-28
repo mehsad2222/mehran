@@ -4524,10 +4524,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "68004c2c-5a3e-decf-b1f2-541d00000000",
+      "uuid": "c9a2bc0d-7353-4d13-bef6-aee600000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "i96dobkfdgb.nnnbu658gg.workers.dev",
+      "servername": "kskbsk.jdive7v3.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -4535,9 +4535,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/pptpbf94h",
+        "path": "/jdivek",
         "headers": {
-          "Host": "i96dobkfdgb.nnnbu658gg.workers.dev"
+          "Host": "kskbsk.jdive7v3.workers.dev"
         }
       }
     },
@@ -4549,10 +4549,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "68004c2c-5a3e-decf-b1f2-541d00000000",
+      "uuid": "c9a2bc0d-7353-4d13-bef6-aee600000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "i96dobkfdgb.nnnbu658gg.workers.dev",
+      "servername": "kskbsk.jdive7v3.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -4560,9 +4560,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/pptpbf94h",
+        "path": "/jdivek",
         "headers": {
-          "Host": "i96dobkfdgb.nnnbu658gg.workers.dev"
+          "Host": "kskbsk.jdive7v3.workers.dev"
         }
       }
     },
@@ -4574,10 +4574,10 @@
       "ip-version": "ipv4",
       "tfo": false,
       "udp": false,
-      "uuid": "68004c2c-5a3e-decf-b1f2-541d00000000",
+      "uuid": "c9a2bc0d-7353-4d13-bef6-aee600000000",
       "packet-encoding": "",
       "tls": true,
-      "servername": "i96dobkfdgb.nnnbu658gg.workers.dev",
+      "servername": "kskbsk.jdive7v3.workers.dev",
       "client-fingerprint": "chrome",
       "skip-cert-verify": false,
       "alpn": [
@@ -4585,9 +4585,9 @@
       ],
       "network": "ws",
       "ws-opts": {
-        "path": "/pptpbf94h",
+        "path": "/jdivek",
         "headers": {
-          "Host": "i96dobkfdgb.nnnbu658gg.workers.dev"
+          "Host": "kskbsk.jdive7v3.workers.dev"
         }
       }
     },
