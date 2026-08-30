@@ -382,8 +382,8 @@ proxies:
       Host: ur8g37.tehrandu.workers.dev
 - name: 0️⃣0️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.135
-  port: 2053
+  server: 217.12.206.160
+  port: 81
   ip-version: ipv4
   tfo: false
   udp: false
