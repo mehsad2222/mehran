@@ -12282,7 +12282,9 @@ proxy-groups:
   type: url-test
   url: http://cp.cloudflare.com/
   interval: 60
-  tolerance: 20
+  tolerance: 50
+  hidden: false
+  lazy: false
   proxies:
   - 🚀 Best Ping Ⓜ️
   - 🚀 Best Ping 〽️
@@ -12291,7 +12293,9 @@ proxy-groups:
   type: url-test
   url: http://cp.cloudflare.com/
   interval: 60
-  tolerance: 20
+  tolerance: 50
+  hidden: true
+  lazy: true
   proxies:
   - 0️⃣0️⃣1️⃣ Ⓜ️ehran
   - 0️⃣0️⃣2️⃣ Ⓜ️ehran
@@ -12497,7 +12501,9 @@ proxy-groups:
   type: url-test
   url: http://cp.cloudflare.com/
   interval: 60
-  tolerance: 20
+  tolerance: 50
+  hidden: true
+  lazy: true
   proxies:
   - 0️⃣0️⃣1️⃣ 〽️ehran
   - 0️⃣0️⃣2️⃣ 〽️ehran
@@ -12703,7 +12709,9 @@ proxy-groups:
   type: url-test
   url: http://cp.cloudflare.com/
   interval: 60
-  tolerance: 20
+  tolerance: 50
+  hidden: true
+  lazy: true
   proxies:
   - 0️⃣0️⃣1️⃣ ♏️ehran
   - 0️⃣0️⃣2️⃣ ♏️ehran
