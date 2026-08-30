@@ -12280,7 +12280,6 @@ proxy-groups:
   - 🚀 Best Ping 〽️
   - 🚀 Best Ping ♏️
   - 🔧 Manual Select
-  - DIRECT
 - name: 🚀 Best Ping Ⓜ️
   type: url-test
   url: http://cp.cloudflare.com/
