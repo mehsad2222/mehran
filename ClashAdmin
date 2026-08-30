@@ -30,11 +30,11 @@ dns:
     - "https://8.8.8.8/dns-query#✅ Selector"
     - "https://1.1.1.1/dns-query#✅ Selector"
   proxy-server-nameserver:
-    - "8.8.8.8#DIRECT"
-    - "1.1.1.1#DIRECT"
+    - 223.5.5.5
+    - 119.29.29.29
   direct-nameserver:
-    - "8.8.8.8#DIRECT"
-    - "1.1.1.1#DIRECT"
+    - 223.5.5.5
+    - 119.29.29.29
   direct-nameserver-follow-policy: true
   nameserver-policy:
     "geosite:ir": "223.5.5.5"
