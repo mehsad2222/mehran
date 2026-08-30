@@ -12287,6 +12287,7 @@ proxy-groups:
   interval: 60
   tolerance: 20
   hidden: true
+  lazy: false
   proxies:
   - 0️⃣0️⃣1️⃣ Ⓜ️ehran
   - 0️⃣0️⃣2️⃣ Ⓜ️ehran
@@ -12494,6 +12495,7 @@ proxy-groups:
   interval: 60
   tolerance: 20
   hidden: true
+  lazy: false
   proxies:
   - 0️⃣0️⃣1️⃣ 〽️ehran
   - 0️⃣0️⃣2️⃣ 〽️ehran
@@ -12701,6 +12703,7 @@ proxy-groups:
   interval: 60
   tolerance: 20
   hidden: true
+  lazy: false
   proxies:
   - 0️⃣0️⃣1️⃣ ♏️ehran
   - 0️⃣0️⃣2️⃣ ♏️ehran
