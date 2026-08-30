@@ -41,8 +41,11 @@ dns:
   fake-ip-ttl: 3600
   fake-ip-filter-mode: blacklist
   fake-ip-filter:
-    - "+.lan"
-    - "+.local"
+    - +.lan
+    - +.local
+    - +.arpa
+    - +.home
+    - +.internal
 tun:
   enable: true
   stack: mixed
