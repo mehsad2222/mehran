@@ -562,8 +562,8 @@ proxies:
       Host: ryur5hg.kdihro2.workers.dev
 - name: 0️⃣0️⃣9️⃣ Ⓜ️ehran
   type: vless
-  server: 193.109.84.39
-  port: 443
+  server: 31.133.0.55
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
@@ -642,8 +642,8 @@ proxies:
       Host: nahanu3.mldjeig3.workers.dev
 - name: 0️⃣1️⃣0️⃣ 〽️ehran
   type: vless
-  server: 31.133.0.135
-  port: 2053
+  server: 70.34.244.250
+  port: 12531
   ip-version: ipv4
   tfo: false
   udp: false
@@ -762,8 +762,8 @@ proxies:
       Host: tu37ge.nodie7.workers.dev
 - name: 0️⃣1️⃣2️⃣ 〽️ehran
   type: vless
-  server: 103.160.204.34
-  port: 443
+  server: 70.34.244.250
+  port: 53062
   ip-version: ipv4
   tfo: false
   udp: false
