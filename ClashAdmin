@@ -20,11 +20,6 @@ external-ui-url: https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-p
 profile:
   store-selected: false
   store-fake-ip: true
-geox-url:
-  mmdb: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb"
-  asn: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/GeoLite2-ASN.mmdb"
-  geoip: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb"
-  geosite: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.metadb"
 dns:
   enable: true
   respect-rules: true
@@ -13532,9 +13527,8 @@ proxy-groups:
   - 2️⃣1️⃣0️⃣ 🎓khuisf
 rules:
   - GEOIP,lan,DIRECT,no-resolve
-  - GEOSITE,IR,DIRECT
   - GEOIP,IR,DIRECT
-  - NETWORK,udp,REJECT
+  - NETWORK,udp,REJECT  
   - MATCH,✅ Selector
 ntp:
   enable: true
