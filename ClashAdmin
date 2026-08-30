@@ -12,8 +12,7 @@ geo-auto-update: true
 geo-update-interval: 168
 external-controller: 127.0.0.1:9090
 external-controller-cors:
-  allow-origins:
-  - '*'
+  allow-origins: ['*']
   allow-private-network: true
 external-ui: ui
 external-ui-url: https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip
@@ -27,28 +26,26 @@ dns:
   listen: 127.0.0.1:1053
   ipv6: false
   nameserver:
-  - https://8.8.8.8/dns-query#✅ Selector
-  proxy-server-nameserver:
-  - 8.8.8.8#DIRECT
-  direct-nameserver:
-  - 8.8.8.8#DIRECT
+    - "https://dns.google/dns-query#✅ Selector"
+    - "https://cloudflare-dns.com/dns-query#✅ Selector"
+  proxy-server-nameserver: [223.5.5.5, 119.29.29.29]
+  direct-nameserver: [223.5.5.5, 119.29.29.29]
   direct-nameserver-follow-policy: true
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-ttl: 3600
   fake-ip-filter-mode: blacklist
-  fake-ip-filter:
-  - +.lan
-  - +.local
+  fake-ip-filter: ["+.lan", "+.local", "+.arpa", "+.home", "+.internal"]
+  nameserver-policy:
+    "geosite:ir": "223.5.5.5"
+    "geosite:category-ads-all": "null"
 tun:
   enable: true
   stack: mixed
   auto-route: true
   strict-route: true
   auto-detect-interface: true
-  dns-hijack:
-  - any:53
-  - tcp://any:53
+  dns-hijack: [any:53, tcp://any:53]
   mtu: 1500
 sniffer:
   enable: true
@@ -57,22 +54,9 @@ sniffer:
   override-destination: true
   sniff:
     HTTP:
-      ports:
-      - 80
-      - 8080
-      - 8880
-      - 2052
-      - 2082
-      - 2086
-      - 2095
+      ports: [80, 8080, 8880, 2052, 2082, 2086, 2095]
     TLS:
-      ports:
-      - 443
-      - 8443
-      - 2053
-      - 2083
-      - 2087
-      - 2096
+      ports: [443, 8443, 2053, 2083, 2087, 2096]
 proxies:
 - name: 0️⃣0️⃣1️⃣ Ⓜ️ehran
   type: vless
