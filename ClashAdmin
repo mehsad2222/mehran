@@ -262,7 +262,7 @@ proxies:
       Host: dyeyd7g.ccdge6.workers.dev
 - name: 0️⃣0️⃣4️⃣ Ⓜ️ehran
   type: vless
-  server: 193.109.84.39
+  server: 37.252.6.119
   port: 443
   ip-version: ipv4
   tfo: false
