@@ -36,6 +36,8 @@ dns:
     - "8.8.8.8#DIRECT"
     - "1.1.1.1#DIRECT"
   direct-nameserver-follow-policy: true
+  nameserver-policy:
+    "geosite:ir": "223.5.5.5"
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-ttl: 3600
