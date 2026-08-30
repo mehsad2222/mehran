@@ -13526,9 +13526,11 @@ proxy-groups:
   - 2️⃣0️⃣9️⃣ 🛜Wifi
   - 2️⃣1️⃣0️⃣ 🎓khuisf
 rules:
-- GEOIP,lan,DIRECT,no-resolve
-- NETWORK,udp,REJECT
-- MATCH,✅ Selector
+  - GEOIP,lan,DIRECT,no-resolve
+  - GEOSITE,IR,DIRECT
+  - GEOIP,IR,DIRECT
+  - NETWORK,udp,REJECT
+  - MATCH,✅ Selector
 ntp:
   enable: true
   server: time.cloudflare.com
