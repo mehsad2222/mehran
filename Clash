@@ -1282,8 +1282,8 @@ proxies:
       Host: irobdi38b.dsftyfu54g.workers.dev
 - name: 0️⃣2️⃣1️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.103
-  port: 2053
+  server: 94.131.123.74
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -1402,8 +1402,8 @@ proxies:
       Host: nahan-qvapav.iuytv765vh.workers.dev
 - name: 0️⃣2️⃣3️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.143
-  port: 2053
+  server: 94.131.123.74
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -1462,8 +1462,8 @@ proxies:
       Host: nahan-obn2tk.hdive8ej.workers.dev
 - name: 0️⃣2️⃣4️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.143
-  port: 2053
+  server: 94.131.123.74
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -1522,7 +1522,7 @@ proxies:
       Host: eeyirbdu38b.aei48hdu.workers.dev
 - name: 0️⃣2️⃣5️⃣ Ⓜ️ehran
   type: vless
-  server: 45.88.67.65
+  server: 94.131.123.74
   port: 443
   ip-version: ipv4
   tfo: false
@@ -1582,8 +1582,8 @@ proxies:
       Host: nahan-f4765x.idob38sh.workers.dev
 - name: 0️⃣2️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.150
-  port: 2053
+  server: 94.131.123.74
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -1642,8 +1642,8 @@ proxies:
       Host: zzhdje837bd.piprjdohs.workers.dev
 - name: 0️⃣2️⃣7️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.150
-  port: 2053
+  server: 94.131.123.74
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -1702,8 +1702,8 @@ proxies:
       Host: qeidboh48dj.cvfte646i.workers.dev
 - name: 0️⃣2️⃣8️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.150
-  port: 2053
+  server: 94.131.123.74
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -1762,8 +1762,8 @@ proxies:
       Host: nahan-ng5mvp.jfif8yog.workers.dev
 - name: 0️⃣2️⃣9️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.70
-  port: 2053
+  server: 94.131.123.74
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
