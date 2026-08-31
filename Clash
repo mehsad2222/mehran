@@ -18,7 +18,7 @@ external-controller-cors:
 external-ui: ui
 external-ui-url: https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip
 profile:
-  store-selected: false
+  store-selected: true
   store-fake-ip: true
 dns:
   enable: true
