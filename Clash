@@ -3507,19 +3507,19 @@ proxies:
   ip-version: ipv4
   tfo: false
   udp: false
-  uuid: aa1138f6-58a6-47c9-8133-56ab1ce48e23
+  uuid: c8477306-bb36-ff1f-92e7-241800000000
   packet-encoding: ''
   tls: true
-  servername: im4fuyhldtrdjahfp.yeuh37c.workers.dev
+  servername: trsz24-ccwb25-67w7f5.et75icig.workers.dev
   client-fingerprint: chrome
   skip-cert-verify: false
   alpn:
   - http/1.1
   network: ws
   ws-opts:
-    path: /vl/4bGlgiLSviUT2HUyxxDPPD53Mxyvx?ed=2560
+    path: /esteghlal
     headers:
-      Host: im4fuyhldtrdjahfp.yeuh37c.workers.dev
+      Host: trsz24-ccwb25-67w7f5.et75icig.workers.dev
 - name: 0️⃣5️⃣8️⃣ 〽️ehran
   type: vless
   server: 104.17.166.197
@@ -3527,19 +3527,19 @@ proxies:
   ip-version: ipv4
   tfo: false
   udp: false
-  uuid: aa1138f6-58a6-47c9-8133-56ab1ce48e23
+  uuid: c8477306-bb36-ff1f-92e7-241800000000
   packet-encoding: ''
   tls: true
-  servername: im4fuyhldtrdjahfp.yeuh37c.workers.dev
+  servername: trsz24-ccwb25-67w7f5.et75icig.workers.dev
   client-fingerprint: chrome
   skip-cert-verify: false
   alpn:
   - http/1.1
   network: ws
   ws-opts:
-    path: /vl/4bGlgiLSviUT2HUyxxDPPD53Mxyvx?ed=2560
+    path: /esteghlal
     headers:
-      Host: im4fuyhldtrdjahfp.yeuh37c.workers.dev
+      Host: trsz24-ccwb25-67w7f5.et75icig.workers.dev
 - name: 0️⃣5️⃣8️⃣ ♏️ehran
   type: vless
   server: 45.89.52.247
@@ -3547,19 +3547,19 @@ proxies:
   ip-version: ipv4
   tfo: false
   udp: false
-  uuid: aa1138f6-58a6-47c9-8133-56ab1ce48e23
+  uuid: c8477306-bb36-ff1f-92e7-241800000000
   packet-encoding: ''
   tls: true
-  servername: im4fuyhldtrdjahfp.yeuh37c.workers.dev
+  servername: trsz24-ccwb25-67w7f5.et75icig.workers.dev
   client-fingerprint: chrome
   skip-cert-verify: false
   alpn:
   - http/1.1
   network: ws
   ws-opts:
-    path: /vl/4bGlgiLSviUT2HUyxxDPPD53Mxyvx?ed=2560
+    path: /esteghlal
     headers:
-      Host: im4fuyhldtrdjahfp.yeuh37c.workers.dev
+      Host: trsz24-ccwb25-67w7f5.et75icig.workers.dev
 - name: 0️⃣5️⃣9️⃣ Ⓜ️ehran
   type: vless
   server: 31.133.0.150
