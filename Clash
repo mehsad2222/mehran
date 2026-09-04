@@ -142,8 +142,8 @@ proxies:
       Host: vpj7sdvqlah37kg02bp0k-khg.gge7g3.workers.dev
 - name: 0️⃣0️⃣2️⃣ Ⓜ️ehran
   type: vless
-  server: 82.97.249.34
-  port: 8443
+  server: 103.90.75.141
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
@@ -202,8 +202,8 @@ proxies:
       Host: vpbor2s6j-uakhfbz94.bbxter5.workers.dev
 - name: 0️⃣0️⃣3️⃣ Ⓜ️ehran
   type: vless
-  server: 82.97.249.34
-  port: 8443
+  server: 103.90.75.141
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
