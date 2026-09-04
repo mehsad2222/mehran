@@ -382,8 +382,8 @@ proxies:
       Host: ur8g37.tehrandu.workers.dev
 - name: 0️⃣0️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 217.12.206.160
-  port: 81
+  server: 103.90.75.141
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
@@ -442,8 +442,8 @@ proxies:
       Host: bdug37c.erwy36.workers.dev
 - name: 0️⃣0️⃣7️⃣ Ⓜ️ehran
   type: vless
-  server: 217.12.206.160
-  port: 81
+  server: 103.90.75.141
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
@@ -502,8 +502,8 @@ proxies:
       Host: cveu7e.ffduwu.workers.dev
 - name: 0️⃣0️⃣8️⃣ Ⓜ️ehran
   type: vless
-  server: 217.12.206.160
-  port: 81
+  server: 103.90.75.141
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
