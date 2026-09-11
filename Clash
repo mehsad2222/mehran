@@ -1521,8 +1521,8 @@ proxies:
       Host: eeyirbdu38b.aei48hdu.workers.dev
 - name: 0️⃣2️⃣5️⃣ Ⓜ️ehran
   type: vless
-  server: 94.131.123.74
-  port: 443
+  server: 79.124.7.236
+  port: 444
   ip-version: ipv4
   tfo: false
   udp: false
