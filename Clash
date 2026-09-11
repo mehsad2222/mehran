@@ -501,8 +501,8 @@ proxies:
       Host: cveu7e.ffduwu.workers.dev
 - name: 0️⃣0️⃣8️⃣ Ⓜ️ehran
   type: vless
-  server: 103.90.75.141
-  port: 2053
+  server: 31.172.72.83
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -561,7 +561,7 @@ proxies:
       Host: ryur5hg.kdihro2.workers.dev
 - name: 0️⃣0️⃣9️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.55
+  server: 185.233.80.60
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -621,7 +621,7 @@ proxies:
       Host: afduw7h.biuve7f.workers.dev
 - name: 0️⃣1️⃣0️⃣ Ⓜ️ehran
   type: vless
-  server: 185.234.66.91
+  server: 195.54.33.164
   port: 443
   ip-version: ipv4
   tfo: false
