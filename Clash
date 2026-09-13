@@ -1161,8 +1161,8 @@ proxies:
       Host: nahan-qwh406.idobe9hs.workers.dev
 - name: 0️⃣1️⃣9️⃣ Ⓜ️ehran
   type: vless
-  server: 80.211.249.68
-  port: 8443
+  server: 45.90.58.58
+  port: 81
   ip-version: ipv4
   tfo: false
   udp: false
