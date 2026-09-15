@@ -1401,8 +1401,8 @@ proxies:
       Host: nahan-qvapav.iuytv765vh.workers.dev
 - name: 0️⃣2️⃣3️⃣ Ⓜ️ehran
   type: vless
-  server: 185.82.218.224
-  port: 443
+  server: 79.124.7.236
+  port: 444
   ip-version: ipv4
   tfo: false
   udp: false
