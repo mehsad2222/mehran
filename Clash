@@ -2301,8 +2301,8 @@ proxies:
       Host: rrruchi38hx83.aadwr3fgg.workers.dev
 - name: 0️⃣3️⃣8️⃣ Ⓜ️ehran
   type: vless
-  server: 45.89.52.85
-  port: 443
+  server: 135.181.250.100
+  port: 8443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -2421,8 +2421,8 @@ proxies:
       Host: zzhxu38bxo37.irosn38hsoo.workers.dev
 - name: 0️⃣4️⃣0️⃣ Ⓜ️ehran
   type: vless
-  server: 45.89.52.85
-  port: 443
+  server: 185.39.30.67
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
