@@ -2781,8 +2781,8 @@ proxies:
       Host: rrtey37gsirg6dh.qqeyygdu.workers.dev
 - name: 0️⃣4️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.135
-  port: 2053
+  server: 2.56.221.72
+  port: 81
   ip-version: ipv4
   tfo: false
   udp: false
