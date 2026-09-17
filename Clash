@@ -3741,8 +3741,8 @@ proxies:
       Host: zxgtududre6.gj5ycufjb.workers.dev
 - name: 0️⃣6️⃣2️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.122
-  port: 2053
+  server: 147.45.76.69
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
