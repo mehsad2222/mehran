@@ -3621,8 +3621,8 @@ proxies:
       Host: khn2n0-vgovnt-iip6mk.eyhr9b37.workers.dev
 - name: 0️⃣6️⃣0️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.122
-  port: 2053
+  server: 77.221.143.39
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
