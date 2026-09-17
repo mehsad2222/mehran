@@ -3381,8 +3381,8 @@ proxies:
       Host: zcvbur6i6547.wreudsy.workers.dev
 - name: 0️⃣5️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.122
-  port: 2053
+  server: 77.221.136.148
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
