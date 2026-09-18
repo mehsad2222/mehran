@@ -1701,8 +1701,8 @@ proxies:
       Host: qeidboh48dj.cvfte646i.workers.dev
 - name: 0️⃣2️⃣8️⃣ Ⓜ️ehran
   type: vless
-  server: 94.131.123.74
-  port: 443
+  server: 195.135.252.148
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
@@ -1886,19 +1886,19 @@ proxies:
   ip-version: ipv4
   tfo: false
   udp: false
-  uuid: 65bda652-43aa-2631-386f-e22500000000
+  uuid: e4da9089-ae96-63f0-2d1b-3bd700000000
   packet-encoding: ''
   tls: true
-  servername: fhsi3v8bdie.ueig38hd.workers.dev
+  servername: satysu.uieh83h.workers.dev
   client-fingerprint: chrome
   skip-cert-verify: false
   alpn:
   - http/1.1
   network: ws
   ws-opts:
-    path: /wuow73obs
+    path: /kfivd
     headers:
-      Host: fhsi3v8bdie.ueig38hd.workers.dev
+      Host: satysu.uieh83h.workers.dev
 - name: 0️⃣3️⃣1️⃣ 〽️ehran
   type: vless
   server: 162.159.46.222
@@ -1906,19 +1906,19 @@ proxies:
   ip-version: ipv4
   tfo: false
   udp: false
-  uuid: 65bda652-43aa-2631-386f-e22500000000
+  uuid: e4da9089-ae96-63f0-2d1b-3bd700000000
   packet-encoding: ''
   tls: true
-  servername: fhsi3v8bdie.ueig38hd.workers.dev
+  servername: satysu.uieh83h.workers.dev
   client-fingerprint: chrome
   skip-cert-verify: false
   alpn:
   - http/1.1
   network: ws
   ws-opts:
-    path: /wuow73obs
+    path: /kfivd
     headers:
-      Host: fhsi3v8bdie.ueig38hd.workers.dev
+      Host: satysu.uieh83h.workers.dev
 - name: 0️⃣3️⃣1️⃣ ♏️ehran
   type: vless
   server: 18.184.27.249
@@ -1926,19 +1926,19 @@ proxies:
   ip-version: ipv4
   tfo: false
   udp: false
-  uuid: 65bda652-43aa-2631-386f-e22500000000
+  uuid: e4da9089-ae96-63f0-2d1b-3bd700000000
   packet-encoding: ''
   tls: true
-  servername: fhsi3v8bdie.ueig38hd.workers.dev
+  servername: satysu.uieh83h.workers.dev
   client-fingerprint: chrome
   skip-cert-verify: false
   alpn:
   - http/1.1
   network: ws
   ws-opts:
-    path: /wuow73obs
+    path: /kfivd
     headers:
-      Host: fhsi3v8bdie.ueig38hd.workers.dev
+      Host: satysu.uieh83h.workers.dev
 - name: 0️⃣3️⃣2️⃣ Ⓜ️ehran
   type: vless
   server: 91.149.202.142
@@ -13521,7 +13521,6 @@ proxy-groups:
   - 2️⃣0️⃣7️⃣ 📶Hamarah
   - 2️⃣0️⃣8️⃣ 📶Hamarah
   - 2️⃣0️⃣9️⃣ 🛜Wifi
-  - 2️⃣1️⃣0️⃣ 🎓khuisf
 rules:
 - GEOIP,lan,DIRECT,no-resolve
 - NETWORK,udp,REJECT
