@@ -2721,8 +2721,8 @@ proxies:
       Host: zccxgxge7t38d.linoji4451.workers.dev
 - name: 0️⃣4️⃣5️⃣ Ⓜ️ehran
   type: vless
-  server: 104.16.146.176
-  port: 8443
+  server: 195.123.212.222
+  port: 2053
   ip-version: ipv4
   tfo: false
   udp: false
