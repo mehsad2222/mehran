@@ -10399,7 +10399,7 @@ proxies:
       Host: mehranojfjbd73.jdivsksbkv.workers.dev
 - name: 1️⃣7️⃣3️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.70
+  server: 194.53.54.84
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -10459,7 +10459,7 @@ proxies:
       Host: mehranjoooon8eui.fgdudud5.workers.dev
 - name: 1️⃣7️⃣4️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.70
+  server: 46.8.238.49
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -10519,8 +10519,8 @@ proxies:
       Host: kohr8b3o.hdibxieu.workers.dev
 - name: 1️⃣7️⃣5️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.70
-  port: 2053
+  server: 65.109.190.54
+  port: 2021
   ip-version: ipv4
   tfo: false
   udp: false
@@ -10579,7 +10579,7 @@ proxies:
       Host: ofpbdkvsov38b.idvo38gs.workers.dev
 - name: 1️⃣7️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.70
+  server: 65.108.149.250
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -10639,8 +10639,8 @@ proxies:
       Host: pdjaphe83j.jdiveie9h.workers.dev
 - name: 1️⃣7️⃣7️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.70
-  port: 2053
+  server: 135.181.250.100
+  port: 8443
   ip-version: ipv4
   tfo: false
   udp: false
