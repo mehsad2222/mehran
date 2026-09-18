@@ -10279,7 +10279,7 @@ proxies:
       Host: mpbfove4-94hd.hjodivky6.workers.dev
 - name: 1️⃣7️⃣1️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.70
+  server: 185.39.30.67
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -10339,8 +10339,8 @@ proxies:
       Host: mehranifubdi.dj8ebibr73.workers.dev
 - name: 1️⃣7️⃣2️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.70
-  port: 2053
+  server: 185.104.181.228
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
