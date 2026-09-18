@@ -8781,8 +8781,8 @@ proxies:
       Host: nahan-79nmwn.wwwueidb.workers.dev
 - name: 1️⃣4️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.49
-  port: 2053
+  server: 77.91.69.141
+  port: 8443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -9201,7 +9201,7 @@ proxies:
       Host: jdobsi-0bdo29.hyduiivu.workers.dev
 - name: 1️⃣5️⃣3️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.135
+  server: 77.91.69.141
   port: 2053
   ip-version: ipv4
   tfo: false
