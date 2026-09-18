@@ -9261,8 +9261,8 @@ proxies:
       Host: jskhdieo-0je9h.hdohe8y.workers.dev
 - name: 1️⃣5️⃣4️⃣ Ⓜ️ehran
   type: vless
-  server: 212.111.89.16
-  port: 443
+  server: 62.32.194.15
+  port: 8443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -9321,8 +9321,8 @@ proxies:
       Host: gdueg-9veu.vduevywu.workers.dev
 - name: 1️⃣5️⃣5️⃣ Ⓜ️ehran
   type: vless
-  server: 46.17.102.93
-  port: 443
+  server: 221.125.10.8
+  port: 57537
   ip-version: ipv4
   tfo: false
   udp: false
