@@ -4821,7 +4821,7 @@ proxies:
       Host: jdihyh38ge8v.uieh38ho.workers.dev
 - name: 0️⃣8️⃣0️⃣ Ⓜ️ehran
   type: vless
-  server: 3.68.31.54
+  server: 185.94.164.160
   port: 443
   ip-version: ipv4
   tfo: false
