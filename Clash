@@ -9381,8 +9381,8 @@ proxies:
       Host: ndobwovwu-jsu27.jdiei28uwb.workers.dev
 - name: 1️⃣5️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.103
-  port: 2053
+  server: 144.22.204.102
+  port: 50317
   ip-version: ipv4
   tfo: false
   udp: false
@@ -9501,8 +9501,8 @@ proxies:
       Host: jkwobeib-jdiw8.jsibe838j.workers.dev
 - name: 1️⃣5️⃣8️⃣ Ⓜ️ehran
   type: vless
-  server: 54.37.235.201
-  port: 443
+  server: 146.235.59.153
+  port: 8443
   ip-version: ipv4
   tfo: false
   udp: false
