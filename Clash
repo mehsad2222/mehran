@@ -3021,8 +3021,8 @@ proxies:
       Host: vxjkw8be837.hr8g4obs.workers.dev
 - name: 0️⃣5️⃣0️⃣ Ⓜ️ehran
   type: vless
-  server: 185.243.112.197
-  port: 443
+  server: 195.123.212.222
+  port: 8443
   ip-version: ipv4
   tfo: false
   udp: false
