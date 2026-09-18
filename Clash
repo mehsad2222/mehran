@@ -11179,7 +11179,7 @@ proxies:
       Host: zcxbshwy3.jdobsks.workers.dev
 - name: 1️⃣8️⃣6️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.250
+  server: 31.133.0.124
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -11239,7 +11239,7 @@ proxies:
       Host: mehrandoie.cvcndue.workers.dev
 - name: 1️⃣8️⃣7️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.135
+  server: 31.133.0.124
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -11299,7 +11299,7 @@ proxies:
       Host: nnodbiv37.jdivdjslp98.workers.dev
 - name: 1️⃣8️⃣8️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.135
+  server: 31.133.0.124
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -11359,7 +11359,7 @@ proxies:
       Host: bbuvfoge83.sjieilppbs.workers.dev
 - name: 1️⃣8️⃣9️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.135
+  server: 31.133.0.124
   port: 2053
   ip-version: ipv4
   tfo: false
@@ -11419,8 +11419,8 @@ proxies:
       Host: gghgjiru7e3vx.jieowpml.workers.dev
 - name: 1️⃣9️⃣0️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.135
-  port: 2053
+  server: 156.154.245.83
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
@@ -11479,8 +11479,8 @@ proxies:
       Host: hioiffk6rcug.hhof86fig.workers.dev
 - name: 1️⃣9️⃣1️⃣ Ⓜ️ehran
   type: vless
-  server: 31.133.0.135
-  port: 2053
+  server: 156.154.245.83
+  port: 443
   ip-version: ipv4
   tfo: false
   udp: false
