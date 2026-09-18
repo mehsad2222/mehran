@@ -12019,7 +12019,7 @@ proxies:
       Host: orb9v377vs.ieigr838.workers.dev
 - name: 2️⃣0️⃣0️⃣ Ⓜ️ehran
   type: vless
-  server: chatgpt.com
+  server: www.chatgpt.com
   port: 443
   ip-version: ipv4
   tfo: false
